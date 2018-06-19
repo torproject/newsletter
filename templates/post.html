@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% from "macros/archive.html" import render_post %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  {{ render_post(this) }}
+{% endblock %}

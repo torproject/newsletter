@@ -1,0 +1,14 @@
+{
+    "archive": {
+	"path": "/archive",
+	"label": "Archive"
+    },
+    "about": {
+	"path": "https://www.torproject.org/",
+	"label": "About Tor"
+    },
+    "donate":{
+	"path": "https://donate.torproject.org/",
+	"label": "Donate"
+    }
+}

@@ -1,0 +1,211 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ '/static/style.css'|asseturl }}">
+<link rel="stylesheet" href="{{ '/static/fonts/open-iconic/font/css/open-iconic-bootstrap.css'|asseturl }}">
+
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
+<body>
+  <table bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+    <tbody>
+      <tr>
+	<td>
+	  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	    <tbody>
+	      <tr>
+		<td width="100%"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 11px; text-align:left; line-height: 26px; color: #ffffff;">{{ this.title }}</span></td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- End of main-banner-->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+    <tbody>
+      <tr>
+	<td width="100%">
+	  <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	    <tbody><!-- Spacing -->
+	      <tr>
+		<td height="20" width="100%">
+		  <table align="center" border="0" cellpadding="2" cellspacing="0" width="93%">
+		    <tbody>
+		      <tr>
+			<td rowspan="2" style="padding-top:10px; padding-bottom:10px;" width="38%">&nbsp;</td>
+			<td align="right">
+			  <h5 style="font-family: Source Sans Pro, Helvetica, Arial, sans-serif; color:#7d4698;"><a href="https://www.torproject.org" target="_blank"><img alt="tor news logo" src="https://extra.torproject.org/media/Newsletter/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></h5>
+			</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+		    <tbody>
+		      <tr>
+			<td width="100%">
+			  <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+			    <tbody><!-- /Spacing -->
+			      <tr>
+				
+			      </tr>
+			      <!-- Spacing -->
+			      <tr>
+				<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+			      </tr>
+			      <!-- /Spacing --><!-- content -->
+			      <tr>
+				<td style="padding:0 15px;">
+				  
+				</td>
+			      </tr>
+			      <!-- Spacing --><!-- end of content -->
+			    </tbody>
+			  </table>
+			</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- end of hero image and story --><!-- story 1 -->
+  {% block body %}
+    {{ this.html_body|safe }}
+  {% endblock %}
+  <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+    <tbody>
+      <tr>
+	<td>
+	  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	    <tbody>
+	      <tr>
+		<td width="100%">
+		  <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+		    <tbody><!-- Spacing -->
+		      <tr>
+			<td>
+			  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+			    <tbody>
+			      <tr>
+				<td width="100%">
+				  <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				    <tbody>
+				      <tr>
+					<td>
+					  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+					    <tbody><!-- /Spacing -->
+					      <tr>
+						<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Help Us Protect Your Privacy and Anonymity</td>
+					      </tr>
+					      <!-- Spacing -->
+					      <tr>
+						<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+					      </tr>
+					      <!-- /Spacing --><!-- content -->
+					      <tr>
+						<td style="padding:0 15px;">
+						  <div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+							      -webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="http://www.torproject.org/donate-email2" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">MAKE A DONATION</a></div>
+
+						  <p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.<br />
+						    &nbsp;</p>
+						</td>
+					      </tr>
+					      <!-- /button --><!-- white button --><!-- /button --><!-- Spacing --><!-- end of content -->
+					    </tbody>
+					  </table>
+					</td>
+				      </tr>
+				    </tbody>
+				  </table>
+				</td>
+			      </tr>
+			    </tbody>
+			  </table>
+			</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- /banner 1--><!-- banner 2 --><!-- /banner2 --><!-- footer -->
+
+  <table bgcolor="#d8d8d8" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="footer" width="100%">
+    <tbody>
+      <tr>
+	<td>
+	  <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	    <tbody>
+	      <tr>
+		<td width="100%">
+		  <table align="center" bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+		    <tbody><!-- Spacing -->
+		      <tr>
+			<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+		      </tr>
+		      <!-- Spacing -->
+		      <tr>
+			<td><!-- logo -->
+			  <table align="left" border="0" cellpadding="0" cellspacing="0" width="250">
+			    <tbody>
+			      <tr>
+				<td width="20">&nbsp;</td>
+				<td align="left" height="40" width="250"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 26px; padding-bottom:10px; color:#f1f1f2;"><a href="{action.subscribeUrl}" style="color: #f1f1f2;"></a>&nbsp;<a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-news" style="color: #f1f1f2;">Subscribe</a> </span></td>
+			      </tr>
+			      <tr>
+				<td width="40">&nbsp;</td>
+				<td align="left" height="40" width="400"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;"></span><br />
+				  <span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;"><a href="https://torproject.org"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; padding-bottom:10px; color: #f1f2f2;">torproject.org</span></a></span></td>
+			      </tr>
+			    </tbody>
+			  </table>
+			  <!-- end of logo --><!-- start of social icons -->
+
+			  <table align="right" border="0" cellpadding="0" cellspacing="0" height="40" vaalign="middle" width="60">
+			    <tbody>
+			      <tr>
+				<td align="left" height="22" width="22">
+				  <div class="imgpop"><a href="http://facebook.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/facebook.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+				</td>
+				<td align="left" style="font-size:1px; line-height:1px;" width="10">&nbsp;</td>
+				<td align="right" height="22" width="22">
+				  <div class="imgpop"><a href="http://twitter.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/twitter.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+				</td>
+				<td align="left" style="font-size:1px; line-height:1px;" width="20">&nbsp;</td>
+			      </tr>
+			    </tbody>
+			  </table>
+			  <!-- end of social icons --></td>
+		      </tr>
+		      <!-- Spacing -->
+		      <tr>
+			<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+		      </tr>
+		      <!-- Spacing -->
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+</body>

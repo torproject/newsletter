@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+{{ this.body }}
+<div class="row mx-auto">
+  <div class="col-10">
+    <p class="text-center">
+      Sign Up For Tor News
+    </p>
+    <p class="text-center">
+      Get updates and opportunities from across the organization and community
+    </p>
+  </div>
+</div>
+<div class="row mx-auto">
+  <div class="col-10 text-center">
+    <h2 class="newsletter-title">Your Info</h2>
+  </div>
+</div>
+<div class="row mx-auto">
+  <div class="col-10 text-center">
+    <p class="required-field">
+      * required fields
+    </p>
+  </div>
+</div>
+<div class="row mx-auto">
+  <div class="col-10">
+    <form action="https://donate.torproject.org/subscription-request" method="POST">
+      <div class="form-group row">
+	<div class="col">
+	  <input class="form-control form-control-lg" id="firstName" name="firstName" placeholder="First Name" value="" type="text">
+	</div>
+	<div class="col">
+	  <input class="form-control form-control-lg" id="lastName" name="lastName" placeholder="Last Name" value="" type="text">
+	</div>
+      </div>
+      <div class="form-group row">
+	<div class="col">
+	  <input class="form-control form-control-lg form-required" id="email" name="email" placeholder="* Email Address" value="" type="email">
+	</div>
+      </div>
+      <div class="row">
+	<div class="col">
+	  <p class="text-justify">
+	    The information you provide here will only be used to send you updates and opportunities from Tor. You can unsubscribe at any time. We will not publish, sell, trade, share, or rent any information about you.
+	  </p>
+	</div>
+      </div>
+      <div class="row">
+	<div class="col-4"></div>
+	<div class="col-4">
+	  <input class="donate btn btn-lg btn-success btn-block" value="Join" type="submit">
+	</div>
+	<div class="col-4"></div>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

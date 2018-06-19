@@ -1,0 +1,157 @@
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+body:
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+<tbody><!-- image -->
+<tr>
+<td align="center" class="devicewidthinner" width="100%">
+<div class="imgpop"><img alt="sandbox" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/sandbox.jpg?itok=j7vn3EWT" style="width: 650px; height: 365px;" /></div>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Tor Browser Now Protects Your Privacy with Sandboxing</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">This is huge&nbsp;- Tor Browser now protects your privacy with sandboxing.&nbsp;While we are still working on the&nbsp;sandboxing part for Windows, both Linux and macOS have had content sandboxing enabled by default <a href="https://blog.torproject.org/blog/tor-browser-70-released" target="_blank">since&nbsp;Tor Browser 7.0</a>.&nbsp;</p>
+
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">Sandboxing creates a separate environment within your computer, so it&#39;s harder for exploits to reveal your identity.&nbsp;The idea is that exploits targeting Tor Browser are trapped inside the sandbox and can&rsquo;t get out and mess with the rest of your computer or deanonymize you. To learn more,&nbsp;<a href="https://blog.torproject.org/blog/q-and-yawning-angel" target="_blank">check out this Q&amp;A with&nbsp;Yawning Angel</a>, a longtime Tor developer, about his work on a Linux prototype for a&nbsp;Tor Browser sandbox.</p>
+</td>
+</tr>
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">The Wilmington Watch: A Tor Hackfest&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">The&nbsp;Tor network team&nbsp;is a small team responsible for developing the core Tor daemon. They&#39;re located around the globe, so they&nbsp;periodically meet in person for team hackfests to keep our team fresh and up to date with all things Tor, and to fast-track features and improvements.&nbsp;</p>
+
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">They worked intensely for several days and nights in Wilmington, researching, planning, and cooking meals for each other.&nbsp;<a href="http://blog.torproject.org/blog/network-team-hackfest-wilmington-watch">Find out what they worked on</a>.</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Tor Descriptors &agrave; la carte: Tor Metrics Library 2</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p>We&#39;re often asked by researchers, users, and journalists for Tor network data. How can you find out how many people use the Tor network daily? How many relays make up the network? How many times has Tor Browser been downloaded in your language? In order to get to these answers from archived data, we have to continuously fetch, parse, and evaluate Tor descriptors.&nbsp;We do this with the&nbsp;Tor Metrics Library.</p>
+
+<p>The&nbsp;Tor Metrics Team&nbsp;has proudly announced&nbsp;major improvements and launched Tor Metrics Library version 2.0.0. <a href="https://blog.torproject.org/blog/tor-descriptors-la-carte-tor-metrics-library-2">Read more</a>.&nbsp;</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">We&#39;re Hiring a Browser Developer</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">As a browser developer, your job would be to work closely with other members of the Tor Browser development team on C++ patches to our Firefox-based browser, writing new APIs, altering functionality for privacy and security, and making improvements to our collection of Firefox add-ons (JavaScript code). <a href="https://www.torproject.org/about/jobs-browserdeveloper.html.en" target="_blank">Learn more</a>.</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Upcoming Events with Tor&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<ul>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://www.petsymposium.org/2017/program.php">The 17th Privacy Enhancing Technologies Symposium (PETS)</a>; July 18&ndash;21, 2017;&nbsp;Minneapolis, MN, USA. Several Tor topics and speakers.&nbsp;</li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://archives2017.sched.com">Archives 2017</a>; July 23-29, 2017; Portland, OR, USA. A panel with Alison Macrina will discuss privacy with the&nbsp;Society of American Archivists. Alison was recently featured on the <a href="https://theintercept.com/2017/06/21/intercepted-podcast-dispatch-from-the-dirtbag-left/">Intercepted</a> podcast with Jeremy Scahill.&nbsp;</li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://www.defcon.org">DEF&nbsp;CON</a>;&nbsp;July 27-30, 2017; Las Vegas, USA.&nbsp;Roger Dingledine will present our&nbsp;new and improved onion service design.</li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://sha2017.org">SHA2017</a>; August 4-8, 2017; Netherlands. Juha Nurmi on anonymity exposures, Kalyan Dikshit on Tor home security, Alexander F&aelig;r&oslash;y on Erlang implementation of Tor, and Sebastian on Tor configuration &amp; management.</li>
+</ul>
+</td>
+</tr>
+<!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /story 2--><!-- banner1 -->
+
+---
+pub_date: 2017-07-07
+---
+title: Sandboxing, Tor Metrics Library, Hackfest, Job Opening, Upcoming Events

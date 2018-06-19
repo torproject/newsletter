@@ -1,0 +1,31 @@
+{% macro render_post(post, from_index=false) %}
+  <div class="blog-post">
+  {% if from_index %}
+    <h2>{{ post.title }} <a href="{{ post|url }}">[HTML]</a></h2>
+  {% else %}
+    <h2>{{ post.title }}</h2>
+  {% endif %}
+  <p class="meta">
+    Published on {{ post.pub_date }}
+  </p>
+  {% for child in post.children %}
+    {{ child.body }}
+  {% endfor %}
+  </div>
+{% endmacro %}
+
+{% macro render_collapsed_post(post, from_index=false) %}
+  {% if from_index %}
+    <li class="toc-entry toc-h2 nav-item">
+      <a role="button" class="side-nav" href="{{ post|url }}/text">{{ post.title }}</a>
+    </li>
+  {% endif %}
+{% endmacro %}
+
+{% macro render_menu_post(post, from_index=false) %}
+  {% if from_index %}
+    <li class="toc-entry toc-h2 nav-item">
+      <a role="button" class="nav-link" href="{{ post|url }}/text">{{ post.title }}</a>
+    </li>
+  {% endif %}
+{% endmacro %}
