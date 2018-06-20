@@ -1,0 +1,157 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-02-28
+---
+title: ED Search, Relay Guide, Onions for Anti-Corruption, Internships, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%"><a href="newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing --><!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px 15px 15px;">
+<hr />
+<h1>We&#39;ve Launched a Search for Our Next Executive Director!</h1>
+
+<p>We are going to miss her, but Shari Steele, our current Executive Director, is set to give retirement a second try&nbsp;at the end of 2018.&nbsp;After 15 years as the Executive Director of the Electronic Frontier Foundation, Shari was brought on in December 2015 to make the Tor Project more operationally sound. <img alt="pic-shari" src="https://www.torproject.org/images/people/ssteele.png" style="margin: 10px; float: right; width: 128px; height: 150px;" /></p>
+
+<blockquote>
+<p>&ldquo;I had intended to retire after my time with EFF, but I believed strongly in the Tor Project&rsquo;s mission, and I felt I could help. I look at the Tor Project organization today and feel quite confident that we&rsquo;ve got the talent and the structure to continue to support the organization&rsquo;s great work.&rdquo;<br />
+- Shari Steele</p>
+</blockquote>
+
+<p>Around 35 engineers and operational support people plus many volunteers all over the world contribute to the Tor Project. Successful candidates for the Executive Director position will have a global perspective on privacy and censorship issues and be able to lead the diverse and distributed organization into its next phase of growth and sustainability.</p>
+
+<p>Potential candidates can learn more about the position at the&nbsp;<a href="https://www.torproject.org/about/jobs-execdirector.html.en">job page</a>.</p>
+
+<hr />
+<h1>Our New Guide Makes Running a Relay Easier Than Ever&nbsp;</h1>
+
+<p><a href="https://blog.torproject.org/new-guide-running-tor-relay"><img alt="tor-relay-network" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/running-tor-relays-guide.png?itok=sU8F2eIo" style="width: 560px; height: 280px;" /></a></p>
+
+<p>Have you considered running a relay, but didn&#39;t know where to start? Perhaps you&#39;re just looking for a way to help Tor, but you&#39;ve always thought that running a relay was too complicated or technical for you and the documentation seemed daunting.</p>
+
+<p>We&#39;re here to tell you that you can become one of the many thousands of relay operators powering the Tor network, if you have some basic command-line experience. <a href="https://blog.torproject.org/new-guide-running-tor-relay">Learn more and get started</a>.&nbsp;</p>
+
+<hr />
+<h1>Italian Anti-Corruption Agency (ANAC) Adopts Onion Services</h1>
+
+<p><a href="https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services"><img alt="whistle" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/green-whistle_0.jpg?itok=bTglRD7o" style="width: 560px; height: 280px;" /></a></p>
+
+<p>ANAC software is based on a customized version of&nbsp;<a href="https://blog.torproject.org/tor-heart-globaleaks">GlobaLeaks</a>, a whistleblowing platform by the Hermes Center that integrates Tor natively. GlobaLeaks is expected to be redistributed to all Italian public agencies (~20.000 in total) to comply with Law 179/2017 and in line with the country&rsquo;s recent strategic&nbsp;<a href="https://fosdem.org/2018/schedule/event/community_italy_most_hacker_friendly_country/">commitment to open-source software</a>&nbsp;and the reuse of code.</p>
+
+<p>Given that Tor is the world&rsquo;s strongest internet anonymity tool, we expect to see usage of onion services for secure communication systems across all sectors continue to gain traction. <a href="https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services">Read more</a> about laws governing whistleblowing and anti-corruption compliance and how Tor can help.</p>
+
+<hr />
+<h1 dir="ltr">Tor + Outreachy: Internships for Underrepresented People in Tech</h1>
+
+<p dir="ltr"><a href="https://blog.torproject.org/tor-outreachy-internships-underrepresented-people-tech"><img alt="pic-outreachy" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/outreachy-internship.png?itok=8dfDhNNZ" style="width: 560px; height: 234px;" /></a></p>
+
+<p>The Tor Project has partnered with the&nbsp;<a href="https://www.outreachy.org/">Outreachy</a>&nbsp;internship program, and we&rsquo;ve got two internship slots for members of groups traditionally underrepresented in technology.</p>
+
+<p>We&rsquo;re committed to inclusion in all facets of Tor development, and having a diverse range of backgrounds, viewpoints, and experience helps us foster a healthy development community. Outreachy encourages underrepresented groups to learn new skills, meet new people in their field, and contribute to critical open source tools.</p>
+
+<p>This round, we are looking for a User Advocate and a Documentation Editor.&nbsp;<a href="https://blog.torproject.org/tor-outreachy-internships-underrepresented-people-tech">Learn more</a> about how to get started. Applications are due March 22.</p>
+
+<hr />
+<h1>Tor Browser 8.0a2 is Released</h1>
+
+<p>The new release&nbsp;includes Tor 0.3.3.2-alpha, plus, we updated HTTPS Everywhere to 2018.1.29, NoScript to 5.1.8.4, and meek to 0.29. <a href="https://blog.torproject.org/tor-browser-80a2-released">See the full changelog</a>.&nbsp;</p>
+
+<hr />
+<h1>Upcoming Events with Tor</h1>
+
+<ul>
+<li>
+<p><a href="http://nullcon.net">nullcon</a> with Amogh&nbsp;<br />
+Goa, India<br />
+March 2, 2018</p>
+</li>
+<li>
+<p>Texas Library Association Conference with Alison<br />
+Dallas, TX<br />
+April 3, 2018</p>
+</li>
+</ul>
+
+<hr />
+<h2>Join Our Community</h2>
+
+<p>Getting involved with Tor is easy: you can help us make the network faster and more decentralized by&nbsp;<a href="https://www.torproject.org/docs/tor-doc-relay.html.en">running a relay</a>, especially if you live in a&nbsp;<a href="https://twitter.com/TorAtlas/status/955675358442983429">part of the world</a>&nbsp;where we don&rsquo;t have a lot of relays yet.&nbsp;If you want to make a contribution but don&rsquo;t have the time to volunteer,&nbsp;<a href="http://donate.torproject.org/">your donation</a>&nbsp;will help&nbsp;keep Tor fast, strong, and secure.</p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 15px;">
+<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+<hr />
+<p><a href="http://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Spacing -->

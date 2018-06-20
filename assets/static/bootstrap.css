@@ -6962,10 +6962,13 @@ footer .border {
   border: 0 !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important; }
 
+footer {
+  padding-top: 10em; }
+
 #wrapper {
   width: 100%;
-  position: absolute;
-  bottom: 0px; }
+  position: relative !important;
+  bottom: 0; }
 
 @media (max-width: 767px) {
   .display-4 {

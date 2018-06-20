@@ -1,0 +1,158 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2017-12-31
+---
+title: Volunteer Love, LatAm & NYC Meetups + Upcoming Event
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%"><a href="torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing --><!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px 15px 15px;">
+<hr />
+<h1>We &lt;3 Our Volunteers&nbsp;</h1>
+<a href="https://blog.torproject.org/volunteer-spotlight-damian-johnson"><img alt="damian-johnson" src="https://blog.torproject.org/sites/default/files/inline-images/damian-johnson-atagar.png" style="float: right; width: 150px; height: 150px; margin: 10px;" /></a>
+
+<p>Tor is a labor of love, built by a small group of committed individuals, but we&rsquo;re lucky to have the support of a dedicated volunteer base who help us make Tor the strongest anonymity tool out there.</p>
+
+<p dir="ltr">Damian Johnson, aka atagar, has been contributing to Tor since 2009, when he was&nbsp;<a href="https://blog.torproject.org/summer-conclusion-arm-project">developing</a>&nbsp;a real-time relay which started as a Google&rsquo;s Summer of Code application. Damian has since become central to Tor.</p>
+
+<p dir="ltr">In the past eight years, he has continued to develop arm (<a href="https://blog.torproject.org/meet-nyx-command-line-tor-relay-monitor">which just got a big overhaul, and is now called Nyx</a>) and&nbsp;<a href="https://stem.torproject.org/">Stem</a>, a Python controller library to use with Tor. He also graduated to running Google&rsquo;s Summer of Code for six years, runs&nbsp;<a href="https://gitweb.torproject.org/doctor.git">DocTor</a>, a tool which monitors relay consensus health, and helps us run Tor&rsquo;s many&nbsp;<a href="https://lists.torproject.org/cgi-bin/mailman/listinfo">mailing lists</a>, and helps onboard new core Tor members.</p>
+
+<p dir="ltr">We&rsquo;re grateful to Damian&rsquo;s commitment to internet freedom, and for rolling up his sleeves and helping to improve Tor. Thank you, Damian!</p>
+
+<p dir="ltr">We want to keep showing our volunteers some love, so if we don&#39;t reach out to you and you&#39;d like to be featured in a volunteer spotlight, let Steph or Tommy know.&nbsp;</p>
+
+<hr />
+<h1 dir="ltr">Explore Tor, NYC! A New Meetup Starting December 7&nbsp;</h1>
+
+<p>The Tor community is vast and deep yet remains a virtual entity outside periodic physical events.&nbsp;In NYC on December 7, we are going to start to change that with a new meetup happening every two months: <em>Explore Tor, NYC!&nbsp;</em>Our first topic of discussion will be <em>Running a Relay</em>.</p>
+
+<p>Current and future Tor relay operators will assemble on the 20th floor of 150 Broadway, in the LMHQ shared meeting space, at 6:45 PM. This face-to-face gathering is an opportunity to meet others who run Tor relays in NYC, and for those investigating the possibility of running a relay or a bridge.&nbsp;NYC apartments and offices are filled with high-bandwidth connections, and there is plenty to spare to help users around the world facing censorship and surveillance. <a href="https://blog.torproject.org/explore-tor-new-york-city-new-meetup-starting-dec-7">Learn more</a>&nbsp;about the meetup.</p>
+
+<p>We hope you&#39;ll consider&nbsp;<a href="https://www.torproject.org/docs/tor-doc-relay.html.en">running a relay</a>, especially if you live in a&nbsp;<a href="https://twitter.com/TorAtlas/status/930817764671016960">part of the world</a>&nbsp;where we don&rsquo;t have a lot of relays yet. We&#39;ll be releasing what we want to become a&nbsp;comprehensive guide to running a relay in the next few weeks and look forward to your questions and feedback.</p>
+
+<hr />
+<h1>The Intersection of Technology, Culture, and Politics in LatAm</h1>
+
+<p dir="ltr">Last weekend, a Tor meetup was&nbsp;held during the Primavera Hacker festival (hacker spring), a yearly free gathering organized in Santiago de Chile around the relationships between technology, politics, and culture in every aspect of contemporary life. It&#39;s necessary and urgent to open up the discussion on the use, design, and development of technology, how it is incorporated in daily life, and to encourage&nbsp;the development of alternative solutions that come from the communities themselves.&nbsp;</p>
+
+<p>The context in Latin America has many faces and shapes. Extreme capitalism, femicides, and wide spread corruption are just a few. Sadly, some of these issues are also replicated into the digital world.&nbsp;</p>
+
+<p>Tor offers a set of tools that can help people protect themselves and challenge some of these issues. The interception of communications, corporate surveillance, and digital threats are just around the corner. But there are yet many other communities to reach and contexts to be discovered, such as academic and technical groups.</p>
+
+<p>The Tor meetup in Santiago, along with other meetups held in the region, is a tiny step in the effort to fill this gap.&nbsp;<a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/global-south ">Join the Tor global south mailing list</a> to stay tuned about other meetups and activities.</p>
+
+<hr />
+<h2 dir="ltr">Tor is a vital tool for protecting privacy and resisting repressive censorship and surveillance around the world, and you can help us make it stronger.</h2>
+
+<p dir="ltr"><strong>Mozilla is generously matching every donation up to $500,000, so now&rsquo;s your chance to double your impact towards a more free and open internet for all.</strong></p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
+
+<hr />
+<h1>Upcoming Events with Tor</h1>
+
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: center; line-height: 18px; padding-bottom: 5px;"><a href="https://blog.torproject.org/explore-tor-new-york-city-new-meetup-starting-dec-7" target="_blank"><img alt="explore-tor-nyc-run-relay" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-nyc-meetup-dec7.jpg?itok=KokWaKVl" style="width: 560px; height: 560px;" /></a></p>
+
+<ul>
+<li>
+<p><a href="https://blog.torproject.org/explore-tor-new-york-city-new-meetup-starting-dec-7">[Explore Tor, NYC!] Running a Relay</a><br />
+December 7, 2017</p>
+</li>
+<li>
+<p><a href="https://blog.torproject.org/events/alison-does-library-freedom-project-training-free-library-philadelphia">Library Freedom Project training with Alison</a><br />
+Free Library of Philadelphia<br />
+December 8, 2017</p>
+</li>
+<li>
+<p><a href="https://blog.torproject.org/events/roger-does-two-tor-talks-israel">Cyber Challenges to International Human Rights</a><br />
+Jerusalem<br />
+December 11-12, 2017</p>
+</li>
+<li>
+<p><a href="https://blog.torproject.org/events/many-tor-people-leipzig-ccc">34C3</a><br />
+Leipzig, Germany<br />
+December 27-30, 2017</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0 15px;">
+<hr />
+<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+<hr />
+<p><a href="http://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+<p><a href="http://{action.unsubscribeUrl}">Unsubscribe</a> | <a href="http://{action.optOutUrl}">Opt-Out</a></p>
+
+<p>newsletter.torproject.org<br />
+<a href="https://torproject.org">torproject.org</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Spacing -->

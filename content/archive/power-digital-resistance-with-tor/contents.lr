@@ -6,7 +6,7 @@ author: steph@torproject.org
 ---
 pub_date: 2017-10-27
 ---
-title:Power Digital Resistance with Tor!
+title: Power Digital Resistance with Tor!
 ---
 html_body:
 
@@ -137,3 +137,66 @@ The Tor Project&nbsp;</span></font></font></p>
 </tbody>
 </table>
 <!-- /banner 1--><!-- banner 2 --><!-- /banner2 --><!-- footer -->
+<table bgcolor="#d8d8d8" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="footer" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td><!-- logo -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="250">
+<tbody>
+<tr>
+<td width="20">&nbsp;</td>
+<td align="left" height="40" width="250"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 26px; padding-bottom:10px;"><a href="{action.unsubscribeUrl}" style="color: #f1f2f2; ">Unsubscribe </a><a href="{action.subscribeUrl}" style="color: #f0f0f0;">|</a> <a href="{action.optOutUrl}" style="color: #f0f0f0;">Opt out</a></span></td>
+</tr>
+<tr>
+<td width="40">&nbsp;</td>
+<td align="left" height="40" width="400"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;">newsletter.torproject.org</span><br />
+<span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;"><a href="https://torproject.org"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; padding-bottom:10px; color: #f1f2f2;">torproject.org</span></a></span></td>
+</tr>
+</tbody>
+</table>
+<!-- end of logo -->
+<!-- start of social icons -->
+
+<table align="right" border="0" cellpadding="0" cellspacing="0" height="40" vaalign="middle" width="60">
+<tbody>
+<tr>
+<td align="left" height="22" width="22">
+<div class="imgpop"><a href="http://facebook.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/facebook.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+</td>
+<td align="left" style="font-size:1px; line-height:1px;" width="10">&nbsp;</td>
+<td align="right" height="22" width="22">
+<div class="imgpop"><a href="http://twitter.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/twitter.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+</td>
+<td align="left" style="font-size:1px; line-height:1px;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- end of social icons --></td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+</tr>
+<!-- Spacing -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
