@@ -4,8 +4,7 @@
     <title>Tor Newsletter Archive</title>
     <description>Get updates and opportunities from across the organization and community</description>
     <link>https://newsletter.torproject.org</link>
-    <atom:link href="https://newsletter.torprojec.org/rss/"
-     rel="self" type="application/rss+xml" />
+    <atom:link href="https://newsletter.torprojec.org/rss/index.xml" rel="self" type="application/rss+xml" />
     {% from "macros/archive.html" import render_rss_post %}
     {% block body %}
       {% for post  in site.query('/archive') %}

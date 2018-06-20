@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
-{% from "macros/archive.html" import render_post %}
+{% from "macros/archive.html" import render_text_post %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  {{ render_post(this) }}
+  {{ render_text_post(this) }}
 {% endblock %}

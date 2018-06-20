@@ -1,4 +1,12 @@
+_model: post
+---
+_template: post.html
+---
 author: steph@torproject.org
+---
+pub_date: 2017-07-07
+---
+title: Sandboxing, Tor Metrics Library, Hackfest, Job Opening, Upcoming Events
 ---
 body:
 
@@ -35,7 +43,3 @@ Upcoming Events with Tor
 Help Us Protect Your Privacy and Anonymity. Make a Donation: https://donate.torproject.org
 
 The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
----
-pub_date: 2017-07-07
----
-title: Sandboxing, Tor Metrics Library, Hackfest, Job Opening, Upcoming Events

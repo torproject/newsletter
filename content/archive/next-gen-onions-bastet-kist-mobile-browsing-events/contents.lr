@@ -1,0 +1,297 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2017-11-08
+---
+title: Next-Gen Onions, Bastet, KIST, Mobile Browsing, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%">
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="93%">
+<tbody>
+<tr>
+<td rowspan="2" style="padding-top:10px; padding-bottom:10px;" width="38%">&nbsp;</td>
+<td align="right">
+<h5 style="font-family: Source Sans Pro, Helvetica, Arial, sans-serif; color:#7d4698;"><a href="https://www.torproject.org" target="_blank"><img alt="tor news logo" src="https://extra.torproject.org/media/Newsletter/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></h5>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+<td style="font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 23px; color:#7d4698; text-align:left; line-height: 32px; padding:5px 15px; background-color:#f1f2f2;">We&#39;ve got a lot to tell you.&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p font-family:="" pro="" sans="" source="" style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;&gt;To our Friends of Internet Freedom: &lt;/p&gt;
+
+&lt;p style="><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 14px;">To keep you informed with updates and opportunities from across the organization, we&rsquo;re&nbsp;starting Tor News again and will&nbsp;send it around once a month to start.&nbsp;This format is a little different than what some of you originally signed up for, but we hope you&rsquo;ll stick around and hear what Tor is doing to protect internet freedom. We&#39;re now using CiviCRM to send Tor News, and as in the past, we&nbsp; will not publish, sell, trade, share, or rent any information about you. If you&rsquo;d rather unsubscribe, you can in the footer below. As always, we have team-specific <a href="https://lists.torproject.org/cgi-bin/mailman/listinfo">mailing lists you can join</a>.</span></font></p>
+
+<p style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 14px; color: #484848; text-align:left; line-height: 18px; padding-bottom:5px;"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 14px;">Here&rsquo;s what we&rsquo;ve been up to. &nbsp;&nbsp;</span></font><br />
+&nbsp;</p>
+</td>
+</tr>
+<!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- end of hero image and story --><!-- story 1 -->
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+<tbody><!-- image -->
+<tr>
+<td align="center" class="devicewidthinner" width="100%">
+<div class="imgpop"><a href="https://blog.torproject.org/tors-fall-harvest-next-generation-onion-services" target="_blank"><img alt="tor-onion" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-nextgen-onions.png?itok=EUW1MQrU" style="width: 650px; height: 325px;" /></a></div>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Our New Harvest: the Next Generation of Onion Services</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">We are hyped to present&nbsp;the&nbsp;<a href="https://trac.torproject.org/projects/tor/wiki/doc/NextGenOnions">next generation of onion services</a>! We&#39;ve been working on this project non-stop&nbsp;<a href="https://blog.torproject.org/mission-montreal-building-next-generation-onion-services">for the</a>&nbsp;<a href="https://trac.torproject.org/projects/tor/ticket/12424">past</a><a href="https://blog.torproject.org/hidden-services-need-some-love">&nbsp;4 years</a>&nbsp;and we officially launched it a couple weeks&nbsp;ago by&nbsp;<a href="https://blog.torproject.org/tor-0321-alpha-released-support-next-gen-onion-services-and-kist-scheduler">publishing our first alpha releases</a>.&nbsp;</p>
+
+<p>We are assuming you are familiar with traditional onion services: fun little sites that look like&nbsp;<a data-href="https://www.nytimes3xbfgragh.onion/" href="https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482" rel="noopener" target="_blank">nytimes3xbfgragh.onion</a>. Onion services have&nbsp;been around&nbsp;<a href="https://www.youtube.com/watch?v=wHmxCeLpveA">for over 10 years</a>&nbsp;and are&nbsp;used for all sorts of tasty things. News organizations use them for private information disclosure (see&nbsp;<a href="https://securedrop.theguardian.com/">SecureDrop</a>). Websites use them to defeat censorship and provide a secure gateway for their users (e.g.&nbsp;<a href="http://propub3r6espa33w.onion/">ProPublica</a>). The cryptocurrency ecosystem uses them to perform&nbsp;<a href="https://blog.torproject.org/tor-heart-cryptocurrencies">private transactions</a>&nbsp;and mining. People use them for their reachability and permanent onion address if they are behind NAT or dynamic IP.</p>
+
+<p><strong>We believe that being able to express yourself and publish content&nbsp;with privacy is&nbsp;as important as being able to browse the web privately, and hence we consider onion services a critical part of the internet.</strong></p>
+
+<p>So let&#39;s get a taste of the improvements these&nbsp;next generation onions provide us with:</p>
+
+<p>On the&nbsp;<b>cryptography side</b>, we are looking at cutting-edge crypto algorithms and improved authentication schemes. On the&nbsp;<b>protocol end</b>, we redesigned the directory system to defend against info leaks and reduce the overall attack surface.<a href="https://blog.torproject.org/tors-fall-harvest-next-generation-onion-services"> Read more</a>.</p>
+</td>
+</tr>
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Introducing Bastet: Our New Directory Authority&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p>How does the network choose the route that Tor traffic takes through the network? How does every Tor user get the same information on relays? How does Tor authenticate the connection to any given relay?</p>
+
+<p>The answer is through directory authorities &mdash; dedicated servers which tell Tor clients which relays make up the Tor network. Information about these directory authorities, located around the world and maintained by super trusted we-know-you-and-have-had-many-beers-with-you Tor volunteers, are hard-coded into Tor. Every hour, these volunteer-run directory authorities vote on and reach a consensus on the relays that make up the Tor network.</p>
+
+<p>We added a new directory authority last month, increasing the diversity and stability of the directory authority system. The latest authority, named &ldquo;Bastet&rdquo; after the ancient Egyptian goddess, is run by Tor contributor Stefani. <a href="https://blog.torproject.org/introducing-bastet-our-new-directory-authority">Continue reading</a>.&nbsp;</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Tor&#39;s Traffic Got KIST</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p>Starting with Tor 0.3.2.1-alpha, we&#39;ve had a new feature to address traffic congestion in the Tor network. The new algorithm &mdash;Kernel Informed Socket Transport (KIST)&mdash; prevents connections between Tor relays from becoming overwhelmed&nbsp;by changing how traffic is distributed throughout the Tor network.</p>
+
+<p>The previous design often meant too much data was being written to each Tor relay connection, which would overwhelm relays and lead to traffic delays. KIST, on the other hand, intelligently considers how to write data across all connections to other relays in a way that allows traffic to pass through the network more quickly. Clients can run KIST, but the benefits accrue when it&rsquo;s widely used by relays. Currently, KIST is only available on Linux-like systems because of how they handle TCP information, but a variant, KISTlite, runs on all systems. <a href="https://blog.torproject.org/kist-and-tell-tors-new-traffic-scheduling-feature">Learn more</a>.</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">We&#39;re Upping Our Support to Mobile Browsing&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p>Around a year ago, folks from the Tor Project and the&nbsp;<a href="https://guardianproject.info/">Guardian Project</a>&nbsp;met to discuss the future of Tor Browser on mobile devices. The discussion began with Orfox, a Google Summer of Code (GSoC) project for mobile browsing over the Tor network. Since then, we have been working towards Orfox having similar functionality and security guarantees as Tor Browser for desktop.&nbsp;<b>&nbsp;</b></p>
+
+<p>Our first improvement was to port the Security Slider from Tor Browser desktop to Orfox. To adapt this feature from a desktop application into a mobile application,&nbsp;<a href="https://trac.torproject.org/projects/tor/wiki/doc/UX/OrfoxSecuritySlider">we had to change how the UI works</a>&nbsp;for the mobile screen.&nbsp;<a href="https://blog.torproject.org/blog/upping-support-mobile-browsing">Learn more</a>&nbsp;about our plans for mobile.</p>
+</td>
+</tr>
+<!-- /Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Upcoming Events with Tor&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<ul>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://blog.torproject.org/events/vasilis-enucomp-parnaiba-brazil" hreflang="en">Vasilis at ENUCOMP, Parna&iacute;ba, Brazil</a>;&nbsp;<time datetime="2017-11-15T12:00:00Z">November 15-</time><time datetime="2017-11-17T12:00:00Z">17, 2017</time></li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://blog.torproject.org/events/alison-international-forum-freedom-research-paris-france" hreflang="en">Alison at the International Forum Freedom of Research;&nbsp;Paris, France</a>;&nbsp;<time datetime="2017-11-16T12:00:00Z">November 16-</time><time datetime="2017-11-18T12:00:00Z">18, 201</time></li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://blog.torproject.org/events/vasilis-v-international-symposium-lavits-2017-santiago-chile" hreflang="en">Vasilis at V INTERNATIONAL SYMPOSIUM LAVITS 2017, Santiago, Chile</a>;&nbsp;<time datetime="2017-11-29T12:00:00Z">November 29, 2017</time>&nbsp;-&nbsp;<time datetime="2017-12-01T12:00:00Z">December 01, 2017</time></li>
+<li style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;"><a href="https://blog.torproject.org/events/ilv-gus-vasilis-and-others-primavera-hacker-17-santiago-chile" hreflang="en">ilv, gus, vasilis and others at Primavera Hacker 17, Santiago, Chile</a>;&nbsp;<time datetime="2017-12-02T12:00:00Z">December 02-</time><time datetime="2017-12-03T12:00:00Z">03, 2017</time></li>
+</ul>
+</td>
+</tr>
+<!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /story 2--><!-- banner1 -->
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Take a Stand Against Tracking, Censorship, and Surveillance</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">There&#39;s never been a better time to donate to the Tor Project. Give today, and Mozilla will match your donation. We&#39;re standing up for privacy and powering digital resistance. <a href="http://www.torproject.org/donate-email2">Join us</a>.&nbsp;</p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="http://www.torproject.org/donate-email2" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
+
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.<br />
+&nbsp;</p>
+</td>
+</tr>
+<!-- /button --><!-- white button --><!-- /button --><!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /banner 1--><!-- banner 2 --><!-- /banner2 --><!-- footer -->

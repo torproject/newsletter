@@ -1,8 +1,72 @@
+_model: post
+---
 _template: newsletter.html
 ---
 author: steph@torproject.org
 ---
+pub_date: 2017-07-07
+---
+title: Sandboxing, Tor Metrics Library, Hackfest, Job Opening, Upcoming Events
+---
 html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%">
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="93%">
+<tbody>
+<tr>
+<td rowspan="2" style="padding-top:10px; padding-bottom:10px;" width="38%">&nbsp;</td>
+<td align="right">
+<h5 style="font-family: Source Sans Pro, Helvetica, Arial, sans-serif; color:#7d4698;"><a href="https://www.torproject.org" target="_blank"><img alt="tor news logo" src="https://extra.torproject.org/media/Newsletter/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></h5>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+
+</td>
+</tr>
+<!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- end of hero image and story --><!-- story 1 -->
 
 <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
 <tbody>
@@ -150,8 +214,66 @@ html_body:
 </tbody>
 </table>
 <!-- /story 2--><!-- banner1 -->
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">Help Us Protect Your Privacy and Anonymity</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="http://www.torproject.org/donate-email2" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">MAKE A DONATION</a></div>
 
----
-pub_date: 2017-07-07
----
-title: Sandboxing, Tor Metrics Library, Hackfest, Job Opening, Upcoming Events
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 14px; color: rgb(72, 72, 72); text-align: left; line-height: 18px; padding-bottom: 5px;">The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.<br />
+&nbsp;</p>
+</td>
+</tr>
+<!-- /button --><!-- white button --><!-- /button --><!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /banner 1--><!-- banner 2 --><!-- /banner2 --><!-- footer -->
