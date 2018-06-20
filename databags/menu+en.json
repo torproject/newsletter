@@ -10,5 +10,9 @@
     "donate":{
 	"path": "https://donate.torproject.org/",
 	"label": "Donate"
+    },
+    "RSS":{
+	"path": "/rss",
+	"label": "RSS"
     }
 }

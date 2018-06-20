@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tor Newsletter Archive</title>
+    <description>Get updates and opportunities from across the organization and community</description>
+    <link>https://newsletter.torproject.org</link>
+    <atom:link href="https://newsletter.torprojec.org/rss/"
+     rel="self" type="application/rss+xml" />
+    {% from "macros/archive.html" import render_rss_post %}
+    {% block body %}
+      {% for post  in site.query('/archive') %}
+        {{ render_rss_post(post, from_index=true) }}
+      {% endfor %}
+    {% endblock %}
+  </channel>
+</rss>
+

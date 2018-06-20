@@ -14,10 +14,21 @@
   </div>
 {% endmacro %}
 
+{% macro render_rss_post(post, from_index=false) %}
+  <item>
+  {% if from_index %}
+    <title>{{ post.title }}</title>
+    <link>{{ post|url }}</link>
+    <guid>{{ post|url }}</guid>
+  {% endif %}
+    <pubDate>{{ post.pub_date }}</pubDate>
+  </item>
+{% endmacro %}
+
 {% macro render_collapsed_post(post, from_index=false) %}
   {% if from_index %}
     <li class="toc-entry toc-h2 nav-item">
-      <a role="button" class="side-nav" href="{{ post|url }}/text">{{ post.title }}</a>
+      <a role="button" class="side-nav" href="{{ post|url }}text">{{ post.title }}</a>
     </li>
   {% endif %}
 {% endmacro %}
@@ -25,7 +36,7 @@
 {% macro render_menu_post(post, from_index=false) %}
   {% if from_index %}
     <li class="toc-entry toc-h2 nav-item">
-      <a role="button" class="nav-link" href="{{ post|url }}/text">{{ post.title }}</a>
+      <a role="button" class="nav-link" href="{{ post|url }}text">{{ post.title }}</a>
     </li>
   {% endif %}
 {% endmacro %}
