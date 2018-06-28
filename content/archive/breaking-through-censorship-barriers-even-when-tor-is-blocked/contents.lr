@@ -1,0 +1,186 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-06-28
+---
+title: Breaking Through Censorship Barriers, Even When Tor Is Blocked
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing --><!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px 15px 15px;">
+<hr />
+<h1><span class="quickedit-field" data-quickedit-field-id="node/1202/title/und/full" property="schema:name">Breaking Through Censorship Barriers Even When Tor Is Blocked</span></h1>
+
+<p><span class="quickedit-field" data-quickedit-field-id="node/1202/title/und/full" property="schema:name"><a href="https://blog.torproject.org/rompiendo-barreras-de-censura-incluso-cuando-tor-esta-bloqueado"><img alt="stop-sign-pare" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/ronaldo-oliveira-423252-unsplash_0.jpeg?itok=HKkGM1pq" style="width: 560px; height: 373px;" /></a></span></p>
+
+<p>Last week, <a href="https://news.vice.com/en_us/article/59qvwz/venezuela-maduro-tor-network-censorship">Venezuela blocked access to the Tor network</a>. Prior to the block, there were over 30,000 people in Venezuela enjoying the privacy and security protections Tor provides.</p>
+
+<p>Connecting to Tor is a luxury, but we have developed ways for people where Tor is blocked to continue to connect to the network. Using bridges and pluggable transports, people can break through censorship and continue to access the open web. For more information about using bridges, see:</p>
+
+<p>[<a href="https://blog.torproject.org/rompiendo-barreras-de-censura-incluso-cuando-tor-esta-bloqueado">Spanish</a>]</p>
+
+<p>[<a href="https://blog.torproject.org/breaking-through-censorship-barriers-even-when-tor-blocked">English</a>]</p>
+
+<p>If you have basic command line experience, you can help out people in countries with heavy censorship by <a href="https://www.torproject.org/docs/pluggable-transports#operator">becoming a bridge operator.</a></p>
+
+<hr />
+<h1>Don&#39;t Let Facebook or Other Trackers Follow You on The Web</h1>
+
+<p><a href="https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web"><img alt="fb-image" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/thought-catalog-609285-unsplash.jpeg?itok=IHGStRWh" style="width: 560px; height: 373px;" /></a></p>
+
+<p><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">In the early age of the internet, people enjoyed a high level of privacy. Webpages were just hypertext documents; almost no personalization of the user experience was offered (or </span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z comment  c-jMLQ2ANwlbH3SipS">forced</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">). The web today has evolved into a system of </span><a href="https://www.theguardian.com/technology/2018/apr/07/facebookgot-into-mess-cant-get-out-of-it-mark-zuckerberg-surveillance-capitalism"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">surveillance capitalism</span></a><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">, where advertising networks follow users while they browse the web, continuously collecting traces of personal data and surfing patterns to create profiles of users in order to target them.</span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Using the web today, you are a target. And because of the rampant tracking across websites, each time you use the internet, you become an easier target. </span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">By tracking you across different applications and sites through cookies or open web sessions, your personal preferences and social connections are collected and often sold. Even if you do not accept cookies or are not logged into a service account, such as your Google, Twitter, or Facebook accounts, the web page and third-party services can still try to profile you by using third-party HTTP requests or other techniques. </span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Within the HTTP request, various selectors can be included to communicate user preferences or particular features, in the form of URL variables. Personali</span><span class="author-a-ajz71zz75zvi60r7f3z79z6me">z</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">ed language or fonts settings, browser extensions, in-page keywords, battery charge and status, and more can be used to identify you by restricting the pool of possible candidates among all the visitors in a certain time frame, location, profile of interests. You can then be distinguished, or fingerprinted, across multiple devices or sessions and then the profile the tracker </span><span class="author-a-az69zz122zz70zcz89zcfdz66zz84zxvz66z7z66z">h</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">as on you is expanded.</span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">By the sites and applications themselves, the story is spun to sound as if they&rsquo;re doing you a favor: they say this collection allows them to customize your experience. You see ads more relevant to you, Facebook and others say. </span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Even if you think of an advertising network as a recommendation system, this same system is also influencing what you see. It&rsquo;s changing your experience of the internet. </span></p>
+
+<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">But at what cost is this customization? When confronted with transparency around what this &ldquo;customization&rdquo; takes, it </span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">&ldquo;<a href="https://theintercept.com/2018/05/09/facebook-ads-tracking-algorithm">poisons</a>&rdquo; the ad. So of course these companies are pushing back against transparency, but we need to keep pushing them and doing what we can to prevent them from continuing to exploit us online. </span></p>
+
+<p>Learn about <a href="https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web">how Tor Browser can help</a>.</p>
+
+<hr />
+<h1><span class="quickedit-field" data-quickedit-field-id="node/1556/title/en/full" property="schema:name">Privacy International Protects Partners With Its Onion Address</span></h1>
+
+<p><a href="https://blog.torproject.org/privacy-international-protects-partners-its-onion-address"><img alt="pi-tor" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/privacy-international-onion.jpg?itok=DclGfP1t" style="width: 560px; height: 280px;" /></a></p>
+
+<p><em>This guest post is written by <a href="https://privacyinternational.org/people/909/ed-geraghty">Ed Geraghty, Technologist, Privacy International</a>.</em></p>
+
+<blockquote>
+<p>No one shall be subjected to arbitrary interference with [their] privacy, family, home or correspondence, nor to attacks upon [their] honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.</p>
+
+<p>- United Nations Declaration of Human Rights (UDHR) 1948, Article 12</p>
+</blockquote>
+
+<p>The right to privacy is a qualified, fundamental human right. We at Privacy International (PI) work hard with our network of partners to ensure this fundamental right is protected - it is essential to autonomy, the protection of human dignity, and is the foundation upon which many other human rights are built.</p>
+
+<p>This is becoming ever-more important in an age of ubiquitous, indiscriminate mass surveillance, especially as more and more aspects of our daily lives - interactions with friends, family, companies, and the state - are dependent upon technology. In order for individuals to fully participate in the modern world, developments in law and technologies must strengthen and not undermine the ability to freely enjoy this right.We challenge governments&#39; powers by advocating and litigating for stronger protections. We lead research and investigations to shine a light on powers and capabilities, and to instigate and inform debate. We advocate for good practices and strong laws worldwide to protect people and their rights. We equip civil society organisations across the world to increase public awareness about privacy. We raise awareness about technologies and laws that place privacy at risk, to ensure that the public is informed and engaged.</p>
+
+<p>Tor is an important tool in our arsenal - a technology which allows people to communicate, use the internet, and browse the web in a manner which evades censorship.</p>
+
+<p>Many of our partners work in challenging environments, with massive state surveillance and/or ongoing censorship programmes. Giving them an ability to securely browse the web (both clear and onion) in a way which allows them to evade dragnet surveillance also allows them to conduct investigations securely.</p>
+
+<p><a href="https://blog.torproject.org/privacy-international-protects-partners-its-onion-address">Find out what else</a> running an onion address provides the Privacy International community.</p>
+
+<hr />
+<h1>New Releases</h1>
+
+<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1533/title/en/full" property="schema:name">Tor 0.3.3.7</span></h2>
+
+<p>This release backports several changes from the 0.3.4.x series, including fixes for bugs affecting compatibility and stability. (<a href="https://blog.torproject.org/tor-0337-released">Full changelog</a>).</p>
+
+<h2><span class="quickedit-field" data-quickedit-field-id="node/1528/title/en/full" property="schema:name">Tor Browser 7.5.6</span></h2>
+
+<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2018-17/">security updates</a> to Firefox, updates Firefox to 52.9.0esr, and includes newer versions of NoScript and HTTPS Everywhere. Moreover, we added the latest Tor stable version, <a href="https://blog.torproject.org/tor-0337-released">0.3.3.7</a>. (<a href="https://blog.torproject.org/tor-browser-756-released-">Full changelog</a>).</p>
+
+<hr />
+<h1>Upcoming Events with Tor</h1>
+
+<ul>
+<li>
+<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://petsymposium.org/2018/index.php">HOPE. </a>New York City, USA. July 20-22, 2018.</span></p>
+</li>
+<li>
+<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://petsymposium.org/2018/index.php">The 18th Privacy Enhancing Technologies Symposium (PETS)</a>. Barcelona, Spain. July 24-27, 2018. </span></p>
+</li>
+<li>
+<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://blog.torproject.org/meetup-tor-community-night-pets">Tor Community Night</a>. July 24, 2018. Barcelona, Spain. </span></p>
+</li>
+<li>
+<p class="title"><a href="https://blog.torproject.org/events/roger-and-steph-and-others-def-con-las-vegas">Def Con</a>. Las Vegas, USA. August 8-12, 2018.</p>
+</li>
+</ul>
+
+<hr />
+<h2>Join Our Community</h2>
+
+<p>Getting involved with Tor is easy. You can help us make the network faster and more decentralized by&nbsp;<a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">running a relay</a>.</p>
+
+<p>You can learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+<p>If you want to make a contribution but don&rsquo;t have the time to volunteer,&nbsp;<a href="http://donate.torproject.org/">your donation</a>&nbsp;will help&nbsp;keep Tor fast, strong, and secure.</p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 15px;">
+<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+<hr />
+<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+<p><br />
+<a href="https://torproject.org">torproject.org</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Spacing -->
