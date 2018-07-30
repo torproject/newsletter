@@ -1,0 +1,92 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2017-07-31
+---
+title: Research Tips & Topics, Egypt Censorship Report, HOPE Vid, Events
+---
+body:
+
+// The State of Internet Censorship in Egypt // 
+
+A groundbreaking report by OONI and AFTE uncovered anomalies on Egyptian networks including censorship and the hijacking of unencrypted HTTP connections for advertising and cryptocurrency mining. Even UN sites were redirected.
+
+Also, more than 100 news websites are blocked in Egypt, including Al Jazeera, The Huffington Post Arabic, Mada Masr, Almesryoon, Daily News Egypt, Turk Press and Iran’s Alalam News.
+
+“The blocking of media organizations’ websites has had a severe impact on their operations, and some have even suspended their work altogether as a result of persisting censorship,” said Mohammad El Taher, director of the AFTE research unit.
+
+While it’s been known that Egypt has undertaken widespread censorship of websites, this is the first time a comprehensive study of the methods of censorship have been undertaken. Find out how Egypt censors: https://blog.torproject.org/egypt-internet-censorship
+
+// How to Do Effective and Impactful Tor Research  // 
+
+As we mentioned in our previous post about Tor research topics, Tor greatly benefits from the research community. When researchers work closely with the design and development of deployed systems, this not only results in better research, but also better systems. For project maintainers, research that identifies vulnerabilities, creates new solutions to existing problems, and verifies proposed designs helps improve projects and make them safer for end users. TLS 1.3 is one recent example of where a symbiotic research/practitioner relationship has improved the protocol's design and safety.
+
+However it is all too common that good research ideas don't make their way into practice. Within Tor, we have found that integrating new research findings isn't seamless or predictable, and good ideas are often lost or deemed incompatible without significantly more analysis and research.
+
+The purpose of this post is to discuss what good research needs to do in order to ensure it has the best chance of being adopted by Tor or any other large software project.
+
+We have structured this post in terms of an ordered list of goals for research. Each successive goal is more difficult to accomplish than the previous one. At the end of this post, we will look at a positive example of excellent research that successfully accomplished all of these goals and give overall takeaways.
+
+Find out your list of goals, in order of increasing difficulty, when conducting relevant research: https://blog.torproject.org/how-do-effective-and-impactful-tor-research
+
+// Open Research Topics: 2018 Edition //
+
+Here we update the list of open Tor research problems, to bring focus to specific areas of research that the Tor Project thinks are necessary/useful in our efforts to upgrade and improve the Tor network and associated components and software. It is organized by topic area: network performance, network security, censorship circumvention, and application research. Each topic area provides information about current and desired work and ideas. We conclude with information about doing ethical and useful research on Tor and with suggestions on how to best ensure that this work is useful and easy for us to adopt. Check them out: https://blog.torproject.org/tors-open-research-topics-2018-edition
+
+// Watch The Onion Report from HOPE // 
+
+Find out all about what different teams at Tor have been up to by watching The Onion Report from HOPE. Filmed July 20th in NYC with Steph, Alison, George, David, and Matt: https://livestream.com/internetsociety/hope/videos/178158095
+
+// New Onion Services Add-On: Vanguards //
+
+Earlier this year, the Tor Project released its first stable Tor and Tor Browser releases with the new v3 onion service protocol. The protocol features many improvements, including longer and more secure onion addresses, service enumeration resistance, improved authentication, and upgraded cryptography.
+
+However, while this new protocol closes off some attacks (particularly enumeration and related targeted DoS attacks), it does not solve any attacks that could lead to service deanonymization.
+
+The core Vanguards functionality ensures that all onion service circuits are restricted to a set of second and third layer guards, which have randomized rotation times. 
+
+If you want to beef up the security of your onion service, this add-on is for you: https://blog.torproject.org/announcing-vanguards-add-onion-services
+
+// New Releases // 
+
+Tor 0.3.3.8
+This release backports several changes from the 0.3.4.x series, including fixes for a memory leak affecting directory authorities. Full changelog: https://blog.torproject.org/tor-0338-released
+
+Tor Browser 8.0a7
+This release features important security updates to Firefox and updates firefox to 52.8.0esr. In addition we fixed some issues with UI customization and YouTube videos play. Full changelog: https://blog.torproject.org/tor-browser-80a7-released
+
+Tor Browser 7.5.4
+This release updates Firefox to 52.8.0esr, HTTPS Everywhere to 2018.4.11, and NoScript to 5.1.8.5. In addition, we exempt .onion domains from mixed content warnings, fixed a fingerprinting issue and an issue with localized content.  Full changelog: https://blog.torproject.org/tor-browser-754-released
+
+// Upcoming Events with Tor // 
+
+- Explore Tor, NYC! Meetup and Q&A with Isabela Bagueros. Brooklyn, USA. August 2, 2018. https://blog.torproject.org/events/explore-tor-nyc-meetup-qa-isa
+
+- Def Con. Las Vegas, USA. August 9-12, 2018. https://blog.torproject.org/events/roger-and-steph-and-others-def-con-las-vegas
+
+-  IX Seminário de Proteção à Privacidade e aos Dados Pessoais. August 7-8, 2018. https://blog.torproject.org/events/ix-seminario-de-protecao-privacidade-e-aos-dados-pessoais
+
+- FOCI Workshop. Baltimore, USA. August 14, 2018. https://blog.torproject.org/events/foci-workshop-baltimore
+
+- USENIX. Baltimore, USA. August 15-17, 2018. https://blog.torproject.org/events/usenix-security-baltimore
+
+- RustConf. Portland, USA. August 17, 2018. https://blog.torproject.org/events/rustconf-portland
+
+// Join Our Community // 
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure: https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
