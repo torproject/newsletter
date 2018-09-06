@@ -1,7 +1,7 @@
 node_modules
 i18n
 configs
-
+venv
 .sass-cache
 .DS_Store
 
