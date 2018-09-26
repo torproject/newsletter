@@ -39,6 +39,21 @@
   </item>
 {% endmacro %}
 
+{% macro render_intro_post(post, from_index=false) %}
+  {% if from_index %}
+    <div class="col-12">
+      <div class="row">
+        <div class="col-2">
+          <p>{{ post.pub_date }}</p>
+        </div>
+        <div class="col-10">
+          <a role="button" class="side-nav" href="{{ post|url }}text"><h4><u>{{ post.title }}</u></h4></a>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endmacro %}
+
 {% macro render_collapsed_post(post, from_index=false) %}
   {% if from_index %}
     <li class="toc-entry toc-h2 nav-item">

@@ -1,0 +1,44 @@
+{% from "macros/archive.html" import render_intro_post %}
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ '/static/bootstrap.css'|asseturl }}">
+<link rel="stylesheet" href="{{ '/static/fonts/open-iconic/font/css/open-iconic-bootstrap.css'|asseturl }}">
+
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
+<body class="no-gutters" data-spy="scroll" data-target="#sidenav-topics" id="topics" data-children=".item">
+
+  <header>
+    {% include 'navbar.html' %}
+  </header>
+  <div class="page bg-light">
+    <div class="container-fluid">
+      <div class="row flex-xl-nowrap">
+        <main role="main" class="col-sm-12 col-xs-12 ml-sm-auto col-md-9 col-lg-9 mx-auto m-5">
+          {% block body %}{% endblock %}
+        </main>
+      </div>
+    </div>
+  </div>
+  <div class="page">
+    <div class="container-fluid">
+      <div class="row flex-xl-nowrap">
+        <div class="col-sm-12 col-xs-12 ml-sm-auto col-md-9 col-lg-9 mx-auto m-5">
+          <h2 class="text-primary">Archive</h2>
+          <div class="col-12">
+            <div class="row mt-4 mb-2">
+              {% for post in site.query('/archive') %}
+                {{ render_intro_post(post, from_index=true) }}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="wrapper">
+    <footer class="footer">
+      {% include 'footer.html' %}
+    </footer>
+  </div>
+</body>

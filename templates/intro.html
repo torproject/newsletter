@@ -1,36 +1,45 @@
-{% extends "layout.html" %}
+{% extends "home.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 {{ this.body }}
 <div class="row mb-1">
   <div class="col-12">
-    <h6>
-      Sign Up For Tor News
-    </h6>
-    <h2>
-      Get updates and opportunities from across the organization and community.
-    </h2>
+    <div class="row mt-4 mb-2">
+      <h6 class="text-dark">
+        Sign Up For Tor News
+      </h6>
+    </div>
+    <div class="row mt-4 mb-2">
+      <h1 class="display-4 text-primary">
+        Get updates and opportunities from across the organization and community.
+      </h1>
+    </div>
   </div>
 </div>
 <div class="row mb-1">
   <div class="col-12">
-    <p>
-      The information you provide here will only be used to send you updates
-      and opportunities from Tor. You can unsubscribe at any time. We will not
-      publish, sell, trade, share, or rent any information about you. Never.
-    </p>
+    <div class="row mt-4 mb-2">
+      <p>
+        The information you provide here will only be used to send you updates
+        and opportunities from Tor. You can unsubscribe at any time. We will not
+        publish, sell, trade, share, or rent any information about you. Never.
+      </p>
+    </div>
   </div>
 </div>
 <div class="row mb-1">
-  <form action="https://donate.torproject.org/subscription-request" method="POST">
-  <div class="col-8">
-    <input class="form-control form-control-lg form-required" id="email"
-      name="email" placeholder="* Email Address" value="" type="email" />
+  <div class="col-12">
+    <div class="row mt-4 mb-2">
+      <form action="https://donate.torproject.org/subscription-request" method="POST" class="form-wide">
+        <div class="form-group row">
+          <div class="col-sm-10">
+            <input class="form-control form-control-lg form-required" id="email"
+                name="email" placeholder="* Email Address" value="" type="email" />
+          </div>
+          <input class="donate btn btn-lg btn-success btn-block col-2" value="Join" type="submit" />
+        </div>
+      </form>
+    </div>
   </div>
-  <div class="col-4">
-    <input class="donate btn btn-lg btn-success btn-block" value="Join"
-      type="submit" />
-  </div>
-  </form>
 </div>
 {% endblock %}
