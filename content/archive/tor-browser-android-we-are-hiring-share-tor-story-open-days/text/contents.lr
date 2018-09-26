@@ -1,0 +1,86 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-09-27
+---
+title: Tor Browser for Android (alpha), We're Hiring, Share Your Tor Story, Open Days
+
+---
+body:
+
+// New Release: Tor Browser for Android (Alpha) // 
+
+Mobile browsing is on the rise around the world, and in some parts, it is commonly the only way people access the internet. In these same areas, there is often heavy surveillance and censorship online, so in the past year, we've focused on better supporting these users.
+
+There's never been an official Tor Browser on mobile. Until now.
+
+Introducing Tor Browser for Android (alpha), the mobile browser with the highest privacy protections ever available and on par with Tor Browser for desktop. You can download the alpha release on GooglePlay, or you can get the apk directly from our download page. The stable release is slated for early 2019.
+
+Note: For this release, you also need to install Orbot, a proxy application that will connect Tor Browser for Android with the Tor network. For the upcoming Tor Browser for Android stable release, our goal is for Orbot not to be necessary to connect to Tor.
+
+Learn about its features and try it out: https://blog.torproject.org/new-alpha-release-tor-browser-android
+
+// We're Hiring: Software Developer, Anti-Censorship Team //
+
+To strengthen our fight against censorship worldwide, we're forming a new Anti-Censorship Team. We need to hire a developer to help improve the user process of finding alternate routes to the Tor network when access is blocked.
+
+Extensive experience writing and evaluating code in Python and Go is required. Experience with Rust, internet security, and obfuscation technologies would be a big help.
+
+Learn more and apply: https://www.torproject.org/about/jobs-developer-anti-censorship.html.en
+
+// How Has Tor Helped You? We Need Your Stories //
+
+It's an understatement to say a lot has happened related to privacy and freedom online over the past seven years! Surveillance and crackdowns on free speech have increased around the world, and vast amounts of personal data have been collected and sold. Tools like Tor are needed more than ever to allow people to browse the web freely and privately.
+
+It's been seven years since we last asked, so we want to know: What do you use Tor for? Why do you need it? What has Tor done for you? What could have happened if you weren't able to use Tor? We need your stories!
+
+We know these examples exist, and we reference them in our talks around the world, but these stories are more powerful when they come as a quotable personal narrative from you. Read some example stories and tell us yours.
+
+https://blog.torproject.org/how-has-tor-helped-you-we-need-your-stories
+
+// Hack With Us in Mexico City //
+
+Tor folks from around the world are heading out now to convene in Mexico City for one of our biannual meetings. We'll discuss the future of Tor as an organization and decide what protocols and features to focus our efforts on.
+
+As part of this meeting, we're also having two open hack days everyone is welcome to join. The open days for the Mexico meeting will be Tuesday, October 2 and Wednesday, October 3 at the Sheraton Mar'eda Isabel.
+
+Find out more: https://blog.torproject.org/hack-us-mexico-city-hackea-con-tor-en-mexico
+
+// More New Releases //
+
+Tor Browser 8.5a2
+This alpha version contains the same bug fixes and improvements introduced in version 8.0.1. In addition we are updating Tor to 0.3.5.2-alpha, and are fixing some 8.0 issues. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a2
+
+Tor Browser 8.0.1
+Tor Browser 8.0.1 ships the first stable Tor in the 0.3.4 series which solves a crash bug on older macOS systems (10.9.x). Also, thx to Alex from Cliqz for finding an issue with Torbutton. Full changelog:
+https://blog.torproject.org/new-release-tor-browser-801
+
+Tor 0.3.4.8 (also other stable updates: 0.2.9.17, 0.3.2.12, and 0.3.3.10)
+This is the first stable release in its series; it includes compilation and portability fixes and improvements for running Tor in low-power and embedded environments, which should help performance in general. Full changelog: https://blog.torproject.org/new-release-tor-0348-also-other-stable-updates-02917-03212-and-03310
+
+// Upcoming Events with Tor //
+
+- Tor Meetup Ciudad de M'e9xico. Mexico City. September 27, 2018. https://blog.torproject.org/events/tor-meetup-ciudad-de-mexico
+
+- Tor's Open Hack Days. Mexico City. October 2-3, 2018. https://blog.torproject.org/events/tors-open-hack-days-mexico-city
+
+- Tormenta: di'e1logos feministas para las libertades y autocuidados. Mexico City. October 4, 2018. https://blog.torproject.org/events/tormenta-dialogos-feministas-para-las-libertades-y-autocuidados
+
+// Join Our Community //
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure: https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
