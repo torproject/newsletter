@@ -237,37 +237,126 @@ mark, .mark {
 /*
  * Sidebar
  */
-.sidebar {
-  position: fixed;
-  top: 51px;
-  bottom: 0;
-  left: 0;
+
+.sidetopics {
   z-index: 1000;
   padding: 20px 0;
-  overflow-x: hidden;
-  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
   border-right: 1px solid #eee;
 }
 
-.sidebar .nav {
+.sidetopics .nav {
   margin-bottom: 20px;
 }
 
-.sidebar .nav-item {
+.sidetopics .nav-item {
   width: 100%;
 }
 
-.sidebar .nav-item + .nav-item {
+.sidetopics .nav-item + .nav-item {
   margin-left: 0;
 }
 
-.sidebar .nav-link {
+.sidetopics .nav-link {
   border-radius: 0;
 }
 
 .toc-h4 {
   padding-left: 0.8em;
   font-size: 0.9em;
+}
+
+// Styleguide Nav Update
+
+// All levels of nav
+.bd-sidebar .nav > li > a {
+  font-size: 100%;
+  color: rgba(0, 0, 0, .85);
+}
+
+.bd-sidebar .nav > li > a:hover {
+  color: $purple !important;
+  text-decoration: none;
+}
+
+#bd-docs-nav{
+  padding-top: 2rem;
+}
+
+.dropdown{
+  display: block;
+}
+
+.dropdown-menu {
+    margin: 0;
+    display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    overflow-y: scroll;
+    max-height: 350px;
+}
+
+.dropdown .btn {
+    border-radius: 0;
+}
+
+.btn {text-transform: capitalize;}
+
+label {
+  cursor: pointer;
+}
+
+#menu-toggle {
+  display: none; /* hide the checkbox */
+}
+
+#nav-toggle {
+  display: none; /* hide the checkbox */
+}
+
+.side-toggler {
+  float:right !important;
+}
+
+#menu-toggle:checked + .burger-menu {
+  display: block;
+}
+
+#nav-toggle:checked + .hamburger-menu {
+  display: block;
+}
+
+.navbar-toggler:hover .chevron-up {
+    display: block !important;
+}
+
+.navbar-toggler:hover .chevron-down {
+    display: none;
+}
+
+a.side-nav.active {
+    color: $primary !important;
+}
+
+.smalltopics {
+    display: none;
+}
+
+.chevron {
+    height: 50px;
+    width: 50px;
+    margin: -10px -1px 1px -1px;
+}
+
+.chevron-up {
+    display: none !important;
+    top: 10px !important;
+}
+
+.chevron-down {
+    display: block;
+    top: 10px !important;
 }
 
 /*
