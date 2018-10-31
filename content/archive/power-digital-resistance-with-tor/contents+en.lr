@@ -1,0 +1,202 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2017-10-27
+---
+title: Power Digital Resistance with Tor!
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%"><img alt="tor-banner" src="https://blog.torproject.org/sites/default/files/inline-images/Tor-Email-Banner-2017.png" style="width: 650px; height: 81px;" /></td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+<td style="font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 23px; color:#7d4698; text-align:center; line-height: 32px; padding:5px 15px; background-color:#f1f2f2;">&ldquo;I think Tor is the most important privacy-enhancing technology project being used today.&rdquo; &mdash;Edward Snowden</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Friend,</span></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Thank you so much for being a member of the Tor community. As part of the Tor Project&rsquo;s end-of-year fundraising campaign, we&rsquo;re highlighting how Tor powers digital resistance and promotes and protects essential human rights around the world.&nbsp;</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><strong><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">And if you donate now, Mozilla will match your donation up to a total of $500,000!</span></font></strong></font></p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><font face="Source sans pro, Helvetica, arial, sans-serif"><a href="http://www.torproject.org/donate-email2" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">MAKE A DONATION</a></font></div>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">For the past decade, we&rsquo;ve been building and distributing software that saves lives. Activists and journalists use Tor to alert the world to human rights abuses, people in countries that censor the internet use Tor to access critical resources, and ordinary users use Tor to evade pervasive surveillance and tracking. Millions of people rely on Tor every day for a safer, more secure way to access the internet.</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">This vital work is made possible thanks, in no small part, to supporters like you.</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Corporate whistleblowers, health care workers, politicians, lawyers, and members of marginalized communities all depend on Tor to protect themselves. We&rsquo;ve got big plans for improving Tor in 2018, bringing its privacy protections to mobile devices and encouraging more third-party developers to integrate Tor&rsquo;s protection into their apps.</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Let&rsquo;s fight for free expression together. Donate today, get some cool swag, and have your gift matched by Mozilla&rsquo;s generous matching program.</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">We rely on the generous support of our donors, and you can help us make the world&rsquo;s strongest privacy tool even stronger by lending a hand. Whether you can give $5 or $500, you&rsquo;ll be helping promote basic human rights worldwide. Join the digital resistance and support the Tor Project today!</span></font></font></p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><font face="Source sans pro, Helvetica, arial, sans-serif"><a href="http://www.torproject.org/donate-email2" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">MAKE A DONATION</a></font></div>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Yours in privacy,<img alt="pic-tommy-collison" src="https://blog.torproject.org/sites/default/files/inline-images/tommy-tor.jpg" style="margin: 10px; float: right; width: 125px; height: 125px;" /><br />
+Tommy</span></font></font></p>
+
+<p><font face="Source sans pro, Helvetica, arial, sans-serif"><font face="Source sans pro, Helvetica, arial, sans-serif"><span style="font-size: 16px;">Tommy Collison<br />
+Writer/Editor<br />
+The Tor Project&nbsp;</span></font></font></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="650">
+<tbody><!-- /Spacing -->
+<tr>
+<td color:="#" style="color: #7d4698; font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px;  text-align:left; line-height: 26px; padding:0 15px; background-color:#f1f2f2;">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px;">
+<p style="font-family: &quot;Source sans pro&quot;, Helvetica, arial, sans-serif; font-size: 11px; color: rgb(72, 72, 72); text-align: left; line-height: 14px; padding-bottom: 5px;">The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+</td>
+</tr>
+<!-- /button --><!-- white button --><!-- /button --><!-- Spacing --><!-- end of content -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /banner 1--><!-- banner 2 --><!-- /banner2 --><!-- footer -->
+<table bgcolor="#d8d8d8" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="footer" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td><!-- logo -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="250">
+<tbody>
+<tr>
+<td width="20">&nbsp;</td>
+<td align="left" height="40" width="250"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 26px; padding-bottom:10px;"><a href="{action.unsubscribeUrl}" style="color: #f1f2f2; ">Unsubscribe </a><a href="{action.subscribeUrl}" style="color: #f0f0f0;">|</a> <a href="{action.optOutUrl}" style="color: #f0f0f0;">Opt out</a></span></td>
+</tr>
+<tr>
+<td width="40">&nbsp;</td>
+<td align="left" height="40" width="400"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;">newsletter.torproject.org</span><br />
+<span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; color: #f1f2f2;"><a href="https://torproject.org"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 13px; text-align:left; line-height: 18px; padding-bottom:10px; color: #f1f2f2;">torproject.org</span></a></span></td>
+</tr>
+</tbody>
+</table>
+<!-- end of logo -->
+<!-- start of social icons -->
+
+<table align="right" border="0" cellpadding="0" cellspacing="0" height="40" vaalign="middle" width="60">
+<tbody>
+<tr>
+<td align="left" height="22" width="22">
+<div class="imgpop"><a href="http://facebook.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/facebook.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+</td>
+<td align="left" style="font-size:1px; line-height:1px;" width="10">&nbsp;</td>
+<td align="right" height="22" width="22">
+<div class="imgpop"><a href="http://twitter.com/torproject" target="_blank"><img alt="" border="0" height="22" src="https://civicrm.org/sites/default/files/civicrm/custom/images/twitter.png" style="display:block; border:none; outline:none; text-decoration:none;" width="22" /> </a></div>
+</td>
+<td align="left" style="font-size:1px; line-height:1px;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- end of social icons --></td>
+</tr>
+<!-- Spacing -->
+<tr>
+<td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+</tr>
+<!-- Spacing -->
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

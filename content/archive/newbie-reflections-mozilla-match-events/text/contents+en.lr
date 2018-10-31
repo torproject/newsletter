@@ -1,0 +1,84 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-10-31
+---
+title: Newbie Reflections, Mozilla's Match, Events
+---
+body:
+
+// Reflections From a Tor Meeting Newbie // 
+
+When I joined the Tor Project in July as Fundraising Director, I quickly learned that most questions I had about Tor'97what it does, its history, what makes up the greater ecosystem, even detailed notes from all past meetings'97can be found online. The beauty of a free and open source culture became apparent to me immediately. I learned this month at my first meeting in Mexico City that there is one aspect of Tor that cannot be encapsulated in documentation'97the people.
+
+I heard many voices at the meeting reflect on how the Tor Project has grown and changed in positive ways over the past few years. Without a doubt, this is a testament to the quality of the people working on Tor and the values we share. These values'97knowledge, engagement, inclusivity, collaboration, and fluidity'97were apparent throughout my five days in Mexico.
+
+The people of Tor'97staff, volunteers, friends, and community partners'97are not only knowledgeable about privacy and security, they are citizens of the world and are eager to talk about philosophy, politics, and the ways in which people interact with systems and power. Without exception, the attendees of every session I went to were attentive and engaged.
+
+The people of Tor are intentional about making everyone feel welcome and valued. From adherence to preferred pronouns to making sessions accessible to non-English speakers, these efforts to enhance accessibility could be seen and felt everywhere. Each session began with a reminder to make space for all types of people to speak and be heard. Although I was meeting most of the attendees for the first time, I was welcomed with open arms and never once felt excluded.
+
+This meeting was inspirational in its engagement of local attendees on the public days. Many sessions were led in English and Spanish, including the State of the Onion address. Members of Tor teams, including myself, talked about what they'92d been up to and what was on the horizon, and we took questions from the group. The questions were intimate and thoughtful, and this opening session set an inclusive and collaborative tone for the public days.
+
+I have never witnessed collaboration be so effective and efficient. People who have been working on Tor since the very beginning shared a space at the table with community members and people who were just hired. Roadmaps were created and new ideas were hatched.
+
+Everyone I met was genuinely happy to be there. Old friends and new laughed, shared stories, and during the midweek party, we toasted mezcal and compared dance moves. People also connected through games of Mario Kart and Magic the Gathering.
+
+All of these values coalesce around the ultimate goal of Tor'97making the world a better place. Essential human rights cannot be achieved without private and safe access to the internet. The work we do at Tor saves lives. Meeting our Tor community in Mexico City energized me and made me proud of the small part I play in this essential work.
+
+// Mozilla Is Matching All Donations to Tor // 
+
+We have a bold mission: to take a stand against invasive and restrictive online practices and bring privacy and freedom to internet users around the world. But we can'92t do it alone.
+
+Your support, along with the support of many others, can ensure the Tor Project'92s success into the future. Mozilla has already joined us in our fight and will be matching all donations until the end of the year.
+
+This year, with your support, we can:
+
+- Increase the capacity, modularization, and scalability of the Tor network, making improvements and integrations into other privacy and circumvention tools easier and more reliable;
+
+- Better test for, measure, and design solutions around internet censorship, allowing people around the world living under repressive governments to access the open web safely and privately; and
+
+- Strengthen our development of Tor Browser for Android, now in alpha, and make sure it'92s in tip top shape to reach the rising number of people around the world who only access the internet from a mobile device that may have low bandwidth and a costly connection.
+
+As part of our year end fundraising campaign, Mozilla will be matching every dollar donated to Tor, so your impact will be doubled.
+
+Donate: https://torproject.org/donate/donate-sin-tn1
+
+Make a donation today, and you can be counted as one of the stakeholders bringing safe and private internet access to people worldwide.
+
+// New Releases // 
+
+Tor Browser 8.0.3
+Tor Browser 8.0.3 includes newer NoScript and HTTPS Everywhere versions. Moreover, it ships with a donation banner for our end of the year campaign and includes another round of smaller fixes for Tor Browser 8 issues on Linux systems. We also switched to a newer API for our NoScript <-> Torbutton communication, which we need for the Security Slider. Full changelog: https://blog.torproject.org/new-release-tor-browser-803
+
+Tor Browser 8.5a4
+Highlights in Tor Browser 8.5a4 are a new Tor alpha version, 0.3.5.3-alpha, a fixed layout of our macOS installer window and Stylo (Mozilla's new CSS engine) being enabled on macOS after fixing a reproducibility issues.  Full changelog: 
+https://blog.torproject.org/new-release-tor-browser-85a4
+
+Tor 0.3.5.3-alpha
+Tor 0.3.5.3-alpha fixes several bugs, mostly from previous 0.3.5.x versions. One important fix for relays addresses a problem with rate- limiting code from back in 0.3.4.x: If the fix works out, we'll be backporting it soon.Full changelog: https://blog.torproject.org/new-release-tor-0353-alpha
+
+// Upcoming Events with Tor // 
+
+- Internet Freedom Hack. Brisbane. November 9-11, 2018. https://blog.torproject.org/events/internet-freedom-hack-brisbane
+
+- Anonymous Browsing with Tor. Toronto Public Library. November 14, 2018. https://blog.torproject.org/events/anonymous-browsing-tor-toronto-public-library
+
+- GNU Health CON. Los Palmas, Spain. November 23-25, 2018. https://blog.torproject.org/events/gnu-health-con-los-palmas-spain
+
+// Join Our Community // 
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure: https://torproject.org/donate/donate-sin-tn1
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject

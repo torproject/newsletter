@@ -1,4 +1,4 @@
-_discoverable: yes
+_model: archive
 ---
 _template: archive.html
 ---

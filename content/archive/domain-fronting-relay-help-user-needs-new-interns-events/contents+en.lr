@@ -1,0 +1,172 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-05-31
+---
+title: Domain Fronting, Relay Help, User Needs, New Interns, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+</tr>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- /Spacing --><!-- Spacing -->
+<tr>
+<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+</tr>
+<!-- /Spacing --><!-- content -->
+<tr>
+<td style="padding:0 15px 15px 15px;">
+<hr />
+<h1>Domain Fronting Is Critical to the Open Web</h1>
+
+<p><a href="https://blog.torproject.org/domain-fronting-critical-open-web"><img alt="pic-red-light" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/hermes-rivera-253620-unsplash.jpg?itok=jOr1fEqr" style="width: 560px; height: 348px;" /></a></p>
+
+<p>Last month, Amazon and Google have both announced they&rsquo;re pulling the plug on domain fronting, a crucial tool which helps our most vulnerable users get access to Tor when their countries don&rsquo;t allow it. Users of <a href="https://signal.org/blog/looking-back-on-the-front/">Signal</a> and <a href="https://www.bloomberg.com/view/articles/2018-05-03/telegram-block-gets-help-from-google-and-amazon">Telegram</a> are also affected by this block, and <a href="https://www.accessnow.org/google-ends-domain-fronting-a-crucial-way-for-tools-to-evade-censors/">Access Now identified</a> approximately a dozen &ldquo;human rights-enabling technologies&rdquo; which had relied on Google for this purpose.</p>
+
+<p><a href="https://www.torproject.org/download">Tor Browser</a> protects against tracking, surveillance, and censorship, but not everyone around the world has the luxury to connect to use it. By default, Tor Browser makes all of its users look alike. However, it doesn&#39;t hide the fact you&#39;re connecting to Tor, an open network where anyone can get the list of relays. This network transparency has many benefits, but also has a downside: repressive governments and authorities can simply get the list of Tor relays and block them. We strongly oppose this censorship and believe everyone should have access to information on the open web. That&rsquo;s why we developed pluggable transports to bypass censorship and connect to the Tor network. <a href="https://www.youtube.com/watch?v=DkEqWGF3cvg">Watch this video to learn more about pluggable transports</a>.</p>
+
+<p>Domain fronting is a type of pluggable transport where Tor traffic appears to be talking to a third party that is hard to block, like Amazon or Google, when it is really talking to a Tor relay. An example of this is Tor&rsquo;s &ldquo;meek&rdquo; pluggable transport, which is described <a href="https://trac.torproject.org/projects/tor/wiki/doc/meek">here</a>.</p>
+
+<p>Google and Amazon have both shut down domain fronting, making meek no longer usable over those CDNs. As of this writing, Microsoft&rsquo;s Azure cloud still seems to be working with meek.</p>
+
+<p>For the time being, we are shifting to Microsoft&rsquo;s Azure cloud. But we&rsquo;ve heard that option will soon be shut down, as well.</p>
+
+<p>Unfortunately, it doesn&rsquo;t look like there is a fast fix. We were not given advance notice of these changes, so we are thinking hard on potential solutions to ensure our friends living in repressive regimes around the world can continue to access the open web.</p>
+
+<hr />
+<h1>Get Help Running Your Relay From Our New Advocate</h1>
+
+<p><a href="https://blog.torproject.org/get-help-running-your-relay-our-new-advocate"><img alt="pic-onion-roots" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-onion-roots-purple.jpg?itok=NKaXgmBc" style="width: 560px; height: 280px;" /></a></p>
+
+<p><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z">Thousands of </span><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z">relays</span><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z"> make up the roots of the Tor network, and the volunteers who run them are indispensable, donating their time, infrastructure, and technical know-how to help millions of </span><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z">people</span><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z"> around the world</span><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z">, including activists and journalists,</span><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z"> communicate </span><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z">privately and </span><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z">securely. </span></p>
+
+<p><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z">Over the years, the Tor team saw there was a need for greater support of the relay operator community and heard concerns about how to better meet their needs. We now have a Relay Advocate whose</span><span class="author-a-uz77zwz73zz81zz85zrcz67zgz83zc091q"> job will be improving the health </span><span class="author-a-z87zz78zz70zxoz90zg7z71z8rz122zz90ztz82zz81z">and</span><span class="author-a-uz77zwz73zz81zz85zrcz67zgz83zc091q"> happiness of the relay operator community, expanding the community, and helping improve</span><span class="author-a-6fz80zz78zmoz77zfz66zhlz122z5z66zz70zz81z"> </span><span class="author-a-uz77zwz73zz81zz85zrcz67zgz83zc091q">bonds between operators. <a href="https://blog.torproject.org/get-help-running-your-relay-our-new-advocate">Meet Colin (Phoul) and find out what he&#39;s up to</a>. </span></p>
+
+<hr />
+<h1>Tor + Tails UX: Identifying User Needs at CryptoRave 2018</h1>
+
+<p><a href="https://blog.torproject.org/tor-tails-ux-identifying-user-needs-cryptorave-2018"><img alt="pic-stickies" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/kelly-sikkema-411622-unsplash.jpg?itok=-jGjhsiM" style="width: 560px; height: 371px;" /></a></p>
+
+<p><span>This month during the geek <a href="https://cryptorave.org/">CryptoRave</a> in </span>S&atilde;o<span> Paulo, we invited <a href="https://tails.boum.org">Tails</a> and Tor users to join a user needs session. We love to run sessions with groups of similar users so we can focus on their unique needs and experiences. Users of Tor and Tails have the common objective: they are looking to use private and secure tools, and their safety could be a concern.</span><span> </span></p>
+
+<p><span>We like to envision our community of users ultimately making the tools we build. UX is about relationships. We need to understand our users&#39; relationship to our software. And in order to do that, we need a close relationship with our users. <a href="https://blog.torproject.org/tor-tails-ux-identifying-user-needs-cryptorave-2018">Find out what we&#39;re considering</a> to address user needs we identified. </span></p>
+
+<hr />
+<h1>Meet the Tor Summer of Privacy &amp; Outreachy Interns</h1>
+
+<p><a href="https://blog.torproject.org/meet-tor-summer-privacy-and-outreachy-interns"><img alt="forest-path" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/adrian-261817-unsplash_0.jpg?itok=HAcXkudQ" style="width: 560px; height: 373px;" /></a></p>
+
+<p>We have new contributors joining the Tor Project who come to us through two paid internship programs, Tor Summer of Privacy and Outreachy, an internship program for underrepresented groups in tech. <a href="https://blog.torproject.org/meet-tor-summer-privacy-and-outreachy-interns">Meet the interns and find out a few of the things they&rsquo;re working on</a>.</p>
+
+<hr />
+<h1>New Releases</h1>
+
+<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1533/title/en/full" property="schema:name">Tor 0.3.3.6</span></h2>
+
+<p>Tor 0.3.3.6 is the first stable release in the 0.3.3 series. It backports several important fixes from the 0.3.4.1-alpha. The Tor 0.3.3 series includes controller support and other improvements for v3 onion services, official support for embedding Tor within other applications, and our first non-trivial module written in the Rust programming language. (Rust is still not enabled by default when building Tor.) And as usual, there are numerous other smaller bugfixes, features, and improvements. (<a href="https://blog.torproject.org/tor-0336-released-new-stable-series">Full changelog</a>).</p>
+
+<h2><span class="quickedit-field" data-quickedit-field-id="node/1528/title/en/full" property="schema:name">Tor Browser 7.5.4</span></h2>
+
+<p>This release updates Firefox to 52.8.0esr, HTTPS Everywhere to 2018.4.11, and NoScript to 5.1.8.5. In addition, we <a href="https://trac.torproject.org/projects/tor/ticket/23439">exempt .onion domains from mixed content warnings</a>, fixed a fingerprinting issue and an issue with localized content. (<a href="https://blog.torproject.org/tor-browser-754-released">Full changelog</a>).</p>
+
+<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1537/title/en/full" property="schema:name">Tor Browser 8.0a7</span></h2>
+
+<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2018-12/">security updates</a> to Firefox and updates firefox to 52.8.0esr. We also fixed some issues with <a href="https://trac.torproject.org/projects/tor/ticket/25458">UI customization</a> and <a href="https://trac.torproject.org/projects/tor/ticket/25898">YouTube videos play</a>. (<a href="https://blog.torproject.org/tor-browser-80a7-released">Full changelog</a>).</p>
+
+<hr />
+<h1>Upcoming Events with Tor</h1>
+
+<ul>
+<li>
+<p class="title"><a href="https://blog.torproject.org/events/mozilla-all-hands-san-fran">Mozilla All-Hands</a>. San Francisco, USA. June 11-15, 2018.</p>
+</li>
+<li>
+<p class="title"><a href="https://blog.torproject.org/events/citizen-lab-summer-institute-toronto">Citizen Lab Summer Institute</a>. Toronto, Canada. June 13-15, 2018.</p>
+</li>
+<li>
+<p class="title"><a href="https://blog.torproject.org/events/first-amendment-21st-century-pittsburgh">The First Amendment for the 21st Century</a>. Pittsburgh, USA. June 21-22, 2018.</p>
+</li>
+<li>
+<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://petsymposium.org/2018/index.php">The 18th Privacy Enhancing Technologies Symposium (PETS)</a>. Barcelona, Spain. July 24-27, 2018. </span></p>
+</li>
+</ul>
+
+<hr />
+<h2>Join Our Community</h2>
+
+<p>Getting involved with Tor is easy. You can help us make the network faster and more decentralized by&nbsp;<a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">running a relay</a>.</p>
+
+<p>You can learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+<p>If you want to make a contribution but don&rsquo;t have the time to volunteer,&nbsp;<a href="http://donate.torproject.org/">your donation</a>&nbsp;will help&nbsp;keep Tor fast, strong, and secure.</p>
+
+<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 15px;">
+<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+<hr />
+<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+<a href="https://torproject.org">torproject.org</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody>
+<tr>
+<td width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+<tbody><!-- Spacing -->
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Spacing -->
