@@ -6,6 +6,7 @@ venv
 .DS_Store
 
 public
+contents+*.lr
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
