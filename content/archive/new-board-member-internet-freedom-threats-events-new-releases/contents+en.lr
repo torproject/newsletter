@@ -4,183 +4,170 @@ _template: newsletter.html
 ---
 author: steph@torproject.org
 ---
-pub_date: 2018-06-28
+pub_date: 2018-21-01
 ---
-title: Censorship Circumvention, Trackers, Onion Protections, New Releases, Events
+title: New Board Member, Internet Freedom Threats, Events, New Releases
 ---
 html_body:
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody>
-<tr>
-<td width="100%">
-<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody><!-- Spacing -->
-<tr>
-<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
-</tr>
-<tr>
-<td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody>
-<tr>
-<td width="100%">
-<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody><!-- /Spacing --><!-- Spacing -->
-<tr>
-<td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
-</tr>
-<!-- /Spacing --><!-- content -->
-<tr>
-<td style="padding:0 15px 15px 15px;">
-<hr />
-<h1><span class="quickedit-field" data-quickedit-field-id="node/1202/title/und/full" property="schema:name">Breaking Through Censorship Barriers Even When Tor Is Blocked</span></h1>
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<p><small><em>We&#39;re in the middle of our year-end education and fundraising campaign, Strength in Numbers.&nbsp; <a href="https://torproject.org/donate/donate-sin-tn2">Learn more about it or support our work</a>.</em></small></p>
 
-<p><span class="quickedit-field" data-quickedit-field-id="node/1202/title/und/full" property="schema:name"><a href="https://blog.torproject.org/rompiendo-barreras-de-censura-incluso-cuando-tor-esta-bloqueado"><img alt="stop-sign-pare" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/ronaldo-oliveira-423252-unsplash_0.jpeg?itok=HKkGM1pq" style="width: 560px; height: 373px;" /></a></span></p>
+												<hr />
+												<h1><span class="quickedit-field" data-quickedit-field-id="node/1578/title/en/full" property="schema:name">Growing Our Board of Directors&nbsp; </span></h1>
 
-<p>Last week, <a href="https://news.vice.com/en_us/article/59qvwz/venezuela-maduro-tor-network-censorship">Venezuela blocked access to the Tor network</a>. Prior to the block, there were over 30,000 people in Venezuela enjoying the privacy and security protections Tor provides.</p>
+												<p><span class="quickedit-field" data-quickedit-field-id="node/1578/title/en/full" property="schema:name"><a href="https://blog.torproject.org/strength-numbers-growing-our-board-directors"><img alt="tor-nighat" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/nighat-dad-tor-board.png?itok=Nve4r1Xz" style="width: 560px; height: 280px;" /></a></span></p>
 
-<p>Connecting to Tor is a luxury, but we have developed ways for people where Tor is blocked to continue to connect to the network. Using bridges and pluggable transports, people can break through censorship and continue to access the open web. For more information about using bridges, see:</p>
+												<p>Like most nonprofit organizations, the Tor Project relies on its Board of Directors to provide fiscal and corporate oversight to our important work. Over the past two years, the Tor Project has been focused on growing our board to reflect the diversity of cultures of people who build and use Tor.</p>
 
-<p>[<a href="https://blog.torproject.org/rompiendo-barreras-de-censura-incluso-cuando-tor-esta-bloqueado">Spanish</a>]</p>
+												<p>We are proud to welcome the newest member of our Board of Directors, Nighat Dad. Nighat is the founder and Executive Director of Digital Rights Foundation, Pakistan. She is an accomplished lawyer and human rights activist, and she is one of the pioneers campaigning for access to a safe and open internet in Pakistan. <a href="https://www.ted.com/talks/nighat_dad_how_pakistani_women_are_taking_the_internet_back">Watch her TED talk</a> to hear the amazing story of how she set up Pakistan&#39;s first cyber harassment helpline to support women who face serious threats online--a major problem in Pakistan.</p>
 
-<p>[<a href="https://blog.torproject.org/breaking-through-censorship-barriers-even-when-tor-blocked">English</a>]</p>
+												<p>&ldquo;Nighat brings an abundance of expertise and experience campaigning for digital rights in Pakistan and beyond,&rdquo; said Isabela Bagueros, Executive Director of the Tor Project. &ldquo;She has strong ties to the communities we serve and our most at-risk users.&rdquo;</p>
 
-<p>If you have basic command line experience, you can help out people in countries with heavy censorship by <a href="https://www.torproject.org/docs/pluggable-transports#operator">becoming a bridge operator.</a></p>
+												<p><a href="https://www.torproject.org/about/board.html.en">Our board</a> has eight members representing four continents: North America, Europe, Africa, and now Asia. Over the past year, the board held 16 official meetings plus several committee meetings during our searches for a new Executive Director and new board members.</p>
 
-<hr />
-<h1>Don&#39;t Let Facebook or Other Trackers Follow You on The Web</h1>
+												<p>In the coming year, we hope to continue to grow our board in number and in diversity. Like everyone involved with Tor, our Board of Directors all share a common commitment to internet freedom and human rights.</p>
 
-<p><a href="https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web"><img alt="fb-image" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/thought-catalog-609285-unsplash.jpeg?itok=IHGStRWh" style="width: 560px; height: 373px;" /></a></p>
+												<p>As we challenge major threats to internet freedom around the world, there is strength in numbers -- our numbers keep us strong as we challenge those threats. And our diversity gives us the understanding to fight with compassion.</p>
 
-<p><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">In the early age of the internet, people enjoyed a high level of privacy. Webpages were just hypertext documents; almost no personalization of the user experience was offered (or </span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z comment  c-jMLQ2ANwlbH3SipS">forced</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">). The web today has evolved into a system of </span><a href="https://www.theguardian.com/technology/2018/apr/07/facebookgot-into-mess-cant-get-out-of-it-mark-zuckerberg-surveillance-capitalism"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">surveillance capitalism</span></a><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">, where advertising networks follow users while they browse the web, continuously collecting traces of personal data and surfing patterns to create profiles of users in order to target them.</span></p>
+												<hr />
+												<h1>Internet Freedom Is on the Line</h1>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Using the web today, you are a target. And because of the rampant tracking across websites, each time you use the internet, you become an easier target. </span></p>
+												<p><a href="https://blog.torproject.org/strength-numbers-internet-freedom-line"><img alt="strength-in-numbers" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/facebook-cover%203.png?itok=IiMLiM2r" style="width: 560px; height: 212px;" /></a></p>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">By tracking you across different applications and sites through cookies or open web sessions, your personal preferences and social connections are collected and often sold. Even if you do not accept cookies or are not logged into a service account, such as your Google, Twitter, or Facebook accounts, the web page and third-party services can still try to profile you by using third-party HTTP requests or other techniques. </span></p>
+												<p>The Tor Project believes that everyone should have private access to an uncensored web, but digital authoritarianism is on the rise. For the 8th year in a row, internet freedom has declined around the world, including in the United States.</p>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Within the HTTP request, various selectors can be included to communicate user preferences or particular features, in the form of URL variables. Personali</span><span class="author-a-ajz71zz75zvi60r7f3z79z6me">z</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">ed language or fonts settings, browser extensions, in-page keywords, battery charge and status, and more can be used to identify you by restricting the pool of possible candidates among all the visitors in a certain time frame, location, profile of interests. You can then be distinguished, or fingerprinted, across multiple devices or sessions and then the profile the tracker </span><span class="author-a-az69zz122zz70zcz89zcfdz66zz84zxvz66z7z66z">h</span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">as on you is expanded.</span></p>
+												<p>&ldquo;Of the 65 countries assessed, 26 have been on an overall decline since June 2017,&rdquo; reveals <a href="https://freedomhouse.org/report/freedom-net/freedom-net-2018">a new report</a> by Freedom House.</p>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">By the sites and applications themselves, the story is spun to sound as if they&rsquo;re doing you a favor: they say this collection allows them to customize your experience. You see ads more relevant to you, Facebook and others say. </span></p>
+												<p>A huge factor in this decline is government censorship, a growing problem in many countries. Freedom to publish, share, and access information online is critical for a healthy society, yet governments and entities around the world are denying people this universal human right, and their tactics for doing so are becoming more advanced.</p>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">Even if you think of an advertising network as a recommendation system, this same system is also influencing what you see. It&rsquo;s changing your experience of the internet. </span></p>
+												<p>In many countries around the world, people are only permitted to access state-sponsored news, where the stories always spin a nation&#39;s government and leadership in favorable lights.</p>
 
-<p class="primary-author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z"><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">But at what cost is this customization? When confronted with transparency around what this &ldquo;customization&rdquo; takes, it </span><span class="author-a-z73zz72zz86zqpz74ziz83z0hz74zsjz122ziz75z">&ldquo;<a href="https://theintercept.com/2018/05/09/facebook-ads-tracking-algorithm">poisons</a>&rdquo; the ad. So of course these companies are pushing back against transparency, but we need to keep pushing them and doing what we can to prevent them from continuing to exploit us online. </span></p>
+												<p>Internet controls in China have reached new extremes, and China is <a href="https://qz.com/africa/1447015/china-is-helping-african-countries-control-the-internet/">exporting its methods</a> to other governments. China, Egypt, Iran, Venezuela, Ethiopia, Turkey, and a few other countries now block the Tor network.</p>
 
-<p>Learn about <a href="https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web">how Tor Browser can help</a>.</p>
+												<p><a href="https://blog.torproject.org/domain-fronting-critical-open-web">Amazon and Google shut down domain fronting</a>, a once reliable tactic used by many pluggable transports to access the Tor network when it is blocked.</p>
 
-<hr />
-<h1><span class="quickedit-field" data-quickedit-field-id="node/1556/title/en/full" property="schema:name">Privacy International Protects Partners With Its Onion Address</span></h1>
+												<p>These developments make our work more important than ever. That is why in 2018 we worked hard to keep the Tor network secure and strong. We made Tor Browser <a href="https://blog.torproject.org/new-release-tor-browser-80">more user-friendly</a> and localized it into 9 additional languages (for a total of 24). We brought Tor Browser to mobile with the alpha version of Tor Browser for Android, which has already been installed <a href="https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha">over half a million times</a>. We traveled to different countries to meet at-risk communities and provided them with digital security training.</p>
 
-<p><a href="https://blog.torproject.org/privacy-international-protects-partners-its-onion-address"><img alt="pi-tor" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/privacy-international-onion.jpg?itok=DclGfP1t" style="width: 560px; height: 280px;" /></a></p>
+												<p>We are determined to reach even more people in need.<br />
+												&nbsp;<br />
+												<a href="https://www.torproject.org/download">Tor Browser</a> protects against tracking, surveillance, and censorship, and we think everyone, no matter where they are in the world, should be able to use it and enjoy their universal human rights to privacy and freedom.</p>
 
-<p><em>This guest post is written by <a href="https://privacyinternational.org/people/909/ed-geraghty">Ed Geraghty, Technologist, Privacy International</a>.</em></p>
+												<p>We&rsquo;re in a race with the censors. They are getting more sophisticated, and so must we. <a href="https://blog.torproject.org/strength-numbers-internet-freedom-line">Find out how we&#39;re taking this work to the next level</a>.</p>
 
-<blockquote>
-<p>No one shall be subjected to arbitrary interference with [their] privacy, family, home or correspondence, nor to attacks upon [their] honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.</p>
+												<hr />
+												<h1>New Releases</h1>
 
-<p>- United Nations Declaration of Human Rights (UDHR) 1948, Article 12</p>
-</blockquote>
+												<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1622/title/en/full" property="schema:name">Tor Browser for Android 1.0a3</span></h2>
 
-<p>The right to privacy is a qualified, fundamental human right. We at Privacy International (PI) work hard with our network of partners to ensure this fundamental right is protected - it is essential to autonomy, the protection of human dignity, and is the foundation upon which many other human rights are built.</p>
+												<p>This release features important security updates to Firefox. Moreover, we backport a defense against protocol handler enumeration developed by Mozilla engineers. <a href="https://blog.torproject.org/new-release-tor-browser-android-10a3">Full changelog</a>.</p>
 
-<p>This is becoming ever-more important in an age of ubiquitous, indiscriminate mass surveillance, especially as more and more aspects of our daily lives - interactions with friends, family, companies, and the state - are dependent upon technology. In order for individuals to fully participate in the modern world, developments in law and technologies must strengthen and not undermine the ability to freely enjoy this right.We challenge governments&#39; powers by advocating and litigating for stronger protections. We lead research and investigations to shine a light on powers and capabilities, and to instigate and inform debate. We advocate for good practices and strong laws worldwide to protect people and their rights. We equip civil society organisations across the world to increase public awareness about privacy. We raise awareness about technologies and laws that place privacy at risk, to ensure that the public is informed and engaged.</p>
+												<h2>Tor 0.3.5.5-alpha</h2>
 
-<p>Tor is an important tool in our arsenal - a technology which allows people to communicate, use the internet, and browse the web in a manner which evades censorship.</p>
+												<p>Tor 0.3.5.5-alpha includes numerous bugfixes on earlier releases, including fixing our usage of named groups when running as a TLS 1.3 client in OpenSSL 1.1.1. Full changelog:https://blog.torproject.org/new-release-tor-0355-alpha</p>
 
-<p>Many of our partners work in challenging environments, with massive state surveillance and/or ongoing censorship programmes. Giving them an ability to securely browse the web (both clear and onion) in a way which allows them to evade dragnet surveillance also allows them to conduct investigations securely.</p>
+												<h2>Tor 0.3.5.4-alpha</h2>
 
-<p><a href="https://blog.torproject.org/privacy-international-protects-partners-its-onion-address">Find out what else</a> running an onion address provides the Privacy International community.</p>
+												<p>Includes numerous bugfixes on earlier versions and improves our continuous integration support, this release continues our attempts to stabilize this alpha branch and build it into a foundation for an acceptable long-term-support release. <a href="https://blog.torproject.org/new-release-tor-0354-alpha">Full changelog</a>.</p>
 
-<hr />
-<h1>New Releases</h1>
+												<h2>Tor 0.3.4.9</h2>
 
-<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1533/title/en/full" property="schema:name">Tor 0.3.3.7</span></h2>
+												<p>This is the second stable release in its series; it backports numerous fixes, including a fix for a bandwidth management bug that was causing memory exhaustion on relays. Anyone running an earlier version of Tor 0.3.4.9 should upgrade. <a href="https://blog.torproject.org/new-release-tor-0349">Full changelog</a>.</p>
 
-<p>This release backports several changes from the 0.3.4.x series, including fixes for bugs affecting compatibility and stability. (<a href="https://blog.torproject.org/tor-0337-released">Full changelog</a>).</p>
+												<h2><span class="quickedit-field" data-quickedit-field-id="node/1630/title/en/full" property="schema:name">Tor 0.3.5.3-alpha</span></h2>
 
-<h2><span class="quickedit-field" data-quickedit-field-id="node/1528/title/en/full" property="schema:name">Tor Browser 7.5.6</span></h2>
+												<p>Tor 0.3.5.3-alpha fixes several bugs, mostly from previous 0.3.5.x versions. One important fix for relays addresses a problem with rate- limiting code from back in 0.3.4.x: If the fix works out, we&#39;ll be backporting it soon. <a href="https://blog.torproject.org/new-release-tor-0348-also-other-stable-updates-02917-03212-and-03310">Full changelog</a>.</p>
 
-<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2018-17/">security updates</a> to Firefox, updates Firefox to 52.9.0esr, and includes newer versions of NoScript and HTTPS Everywhere. Moreover, we added the latest Tor stable version, <a href="https://blog.torproject.org/tor-0337-released">0.3.3.7</a>. (<a href="https://blog.torproject.org/tor-browser-756-released-">Full changelog</a>).</p>
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
 
-<hr />
-<h1>Upcoming Events with Tor</h1>
+												<ul>
+													<li>
+													<p><a href="https://blog.torproject.org/events/criptofesta-sao-paulo">CriptoFesta</a>.<span class="quickedit-field" data-quickedit-field-id="node/1641/title/en/full"> S&atilde;o Paulo</span>. December 1, 2018.</p>
+													</li>
+													<li>
+													<p><a href="https://blog.torproject.org/events/criptocerrado-brasilia"><span class="quickedit-field" data-quickedit-field-id="node/1649/title/en/full">Criptocerrado</span></a>. <span class="quickedit-field" data-quickedit-field-id="node/1649/title/en/full">Bras&iacute;lia.</span> December 15, 2018.</p>
+													</li>
+												</ul>
 
-<ul>
-<li>
-<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://petsymposium.org/2018/index.php">HOPE. </a>New York City, USA. July 20-22, 2018.</span></p>
-</li>
-<li>
-<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://petsymposium.org/2018/index.php">The 18th Privacy Enhancing Technologies Symposium (PETS)</a>. Barcelona, Spain. July 24-27, 2018. </span></p>
-</li>
-<li>
-<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1535/title/en/full"><a href="https://blog.torproject.org/meetup-tor-community-night-pets">Tor Community Night</a>. July 24, 2018. Barcelona, Spain. </span></p>
-</li>
-<li>
-<p class="title"><a href="https://blog.torproject.org/events/roger-and-steph-and-others-def-con-las-vegas">Def Con</a>. Las Vegas, USA. August 8-12, 2018.</p>
-</li>
-</ul>
+												<hr />
+												<h1>Join Our Community</h1>
 
-<hr />
-<h2>Join Our Community</h2>
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
 
-<p>Getting involved with Tor is easy. You can help us make the network faster and more decentralized by&nbsp;<a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">running a relay</a>.</p>
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
 
-<p>You can learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+												<p><a href="https://torproject.org/donate/donate-sin-tn2">Donate</a> to help keep Tor fast, strong, and secure. Mozilla is matching <em>every</em> donation through 2018. If you&#39;ve never given before, another donor will be matching all first-time donations up to $20,000, so give today, and your donation will be matched twice:</p>
 
-<p>If you want to make a contribution but don&rsquo;t have the time to volunteer,&nbsp;<a href="http://donate.torproject.org/">your donation</a>&nbsp;will help&nbsp;keep Tor fast, strong, and secure.</p>
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://torproject.org/donate/donate-sin-tn2" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
 
-<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
--webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:150px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 16px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE NOW</a></div>
-</td>
-</tr>
-<tr>
-<td style="padding:0 15px;">
-<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
 
-<hr />
-<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
-
-<p><br />
-<a href="https://torproject.org">torproject.org</a></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
+											<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
-<tbody>
-<tr>
-<td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody>
-<tr>
-<td width="100%">
-<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
-<tbody><!-- Spacing -->
-<tr>
-<td>&nbsp;</td>
-</tr>
-</tbody>
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
 </table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<!-- Spacing -->
+<!-- Spacing -->}
