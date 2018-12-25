@@ -1,0 +1,151 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2018-12-27
+---
+title: Invasive Data, The Tor Ecosystem, Localization, LFI, New Releases
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<p><small><em>We&#39;re nearing the end of our year-end education and fundraising campaign, Strength in Numbers.&nbsp; <a href="https://torproject.org/donate/donate-sin-tn3">Learn more about it or support our work</a>.</em></small></p>
+\
+												<hr />
+												<h1>Usable Tools Don&#39;t Need To Be Invasive</h1>
+\
+												<p><a href="https://blog.torproject.org/strength-numbers-usable-tools-dont-need-be-invasive"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/strength-in-numbers-tor-usability.png?itok=SZS0IYao" style="width: 600px; height: 227px;" /></a></p>
+\
+												<p>Usability is about making sure anyone, no matter their technical background, can use a tool. <span style="color: rgb(72, 72, 72); font-family: 'Source sans pro', Helvetica, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">As the tech industry has grown over the past decade, the importance of usability and user experience (UX) has become more obvious.</span> To improve user experience, most of the tech industry relies on analyzing their users&rsquo; behavioral data to drive decision making. Mechanisms for collecting this data are often invasive and performed without consent from users, who may never be told their behavior is being analyzed for this purpose. The same means used to collect behavioral data is also responsible for aiding the surveillance economy.</p>
+\
+												<p><strong>Tor does things differently.</strong> We refuse to collect this type of invasive data. <a href="https://blog.torproject.org/strength-numbers-usable-tools-dont-need-be-invasive">Find out</a> what we do instead.</p>
+\
+												<hr />
+												<h1><span class="quickedit-field" data-quickedit-field-id="node/1578/title/en/full" property="schema:name">An Entire Ecosystem Relies on Tor </span></h1>
+\
+												<p><a href="https://blog.torproject.org/strength-numbers-entire-ecosystem-relies-tor"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/facebook-cover%201_1.png?itok=daszC5sM" style="width: 600px; height: 204px;" /></a></p>
+\
+												<p>If the Tor Project, the Tor network, and Tor Browser were to disappear, what would happen? Not only would millions of global, daily users lose access to Tor&rsquo;s software, but the diverse ecosystem of privacy, security, and anti-censorship applications that rely on the Tor network would <strong>cease to function</strong>.</p>
+\
+												<p>The same network and technologies that allow you to use the internet anonymously power the anonymity, circumvention, and privacy features of many third-party web browsers, communications apps, secure operating systems, monitoring tools, and file sharing apps.</p>
+\
+												<p><a href="https://blog.torproject.org/strength-numbers-entire-ecosystem-relies-tor">Learn about the many vital anonymity and privacy applications</a> that rely on the Tor network and technologies.</p>
+\
+												<hr />
+												<h1>The Internet Freedom Movement Must Be Localized</h1>
+\
+												<p><a href="https://blog.torproject.org/strength-numbers-internet-freedom-movement-must-be-localized"><img alt="globes" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-localization-post.png?itok=s19FBzZX" style="width: 600px; height: 300px;" /></a></p>
+\
+												<p>The aim of localization is much broader than just translating strings of words. To localize an application means to ensure that the application stays relevant in the local context, is understandable, and is usable. &nbsp;</p>
+\
+												<p><a href="https://www.statista.com/statistics/262946/share-of-the-most-common-languages-on-the-internet/">English is the most common language</a> used on the internet. People communicating in other languages have it harder.</p>
+\
+												<p>We don&rsquo;t want language differences to be a barrier to using tools that protect people from tracking, surveillance, and censorship on the web.</p>
+\
+												<p>We made big improvements this year on our mission to localize Tor software for everyone who needs it: <a href="https://www.torproject.org/download/download-easy.html.en">Tor Browser</a> now supports 25 languages, and 4 additional languages are supported in alpha; we started <a href="https://twitter.com/torproject/status/1010156373752107008">tweeting</a> more often in languages besides English; we published additional subtitles for the <a href="https://www.youtube.com/watch?v=JWII85UlzKw">Tor Animation</a>; we have better <a href="https://torpat.ch/">statistics</a> about our language support; and we are working on localizing our user <a href="https://support.torproject.org/">support website</a> and the <a href="https://tb-manual.torproject.org/">Tor Browser User Manual</a>, with more languages added every month.</p>
+\
+												<p><a href="http://In our mission to localize the internet freedom movement, there's strength in numbers.">Find out what&#39;s next</a> in our mission to localize Tor tools and resources.</p>
+\
+												<hr />
+												<h1>Library Freedom Institute Applications Are Open</h1>
+\
+												<p>This is a one-of-a-kind opportunity for librarians who want to take their privacy advocacy to the next level. Tell your radical librarian friends to <a href="https://libraryfreedomproject.org/lfi/">apply for LFI.</a> Though tailored to public and community college librarians, LFI is open to librarians from all types of libraries, and it is completely free.</p>
+\
+												<hr />
+												<h1>New Releases</h1>
+\
+												<h2>Tor 0.3.5.6-rc</h2>
+\
+												<p>Tor 0.3.5.6-rc fixes numerous small bugs in earlier versions of Tor. It is the first release candidate in the 0.3.5.x series; if no further huge bugs are found, our next release may be the stable 0.3.5.x. <a href="https://blog.torproject.org/new-release-tor-0356-rc">Full changelog</a>.</p>
+\
+												<h2>Tor Browser 8.0.4</h2>
+\
+												<p>Tor Browser 8.0.4 contains updates to Tor (<a href="https://blog.torproject.org/new-release-tor-0349" rel="nofollow">0.3.4.9</a>), OpenSSL (1.0.2q) and other bundle components. Additionally, we backported a number of patches from our alpha series where they got some baking time including a defense against protocol handler enumeration to enhance our fingerprinting resistance.<a href="https://https://blog.torproject.org/new-release-tor-browser-804"> Full changelog</a>.</p>
+\
+												<h2>Tor Browser 8.5a6</h2>
+\
+												<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2018-30/" rel="nofollow">security updates</a> to Firefox and updates OpenSSL to 1.0.2q for our desktop platforms. The most exciting news, however, compared to the alpha release early last week, comes from progress we made on our mobile builds. Tor Browser 8.5a6 is the first version that is built reproducibly for Android devices and is localized in all locales the desktop platforms support.<a href="https://blog.torproject.org/new-release-tor-browser-85a6"> Full changelog</a>.</p>
+\
+												<hr />
+												<h1>Join Our Community</h1>
+\
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
+\
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+\
+												<p><a href="https://torproject.org/donate/donate-sin-tn3">Donate</a> to help keep Tor fast, strong, and secure. Mozilla is matching <em>every</em> donation through 2018.</p>
+\
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;\
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://torproject.org/donate/donate-sin-tn3" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+\
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+\
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+\
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
