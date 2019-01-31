@@ -1,10 +1,8 @@
 [project]
-name = Tor Newsletter Archive 
+name = Tor Newsletter Archive
 
 [alternatives.en]
 name = English
 primary = yes
 url_prefix = /
 locale = en_US
-
-

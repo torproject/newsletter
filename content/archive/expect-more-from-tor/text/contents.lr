@@ -1,0 +1,97 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-01-31
+---
+title: Expect More from Tor in 2019
+---
+body:
+
+## Expect More from Tor in 2019 ##
+
+The Tor Project achieved a lot in the last year. We spent 2018 fighting for the fundamental human rights to privacy and freedom online and made our software more accessible than ever before.
+
+In the last year, a significant shift took place in the public understanding of how big tech handles our sensitive, personal information, and how these companies build tools that further censorship in repressive places. For instance, Google’s leaked plans to launch a censored search engine in China were met with global protest. The world is watching.
+
+At the Tor Project, this is an important moment in time. More people are looking for solutions to effectively protect their privacy. 93% of the people we met doing 1:1 usability studies said they knew they needed some protection online. More people need robust censorship circumvention tools as internet freedom declines around the world. More people understand the risks that come from surveillance as the business model of the internet. And we have been working hard to make Tor more accessible than ever before with the goal that anyone online can enjoy the protections our software provides.
+
+In 2018, we:
+
+- Gave Tor Browser a UX overhaul with the launch of Tor Browser 8.0, making it easier and friendlier to use than ever.
+
+- Made it easier for people in countries that censor the internet and censor Tor to circumvent censorship with the ability to fetch bridges from inside Tor Browser.
+
+- Localized Tor Browser into 9 previously unsupported languages, bringing the number of available languages to 25.
+
+- Launched the alpha version of Tor Browser for Android.
+
+- Improved our Core Tor code for mobile devices, optimizing its performances and making it easier for third party mobile apps to embed Tor.
+
+- Traveled to meet our users face-to-face and get feedback without using popular and invasive data-collection practices.
+
+- Improved the security of v3 onion services with the vanguards add-on.
+
+- Published 10 research reports through OONI on censorship and network disruptions happening around the world.
+
+- Pulled in a record number of donations as we reduced our reliance on government funding. We received donations from 115 countries around the world.
+
+- Said goodbye to Shari Steele, who helped usher the Tor Project into a new stage of organizational maturity, and welcomed our new Executive Director, Isabela Bagueros.
+
+These developments, plus the reality of threats everyone faces online, make 2019 the year to try Tor.
+
+Find out what you can expect from us this year: https://blog.torproject.org/expect-more-tor-2019
+
+## Tor Browser at TPL: Defending Intellectual Freedom, and Winning Awards Doing So //
+
+Guest post by Jonathon Hodge, Digital Literacy Service Lead, Toronto Public Library
+
+Every public library worker will know that person: the one who is worried about being spied on.
+
+For a long time in public libraries, that person was treated with the kindness and respect we treat every person, regardless of whether we felt that their concerns may have been overblown. The difference between that bygone past and today, is that today, that person is right! The internet is spying on them; it’s spying on all of us. Even if we don’t use it very much. Public libraries have long offered effective guidance to the wealth of information society produces. So the question today is, ‘Are we doing enough for ‘that person’, and by extension, for all of us?’
+
+In Toronto, we felt that the answer was NO. Our communities let us know that they do not know enough about the actual threats they contend with on the internet, they do not know what tools to use or actions to take to protect themselves.
+
+Public librarians can do a great deal to arm our users with the knowledge, the tools, and the confidence to navigate the surveillance society online. We in Toronto felt that Tor Browser should be the centerpiece of a multi-vector Digital Privacy Initiative, that combines privacy education, and technology training and providing privacy-enabling tools at the point of service.
+
+With the software being easy to install and maintain, and with a new public appetite for secure technology, I would encourage other public libraries to install Tor Browser. Our professional defense of intellectual freedom can no longer exist only at the realm of policy. In this age when our tech spies on us for the sake of massive internet companies and the State, our defense must be a technological one as well. That tech is Tor.
+
+Find out more about TPL's initiative: https://blog.torproject.org/tor-browser-tpl-defending-intellectual-freedom-and-winning-awards-doing-so
+
+## New Releases ##
+
+Tor Browser 8.0.5
+This new release updates Firefox to 60.5.0esr and Tor to the first stable release in the 0.3.5 series, 0.3.5.7. Full changelog: https://blog.torproject.org/new-release-tor-browser-805
+
+Tor 0.4.01-alpha
+This is the first release in the new 0.4.0.x series. It introduces improved features for power and bandwidth conservation, more accurate reporting of bootstrap progress for user interfaces, and an experimental backend for an exciting new adaptive padding feature. Full changelog: https://blog.torproject.org/new-release-tor-0401-alpha
+
+Tor 0.3.5.7
+The Tor 0.3.5 series includes several new features and performance improvements, including client authorization for v3 onion services, cleanups to bootstrap reporting, support for improved bandwidth- measurement tools, experimental support for NSS in place of OpenSSL, and much more. Full changelog: https://blog.torproject.org/new-releases-tor-0357-03410-and-03311
+
+## Upcoming Events with Tor ## 
+
+FOSDEM. Brussels, Belgium. 2-3 February, 2019. https://blog.torproject.org/events/fosdem-brussels
+Tor Meetup. Berlin, Germany. 2 February, 2019. https://blog.torproject.org/events/tor-meetup-berlin
+IT Defense. Stuttgart, Germany. 6-8 February, 2019. https://blog.torproject.org/events/it-defense-stuttgart
+LibrePlanet. Boston, USA. 23-24 March, 2019. https://blog.torproject.org/events/libreplanet-boston
+KNOW Conference. Las Vegas, USA. 24-27 March, 2019. https://blog.torproject.org/events/know-2019-vegas-0
+
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
