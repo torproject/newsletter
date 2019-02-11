@@ -1,5 +1,5 @@
 node_modules
-
+venv
 .sass-cache
 .DS_Store
 
