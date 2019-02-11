@@ -1,12 +1,19 @@
 node_modules
-i18n
-configs
-venv
+
 .sass-cache
 .DS_Store
 
 public
+*.mo
+*.po
 contents+*.lr
+
+*.egg-info
+*.pyc
+__pycache__
+
+### Lektor Temps ###
+*~*
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
