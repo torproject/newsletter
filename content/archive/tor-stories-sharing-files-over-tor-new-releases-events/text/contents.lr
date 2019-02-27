@@ -47,20 +47,27 @@ Learn more about OnionShare and its new features: https://blog.torproject.org/ne
 ## New Releases ##
 
 Tor Browser 8.0.6
+
 The main change in this new release is the update of Firefox to 60.5.1esr. Full changelog: https://blog.torproject.org/new-release-tor-browser-806
 
 Tor Browser 8.5a8
+
 The main change in this new release is the update of Firefox to 60.5.1esr, fixing some vulnerabilities in the Skia library. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a8
 
 Tor 0.4.0.2-alpha, 0.3.5.8, 0.3.4.11, and 0.3.3.12
+
 These new source code releases all fix TROVE-2019-001. Full changelog: https://blog.torproject.org/new-releases-tor-0402-alpha-0358-03411-and-03312
 
 ## Upcoming Events with Tor ##
 
 Nullcon. Goa, India. 1-3 March, 2019. https://blog.torproject.org/events/nullcon-goa
+
 LibrePlanet. Boston, USA. 23-24 March, 2019. https://blog.torproject.org/events/libreplanet-boston
+
 KNOW Conference. Las Vegas, USA. 24-27 March, 2019. https://blog.torproject.org/events/know-2019-vegas-0
+
 Internet Freedom Festival. Valencia, Spain. 1-5 April, 2019. https://blog.torproject.org/events/internet-freedom-festival-valencia
+
 
 ## Join Our Community ##
 
@@ -68,12 +75,16 @@ Getting involved with Tor is easy. Run a relay to make the network faster and mo
 
 Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
 
-Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+Donate to help keep Tor fast, strong, and secure.
+
+https://donate.torproject.org
 
 --
 
 The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
 
 Twitter: https://twitter.com/torproject
+
 Facebook: https://facebook.com/torproject
+
 Instagram: https://instagram.com/torproject
