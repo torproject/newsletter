@@ -1,0 +1,168 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-02-27
+---
+title: Tor Stories, Sharing Files Over Tor, New Releases, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>What is Your Tor Story?</h1>
+
+												<p><a href="https://blog.torproject.org/how-has-tor-helped-you-we-need-your-stories"><img alt="tor-people " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/volunteer-spotlight_1.png?itok=FCabzzWR" style="width: 650px; height: 325px;" /></a></p>
+
+												<p>Last September, <a href="https://blog.torproject.org/how-has-tor-helped-you-we-need-your-stories">we asked</a> to hear stories about how Tor has helped protect people online.</p>
+
+												<p>We heard from a father protecting his kids and their friends with Tor.</p>
+
+												<blockquote>
+												<p><strong>&quot;I am a father of two teenagers. As teenagers, they, or their friends , are bumping into issues regarding sex, drugs and social media issues and bullying. They are pretty open about many issues and so I try to be up to date with research, information and details if anything arises. I use Tor to do the research to basically avoid telling Google (and others) that my children have these issues. It would be unethical of any parent NOT to do so and expose their childrens issues to these corporations. I also encourage my children to use Tor for their research for the same reasons...&quot;</strong></p>
+												</blockquote>
+
+												<p>We heard how Tor grants access to blocked resources online in Iran.</p>
+
+												<blockquote>
+												<p><strong>&quot;I live in Iran and I have been using Tor for censorship circumvention. During political unrest while the government tightens grip on other censorship circumvention alternatives, Tor with obfuscation plugins remain the only solution. Tor changed my personal life in many ways. It made it possible to access information on Youtube, Twitter, Blogger and countless other sites. I am grateful of Tor project, people working on it as well as people running Tor nodes.&quot;</strong></p>
+												</blockquote>
+
+												<p>We heard from someone using Tor to research transgender issues and access a site blocked by their network.</p>
+
+												<blockquote>
+												<p><strong>&quot;I am transgender and sometimes look thing up on Tor about that. When I was in high school I also used it to access blocked sites like the Internet Wayback Machine.&quot;</strong></p>
+												</blockquote>
+
+												<p>We heard from an activist who relies on Tor to stay safe.</p>
+
+												<blockquote>
+												<p><strong>&quot;I&#39;m a political activist, part of a semi-criminalized minority. In my younger years I entered the public debate openly, and as a result got harassed by government agencies. I later tried to obfuscate my identity, but I found that my government has surprisingly broad powers to track down dissidents. Only by using anonymizing means, among which Tor is key, can I get my message out without having police come to &quot;check my papers&quot; in the middle of the night. Tor allows me freedom to publish my message to the world without being personally persecuted for it. Being a dissident is hard enough, privacy is already heavily curtailed, so anonymized communication is a godsend.&quot;</strong></p>
+												</blockquote>
+
+												<p>What is your Tor story? Have you used Tor to curtail surveillance, circumvent censorship, conduct research, cope with an abuser, or speak up about corruption? If any of these apply to you or if you have another story to share, <a href="https://blog.torproject.org/how-has-tor-helped-you-send-us-your-story">please let us know</a>. Because of our deep commitment to protect your privacy, we won&rsquo;t know your story unless you tell us. Your story can help us make Tor better for you and other people around the world who need it most.</p>
+
+												<hr />
+												<h1>Share Files Over Tor with OnionShare 2</h1>
+
+												<p><a href="https://blog.torproject.org/new-release-onionshare-2"><img alt="onionshare-logo" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/onionshare-logo.jpg.png?itok=-J6Hrued" style="width: 650px; height: 325px;" /></a></p>
+
+												<p>OnionShare is an open source tool for securely and anonymously sending and receiving files using Tor onion services. It works by starting a web server directly on your computer and making it accessible as an unguessable Tor web address that others can load in <a href="https://www.torproject.org/">Tor Browser</a> to download files from you, or upload files to you. It doesn&#39;t require setting up a separate server, using a third party file-sharing service, or even logging into an account.</p>
+
+												<p>Unlike services like email, Google Drive, DropBox, WeTransfer, or nearly any other way people typically send files to each other, when you use OnionShare you don&#39;t give any companies access to the files that you&#39;re sharing. So long as you share the unguessable web address in a secure way (like pasting it in an encrypted messaging app), <em>no one</em> but you and the person you&#39;re sharing with can access your files.</p>
+
+												<p><a href="https://blog.torproject.org/tor-heart-onionshare" moz-do-not-send="true">Micah Lee first saw the need </a>for this tool when he learned about how David Miranda, the partner of his colleague Glenn Greenwald, got detained for nine hours at a London airport while he was trying to fly home to Brazil. Working on a journalism assignment for the <em>Guardian</em>, Miranda was carrying a USB stick with sensitive documents. Micah knew that he could have securely sent the documents over the internet using a Tor onion service, one of the most underappreciated technologies on the internet, and avoided the risk of physically traveling with them. Micah developed OnionShare to make this file sharing process over the Tor network more accessible to everyone.</p>
+
+												<p>After nearly a year of work from a <a href="https://github.com/micahflee/onionshare/wiki/Developing-OnionShare">growing community</a> of developers, designers, and translators, OnionShare 2 is finally ready. You can download it from <a href="https://onionshare.org/">onionshare.org</a>.</p>
+
+												<p><a href="https://blog.torproject.org/new-release-onionshare-2">Learn more about OnionShare</a> and its new features.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor Browser 8.0.6</h2>
+
+												<p>The main change in this new release is the update of Firefox to 60.5.1esr. <a href="https://blog.torproject.org/new-release-tor-browser-806">Full changelog</a>.</p>
+
+												<h2>Tor Browser 8.5a8</h2>
+
+												<p>The main change in this new release is the update of Firefox to 60.5.1esr, fixing some vulnerabilities in the Skia library. <a href="https://blog.torproject.org/new-release-tor-browser-85a8">Full changelog</a>.</p>
+
+												<h2>Tor 0.4.0.2-alpha, 0.3.5.8, 0.3.4.11, and 0.3.3.12</h2>
+
+												<p>These new source code releases all fix TROVE-2019-001. <a href="https://blog.torproject.org/new-releases-tor-0402-alpha-0358-03411-and-03312">Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p><a href="https://blog.torproject.org/events/libreplanet-boston">LibrePlanet</a>. Boston, USA. 23-24 March, 2019.</p>
+
+												<p><a href="https://blog.torproject.org/events/know-2019-vegas-0">KNOW Conference</a>. Las Vegas, USA. 24-27 March, 2019.</p>
+
+												<p><a href="https://blog.torproject.org/events/nullcon-goa">Nullcon</a>. Goa, India. 1-3 March, 2019.</p>
+
+												<p><a href="https://blog.torproject.org/events/internet-freedom-festival-valencia">Internet Freedom Festival (IFF)</a>. Valencia, Spain. 1-5 April, 2019.</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->

@@ -1,0 +1,79 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-02-27
+---
+title: Tor Stories, Sharing Files Over Tor, New Releases, Events
+---
+body:
+
+## What is Your Tor Story? ##
+
+Last September, we asked to hear stories about how Tor has helped protect people online.
+
+We heard from a father protecting his kids and their friends with Tor.
+
+"I am a father of two teenagers. As teenagers, they, or their friends , are bumping into issues regarding sex, drugs and social media issues and bullying. They are pretty open about many issues and so I try to be up to date with research, information and details if anything arises. I use Tor to do the research to basically avoid telling Google (and others) that my children have these issues. It would be unethical of any parent NOT to do so and expose their children's issues to these corporations. I also encourage my children to use Tor for their research for the same reasons..."
+
+We heard how Tor grants access to blocked resources online in Iran.
+
+"I live in Iran and I have been using Tor for censorship circumvention. During political unrest while the government tightens grip on other censorship circumvention alternatives, Tor with obfuscation plugins remain the only solution. Tor changed my personal life in many ways. It made it possible to access information on YouTube, Twitter, Blogger, and countless other sites. I am grateful to the Tor Project, people working on it, as well as people running Tor nodes."
+
+We heard from someone using Tor to research transgender issues and access a site blocked by their network.
+
+"I am transgender and sometimes look thing up on Tor about that. When I was in high school I also used it to access blocked sites like the Internet Wayback Machine."
+
+We heard from an activist who relies on Tor to stay safe.
+
+"I'm a political activist, part of a semi-criminalized minority. In my younger years I entered the public debate openly, and as a result got harassed by government agencies. I later tried to obfuscate my identity, but I found that my government has surprisingly broad powers to track down dissidents. Only by using anonymizing means, among which Tor is key, can I get my message out without having police come to "check my papers" in the middle of the night. Tor allows me freedom to publish my message to the world without being personally persecuted for it. Being a dissident is hard enough, privacy is already heavily curtailed, so anonymized communication is a godsend."
+
+What is your Tor story? Have you used Tor to curtail surveillance, circumvent censorship, conduct research, cope with an abuser, or speak up about corruption? If any of these apply to you or if you have another story to share, please let us know. Because of our deep commitment to protect your privacy, we won’t know your story unless you tell us. Your story can help us make Tor better for you and other people around the world who need it most: https://blog.torproject.org/how-has-tor-helped-you-send-us-your-story
+
+## Share Files Over Tor with OnionShare 2  ##
+
+OnionShare is an open source tool for securely and anonymously sending and receiving files using Tor onion services. It works by starting a web server directly on your computer and making it accessible as an unguessable Tor web address that others can load in Tor Browser to download files from you, or upload files to you. It doesn't require setting up a separate server, using a third party file-sharing service, or even logging into an account.
+
+Unlike services like email, Google Drive, DropBox, WeTransfer, or nearly any other way people typically send files to each other, when you use OnionShare you don't give any companies access to the files that you're sharing. So long as you share the unguessable web address in a secure way (like pasting it in an encrypted messaging app), no one but you and the person you're sharing with can access your files.
+
+I first saw the need for this tool when I learned about how David Miranda, the partner of my colleague Glenn Greenwald, got detained for nine hours at a London airport while he was trying to fly home to Brazil. Working on a journalism assignment for the Guardian, Miranda was carrying a USB stick with sensitive documents. I knew that he could have securely sent the documents over the internet using a Tor onion service, one of the most underappreciated technologies on the internet, and avoided the risk of physically traveling with them. I developed OnionShare to make this file sharing process over the Tor network more accessible to everyone.
+
+After nearly a year of work from a growing community of developers, designers, and translators, I'm excited that OnionShare 2 is finally ready. You can download it from https://onionshare.org.
+
+Learn more about OnionShare and its new features: https://blog.torproject.org/new-release-onionshare-2
+
+## New Releases ##
+
+Tor Browser 8.0.6
+The main change in this new release is the update of Firefox to 60.5.1esr. Full changelog: https://blog.torproject.org/new-release-tor-browser-806
+
+Tor Browser 8.5a8
+The main change in this new release is the update of Firefox to 60.5.1esr, fixing some vulnerabilities in the Skia library. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a8
+
+Tor 0.4.0.2-alpha, 0.3.5.8, 0.3.4.11, and 0.3.3.12
+These new source code releases all fix TROVE-2019-001. Full changelog: https://blog.torproject.org/new-releases-tor-0402-alpha-0358-03411-and-03312
+
+## Upcoming Events with Tor //
+
+Nullcon. Goa, India. 1-3 March, 2019. https://blog.torproject.org/events/nullcon-goa
+LibrePlanet. Boston, USA. 23-24 March, 2019. https://blog.torproject.org/events/libreplanet-boston
+KNOW Conference. Las Vegas, USA. 24-27 March, 2019. https://blog.torproject.org/events/know-2019-vegas-0
+Internet Freedom Festival. Valencia, Spain. 1-5 April, 2019. https://blog.torproject.org/events/internet-freedom-festival-valencia
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
