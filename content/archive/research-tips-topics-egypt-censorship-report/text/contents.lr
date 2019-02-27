@@ -10,7 +10,7 @@ title: Research Tips & Topics, Egypt Censorship Report, HOPE Vid, Events
 ---
 body:
 
-// The State of Internet Censorship in Egypt // 
+## The State of Internet Censorship in Egypt ## 
 
 A groundbreaking report by OONI and AFTE uncovered anomalies on Egyptian networks including censorship and the hijacking of unencrypted HTTP connections for advertising and cryptocurrency mining. Even UN sites were redirected.
 
@@ -20,7 +20,7 @@ Also, more than 100 news websites are blocked in Egypt, including Al Jazeera, Th
 
 While it’s been known that Egypt has undertaken widespread censorship of websites, this is the first time a comprehensive study of the methods of censorship have been undertaken. Find out how Egypt censors: https://blog.torproject.org/egypt-internet-censorship
 
-// How to Do Effective and Impactful Tor Research  // 
+## How to Do Effective and Impactful Tor Research  ## 
 
 As we mentioned in our previous post about Tor research topics, Tor greatly benefits from the research community. When researchers work closely with the design and development of deployed systems, this not only results in better research, but also better systems. For project maintainers, research that identifies vulnerabilities, creates new solutions to existing problems, and verifies proposed designs helps improve projects and make them safer for end users. TLS 1.3 is one recent example of where a symbiotic research/practitioner relationship has improved the protocol's design and safety.
 
@@ -32,15 +32,15 @@ We have structured this post in terms of an ordered list of goals for research. 
 
 Find out your list of goals, in order of increasing difficulty, when conducting relevant research: https://blog.torproject.org/how-do-effective-and-impactful-tor-research
 
-// Open Research Topics: 2018 Edition //
+## Open Research Topics: 2018 Edition## 
 
 Here we update the list of open Tor research problems, to bring focus to specific areas of research that the Tor Project thinks are necessary/useful in our efforts to upgrade and improve the Tor network and associated components and software. It is organized by topic area: network performance, network security, censorship circumvention, and application research. Each topic area provides information about current and desired work and ideas. We conclude with information about doing ethical and useful research on Tor and with suggestions on how to best ensure that this work is useful and easy for us to adopt. Check them out: https://blog.torproject.org/tors-open-research-topics-2018-edition
 
-// Watch The Onion Report from HOPE // 
+## Watch The Onion Report from HOPE ## 
 
 Find out all about what different teams at Tor have been up to by watching The Onion Report from HOPE. Filmed July 20th in NYC with Steph, Alison, George, David, and Matt: https://livestream.com/internetsociety/hope/videos/178158095
 
-// New Onion Services Add-On: Vanguards //
+## New Onion Services Add-On: Vanguards## 
 
 Earlier this year, the Tor Project released its first stable Tor and Tor Browser releases with the new v3 onion service protocol. The protocol features many improvements, including longer and more secure onion addresses, service enumeration resistance, improved authentication, and upgraded cryptography.
 
@@ -50,7 +50,7 @@ The core Vanguards functionality ensures that all onion service circuits are res
 
 If you want to beef up the security of your onion service, this add-on is for you: https://blog.torproject.org/announcing-vanguards-add-onion-services
 
-// New Releases // 
+## New Releases ## 
 
 Tor 0.3.3.8
 This release backports several changes from the 0.3.4.x series, including fixes for a memory leak affecting directory authorities. Full changelog: https://blog.torproject.org/tor-0338-released
@@ -61,7 +61,7 @@ This release features important security updates to Firefox and updates firefox 
 Tor Browser 7.5.4
 This release updates Firefox to 52.8.0esr, HTTPS Everywhere to 2018.4.11, and NoScript to 5.1.8.5. In addition, we exempt .onion domains from mixed content warnings, fixed a fingerprinting issue and an issue with localized content.  Full changelog: https://blog.torproject.org/tor-browser-754-released
 
-// Upcoming Events with Tor // 
+## Upcoming Events with Tor ## 
 
 - Explore Tor, NYC! Meetup and Q&A with Isabela Bagueros. Brooklyn, USA. August 2, 2018. https://blog.torproject.org/events/explore-tor-nyc-meetup-qa-isa
 
@@ -75,7 +75,7 @@ This release updates Firefox to 52.8.0esr, HTTPS Everywhere to 2018.4.11, and No
 
 - RustConf. Portland, USA. August 17, 2018. https://blog.torproject.org/events/rustconf-portland
 
-// Join Our Community // 
+## Join Our Community ## 
 
 Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 

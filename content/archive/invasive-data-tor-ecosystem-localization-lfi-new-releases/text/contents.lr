@@ -12,13 +12,13 @@ body:
 
 We're nearing the end of our year-end education and fundraising campaign, Strength in Numbers. Learn more about it or support our work: https://torproject.org/donate/donate-sin-tn3
 
-// Usable Tools Don't Need To Be Invasive  //
+## Usable Tools Don't Need To Be Invasive ## 
 
 Usability is about making sure anyone, no matter their technical background, can use a tool. Usability and user experience (UX) work has gained a lot of importance in the last decade as the tech industry has grown. To improve user experience, most of the tech industry relies on analyzing their users\'92 behavioral data to drive decision making. Mechanisms for collecting this data are often invasive and performed without consent from users, who may never be told their behavior is being analyzed for this purpose. The same means used to collect behavioral data is also responsible for aiding the surveillance economy.
 
 Tor does things differently. We refuse to collect this type of invasive data. Find out what we do instead: https://blog.torproject.org/strength-numbers-usable-tools-dont-need-be-invasive
 
-// An Entire Ecosystem Relies on Tor //
+## An Entire Ecosystem Relies on Tor## 
 
 If the Tor Project, the Tor network, and Tor Browser were to disappear, what would happen? Not only would millions of global, daily users lose access to Tor\'92s software, but the diverse ecosystem of privacy, security, and anti-censorship applications that rely on the Tor network would cease to function.
 
@@ -26,7 +26,7 @@ The same network and technologies that allow you to use the internet anonymously
 
 Learn about the many vital anonymity and privacy applications that rely on the Tor network and technologies: https://blog.torproject.org/strength-numbers-entire-ecosystem-relies-tor
 
-// The Internet Freedom Movement Must Be Localized //
+## The Internet Freedom Movement Must Be Localized## 
 
 The aim of localization is much broader than just translating strings of words. To localize an application means to ensure that the application stays relevant in the local context, is understandable, and is usable.
 
@@ -38,11 +38,11 @@ We made big improvements this year on our mission to localize Tor software for e
 
 Find out what's next in our mission to localize Tor tools and resources: https://blog.torproject.org/strength-numbers-internet-freedom-movement-must-be-localized
 
-// Library Freedom Institute Applications Are Open //
+## Library Freedom Institute Applications Are Open## 
 
 This is a one-of-a-kind opportunity for librarians who want to take their privacy advocacy to the next level. Tell your radical librarian friends to apply for LFI. Though tailored to public and community college librarians, LFI is open to librarians from all types of libraries, and it is completely free: https://libraryfreedomproject.org/lfi/
 
-// New Releases //
+## New Releases## 
 
 Tor 0.3.5.6-rc
 This release fixes numerous small bugs in earlier versions of Tor. It is the first release candidate in the 0.3.5.x series; if no further huge bugs are found, our next release may be the stable 0.3.5.x. Full changelog: https://blog.torproject.org/new-release-tor-0356-rc
@@ -53,7 +53,7 @@ Tor Browser 8.0.4 contains updates to Tor (0.3.4.9), OpenSSL (1.0.2q) and other 
 Tor Browser 8.5a6
 This release features important security updates to Firefox and updates OpenSSL to 1.0.2q for our desktop platforms. The most exciting news, however, compared to the alpha release early last week, comes from progress we made on our mobile builds. Tor Browser 8.5a6 is the first version that is built reproducibly for Android devices and is localized in all locales the desktop platforms support. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a6
 
-// Join Our Community //
+## Join Our Community## 
 
 Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 

@@ -10,7 +10,7 @@ title: Domain Fronting, Relay Help, User Needs, New Interns, Events
 ---
 body:
 
-// Domain Fronting Is Critical to the Open Web //
+## Domain Fronting Is Critical to the Open Web## 
 
 Last month, Amazon and Google have both announced they’re pulling the plug on domain fronting, a crucial tool which helps our most vulnerable users get access to Tor when their countries don’t allow it. Users of Signal and Telegram are also affected by this block, and Access Now identified approximately a dozen “human rights-enabling technologies” which had relied on Google for this purpose: https://www.accessnow.org/google-ends-domain-fronting-a-crucial-way-for-tools-to-evade-censors/
 
@@ -24,23 +24,23 @@ For the time being, we are shifting to Microsoft’s Azure cloud. But we’ve he
 
 Unfortunately, it doesn’t look like there is a fast fix. We were not given advance notice of these changes, so we are thinking hard on potential solutions to ensure our friends living in repressive regimes around the world can continue to access the open web.
 
-// Get Help Running Your Relay From Our New Advocate //
+## Get Help Running Your Relay From Our New Advocate## 
 
 Thousands of relays make up the roots of the Tor network, and the volunteers who run them are indispensable, donating their time, infrastructure, and technical know-how to help millions of people around the world, including activists and journalists, communicate privately and securely.
 
 Over the years, the Tor team saw there was a need for greater support of the relay operator community and heard concerns about how to better meet their needs. We now have a Relay Advocate whose job will be improving the health and happiness of the relay operator community, expanding the community, and helping improve bonds between operators. Meet Colin (Phoul) and find out what he'll be up to: https://blog.torproject.org/get-help-running-your-relay-our-new-advocate
 
-// Tor + Tails UX: Identifying User Needs at CryptoRave 2018 //
+## Tor + Tails UX: Identifying User Needs at CryptoRave 2018## 
 
 This month during the geek CryptoRave in São Paulo, we invited Tails and Tor users to join a user needs session. We love to run sessions with groups of similar users so we can focus on their unique needs and experiences. Users of Tor and Tails have the common objective: they are looking to use private and secure tools, and their safety could be a concern.
 
 We like to envision our community of users ultimately making the tools we build. UX is about relationships. We need to understand our users' relationship to our software. And in order to do that, we need a close relationship with our users. Find out what we're considering to address user needs we identified: https://blog.torproject.org/tor-tails-ux-identifying-user-needs-cryptorave-2018
 
-// Meet the Tor Summer of Privacy & Outreachy Interns //
+## Meet the Tor Summer of Privacy & Outreachy Interns## 
 
 We have new contributors joining the Tor Project who come to us through two paid internship programs, Tor Summer of Privacy and Outreachy, an internship program for underrepresented groups in tech. Meet the interns and find out a few of the things they’ll be working on: blog.torproject.org/meet-tor-summer-privacy-and-outreachy-interns
 
-// New Releases //
+## New Releases## 
 
 Tor 0.3.3.6 This is the first stable release in the 0.3.3 series. It backports several important fixes from the 0.3.4.1-alpha. The Tor 0.3.3 series includes controller support and other improvements for v3 onion services, official support for embedding Tor within other applications, and our first non-trivial module written in the Rust programming language. (Rust is still not enabled by default when building Tor.) And as usual, there are numerous other smaller bugfixes, features, and improvements. Full changelog: https://blog.torproject.org/tor-0336-released-new-stable-series
 
@@ -48,7 +48,7 @@ Tor Browser 8.0a7 This release features important security updates to Firefox an
 
 Tor Browser 7.5.4 This release updates Firefox to 52.8.0esr, HTTPS Everywhere to 2018.4.11, and NoScript to 5.1.8.5. In addition, we exempt .onion domains from mixed content warnings, fixed a fingerprinting issue and an issue with localized content. Full changelog: https://blog.torproject.org/tor-browser-754-released
 
-// Upcoming Events with Tor //
+## Upcoming Events with Tor## 
 
 Mozilla All-Hands. San Francisco, USA. June 11-15, 2018. https://blog.torproject.org/events/mozilla-all-hands-san-fran
 
@@ -58,7 +58,7 @@ The First Amendment for the 21st Century Pittsburgh, USA. June 21-22, 2018. http
 
 The 18th Privacy Enhancing Technologies Symposium (PETS). Barcelona, Spain. July 24-27, 2018. https://petsymposium.org/2018/index.php
 
-// Join Our Community //
+## Join Our Community## 
 
 Getting involved with Tor is easy: you can help us make the network faster and more decentralized by running a relay. https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 

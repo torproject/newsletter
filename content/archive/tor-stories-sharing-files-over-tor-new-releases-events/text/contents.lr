@@ -55,7 +55,7 @@ The main change in this new release is the update of Firefox to 60.5.1esr, fixin
 Tor 0.4.0.2-alpha, 0.3.5.8, 0.3.4.11, and 0.3.3.12
 These new source code releases all fix TROVE-2019-001. Full changelog: https://blog.torproject.org/new-releases-tor-0402-alpha-0358-03411-and-03312
 
-## Upcoming Events with Tor //
+## Upcoming Events with Tor ##
 
 Nullcon. Goa, India. 1-3 March, 2019. https://blog.torproject.org/events/nullcon-goa
 LibrePlanet. Boston, USA. 23-24 March, 2019. https://blog.torproject.org/events/libreplanet-boston

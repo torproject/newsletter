@@ -10,7 +10,7 @@ title: We Gave Tor Browser a UX Overhaul
 ---
 body:
 
-// We Gave Tor Browser a UX Overhaul  //
+## We Gave Tor Browser a UX Overhaul ## 
 
 For the past year, we have been collecting feedback on how we can make Tor Browser work better for you.
 
@@ -35,7 +35,7 @@ Providing this many improvements for our users could only be possible with colla
 Learn more about it: https://blog.torproject.org/new-alpha-release-tor-browser-android
 Try it out: https://www.torproject.org/download/download-easy.html
 
-// Volunteer Spotlight: Sina Rabbani Helps Activists Avoid Government Censorship //
+## Volunteer Spotlight: Sina Rabbani Helps Activists Avoid Government Censorship## 
 
 Tor is a labor of love built by a small group of committed individuals. We’re grateful to have the support of a dedicated volunteer base who help us to make Tor the strongest privacy tool out there, and we’re highlighting their work in this series. We want to thank Sina Rabbani, one of the co-founders (and former CTO) of Access Now, a nonprofit dedicated to defending users’ digital rights, for his years of support to Tor and to the internet freedom movement.
 
@@ -47,7 +47,7 @@ Free speech is something Sina doesn’t take for granted. “I was born in a cou
 
 Learn more about Sina's work and how he became involved with Tor: https://blog.torproject.org/volunteer-spotlight-sina-rabbani-helps-activists-avoid-government-censorship
 
-// More New Releases //
+## More New Releases## 
 
 Tor Browser 8.0a10
 Tor Browser 8.0a10 is the second alpha release based on Firefox ESR 60 and contains a number of improvements and bug fixes. It includes major updates to the user experience, and there are more to come. The stable version is slated for release next week! Full changelog: https://blog.torproject.org/new-release-tor-browser-80a10
@@ -55,14 +55,14 @@ Tor Browser 8.0a10 is the second alpha release based on Firefox ESR 60 and conta
 Tor 0.3.4.7-rc
 Tor 0.3.4.7-rc fixes several small compilation, portability, and correctness issues in previous versions of Tor. This version is a release candidate: if no serious bugs are found, we expect that the stable 0.3.4 release will be (almost) the same as this release. Full changelog: https://blog.torproject.org/new-release-tor-0347-rc
 
-// Upcoming Events with Tor //
+## Upcoming Events with Tor## 
 
 - Tor Meetup Ciudad de México. Mexico City. September 27, 2018. https://blog.torproject.org/events/tor-meetup-ciudad-de-mexico
 
 - Tor's Open Hack Days. Mexico City. October 2-3, 2018. https://blog.torproject.org/events/tors-open-hack-days-mexico-city
 
 
-// Join Our Community //
+## Join Our Community## 
 
 Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 
