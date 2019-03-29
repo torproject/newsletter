@@ -1,0 +1,76 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-03-29
+---
+title: Meet The New TorProject.org
+---
+body:
+
+## Meet The New TorProject.org ##
+
+Two years ago, we launched our styleguide[1] as our first step in creating a consistent visual look and feel across the entire Tor Project ecosystem. We are very happy to announce the launch of our brand new website[2].
+
+Besides bringing more consistency to our visual look, which reinforces community identity and helps us to build user trust by identification, our new website is one part of our goal to ensure that everyone on the planet can use Tor. Last year, we worked hard on making important usability improvements to our browser[3], including bringing a version of it to Android[4].
+
+But, it is through our homepage that most people first learn about Tor and decide to download our browser. And our previous site was doing a poor job at helping potential users understand what Tor was all about. We had way too much information for a person to consume, and none of it was localized. With that in mind, we decided to redesign our website to focus on new users and make it mobile-friendly. Most importantly with our new website, we want Tor Browser to be easy to download and its benefits easy to understand. Most importantly with our new website, we want Tor Browser to be easy to download and its benefits easy to understand.
+
+We want to make sure that people around the world, using Tor in an array of contexts, can use Tor without barriers. Tor Browser itself is available in 24 different languages, but our website isn\'92t. With this refresh, torproject.org is now available in 7 different languages: English, German, Portuguese, Spanish, French, Italian, and Russian, and there are more on the way. If you would like to help us with translations, here\'92s how[5].
+
+In addition to this update, we are also better organizing all the other content into different portals. For instance, last year we launched our support portal[6] to host all the content related to user support. Coming next will be our community.torproject.org portal that will feature content related to the different ways you can join our community and spread the word about Tor. The portal for all of our free software projects will soon be dev.torproject.org. If you are looking for any content that existed in the old site and is not on the new one, you can access it here[7].
+
+These efforts are taking the collaboration of many people across Tor teams and the help of dedicated volunteers. We\'92re very proud to start rolling these changes out.
+
+We are a group of people united by the belief that everyone should have private access to the open web, and we hope our new site makes that easier to achieve.
+
+[1]https://styleguide.torproject.org
+[2]https://torproject.org
+[3]https://blog.torproject.org/new-release-tor-browser-80
+[4]https://blog.torproject.org/new-alpha-release-tor-browser-android
+[5]https://wiki.localizationlab.org/index.php/Tor
+[6]https://support.torproject.org
+[7]https://2019.www.torproject.org/
+
+## We Now Accept Donations in Multiple Cryptocurrencies ##
+
+You can now donate several different types of cryptocurrencies to the Tor Project: Augur (REP), Bitcoin (XBT), Bitcoin Cash (BCH), Dash (DASH), Ether (ETH), Litecoin (LTC), Monero (XMR), Stellar Lumen (XLM), Dogecoin (XDG), and Zcash (ZEC). https://donate.torproject.org/cryptocurrency
+
+Donations from individuals like you, whether they be in cryptocurrency or not, make it possible for us to allocate funds to pressing projects not covered by grants, such as the launch of our new website.
+
+Donate today to help keep Tor robust and secure and to ensure we can continue to make Tor more accessible to people around the world: https://donate.torproject.org
+
+## New Releases ##
+
+Tor Browser 8.0.8
+The main change in this new release is the update of Firefox to 60.6.1esr, fixing bugs found during the Pwn2Own contest. Full changelog: https://blog.torproject.org/new-release-tor-browser-808
+
+Tor Browser 8.5a10
+This release features important security updates to Firefox. The main change in this new release is the update of Firefox to 60.6.1esr. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a10
+
+Tor 0.4.0.3-alpha
+This release is the third in its series; it fixes several small bugs from earlier versions. Full changelog: https://blog.torproject.org/new-release-tor-0403-alpha
+
+## Upcoming Events with Tor ##
+
+- Internet Freedom Festival. Valencia, Spain. 1-5 April, 2019. https://blog.torproject.org/events/internet-freedom-festival-valencia
+- RightsCon. Tunis, Tunisia. 11-14 June, 2019. https://rightscon.org
+- PETS. Stockholm, Sweden. 16-20 July, 2019. https://petsymposium.org/2019/index.php
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject\

@@ -1,0 +1,146 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-03-29
+---
+title: Meet The New TorProject.org
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Meet The New TorProject.org</h1>
+
+												<p>Two years ago, we launched our <a href="https://blog.torproject.org/we-launched-live-brand-styleguide">styleguide</a> as our first step in creating a consistent visual look and feel across the entire Tor Project ecosystem. We are very happy to announce the launch of our brand <a href="https://torproject.org">new website.</a></p>
+
+												<p><a href="https://torproject.org"><img alt="tor-website" src="https://blog.torproject.org/sites/default/files/inline-images/tor-project-website.png" style="width: 650px; height: 576px;" /></a></p>
+
+												<p>Besides bringing more consistency to our visual look, which reinforces community identity and helps us to build user trust by identification, our new website is one part of our goal to ensure that everyone on the planet can use Tor. Last year, we worked hard on making important <a href="https://blog.torproject.org/new-release-tor-browser-80">usability improvements to our browser</a>, including bringing a version of it <a href="https://blog.torproject.org/new-alpha-release-tor-browser-android">to Android</a>.</p>
+
+												<p>But, it is through our homepage that most people first learn about Tor and decide to download our browser. And our previous site was doing a poor job at helping potential users understand what Tor was all about. We had way too much information for a person to consume, and none of it was localized. With that in mind, we decided to redesign our website to focus on new users and make it mobile-friendly. Most importantly with our new website, we want Tor Browser to be easy to download and its benefits easy to understand.</p>
+
+												<p>We want to make sure that people around the world, using Tor in an array of contexts, <a href="https://blog.torproject.org/strength-numbers-internet-freedom-movement-must-be-localized">can use Tor without barriers</a>. Tor Browser itself is available in 24 different languages, but our website isn&rsquo;t. With this refresh, <a href="https://torproject.org/">torproject.org</a> is now available in 7 different languages: English, German, Portuguese, Spanish, French, Italian, and Russian, and there are more on the way. If you would like to help us with translations, <a href="https://wiki.localizationlab.org/index.php/Tor">here&rsquo;s how</a>.</p>
+
+												<p>In addition to this update, we are also better organizing all the other content into different portals. For instance, last year we launched our <a href="https://blog.torproject.org/help-us-translate-our-new-support-portal">support portal</a> to host all the content related to <a href="https://support.torproject.org">user support</a>. Coming next will be our community.torproject.org portal that will feature content related to the different ways you can join our community and spread the word about Tor. The portal for all of our free software projects will soon be dev.torproject.org. If you are looking for any content that existed in the old site and is not on the new one, you can <a href="https://2019.www.torproject.org/">access it here</a>.</p>
+
+												<p>These efforts are taking the collaboration of many people across Tor teams and the help of dedicated volunteers. We&rsquo;re very proud to start rolling these changes out.</p>
+
+												<p>We are a group of people united by the belief that everyone should have private access to the open web, and we hope our new site makes that easier to achieve.</p>
+
+												<hr />
+												<h1>We Now Accept Donations in Multiple Cryptocurrencies</h1>
+
+												<p>You can now <a href="https://donate.torproject.org/cryptocurrency">donate </a>several different types of cryptocurrencies to the Tor Project: Augur (REP), Bitcoin (XBT), Bitcoin Cash (BCH), Dash (DASH), Ether (ETH), Litecoin (LTC), Monero (XMR), Stellar Lumen (XLM), Dogecoin (XDG), and Zcash (ZEC).</p>
+
+												<p>Donations from individuals like you, whether they be in cryptocurrency or not, make it possible for us to allocate funds to pressing projects not covered by grants, such as the launch of our new website.</p>
+
+												<p><a href="https://donate.torproject.org">Donate today</a> to help keep Tor robust and secure and to ensure we can continue to make Tor more accessible to people around the world.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor Browser 8.0.8</h2>
+
+												<p>The main change in this new release is the update of Firefox to <a href="https://www.mozilla.org/en-US/firefox/60.6.1/releasenotes/">60.6.1esr</a>, fixing bugs found during the Pwn2Own contest. <a href="https://blog.torproject.org/new-release-tor-browser-808">Full changelog</a>.</p>
+
+												<h2>Tor Browser 8.5a10</h2>
+
+												<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2019-10/">security updates</a> to Firefox. The main change in this new release is the update of Firefox to <a href="https://www.mozilla.org/en-US/firefox/60.6.1/releasenotes/">60.6.1esr</a>.<a href="https://blog.torproject.org/new-release-tor-browser-85a10"> Full changelog</a>.</p>
+
+												<h2>Tor 0.4.0.3-alpha</h2>
+
+												<p>This release is the third in its series; it fixes several small bugs from earlier versions. Full changelog: <a href="https://blog.torproject.org/new-release-tor-0403-alpha">Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p><a href="https://blog.torproject.org/events/internet-freedom-festival-valencia">Internet Freedom Festival (IFF)</a>. Valencia, Spain. 1-5 April, 2019.</p>
+
+												<p><a href="https://rightscon.org">RightsCon</a>. Tunis, Tunisia. 11-14 June, 2019.</p>
+
+												<p><a href="https://petsymposium.org/2019/index.php">PETS</a>. Stockholm, Sweden. 16-20 July, 2019.</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+											<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
