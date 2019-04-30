@@ -1,0 +1,64 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-04-30
+---
+title: Advocating for Anonymity in Mozilla's 2019 Internet Health Report
+---
+body:
+
+## Advocating for Anonymity in Mozilla's 2019 Internet Health Report ## 
+
+Mozilla released its third annual examination of the internet, its impact on society and how it influences our everyday lives. The report includes a feature on Tor, In defense of anonymity, calling out the benefits of Tor software for upholding civil liberties:
+
+    "Our ability to communicate, work, and learn on the internet free from the glare of others enables very good things to happen."
+
+Check out the feature: https://internethealthreport.org/2019/in-defense-of-anonymity/
+
+You can help us continue to defend anonymity by making a donation to help us keep Tor robust and secure: https://donate.torproject.org
+
+## How Bandwidth Scanners Monitor The Tor Network ##
+
+The Tor network is comprised of thousands of volunteer-run relays around the world, and millions of people rely on it for privacy and freedom online everyday. To monitor the Tor network's performance, detect attacks on it, and better distribute load across the network, we employ what we call Tor bandwidth scanners.
+
+Tor relays report their own bandwidth based on the traffic they have sent and received. But this reported bandwidth is not verified by other relays. Bandwidth scanners help verify relay bandwidths. They also provide some initial traffic to new relays, so those relays can report a useful amount of bandwidth.
+
+Learn more about our bandwidth scanners, recent updates to them, and how we'd like them to improve.
+https://blog.torproject.org/how-bandwidth-scanners-monitor-tor-network
+
+## Collecting, Aggregating, and Presenting Data from The Tor Network //
+
+As the makers of software dedicated to privacy and freedom online, Tor must take special precautions when collecting data to ensure the privacy of its users while ensuring the integrity of its services.
+
+Tor Metrics is the central mechanism that the Tor Project uses to evaluate the functionality and ongoing relevance of its technologies. Tor Metrics consists of several services that work together to collect, aggregate, and present data from the Tor network and related services. We're always looking for ways to improve, and we recently completed a project to document our pipeline and identify areas that could benefit from modernization. Read more about the project: https://blog.torproject.org/collecting-aggregating-and-presenting-data-tor-network
+
+## New Releases ##
+
+Tor 0.4.0.4-rc
+This is the first release candidate in its series; it fixes several bugs from earlier versions, including some that had affected stability, and one that prevented relays from working with NSS. Full changelog: https://blog.torproject.org/new-release-tor-0404-rc
+
+## Upcoming Events with Tor //
+
+CryptoRave. S\'e3o Paulo, Brazil. 3-4 May, 2019. https://cryptorave.org/
+RightsCon. Tunis, Tunisia. 11-14 June, 2019. https://rightscon.org
+PETS. Stockholm, Sweden. 16-20 July, 2019. https://petsymposium.org/2019/index.php
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: https://mastodon.social/@torproject
