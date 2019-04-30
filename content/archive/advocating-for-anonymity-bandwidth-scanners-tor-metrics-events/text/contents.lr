@@ -10,7 +10,7 @@ title: Advocating for Anonymity in Mozilla's 2019 Internet Health Report
 ---
 body:
 
-## Advocating for Anonymity in Mozilla's 2019 Internet Health Report ## 
+## Advocating for Anonymity in Mozilla's 2019 Internet Health Report ##
 
 Mozilla released its third annual examination of the internet, its impact on society and how it influences our everyday lives. The report includes a feature on Tor, In defense of anonymity, calling out the benefits of Tor software for upholding civil liberties:
 
@@ -29,7 +29,7 @@ Tor relays report their own bandwidth based on the traffic they have sent and re
 Learn more about our bandwidth scanners, recent updates to them, and how we'd like them to improve.
 https://blog.torproject.org/how-bandwidth-scanners-monitor-tor-network
 
-## Collecting, Aggregating, and Presenting Data from The Tor Network //
+## Collecting, Aggregating, and Presenting Data from The Tor Network ##
 
 As the makers of software dedicated to privacy and freedom online, Tor must take special precautions when collecting data to ensure the privacy of its users while ensuring the integrity of its services.
 
@@ -40,7 +40,7 @@ Tor Metrics is the central mechanism that the Tor Project uses to evaluate the f
 Tor 0.4.0.4-rc
 This is the first release candidate in its series; it fixes several bugs from earlier versions, including some that had affected stability, and one that prevented relays from working with NSS. Full changelog: https://blog.torproject.org/new-release-tor-0404-rc
 
-## Upcoming Events with Tor //
+## Upcoming Events with Tor ##
 
 CryptoRave. S\'e3o Paulo, Brazil. 3-4 May, 2019. https://cryptorave.org/
 RightsCon. Tunis, Tunisia. 11-14 June, 2019. https://rightscon.org
