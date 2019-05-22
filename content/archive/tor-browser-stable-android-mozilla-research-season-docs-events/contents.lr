@@ -1,0 +1,158 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-05-22
+---
+title: Tor Browser is Stable on Android, Mozilla Research, Season of Docs, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Tor Browser is Stable on Android</h1>
+
+												<p><a href="https://blog.torproject.org/new-release-tor-browser-85"><img alt="Tor Browser logo " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/lead%20image%20%402x_0.png?itok=_H_NqtrI" style="width: 640px; height: 312px;" /></a></p>
+
+												<p>Since we released the <a href="https://blog.torproject.org/new-alpha-release-tor-browser-android">first alpha version of Tor Browser for Android in September</a>, we&#39;ve been hard at work making sure we can provide the protections users already enjoying on desktop to the Android platform. Mobile browsing is <a href="https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets">increasing</a> around the world, and in some parts, it is commonly the only way people access the internet. In these same areas, there is often heavy surveillance and censorship online, so we made it a priority to reach these users with a mobile Tor Browser release. The stable version of Tor Browser for Android is now available for download from <a href="https://play.google.com/store/apps/details?id=org.torproject.torbrowser">Google Play</a>, <a href="https://www.f-droid.org/">F-Droid</a>, and <a href="https://torproject.org">our website</a>.</p>
+
+												<p>We made sure there are no proxy bypasses, that first-party isolation is enabled to protect you from cross-site tracking, and that most of the fingerprinting defenses are working. While there are still <a href="https://trac.torproject.org/projects/tor/query?status=accepted&amp;status=assigned&amp;status=merge_ready&amp;status=needs_information&amp;status=needs_review&amp;status=needs_revision&amp;status=new&amp;status=reopened&amp;keywords=~tbb-parity&amp;order=priority">feature gaps</a> between the desktop and Android Tor Browser, we are confident that Tor Browser for Android provides essentially the same protections that can be found on desktop platforms. <strong>These protections are unmatched by any other browser.</strong></p>
+
+												<p><strong><a href="https://blog.torproject.org/new-release-tor-browser-85"><img alt="Tor Browser Android" src="https://blog.torproject.org/sites/default/files/inline-images/tba_0.png" style="width: 640px; height: 411px;" /></a></strong></p>
+
+												<p>The latest version of Tor Browser across all platforms also features UX and branding improvements in line with developments begun last year with the release of <a href="https://blog.torproject.org/new-release-tor-browser-85">Tor Browser 8</a>.</p>
+
+												<p>As always, we rely on feedback to improve our software. So if you have any suggestions or find a bug, <a href="https://trac.torproject.org/projects/tor/wiki/doc/community/HowToReportBugFeedback">please let us know</a>.</p>
+
+												<hr />
+												<h1><span class="quickedit-field" data-quickedit-field-id="node/1721/title/en/full" property="schema:name">Mozilla Research Call: Tune up Tor for Integration and Scale </span></h1>
+
+												<p><span class="quickedit-field" data-quickedit-field-id="node/1721/title/en/full" property="schema:name"><a href="https://blog.torproject.org/mozilla-research-call-tune-tor-integration-and-scale"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/mozilla-research-tor.jpg.png?itok=c7VjJymK" style="width: 640px; height: 320px;" /></a></span></p>
+
+												<p>What alternative protocol architectures and route selection protocols would offer acceptable gains in Tor performance? Would they preserve Tor properties? Is it possible to improve Tor performance without changing protocols? Is it truly possible to deploy Tor at scale? And what would the full integration of Tor and Firefox look like? Those are some of the questions that <a href="https://mozilla-research.forms.fm/mozilla-research-grants-2019h1/forms/6510">Mozilla is calling researchers</a> to answer in the privacy &amp; security part of their Mozilla Research Grants program.</p>
+
+												<p>Integrating Tor into Firefox would bring real private browsing and a safer internet experience to an unprecedented number of people around the world. But Tor has never been deployed at this scale, and there are a lot of considerations to research before Mozilla gives this a try.</p>
+
+												<p>Find out more about the <a href="https://blog.torproject.org/mozilla-research-call-tune-tor-integration-and-scale">areas needing research and how you can apply</a>. The deadline for applications is May 31.</p>
+
+												<hr />
+												<h1><span property="schema:name">Google Season of Docs 2019: Help Tor Improve Our Documentation </span></h1>
+
+												<p><span property="schema:name"><a href="https://blog.torproject.org/google-season-docs-2019-help-tor-improve-our-documentation"><img alt="Season of Docs " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/SeasonofDocs_Logo_SecondaryGrey_300ppi.png?itok=sfHCIJuA" style="width: 640px; height: 172px;" /></a></span></p>
+
+												<p>There are a few elements that are critical for the sustainability of an open source project. One of them is good documentation.</p>
+
+												<p>Although often neglected, documentation can be crucial for open source projects to provide meaningful guides on how to start contributing and guides on the architecture of the technology being developed.</p>
+
+												<p>These resources help not only newcomers and contributors to understand the technological aspects of a project but can also expose both decision making and work processes, outlining the best way to contribute.</p>
+
+												<p>This year Google has launched <a href="http://developers.google.com/season-of-docs/docs/participants/">Season of Docs</a>, and we&#39;ve been accepted as a mentoring organization. The program runs for approximately 3 months from September to November 2019 and there is additionally the option of a &quot;long-running project&quot; which goes on for approximately 5 months, from September 2019 to February 2020.</p>
+
+												<p>We&rsquo;re a small nonprofit organization that develops free and open source software used by millions around the world, and our community of contributors and users would greatly benefit from improved documentation. If you can help us out, <a href="http://developers.google.com/season-of-docs/docs/participants/">learn more about how to apply</a>.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor Browser 8.5</h2>
+
+												<p>After months of work and including feedback from our users, Tor Browser 8.5 includes our first stable release for Android plus many new features across platforms. <a href="https://blog.torproject.org/new-release-tor-browser-85">Full changelog</a>.</p>
+
+												<h2>Tor Browser 8.5a12</h2>
+
+												<p>This is an alpha release, an experimental version for users who want to help us test new features. This release fixes the issue which caused NoScript and all other Firefox extensions signed by Mozilla to be disabled. <a href="https://blog.torproject.org/new-release-tor-browser-85a12">Full changelog</a>.</p>
+
+												<h2>Tor 0.4.0.5</h2>
+
+												<p>This is the first stable release in the 0.4.0.x series. It contains improvements for power management and bootstrap reporting, as well as preliminary backend support for circuit padding to prevent some kinds of traffic analysis. It also continues our work in refactoring Tor for long-term maintainability. <a href="https://blog.torproject.org/new-release-tor-0405">Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p><a href="https://rightscon.org">RightsCon</a>. Tunis, Tunisia. 11-14 June, 2019.</p>
+
+												<p><a href="https://congresso.abraji.org.br/">Congresso Abraji</a>. S&atilde;o Paulo, Brasil. 27-29 June, 2019.</p>
+
+												<p><a href="https://petsymposium.org/2019/index.php">PETS</a>. Stockholm, Sweden. 16-20 July, 2019.</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+											<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>

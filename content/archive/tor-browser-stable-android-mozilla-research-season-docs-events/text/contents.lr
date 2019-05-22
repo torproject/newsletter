@@ -1,0 +1,87 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-04-30
+---
+title: Advocating for Anonymity, Bandwidth Scanners, Tor Metrics, Events
+---
+body:
+
+## Tor Browser is Stable on Android  ##
+
+Since we released the first alpha version of Tor Browser for Android in September, we've been hard at work making sure we can provide the protections users already enjoying on desktop to the Android platform. Mobile browsing is increasing around the world, and in some parts, it is commonly the only way people access the internet. In these same areas, there is often heavy surveillance and censorship online, so we made it a priority to reach these users with a mobile Tor Browser release. The stable version of Tor Browser for Android is now available for download from Google Play, F-Droid, and our website:
+
+https://play.google.com/store/apps/details?id=org.torproject.torbrowser
+
+https://www.f-droid.org/
+
+https://torproject.org
+
+We made sure there are no proxy bypasses, that first-party isolation is enabled to protect you from cross-site tracking, and that most of the fingerprinting defenses are working. While there are still feature gaps between the desktop and Android Tor Browser, we are confident that Tor Browser for Android provides essentially the same protections that can be found on desktop platforms. These protections are unmatched by any other browser.
+
+The latest version of Tor Browser across all platforms also features UX and branding improvements in line with developments begun last year with the release of Tor Browser 8: https://blog.torproject.org/new-release-tor-browser-85
+
+As always, we rely on feedback to improve our software. So if you have any suggestions or find a bug, please let us know: https://trac.torproject.org/projects/tor/wiki/doc/community/HowToReportBugFeedback
+
+## Mozilla Research Call: Tune up Tor for Integration and Scale ##
+
+What alternative protocol architectures and route selection protocols would offer acceptable gains in Tor performance? Would they preserve Tor properties? Is it possible to improve Tor performance without changing protocols? Is it truly possible to deploy Tor at scale? And what would the full integration of Tor and Firefox look like? Those are some of the questions that Mozilla is calling researchers to answer in the privacy & security part of their Mozilla Research Grants program.
+
+Integrating Tor into Firefox would bring real private browsing and a safer internet experience to an unprecedented number of people around the world. But Tor has never been deployed at this scale, and there are a lot of considerations to research before Mozilla gives this a try.
+
+Find out more about the areas needing research and how you can apply. The deadline for applications is May 31: https://blog.torproject.org/mozilla-research-call-tune-tor-integration-and-scale
+
+## Google Season of Docs 2019: Help Tor Improve Our Documentation ##
+
+There are a few elements that are critical for the sustainability of an open source project. One of them is good documentation.
+
+Although often neglected, documentation can be crucial for open source projects to provide meaningful guides on how to start contributing and guides on the architecture of the technology being developed.
+
+These resources help not only newcomers and contributors to understand the technological aspects of a project but can also expose both decision making and work processes, outlining the best way to contribute.
+
+This year Google has launched Season of Docs, and we've been accepted as a mentoring organization. The program runs for approximately 3 months from September to November 2019 and there is additionally the option of a "long-running project" which goes on for approximately 5 months, from September 2019 to February 2020.
+
+We\'re a small nonprofit organization that develops free and open source software used by millions around the world, and our community of contributors and users would greatly benefit from improved documentation. If you can help us out, learn more about how to apply: https://blog.torproject.org/google-season-docs-2019-help-tor-improve-our-documentation
+
+## New Releases ##
+
+Tor Browser 8.5
+After months of work and including feedback from our users, Tor Browser 8.5 includes our first stable release for Android plus many new features across platforms. Full changelog: https://blog.torproject.org/new-release-tor-browser-85
+
+Tor Browser 8.5a12
+This is an alpha release, an experimental version for users who want to help us test new features. This release fixes the issue which caused NoScript and all other Firefox extensions signed by Mozilla to be disabled. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a12
+
+Tor 0.4.0.5
+This is the first stable release in the 0.4.0.x series. It contains improvements for power management and bootstrap reporting, as well as preliminary backend support for circuit padding to prevent some kinds of traffic analysis. It also continues our work in refactoring Tor for long-term maintainability. Full changelog: https://blog.torproject.org/new-release-tor-0405
+
+## Upcoming Events with Tor ##
+
+RightsCon. Tunis, Tunisia. 11-14 June, 2019. https://rightscon.org
+
+Congresso Abraji. Sao Paulo, Brasil. 27-29 June, 2019. https://congresso.abraji.org.br/
+
+PETS. Stockholm, Sweden. 16-20 July, 2019. https://petsymposium.org/2019/index.php
+
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
