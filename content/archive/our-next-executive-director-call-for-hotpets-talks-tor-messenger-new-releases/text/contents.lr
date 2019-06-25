@@ -10,15 +10,15 @@ title: Our Next Executive Director, Call for HotPETS Talks, Tor Messenger, New R
 ---
 body:
 
-## Isabela Bagueros Will Be Our Next Executive Director## 
+## Isabela Bagueros Will Be Our Next Executive Director  ##
 
 Shari announced her retirement from the Tor Project at the end of February, and the search for our next Executive Director is already over. We didn't have to look far. Isabela Bagueros, current Tor Project Manager, will be our next Executive Director!
 
-Isa joined the Tor Project in 2015 and has led teams in collaborative strategy building and roadmapping unprecedented at the organization. She also leads Tor’s UX team in implementing critical usability improvements and is leading an overhaul of Tor’s website.
+Isa joined the Tor Project in 2015 and has led teams in collaborative strategy building and roadmapping unprecedented at the organization. She also leads Tor's UX team in implementing critical usability improvements and is leading an overhaul of Tor's website.
 
-“Isa’s contributions to Tor are too many to name here,” said Shari Steele, Tor’s current Executive Director who was brought on in 2015 to make the organization more operationally sound. “She brings global experience and perspective to privacy and censorship issues, and I could not be more confident in her ability to lead the organization into its next phase of growth and sustainability.”
+"Isa's contributions to Tor are too many to name here," said Shari Steele, Tor's current Executive Director who was brought on in 2015 to make the organization more operationally sound. "She brings global experience and perspective to privacy and censorship issues, and I could not be more confident in her ability to lead the organization into its next phase of growth and sustainability."
 
-Thinking of the user first has always been a priority for Isa, and during her three years with the organization, the scope of her vision for Tor has expanded to include the health of the organization and network. “I think any person on the planet should have access to the Tor network and enjoy the privacy and security it provides,” said Isa. “That means we need a healthy and scalable network and a strong and diverse organization to support that. I’m looking forward to seeing Tor gain global recognition for the privacy protections and censorship circumvention it provides.”
+Thinking of the user first has always been a priority for Isa, and during her three years with the organization, the scope of her vision for Tor has expanded to include the health of the organization and network. "I think any person on the planet should have access to the Tor network and enjoy the privacy and security it provides," said Isa. "That means we need a healthy and scalable network and a strong and diverse organization to support that. I'm looking forward to seeing Tor gain global recognition for the privacy protections and censorship circumvention it provides."
 
 Now in a transition phase, Isabela will officially begin her position as Executive Director after she hires her replacement Project Manager and gets up to speed on the requirements of the job. Shari will continue as Executive Director until Isabela transitions and then plans to move into a consulting role through the end of the year. Shari will join the Tor Project Board of Directors beginning January 2019.
 
@@ -26,7 +26,7 @@ Congratulations, Isa! :D
 
 Check out the post to read Isa's full bio: https://blog.torproject.org/announcing-tors-next-executive-director-isabela-bagueros
 
-## Call for Talks: HotPETS 2018## 
+## Call for Talks: HotPETS 2018  ##
 
 The Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs) fosters new ideas and spirited debates on privacy. Held in conjunction with the 18th Privacy Enhancing Technologies Symposium (PETS), the 11th HotPETs will be held July 27, 2018 in Barcelona, Spain.
 
@@ -34,7 +34,7 @@ HotPETS is calling for engaging and informative 10-15 minute talks on hot topics
 
 Last year there was an interesting discussion about whether a separate Tor network should be set up for safer research and another discussion around I2P. What idea, experience, lessons, or theories would you like to talk through? Find out some topics of interest and how to apply: https://blog.torproject.org/call-talks-hotpets-2018
 
-## Sunsetting Tor Messenger## 
+## Sunsetting Tor Messenger  ##
 
 In 2015, we introduced Tor Messenger, a cross-platform chat program that aimed to be secure by default by sending all of its traffic over Tor and enforcing encrypted one-to-one conversations by bundling and using OTR (Off-the-Record) messaging. The aim was to provide a chat client that supported a wide variety of transport networks like Jabber (XMPP), IRC, Google Talk, Facebook, Twitter; had an easy-to-use graphical interface; and configured most of the security and privacy settings automatically with minimal user intervention.
 
@@ -44,7 +44,7 @@ Eleven beta releases later, we have, sadly, decided to discontinue supporting To
 
 We apologize for any inconvenience this may have caused. We still believe in Tor's ability to be used in a messaging app, but sadly, we don't have the resources to make it happen right now. Maybe you do?
 
-## New Releases## 
+## New Releases  ##
 
 Tor 0.3.3.5-rc This release fixes various bugs in earlier versions of Tor, including some that could affect reliability or correctness. This is the first release candidate in the 0.3.3 series. If no new bugs or regression is found, then the first stable 0.3.3 release will be nearly identical to this one. Full changelog: https://blog.torproject.org/tor-0335-rc-released
 
@@ -52,19 +52,19 @@ Tor Browser 8.0a6 This release includes newer versions of Tor (0.3.3.5-rc), Open
 
 TorBirdy 0.2.4 TorBirdy is an extension for Mozilla Thunderbird that configures it to make connections over the Tor network. This release adds support for Thunderbird 58 and 59, fixes a bug in Thunderbird that leaks the installed dictionary language using the "Content-Language" header (for more information see Bug 22484), updates the Enigmail keyserver settings, and adds new translations. Full changelog: https://blog.torproject.org/torbirdy-024-released
 
-## Upcoming Events with Tor## 
+## Upcoming Events with Tor  ##
 
 RightsCon. Toronto, Canada. May 16-18, 2018: Several Tor folks will be attending and will have a booth set up for a half day on either the 16th or 17th (more info to follow on the events calendar). https://rightscon.org https://blog.torproject.org/events/month
 
 The 18th Privacy Enhancing Technologies Symposium (PETS). Barcelona, Spain. July 24-27, 2018. https://petsymposium.org/2018/index.php
 
-## Join Our Community## 
+## Join Our Community  ##
 
 Getting involved with Tor is easy: you can help us make the network faster and more decentralized by running a relay. https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 
 You can learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
 
-If you want to make a contribution but don’t have the time to volunteer, your donation will help keep Tor fast, strong, and secure: https://donate.torproject.org
+If you want to make a contribution but don't have the time to volunteer, your donation will help keep Tor fast, strong, and secure: https://donate.torproject.org
 
 --
 

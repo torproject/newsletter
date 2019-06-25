@@ -12,15 +12,15 @@ body:
 
 ## Activists & News Orgs: Onionize Your Sites Against Censorship ## 
 
-In many countries, censorship of websites with critical information or news is commonplace. If opinions, analysis, or facts contrary to the country’s narrative are published, repressive governments can quickly silence those voices by blocking access to those websites. 
+In many countries, censorship of websites with critical information or news is commonplace. If opinions, analysis, or facts contrary to the country's narrative are published, repressive governments can quickly silence those voices by blocking access to those websites. 
 
-For instance, in September 2017, one day after Human Rights Watch released a report on systematic torture in Egypt’s jails, Egypt blocked access to the HRW website, curtailing its people’s access to the report and leaving them uninformed about their own countries treatment of its citizens. Egypt has also blocked numerous news sites, including Al Jazeera, so when AJ reported on Egypt’s block of HRW after the report on torture was released, the most critical audience, the Egyptian people, were less likely to be reached.
+For instance, in September 2017, one day after Human Rights Watch released a report on systematic torture in Egypt's jails, Egypt blocked access to the HRW website, curtailing its people's access to the report and leaving them uninformed about their own countries treatment of its citizens. Egypt has also blocked numerous news sites, including Al Jazeera, so when AJ reported on Egypt's block of HRW after the report on torture was released, the most critical audience, the Egyptian people, were less likely to be reached.
 
 Publishing a website using onion services over the Tor network is a way to circumvent many state-led methods of censorship. These website addresses end in the TLD .onion. Similar to how the https:// protocol of a website provides more security than the http:// protocol, an onion address also appears to be the same site but gives a visitor more privacy and security through end-to-end encryption and improved authentication. 
 
-Visiting an onion address is easy. All that’s needed is Tor Browser (Tor Browser is built from Firefox and is similar to use); you visit the onion address in Tor Browser like you visit any web address. 
+Visiting an onion address is easy. All that's needed is Tor Browser (Tor Browser is built from Firefox and is similar to use); you visit the onion address in Tor Browser like you visit any web address. 
 
-Here’s the onion address of torproject.org: http://expyuzz4wqqyqhjn.onion/ 
+Here's the onion address of torproject.org: http://expyuzz4wqqyqhjn.onion/ 
 
 The New York Times has an onion address: https://www.nytimes3xbfgragh.onion/
 
@@ -28,11 +28,11 @@ So does ProPublica: https://www.propub3r6espa33w.onion/
 
 Download Tor Browser and check them out.
 
-If your organization’s site is already blocked anywhere in the world, or if you are calling out injustices, sharing state-suppressed resources, or just want to provide your site and users with better privacy and security, creating an onion version of your website should be your next step. 
+If your organization's site is already blocked anywhere in the world, or if you are calling out injustices, sharing state-suppressed resources, or just want to provide your site and users with better privacy and security, creating an onion version of your website should be your next step. 
 
 Alec Muffett, a security researcher and longtime member of the Tor Community, has created the Enterprise Onion Toolkit (EOTK) to make it easier for you to give a public site a corresponding onion address. You can ping Alec on Twitter or join the EOTK mailing list if you have any questions about how to use it. 
 
-We want a free and open internet for all, so let’s onionize and build it. 
+We want a free and open internet for all, so let's onionize and build it. 
 
 ## Tor Browser has a New Launcher & Now Supports Next-Gen Onion Services## 
 
@@ -54,17 +54,17 @@ Learn more about the improvements and checkout the full changelog: https://blog.
 
 Alec Helps Companies Activate Onion Services
 
-Alec has worked in security for 30 years, and has long recognized the importance of distributed systems and Tor’s onion routing features: “Enabling two peers to communicate with nobody 'getting between' them was part of the intention of the original internet. Nowadays there's a saying: 'if you want to share a photo with a friend, why do you have to give it to a multi-billion-dollar corporation, first?'; but Tor offers a disintermediation solution for this, and perhaps all similar, problems."
+Alec has worked in security for 30 years, and has long recognized the importance of distributed systems and Tor's onion routing features: "Enabling two peers to communicate with nobody 'getting between' them was part of the intention of the original internet. Nowadays there's a saying: 'if you want to share a photo with a friend, why do you have to give it to a multi-billion-dollar corporation, first?'; but Tor offers a disintermediation solution for this, and perhaps all similar, problems."
 
-He continues: "I believe that disintermediated communication is an important capability, and so I built the Enterprise Onion Toolkit to assist publishers, writers, and virtual communities to connect directly, securely, efficiently, and without intermediaries, to their audiences and membership.” Read more about Alec and the EOTK: https://blog.torproject.org/volunteer-spotlight-alec-helps-companies-activate-onion-services
+He continues: "I believe that disintermediated communication is an important capability, and so I built the Enterprise Onion Toolkit to assist publishers, writers, and virtual communities to connect directly, securely, efficiently, and without intermediaries, to their audiences and membership." Read more about Alec and the EOTK: https://blog.torproject.org/volunteer-spotlight-alec-helps-companies-activate-onion-services
 
 Kat, a Privacy Activism Veteran, Has Been Around Tor People Longer than There's Been a Tor
 
-We like to thank our volunteer relay operators by sending them a Tor t-shirt, and Kat helps Jon get those t-shirts out the door. She’s also helping with the website, as we begin our redesign and revamp our support and community portals. As if all that wasn’t enough, Kat has also set up her own relay, making the Tor network faster, more reliable, and more decentralized.
+We like to thank our volunteer relay operators by sending them a Tor t-shirt, and Kat helps Jon get those t-shirts out the door. She's also helping with the website, as we begin our redesign and revamp our support and community portals. As if all that wasn't enough, Kat has also set up her own relay, making the Tor network faster, more reliable, and more decentralized.
 
-Setting up a relay is easy, she says. “I'd encourage anyone who has access to a server, some bandwidth, and reasonable sysadmin skills to give it a go. More relays mean a stronger Tor network, which means we can better protect the privacy of Tor users around the world.”
+Setting up a relay is easy, she says. "I'd encourage anyone who has access to a server, some bandwidth, and reasonable sysadmin skills to give it a go. More relays mean a stronger Tor network, which means we can better protect the privacy of Tor users around the world."
 
-“I want everyone to be able to communicate freely so they can work together to make their worlds better places,” she says. “I care deeply about privacy, both in the ‘right to be let alone’ sense and in the ‘space to build and nurture one's identity’ sense.” Read more about Kat and her work with Tor: https://blog.torproject.org/volunteer-spotlight-kat-privacy-activism-veteran
+"I want everyone to be able to communicate freely so they can work together to make their worlds better places," she says. "I care deeply about privacy, both in the ‘right to be let alone' sense and in the ‘space to build and nurture one's identity' sense." Read more about Kat and her work with Tor: https://blog.torproject.org/volunteer-spotlight-kat-privacy-activism-veteran
 
 DONATE NOW: donate.torproject.org
 

@@ -12,7 +12,7 @@ body:
 
 Tor Browser Now Protects Your Privacy with Sandboxing
 
-Tor Browser now protects your privacy with sandboxing: https://blog.torproject.org/blog/tor-browser-70-released While we are still working on the sandboxing part for Windows, both Linux and macOS have had content sandboxing enabled by default since Tor Browser 7.0. Sandboxing creates a separate environment within your computer, so it's harder for exploits to reveal your identity. The idea is that exploits targeting Tor Browser are trapped inside the sandbox and can’t get out and mess with the rest of your computer or deanonymize you. To learn more, check out this Q&A with Yawning Angel, a longtime Tor developer, about his work on a Linux prototype for a Tor Browser sandbox: https://blog.torproject.org/blog/q-and-yawning-angel
+Tor Browser now protects your privacy with sandboxing: https://blog.torproject.org/blog/tor-browser-70-released While we are still working on the sandboxing part for Windows, both Linux and macOS have had content sandboxing enabled by default since Tor Browser 7.0. Sandboxing creates a separate environment within your computer, so it's harder for exploits to reveal your identity. The idea is that exploits targeting Tor Browser are trapped inside the sandbox and can't get out and mess with the rest of your computer or deanonymize you. To learn more, check out this Q&A with Yawning Angel, a longtime Tor developer, about his work on a Linux prototype for a Tor Browser sandbox: https://blog.torproject.org/blog/q-and-yawning-angel
 
 The Wilmington Watch: A Tor Hackfest
 

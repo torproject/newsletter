@@ -10,15 +10,15 @@ title: Next-Gen Onions, Bastet, KIST, Mobile Browsing, Events
 ---
 body:
 
-We've got a lot to tell you. 
+We've got a lot to tell you.
 
-To keep you informed with updates and opportunities from across the organization, we’re starting Tor News again and will send it around once a month to start. This format is a little different than what some of you originally signed up for, but we hope you’ll stick around and hear what Tor is doing to protect internet freedom. We're now using CiviCRM to send Tor News, and as in the past, we will not publish, sell, trade, share, or rent any information about you. If you’d rather unsubscribe, you can in the footer below. As always, we have team-specific mailing lists you can join.
+To keep you informed with updates and opportunities from across the organization, we're starting Tor News again and will send it around once a month to start. This format is a little different than what some of you originally signed up for, but we hope you'll stick around and hear what Tor is doing to protect internet freedom. We're now using CiviCRM to send Tor News, and as in the past, we will not publish, sell, trade, share, or rent any information about you. If you'd rather unsubscribe, you can in the footer below. As always, we have team-specific mailing lists you can join.
 
-Here’s what we’ve been up to.   
+Here's what we've been up to.
 
 Our New Harvest: the Next Generation of Onion Services
 
-We are hyped to present the next generation of onion services! We've been working on this project non-stop for the past 4 years and we officially launched it a couple weeks ago by publishing our first alpha releases. 
+We are hyped to present the next generation of onion services! We've been working on this project non-stop for the past 4 years and we officially launched it a couple weeks ago by publishing our first alpha releases.
 
 We are assuming you are familiar with traditional onion services: fun little sites that look like nytimes3xbfgragh.onion. Onion services have been around for over 10 years and are used for all sorts of tasty things. News organizations use them for private information disclosure (see SecureDrop). Websites use them to defeat censorship and provide a secure gateway for their users (e.g. ProPublica). The cryptocurrency ecosystem uses them to perform private transactions and mining. People use them for their reachability and permanent onion address if they are behind NAT or dynamic IP.
 
@@ -28,23 +28,23 @@ So let's get a taste of the improvements these next generation onions provide us
 
 On the cryptography side, we are looking at cutting-edge crypto algorithms and improved authentication schemes. On the protocol end, we redesigned the directory system to defend against info leaks and reduce the overall attack surface. Read more: blog.torproject.org/tors-fall-harvest-next-generation-onion-services
 
-Introducing Bastet: Our New Directory Authority 
+Introducing Bastet: Our New Directory Authority
 
 How does the network choose the route that Tor traffic takes through the network? How does every Tor user get the same information on relays? How does Tor authenticate the connection to any given relay?
 
-The answer is through directory authorities — dedicated servers which tell Tor clients which relays make up the Tor network. Information about these directory authorities, located around the world and maintained by super trusted we-know-you-and-have-had-many-beers-with-you Tor volunteers, are hard-coded into Tor. Every hour, these volunteer-run directory authorities vote on and reach a consensus on the relays that make up the Tor network.
+The answer is through directory authorities - dedicated servers which tell Tor clients which relays make up the Tor network. Information about these directory authorities, located around the world and maintained by super trusted we-know-you-and-have-had-many-beers-with-you Tor volunteers, are hard-coded into Tor. Every hour, these volunteer-run directory authorities vote on and reach a consensus on the relays that make up the Tor network.
 
-We added a new directory authority last month, increasing the diversity and stability of the directory authority system. The latest authority, named “Bastet” after the ancient Egyptian goddess, is run by Tor contributor Stefani. Continue reading: blog.torproject.org/introducing-bastet-our-new-directory-authority
+We added a new directory authority last month, increasing the diversity and stability of the directory authority system. The latest authority, named "Bastet" after the ancient Egyptian goddess, is run by Tor contributor Stefani. Continue reading: blog.torproject.org/introducing-bastet-our-new-directory-authority
 
 Tor's Traffic Got KIST
 
-Starting with Tor 0.3.2.1-alpha, we've had a new feature to address traffic congestion in the Tor network. The new algorithm —Kernel Informed Socket Transport (KIST)— prevents connections between Tor relays from becoming overwhelmed by changing how traffic is distributed throughout the Tor network.
+Starting with Tor 0.3.2.1-alpha, we've had a new feature to address traffic congestion in the Tor network. The new algorithm -Kernel Informed Socket Transport (KIST)- prevents connections between Tor relays from becoming overwhelmed by changing how traffic is distributed throughout the Tor network.
 
-The previous design often meant too much data was being written to each Tor relay connection, which would overwhelm relays and lead to traffic delays. KIST, on the other hand, intelligently considers how to write data across all connections to other relays in a way that allows traffic to pass through the network more quickly. Clients can run KIST, but the benefits accrue when it’s widely used by relays. Currently, KIST is only available on Linux-like systems because of how they handle TCP information, but a variant, KISTlite, runs on all systems. Learn more: blog.torproject.org/kist-and-tell-tors-new-traffic-scheduling-feature
+The previous design often meant too much data was being written to each Tor relay connection, which would overwhelm relays and lead to traffic delays. KIST, on the other hand, intelligently considers how to write data across all connections to other relays in a way that allows traffic to pass through the network more quickly. Clients can run KIST, but the benefits accrue when it's widely used by relays. Currently, KIST is only available on Linux-like systems because of how they handle TCP information, but a variant, KISTlite, runs on all systems. Learn more: blog.torproject.org/kist-and-tell-tors-new-traffic-scheduling-feature
 
-We're Upping Our Support to Mobile Browsing 
+We're Upping Our Support to Mobile Browsing
 
-Around a year ago, folks from the Tor Project and the Guardian Project met to discuss the future of Tor Browser on mobile devices. The discussion began with Orfox, a Google Summer of Code (GSoC) project for mobile browsing over the Tor network. Since then, we have been working towards Orfox having similar functionality and security guarantees as Tor Browser for desktop.  
+Around a year ago, folks from the Tor Project and the Guardian Project met to discuss the future of Tor Browser on mobile devices. The discussion began with Orfox, a Google Summer of Code (GSoC) project for mobile browsing over the Tor network. Since then, we have been working towards Orfox having similar functionality and security guarantees as Tor Browser for desktop.
 
 Our first improvement was to port the Security Slider from Tor Browser desktop to Orfox. To adapt this feature from a desktop application into a mobile application, we had to change how the UI works for the mobile screen. Learn more about our plans for mobile: blog.torproject.org/blog/upping-support-mobile-browsing
 

@@ -10,41 +10,41 @@ title: ED Search, Relay Guide, Onions for Anti-Corruption, Internships, Events
 ---
 body:
 
-## We've Launched a Search for Our Next Executive Director!## 
+## We've Launched a Search for Our Next Executive Director! ##
 
 We are going to miss her, but Shari Steele, our current Executive Director, is set to give retirement a second try at the end of 2018. After 15 years as the Executive Director of the Electronic Frontier Foundation, Shari was brought on in December 2015 to make the Tor Project more operationally sound.
 
-“I had intended to retire after my time with EFF, but I believed strongly in the Tor Project’s mission, and I felt I could help. I look at the Tor Project organization today and feel quite confident that we’ve got the talent and the structure to continue to support the organization’s great work.” - Shari Steele
+"I had intended to retire after my time with EFF, but I believed strongly in the Tor Project's mission, and I felt I could help. I look at the Tor Project organization today and feel quite confident that we've got the talent and the structure to continue to support the organization's great work." - Shari Steele
 
 Around 35 engineers and operational support people plus many volunteers all over the world contribute to the Tor Project. Successful candidates for the Executive Director position will have a global perspective on privacy and censorship issues and be able to lead the diverse and distributed organization into its next phase of growth and sustainability.
 
 Potential candidates can learn more about the position at the job page: https://www.torproject.org/about/jobs-execdirector.html
 
-## Our New Guide Makes Running a Relay Easier Than Ever## 
+## Our New Guide Makes Running a Relay Easier Than Ever ##
 
 Have you considered running a relay, but didn't know where to start? Perhaps you're just looking for a way to help Tor, but you've always thought that running a relay was too complicated or technical for you and the documentation seemed daunting.
 
 We're here to tell you that you can become one of the many thousands of relay operators powering the Tor network, if you have some basic command-line experience. Learn more and get started: https://blog.torproject.org/new-guide-running-tor-relay
 
-## Italian Anti-Corruption Agency (ANAC) Adopts Onion Services## 
+## Italian Anti-Corruption Agency (ANAC) Adopts Onion Services ##
 
-ANAC software is based on a customized version of GlobaLeaks, a whistleblowing platform by the Hermes Center that integrates Tor natively. GlobaLeaks is expected to be redistributed to all Italian public agencies (~20.000 in total) to comply with Law 179/2017 and in line with the country’s recent strategic commitment to open-source software and the reuse of code.
+ANAC software is based on a customized version of GlobaLeaks, a whistleblowing platform by the Hermes Center that integrates Tor natively. GlobaLeaks is expected to be redistributed to all Italian public agencies (~20.000 in total) to comply with Law 179/2017 and in line with the country's recent strategic commitment to open-source software and the reuse of code.
 
-Given that Tor is the world’s strongest internet anonymity tool, we expect to see usage of onion services for secure communication systems across all sectors continue to gain traction. Read more about laws governing whistleblowing and anti-corruption compliance and how Tor can help: https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services
+Given that Tor is the world's strongest internet anonymity tool, we expect to see usage of onion services for secure communication systems across all sectors continue to gain traction. Read more about laws governing whistleblowing and anti-corruption compliance and how Tor can help: https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services
 
-## Tor + Outreachy: Internships for Underrepresented People in Tech## 
+## Tor + Outreachy: Internships for Underrepresented People in Tech ##
 
-The Tor Project has partnered with the Outreachy internship program, and we’ve got two internship slots for members of groups traditionally underrepresented in technology.
+The Tor Project has partnered with the Outreachy internship program, and we've got two internship slots for members of groups traditionally underrepresented in technology.
 
-We’re committed to inclusion in all facets of Tor development, and having a diverse range of backgrounds, viewpoints, and experience helps us foster a healthy development community. Outreachy encourages underrepresented groups to learn new skills, meet new people in their field, and contribute to critical open source tools.
+We're committed to inclusion in all facets of Tor development, and having a diverse range of backgrounds, viewpoints, and experience helps us foster a healthy development community. Outreachy encourages underrepresented groups to learn new skills, meet new people in their field, and contribute to critical open source tools.
 
 This round, we are looking for a User Advocate and a Documentation Editor. Applications are due March 22. Learn more about how to get started: https://blog.torproject.org/tor-outreachy-internships-underrepresented-people-tech
 
-## Tor Browser 8.0a2 is Released## 
+## Tor Browser 8.0a2 is Released ##
 
 The new release includes Tor 0.3.3.2-alpha, plus, we updated HTTPS Everywhere to 2018.1.29, NoScript to 5.1.8.4, and meek to 0.29. See the full changelog: blog.torproject.org/tor-browser-80a2-released
 
-## Upcoming Events with Tor## 
+## Upcoming Events with Tor ##
 
 Nullcon with Amogh: https://nullcon.net Goa, India March 22, 2018
 

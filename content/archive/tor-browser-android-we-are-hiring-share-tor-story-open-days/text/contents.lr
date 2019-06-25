@@ -11,7 +11,7 @@ title: Tor Browser for Android (alpha), We're Hiring, Share Your Tor Story, Open
 ---
 body:
 
-## New Release: Tor Browser for Android (Alpha) ## 
+## New Release: Tor Browser for Android (Alpha) ##
 
 Mobile browsing is on the rise around the world, and in some parts, it is commonly the only way people access the internet. In these same areas, there is often heavy surveillance and censorship online, so in the past year, we've focused on better supporting these users.
 
@@ -23,7 +23,7 @@ Note: For this release, you also need to install Orbot, a proxy application that
 
 Learn about its features and try it out: https://blog.torproject.org/new-alpha-release-tor-browser-android
 
-## We're Hiring: Software Developer, Anti-Censorship Team## 
+## We're Hiring: Software Developer, Anti-Censorship Team ##
 
 To strengthen our fight against censorship worldwide, we're forming a new Anti-Censorship Team. We need to hire a developer to help improve the user process of finding alternate routes to the Tor network when access is blocked.
 
@@ -31,7 +31,7 @@ Extensive experience writing and evaluating code in Python and Go is required. E
 
 Learn more and apply: https://www.torproject.org/about/jobs-developer-anti-censorship.html.en
 
-## How Has Tor Helped You? We Need Your Stories## 
+## How Has Tor Helped You? We Need Your Stories ##
 
 It's an understatement to say a lot has happened related to privacy and freedom online over the past seven years! Surveillance and crackdowns on free speech have increased around the world, and vast amounts of personal data have been collected and sold. Tools like Tor are needed more than ever to allow people to browse the web freely and privately.
 
@@ -41,7 +41,7 @@ We know these examples exist, and we reference them in our talks around the worl
 
 https://blog.torproject.org/how-has-tor-helped-you-we-need-your-stories
 
-## Hack With Us in Mexico City## 
+## Hack With Us in Mexico City ##
 
 Tor folks from around the world are heading out now to convene in Mexico City for one of our biannual meetings. We'll discuss the future of Tor as an organization and decide what protocols and features to focus our efforts on.
 
@@ -49,7 +49,7 @@ As part of this meeting, we're also having two open hack days everyone is welcom
 
 Find out more: https://blog.torproject.org/hack-us-mexico-city-hackea-con-tor-en-mexico
 
-## More New Releases## 
+## More New Releases ##
 
 Tor Browser 8.5a2
 This alpha version contains the same bug fixes and improvements introduced in version 8.0.1. In addition we are updating Tor to 0.3.5.2-alpha, and are fixing some 8.0 issues. Full changelog: https://blog.torproject.org/new-release-tor-browser-85a2
@@ -61,7 +61,7 @@ https://blog.torproject.org/new-release-tor-browser-801
 Tor 0.3.4.8 (also other stable updates: 0.2.9.17, 0.3.2.12, and 0.3.3.10)
 This is the first stable release in its series; it includes compilation and portability fixes and improvements for running Tor in low-power and embedded environments, which should help performance in general. Full changelog: https://blog.torproject.org/new-release-tor-0348-also-other-stable-updates-02917-03212-and-03310
 
-## Upcoming Events with Tor## 
+## Upcoming Events with Tor ##
 
 - Tor Meetup Ciudad de M'e9xico. Mexico City. September 27, 2018. https://blog.torproject.org/events/tor-meetup-ciudad-de-mexico
 
@@ -69,7 +69,7 @@ This is the first stable release in its series; it includes compilation and port
 
 - Tormenta: di'e1logos feministas para las libertades y autocuidados. Mexico City. October 4, 2018. https://blog.torproject.org/events/tormenta-dialogos-feministas-para-las-libertades-y-autocuidados
 
-## Join Our Community## 
+## Join Our Community ##
 
 Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 

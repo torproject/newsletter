@@ -32,11 +32,11 @@ By tracking you across different applications and sites through cookies or open 
 
 Within the HTTP request, various selectors can be included to communicate user preferences or particular features, in the form of URL variables. Personalized language or fonts settings, browser extensions, in-page keywords, battery charge and status, and more can be used to identify you by restricting the pool of possible candidates among all the visitors in a certain time frame, location, profile of interests. You can then be distinguished, or fingerprinted, across multiple devices or sessions and then the profile the tracker has on you is expanded.
 
-By the sites and applications themselves, the story is spun to sound as if they’re doing you a favor: they say this collection allows them to customize your experience. You see ads more relevant to you, Facebook and others say.
+By the sites and applications themselves, the story is spun to sound as if they're doing you a favor: they say this collection allows them to customize your experience. You see ads more relevant to you, Facebook and others say.
 
-Even if you think of an advertising network as a recommendation system, this same system is also influencing what you see. It’s changing your experience of the internet.
+Even if you think of an advertising network as a recommendation system, this same system is also influencing what you see. It's changing your experience of the internet.
 
-But at what cost is this customization? When confronted with transparency around what this “customization” takes, it “poisons” the ad. So of course these companies are pushing back against transparency, but we need to keep pushing them and doing what we can to prevent them from continuing to exploit us online.
+But at what cost is this customization? When confronted with transparency around what this "customization" takes, it "poisons" the ad. So of course these companies are pushing back against transparency, but we need to keep pushing them and doing what we can to prevent them from continuing to exploit us online.
 
 Learn about how Tor Browser can help: https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web
 
@@ -87,7 +87,7 @@ https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 You can learn about each of our teams and start collaborating:
 https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
 
-If you want to make a contribution but don’t have the time to volunteer, your donation will help keep Tor fast, strong, and secure:
+If you want to make a contribution but don't have the time to volunteer, your donation will help keep Tor fast, strong, and secure:
 https://donate.torproject.org
 
 --

@@ -10,13 +10,13 @@ title: Newbie Reflections, Mozilla's Match, Events
 ---
 body:
 
-## Reflections From a Tor Meeting Newbie ## 
+## Reflections From a Tor Meeting Newbie ##
 
-When I joined the Tor Project in July as Fundraising Director, I quickly learned that most questions I had about Tor'97what it does, its history, what makes up the greater ecosystem, even detailed notes from all past meetings'97can be found online. The beauty of a free and open source culture became apparent to me immediately. I learned this month at my first meeting in Mexico City that there is one aspect of Tor that cannot be encapsulated in documentation'97the people.
+When I joined the Tor Project in July as Fundraising Director, I quickly learned that most questions I had about Tor' what it does, its history, what makes up the greater ecosystem, even detailed notes from all past meetings' can be found online. The beauty of a free and open source culture became apparent to me immediately. I learned this month at my first meeting in Mexico City that there is one aspect of Tor that cannot be encapsulated in documentation' the people.
 
-I heard many voices at the meeting reflect on how the Tor Project has grown and changed in positive ways over the past few years. Without a doubt, this is a testament to the quality of the people working on Tor and the values we share. These values'97knowledge, engagement, inclusivity, collaboration, and fluidity'97were apparent throughout my five days in Mexico.
+I heard many voices at the meeting reflect on how the Tor Project has grown and changed in positive ways over the past few years. Without a doubt, this is a testament to the quality of the people working on Tor and the values we share. These values' knowledge, engagement, inclusivity, collaboration, and fluidity' were apparent throughout my five days in Mexico.
 
-The people of Tor'97staff, volunteers, friends, and community partners'97are not only knowledgeable about privacy and security, they are citizens of the world and are eager to talk about philosophy, politics, and the ways in which people interact with systems and power. Without exception, the attendees of every session I went to were attentive and engaged.
+The people of Tor' staff, volunteers, friends, and community partners' are not only knowledgeable about privacy and security, they are citizens of the world and are eager to talk about philosophy, politics, and the ways in which people interact with systems and power. Without exception, the attendees of every session I went to were attentive and engaged.
 
 The people of Tor are intentional about making everyone feel welcome and valued. From adherence to preferred pronouns to making sessions accessible to non-English speakers, these efforts to enhance accessibility could be seen and felt everywhere. Each session began with a reminder to make space for all types of people to speak and be heard. Although I was meeting most of the attendees for the first time, I was welcomed with open arms and never once felt excluded.
 
@@ -26,9 +26,9 @@ I have never witnessed collaboration be so effective and efficient. People who h
 
 Everyone I met was genuinely happy to be there. Old friends and new laughed, shared stories, and during the midweek party, we toasted mezcal and compared dance moves. People also connected through games of Mario Kart and Magic the Gathering.
 
-All of these values coalesce around the ultimate goal of Tor'97making the world a better place. Essential human rights cannot be achieved without private and safe access to the internet. The work we do at Tor saves lives. Meeting our Tor community in Mexico City energized me and made me proud of the small part I play in this essential work.
+All of these values coalesce around the ultimate goal of Tor is making the world a better place. Essential human rights cannot be achieved without private and safe access to the internet. The work we do at Tor saves lives. Meeting our Tor community in Mexico City energized me and made me proud of the small part I play in this essential work.
 
-## Mozilla Is Matching All Donations to Tor ## 
+## Mozilla Is Matching All Donations to Tor ##
 
 We have a bold mission: to take a stand against invasive and restrictive online practices and bring privacy and freedom to internet users around the world. But we can'92t do it alone.
 
@@ -48,19 +48,22 @@ Donate: https://torproject.org/donate/donate-sin-tn1
 
 Make a donation today, and you can be counted as one of the stakeholders bringing safe and private internet access to people worldwide.
 
-## New Releases ## 
+## New Releases ##
 
 Tor Browser 8.0.3
+
 Tor Browser 8.0.3 includes newer NoScript and HTTPS Everywhere versions. Moreover, it ships with a donation banner for our end of the year campaign and includes another round of smaller fixes for Tor Browser 8 issues on Linux systems. We also switched to a newer API for our NoScript <-> Torbutton communication, which we need for the Security Slider. Full changelog: https://blog.torproject.org/new-release-tor-browser-803
 
 Tor Browser 8.5a4
-Highlights in Tor Browser 8.5a4 are a new Tor alpha version, 0.3.5.3-alpha, a fixed layout of our macOS installer window and Stylo (Mozilla's new CSS engine) being enabled on macOS after fixing a reproducibility issues.  Full changelog: 
+
+Highlights in Tor Browser 8.5a4 are a new Tor alpha version, 0.3.5.3-alpha, a fixed layout of our macOS installer window and Stylo (Mozilla's new CSS engine) being enabled on macOS after fixing a reproducibility issues.  Full changelog:
 https://blog.torproject.org/new-release-tor-browser-85a4
 
 Tor 0.3.5.3-alpha
+
 Tor 0.3.5.3-alpha fixes several bugs, mostly from previous 0.3.5.x versions. One important fix for relays addresses a problem with rate- limiting code from back in 0.3.4.x: If the fix works out, we'll be backporting it soon.Full changelog: https://blog.torproject.org/new-release-tor-0353-alpha
 
-## Upcoming Events with Tor ## 
+## Upcoming Events with Tor ##
 
 - Internet Freedom Hack. Brisbane. November 9-11, 2018. https://blog.torproject.org/events/internet-freedom-hack-brisbane
 
@@ -68,7 +71,7 @@ Tor 0.3.5.3-alpha fixes several bugs, mostly from previous 0.3.5.x versions. One
 
 - GNU Health CON. Los Palmas, Spain. November 23-25, 2018. https://blog.torproject.org/events/gnu-health-con-los-palmas-spain
 
-## Join Our Community ## 
+## Join Our Community ##
 
 Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
 
