@@ -1,0 +1,94 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-06-27
+---
+title: Pride and Privacy, Tor Bridges, Ethiopia Report, Events
+---
+body:
+
+## Pride and Privacy  ##
+Fifty years ago, in New York City’s Greenwich Village, the NYPD raided a gay bar. This wasn’t a new occurrence. Patrons at the Stonewall Inn were familiar with being targeted by the police, arrested for “cross dressing,” hassled for being gender nonconforming or queer or transgender or otherwise outside of the rigid expectations around morality.
+
+Something different happened, though, on June 28, 1969. The patrons at the Stonewall Inn resisted the police raid and fought back. Their resistance sparked a week of protests and decades of collaborative activism in the name of LGBTQ+ recognition and safety.
+
+In the fifty years since the resistance at Stonewall, the global LGBTQ+ community has fought for, and in some cases won, important visibility and protections.
+
+Pride and the month of June can serve as a reminder of this progress. Pride can be an opportunity to celebrate without shame. Pride can be a reminder that all people deserve to safely gather, build community, swap resources, tell their stories, and be unapologetically who they are.
+
+Pride can also be an opportunity to reflect on how many LGBTQ+ people still face prejudice, injustice, and violence. In the same way safety was not a given in 1969 at the Stonewall Inn, safety is still not a given for LGBTQ+ people in 2019, particularly in places where there are negative social stigmas around being queer or transgender.
+
+Today, despite our progress, not all LGBTQ+ people can be public about their identities. Many people still face extreme consequences for being who they are, and risk being abandoned by family and friends, harassed, fired, deported, jailed, or killed for being out—or outed. The internet is not safe from these consequences. In fact, the proliferation of dating sites and social media has been used to track down and entrap LGBTQ+ people.
+
+To put it simply, privacy can be critical to safety.
+
+The fact that many LGBTQ+ people need a private, anonymous internet to communicate with their peers or find important resources without being tracked and outed is one of the many reasons why we do what we do at the Tor Project.
+
+Tor stories, transgender user quote
+
+That is why we monitor the availability of LGBTQ+ sites in OONI tests, so we can better understand which countries are censoring these sites and who needs circumvention technology. That’s why we travel to countries where governments outlaw or punish being LGBTQ+ and lead workshops for community organizations about how to protect their privacy online. That’s why we partner with LGBTQ+, feminist, sex worker, and human rights groups to ensure that we’re learning about how they use privacy tech, and what they need from Tor in order to stay safe when using the internet.
+
+We are proud that our tools can serve the LGBTQ+ community. We hope that by offering a way to privately access the internet, allowing people to get online without fear, that we can communicate with one another to change the world. We all deserve to live in a world where we can express who we are without shame.
+
+This June and year round, the Tor Project stands in solidarity with the LGBTQ+ community. Happy Pride!
+https://blog.torproject.org/pride-and-privacy
+
+## Bridges to Circumvent Censorship Online ##
+
+Our users rely on bridges if their ISPs or governments block access to the Tor network. In essence, bridges are private Tor relays we hand out to users who need them. The difficulty lies in handing out bridges to censored users but not to censors. We tackle this problem with the tool BridgeDB, which makes it easy to get some bridges, but hard to get many. BridgeDB allows users to request bridges over a web page, over email, and directly in Tor Browser.
+
+We just released BridgeDB version 0.7.1, which features many improvements. Find out what they are: https://blog.torproject.org/new-release-bridgedb-071
+
+## New Releases ##
+
+Tor 0.4.1.3-alpha
+Tor 0.4.1.3-alpha resolves numerous bugs left over from the previous alpha, most of them from earlier release series. Full changelog. Full changelog: https://blog.torproject.org/new-alpha-release-tor-0413-alpha
+
+Tor Browser 9.0a3
+
+Similar to Tor Browser 8.5.2 and Tor Browser 8.5.3 on the stable series, this release is fixing critical security updates in Firefox (mfsa2019-18 and mfsa2019-19). Full changelog
+
+https://blog.torproject.org/new-release-tor-browser-90a3
+
+Tor Browser 8.5.3
+
+This release includes an important security update in Firefox, a sandbox escape bug. Full changelog:
+
+https://blog.torproject.org/new-release-tor-browser-853
+
+## Upcoming Events with Tor ##
+
+RightsCon. Tunis, Tunisia. 11-14 June, 2019. https://rightscon.org
+
+Congresso Abraji. São Paulo, Brasil. 27-29 June, 2019. https://congresso.abraji.org.br/
+
+PETS. Stockholm, Sweden. 16-20 July, 2019. https://petsymposium.org/2019/index.php
+
+Def Con. Las Vegas, US. 8-11 August, 2019. https://blog.torproject.org/events/def-con-las-vegas-0
+
+BornHack. Funen, Denmark. 8-15 August, 2019. https://blog.torproject.org/events/bornhack-funen-denmark
+
+USENIX. Santa Clara, US. 14-16 August, 2019. https://www.usenix.org/conference/usenixsecurity19
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http:##mastodon.social/@torproject
