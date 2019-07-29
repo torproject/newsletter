@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-07-29
+---
+title: Defending the open Internet
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Our New Anti-Censorship Team is Defending The Open Internet</h1>
+
+												<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1732/body/en/full" property="schema:text">
+												<p><a href="https://blog.torproject.org/tors-new-anti-censorship-team-defending-open-internet"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/john-matychuk-dJdcb11aboQ-unsplash_1.jpg.png?itok=Gw-wK5o4" style="width: 640px; height: 321px;" /></a></p>
+
+												<p>At the non-profit organization level, the Tor Project consists of several teams. The <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/NetworkTeam">network team</a> works on part of the back-end: the program called tor, network simulators, onion services, etc.; the <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/MetricsTeam">metrics team</a> collects and publishes Tor network metrics; the <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/ApplicationsTeam">applications team</a> maintains Tor Browser and other user-facing applications; the <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/UxTeam">UX team</a> improves user experience across all projects; the <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/CommunityTeam">community team</a> fosters a healthy community around Tor; <a href="https://ooni.torproject.org">OONI</a> maintains a global observation network for detecting censorship, surveillance, and traffic manipulation on the internet; the communications team gets our message out to the world; and the <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/FundraisingTeam">fundraising team</a> rallies people to financially support our vision so we can keep Tor strong for millions around the world.</p>
+
+												<p>All of our teams share a common vision: for people around the world to enjoy privacy and freedom online. As censorship has increased around the world and <a href="https://blog.torproject.org/strength-numbers-internet-freedom-line">internet freedom has declined</a>, <a href="https://blog.torproject.org/expect-more-tor-2019">we realized</a> we needed to step up our game to outpace the censors preventing people from enjoying the human right to freedom of expression and access to information on the internet.</p>
+
+												<p><a href="https://blog.torproject.org/tors-new-anti-censorship-team-defending-open-internet"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/unhr19-tor.png" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>In February, we created a brand new <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/AntiCensorshipTeam">anti-censorship team</a>. This team consists of two software engineers with research backgrounds and a project manager, but there are many other people who contribute to the team&rsquo;s work&mdash;by adding valuable code, insight into past work, infrastructure, and resources. The goal of the anti-censorship team is to understand network censorship and build technology to circumvent it so the Tor network can be accessible to everyone.</p>
+
+												<p>To kick things off, we&#39;ve released a technical report called &quot;<a href="https://research.torproject.org/techreports/dos-censorship-report2-2019-05-31.pdf">Addressing Denial of Service Attacks on Free and Open Communication on the Internet.</a>&quot; This report, part of the first project the team engaged in, provides a comprehensive overview of the state of our anti-censorship roadmap. The report outlines recent improvements and open challenges around BridgeDB, GetTor, snowflake, pluggable transports, censorship analysis, and censorship-related user experience.</p>
+
+												<p>Are you interested in following the anti-censorship team&#39;s work or joining the team? Then <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/AntiCensorshipTeam">check out our wiki page</a>. It has all details regarding our weekly IRC meeting, our public mailing list, and the software projects we maintain.</p>
+
+												<p>We are determined to make privacy and freedom online accessible to all, and we hope you&rsquo;ll join us. If you&rsquo;re unable to volunteer, <a href="https://donate.torproject.org">your donation</a> can help us tackle this critical challenge.</p>
+												</div>
+
+												<hr />
+												<h1>Reflections from Our Stockholm All-Hands</h1>
+
+												<p><a href="https://blog.torproject.org/reflections-our-stockholm-all-hands"><img alt="tor-group-pic" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-meeting-pic-stockholm.png?itok=IHgugMwu" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>This month, the Tor Project held our biannual all hands meeting, this time in Stockholm, Sweden. During our all hands meetings, we bring together staff, key volunteers, and collaborators from partner organizations like <a href="https://freedom.press">Freedom of the Press Foundation</a>, <a href="https://tails.boum.org">Tails</a>, <a href="https://guardianproject.info/">the Guardian Project</a>, and <a href="https://mozilla.org">Mozilla</a>. Our goal at our all hands meetings is to reflect on the last six months, address challenges and successes, plan our work for the next six months, and have important in-person conversations that are only possible when all teams are in the same location.</p>
+
+												<p>For this meeting&rsquo;s location and venue, we relied on one of Tor&rsquo;s biggest strengths--our people.</p>
+
+												<p>On the first night in Stockholm, one of our local volunteers organized a &lsquo;do it yourself&rsquo; welcome dinner for all attendees at Kafe 44, a long-standing nonprofit co-op cafe operating as a cultural social center in the heart of Stockholm.</p>
+
+												<p>We were also blessed with an amazing donation from KTH Royal Institute of Technology, which let us use their facilities for our three day meeting where we spread out across classrooms and engaged in back-to-back sessions organized and led by peers.</p>
+
+												<p>During these three days we had a local collective, Kaf&eacute; Ingenstans, responsible for our lunch. They only cook vegan food with local ingredients and we had the most amazing food. We were even able to give them a big tip that we heard they will use to buy bicycles for their delivery. They also got connected with Kafe 44 after our welcome dinner and now will be serving food there.</p>
+
+												<p>Through partnership with our community and our community&rsquo;s broader connections, we turned limited resources into a safe space to cultivate connections, collaboration, and progress toward the vision and values that we are all working towards at Tor. <a href="https://blog.torproject.org/reflections-our-stockholm-all-hands">Find out how it went</a>.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2><span class="quickedit-field" data-quickedit-field-id="node/1739/title/en/teaser" property="schema:name">Tor Browser 8.5.4</span></h2>
+
+												<p>Tor Browser 8.5.4 contains updates to a number of its components. Above all, we include Firefox 60.8.0esr which contains <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2019-22/">important security fixes</a>. Moreover, after some testing in the alpha series, we start shipping <a href="https://blog.torproject.org/new-release-tor-0405">Tor 0.4.0.5</a> and update OpenSSL to 1.0.2s for the desktop platforms. <a href="https://blog.torproject.org/new-release-tor-browser-854">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.0a4</h2>
+
+												<p>Tor Browser 9.0a4 contains updates to a number of bundle parts, most importantly Firefox (60.8.0esr) and Tor (0.4.1.3-alpha). We also implemented fixes for accessibility support on Windows systems (big thanks to Richard Pospesel for the hard work here), which now deserve a wider testing. <a href="https://blog.torproject.org/new-release-tor-browser-90a4">Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p><a href="https://blog.torproject.org/events/def-con-las-vegas-0">Def Con</a>. Las Vegas, US. 8-11 August, 2019. Roger Dingledine is giving a mainline talk: <a href="https://defcon.org/html/defcon-27/dc-27-speakers.html#Dingledine">The Tor Censorship Arms Race: The Next Chapter</a>. Plus, we&#39;ll have a booth in the vendor area.</p>
+
+												<p><a href="https://blog.torproject.org/events/bornhack-funen-denmark">BornHack</a>. Funen, Denmark. 8-15 August, 2019.</p>
+
+												<p><a href="https://www.usenix.org/conference/usenixsecurity19">USENIX</a>. Santa Clara. 14-16 August, 2019.</p>
+
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+
+												<p><a href="https://www.wired.co.uk/article/best-privacy-browsers-and-chrome-alternatives">It&#39;s time you ditched Chrome for a privacy-first web browser</a>. Wired UK. &quot;...the Tor network, with its layers of encryption and routing through various locations, is the best way to protect your identity online. Plus, in recent years it&#39;s become simpler to use.&quot;</p>
+
+												<p><a href="https://www.salon.com/2019/07/21/oakland-becomes-third-us-city-to-ban-police-use-of-facial-recognition_partner/">Oakland becomes third U.S. city to ban police use of facial recognition</a>. Salon. &quot;Oakland now joins San Francisco and Somerville, Mass., which banned the technology in May and June respectively in a bid to protect the privacy of their citizens.&quot;</p>
+
+												<p><a href="https://www.vice.com/en_us/article/43j99g/eff-hits-atandt-with-class-action-lawsuit-for-selling-customers-location-to-bounty-hunters">EFF Hits AT&amp;T With Class Action Lawsuit for Selling Customers&rsquo; Location to Bounty Hunters</a>. Motherboard. &quot;The lawsuit, which comes after multiple Motherboard investigations into phone location data selling, is seeking an injunction against AT&amp;T which would try to enforce the deletion of any sold data.&quot;</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
