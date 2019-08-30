@@ -1,0 +1,78 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-08-30
+---
+title: DocsHackathon, Run a Tor Bridge, Releases, Events
+---
+body:
+
+## Run a Tor Bridge to Defend the Open Internet ##
+https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+We believe everyone should have private access to the open internet, but not everyone is able to enjoy the luxury Tor provides. Freedom to publish, share, and access information online is critical for a healthy society, yet governments and entities around the world deny people this universal human right. All of the relays that make up the Tor network are publicly listed, so that means one way to try to prevent people from using Tor is to blacklist the public IP addresses of all of the thousands of Tor relays.
+
+For example, the governments of China, Iran, and Kazakhstan exercise information control by trying to block Tor.
+
+However, thanks to bridges, Tor users are still able to connect to the network when the public Tor relays are blocked. Bridges are private Tor relays that serve as stepping stones into the network. Not only are bridges private, they can also modify their network packets in a way that it's difficult for an observer to conclude that somebody is using Tor. Censored users are able to select bridges from BridgeDB or directly in Tor Browser’s Network Settings.
+
+We currently have approximately 1,000 bridges, 600 of which support the obfs4 obfuscation protocol. Unfortunately, these numbers have been stagnant for a while. It's not enough to have many bridges: eventually, all of them could find themselves in block lists. We therefore need a constant trickle of new bridges that aren't blocked anywhere yet. This is where we need your help.
+
+By setting up an obfs4 bridge, you can help censored users connect to the open internet through Tor. We will randomly select 10 new bridge operators to receive a metallic roots Tor t-shirt as a token of our gratitude for your help defending the open internet. Set up your bridge and email us by September 30 to qualify. Learn how: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+## Join Our DocsHackathon Starting September 2nd ##
+https://blog.torproject.org/join-tors-docshackathon-next-week
+
+Documentation is extremely valuable to the health of open source software projects, but it is often overlooked. Due to the amount of interest we received during our search for a Google Season of Docs candidate, we're kicking off a week-long documentation hackathon Monday 2nd September 00:00UTC to Friday 6th September 23:59UTC. This is your opportunity to help us keep our documentation up to date and relevant for millions of Tor users around the world. We’ll also be rewarding the top 3 contributors with prizes at the end of the week.
+
+We are looking for copywriters, front-end devs, testers, and content reviewers to help us improve our documentation and its relevancy. Don't feel like any of these apply to you but still want to help out? Chat with us on IRC (#tor-www - irc.oftc.net) or the community team mailing list to join us and get involved.
+
+Learn how to register and get started: https://blog.torproject.org/join-tors-docshackathon-next-week
+
+We are a small nonprofit with a big mission, and we sincerely appreciate your help getting our documentation up to speed. We're looking forward to working with you next week.
+
+## New Releases ##
+
+Tor 0.4.1.5
+After months of work, we have a new stable release series. This is the first stable release in the 0.4.1.x series. This series adds experimental circuit-level padding, authenticated SENDME cells to defend against certain attacks, and several performance improvements to save on CPU consumption. It fixes bugs in bootstrapping and v3 onion services. It also includes numerous smaller features and bugfixes on earlier versions. Full changelog: https://blog.torproject.org/new-release-tor-0415
+
+Tor Browser 9.0a5
+This version is for Android only, the latest alpha version for Linux, macOS and Windows is still 9.0a4. Note: this is an alpha release, an experimental version for users who want to help us test new features. For everyone else, we recommend downloading the latest stable release instead. Full changelog: https://blog.torproject.org/new-release-tor-browser-90a5
+
+## Upcoming Events with Tor ##
+
+APIdays.io. Barcelona, Spain. 12-13 September 2019. https://www.apidays.co/barcelona
+
+## What We're Reading ##
+Resurgence of Internet Censorship in Ethiopia: Blocking of WhatsApp, Facebook, and African Arguments. OONI. "On 22nd June 2019, following an alleged coup attempt in the Amhara region, access to the internet was shut down again. Once internet access was restored, access to WhatsApp was blocked again. This time though, we observe the blocking of Facebook (facebook.com and Facebook Messenger), instead of Telegram (which was/is accessible). A few weeks later, we noticed the blocking of the African Arguments website as well, a pan-African platform covering investigative stories. In this report, we share OONI network measurement data on these ongoing censorship events."
+https://ooni.io/post/resurgence-internet-censorship-ethiopia-2019/
+
+West Papua: thousands take to streets after week of violence. The Guardian. "Fake news" is being used as an excuse to shut down the internet in West Papua amid protests. This is dangerous: It's hard to get or share critical information without it. The Indonesian government needs to #KeepItOn. https://www.theguardian.com/world/2019/aug/26/west-papua-thousands-expected-at-fresh-protests-after-week-of-violence
+https://twitter.com/hashtag/KeepItOn?src=hashtag_click
+
+Fresh wave of phishing attacks targeting journalists and human rights activists in MENA. Amnesty International. "Attackers who use phishing scams to target human rights defenders in the Middle East and North Africa (MENA) are developing increasingly sophisticated techniques to infiltrate their accounts and evade digital security tools." https://www.amnesty.org/en/latest/news/2019/08/fresh-wave-of-phishing-attacks-targeting-journalists-and-human-rights-activists-in-mena/
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

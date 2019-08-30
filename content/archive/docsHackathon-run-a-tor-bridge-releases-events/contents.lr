@@ -1,0 +1,148 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-08-30
+---
+title: DocsHackathon, Run a Tor Bridge, Releases, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Run Tor Bridges to Defend the Open Internet</h1>
+
+												<p><a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet"><img alt="Bridge photo " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-post-run-tor-bridges.png?itok=qZMRjZCN" style="width: 640px; height: 269px;" /></a></p>
+
+												<p>We believe everyone should have private access to the open internet, but not everyone is able to enjoy the luxury Tor provides. Freedom to publish, share, and access information online is critical for a healthy society, yet governments and entities around the world deny people this universal human right. All of the relays that make up the Tor network are publicly listed, so that means one way to try to prevent people from using Tor is to blacklist the public IP addresses of all of the thousands of Tor relays.</p>
+
+												<p>For example, the governments of China, Iran, and Kazakhstan exercise information control by trying to block Tor. &nbsp;</p>
+
+												<p><a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-quote-iran-bridge.png" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>However, thanks to bridges, Tor users are still able to connect to the network when the public Tor relays are blocked. Bridges are private Tor relays that serve as stepping stones into the network. Not only are bridges private, they can also modify their network packets in a way that it&#39;s difficult for an observer to conclude that somebody is using Tor. Censored users are able to select bridges from <a href="https://bridges.torproject.org/">BridgeDB</a> or directly in Tor Browser&rsquo;s Network Settings.</p>
+
+												<p>We currently have approximately 1,000 bridges, 600 of which support the obfs4 obfuscation protocol. Unfortunately, these numbers have been stagnant for a while. It&#39;s not enough to have many bridges: eventually, all of them could find themselves in block lists. We therefore need a constant trickle of new bridges that aren&#39;t blocked anywhere yet. <strong>This is where we need your help.</strong></p>
+
+												<p><strong>By setting up an obfs4 bridge, you can help censored users connect to the open internet through Tor. </strong>We will randomly select 10 new bridge operators to receive a metallic roots Tor t-shirt as a token of our gratitude for your help defending the open internet. <strong>Set up your bridge and email us by September 30 to qualify. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Learn how</a>.</strong></p>
+
+												<hr />
+												<h1>Join Our DocsHackathon Starting September 2nd</h1>
+
+												<p><a href="https://blog.torproject.org/join-tors-docshackathon-next-week"><img alt="Tor DocsHackathon" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-docs-hackathon.png?itok=LjRCRpZP" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>Documentation is extremely valuable to the health of open source software projects, but <a href="https://opensourcesurvey.org/2017/">it is often overlooked</a>. Due to the amount of interest we received during our search for a <a href="https://blog.torproject.org/google-season-docs-2019-help-tor-improve-our-documentation">Google Season of Docs</a> candidate, we&#39;re kicking off a week-long documentation hackathon Monday 2nd September 00:00UTC to Friday 6th September 23:59UTC. <strong>This is your opportunity to help us keep our documentation up to date and relevant for millions of Tor users around the world. We&rsquo;ll also be rewarding the top 3 contributors with prizes at the end of the week.</strong><br />
+												&nbsp;<br />
+												We are looking for copywriters, front-end devs, testers, and content reviewers to help us improve our documentation and its relevancy. Don&#39;t feel like any of these apply to you but still want to help out? Chat with us on IRC (#tor-www - irc.oftc.net) or the <a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-community-team">community team mailing list</a> to join us and get involved.</p>
+
+												<p><a href="https://blog.torproject.org/join-tors-docshackathon-next-week">Learn how to register and get started</a>.</p>
+
+												<p>We are a small nonprofit with a big mission, and we sincerely appreciate your help getting our documentation up to speed. We&#39;re looking forward to working with you next week.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2><span class="quickedit-field" data-quickedit-field-id="node/1739/title/en/teaser" property="schema:name">Tor 0.4.1.5</span></h2>
+
+												<p>After months of work, we have a new stable release series. This is the first stable release in the 0.4.1.x series. This series adds experimental circuit-level padding, authenticated SENDME cells to defend against certain attacks, and several performance improvements to save on CPU consumption. It fixes bugs in bootstrapping and v3 onion services. It also includes numerous smaller features and bugfixes on earlier versions. <a href="https://blog.torproject.org/new-release-tor-0415">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.0a5</h2>
+
+												<p>This version is for Android only, the latest alpha version for Linux, macOS and Windows is still 9.0a4. Note: this is an alpha release, an experimental version for users who want to help us test new features. For everyone else, we recommend downloading the latest stable release instead.<a href="https://blog.torproject.org/new-release-tor-browser-90a5"> Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><span class="quickedit-field" data-quickedit-field-id="node/1728/title/en/full"><a href="https://www.apidays.co/barcelona">APIdays.io</a>. Barcelona, Spain.</span><time datetime="2019-09-12T12:00:00Z"> 12-13 September 2019</time>.</p>
+
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+
+												<p><a href="https://ooni.io/post/resurgence-internet-censorship-ethiopia-2019/">Resurgence of Internet Censorship in Ethiopia: Blocking of WhatsApp, Facebook, and African Arguments</a>. OONI. &quot;On 22nd June 2019, following an alleged coup attempt in the Amhara region, access to the internet was shut down again. Once internet access was restored, access to WhatsApp was blocked again. This time though, we observe the blocking of Facebook (facebook.com and Facebook Messenger), instead of Telegram (which was/is accessible). A few weeks later, we noticed the blocking of the African Arguments website as well, a pan-African platform covering investigative stories. In this report, we share OONI network measurement data on these ongoing censorship events.&quot;</p>
+
+												<p><a href="https://www.theguardian.com/world/2019/aug/26/west-papua-thousands-expected-at-fresh-protests-after-week-of-violence">West Papua: thousands take to streets after week of violence</a>. The Guardian. <span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">&quot;Fake news&quot; is being used as an excuse to shut down the internet in West Papua amid protests. This is dangerous: It&#39;s hard to get or share critical information without it. The Indonesian government needs to </span><span class="r-18u37iz"><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0" data-focusable="true" dir="ltr" href="https://twitter.com/hashtag/KeepItOn?src=hashtag_click" role="link">#KeepItOn</a></span><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">.</span></p>
+
+												<p><a href="https://www.amnesty.org/en/latest/news/2019/08/fresh-wave-of-phishing-attacks-targeting-journalists-and-human-rights-activists-in-mena/">Fresh wave of phishing attacks targeting journalists and human rights activists in MENA</a>. Amnesty International. &quot;Attackers who use phishing scams to target human rights defenders in the Middle East and North Africa (MENA) are developing increasingly sophisticated techniques to infiltrate their accounts and evade digital security tools.&quot;</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
