@@ -24,11 +24,11 @@ We made sure there are no proxy bypasses, that first-party isolation is enabled 
 
 The latest version of Tor Browser across all platforms also features UX and branding improvements in line with developments begun last year with the release of Tor Browser 8: https://blog.torproject.org/new-release-tor-browser-85
 
-As always, we rely on feedback to improve our software. So if you have any suggestions or find a bug, please let us know: https://trac.torproject.org/projects/tor/wiki/doc/community/HowToReportBugFeedback
+As always, we rely on feedback to improve our software. So if you have any suggestions or find a bug, please let us know: https://support.torproject.org/misc/bug-or-feedback/
 
 ## Mozilla Research Call: Tune up Tor for Integration and Scale ##
 
-What alternative protocol architectures and route selection protocols would offer acceptable gains in Tor performance? Would they preserve Tor properties? Is it possible to improve Tor performance without changing protocols? Is it truly possible to deploy Tor at scale? And what would the full integration of Tor and Firefox look like? Those are some of the questions that Mozilla is calling researchers to answer in the privacy & security part of their Mozilla Research Grants program.
+What alternative protocol architectures and route selection protocols would offer acceptable gains in Tor performance? Would they preserve Tor properties? Is it possible to improve Tor performance without changing protocols? Is it truly possible to deploy Tor at scale? And what would the full integration of Tor and Firefox look like? Those are some of the questions that Mozilla is calling researchers to answer in the privacy & security part of their Mhttps://support.torproject.org/misc/bug-or-feedback/ozilla Research Grants program.
 
 Integrating Tor into Firefox would bring real private browsing and a safer internet experience to an unprecedented number of people around the world. But Tor has never been deployed at this scale, and there are a lot of considerations to research before Mozilla gives this a try.
 
