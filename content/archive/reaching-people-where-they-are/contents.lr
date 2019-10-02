@@ -1,0 +1,137 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-10-02
+---
+title: Reaching People Where They Are
+---
+html_body:
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Reaching People Where They Are</h1>
+												<p><a href="https://blog.torproject.org/reaching-people-where-they-are"><img alt="tor-infographic" src="https://blog.torproject.org/sites/default/files/inline-images/tor-trainings_0.png" style="width: 640px; height: 320px;" /></a></p>
+												<p>Part of the <strong>Tor Project&#39;s mission is to further the popular understanding of privacy technologies</strong>, and we believe we can achieve it by combining educational efforts with usability efforts. Popular understanding is to not only be aware of such privacy technologies but to also be able to use and control them.</p>
+												<p>With that in mind, we decided to integrate user experience research into our digital security training with a single program called &#39;User Feedback Program&rsquo;.</p>
+												<p>When we first launched this program two years ago, we aimed at a diverse and engaged audience of human rights defenders in the Global South. We are happy to share that, in a moderate estimate, <strong>these activities reached an audience of 800 people through 71 activities in 22 cities and seven countries: Brazil, Colombia, Mexico, India, Indonesia, Kenya, Uganda.</strong></p>
+												<p>This was our first major effort to establish a training cycle aimed to strengthen and expand the understanding of privacy technologies and the <a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/global-south">Tor community in the Global South</a>. Members of the UX and Community teams conducted these trainings in partnership with local non-profits, who helped us reach the communities from their countries who needed this type of education the most.</p>
+												<p>The results of interviews and usability tests were processed and analyzed by our UX team, and their work with users has led to different projects: a collection of personas to help guide our decisions when working on our tools, interface improvements, bugs fixed, and new features already deployed by the Tor Project developers. We are proud to say that today, the Tor Project has a software development cycle that puts the user at the center while respecting privacy.</p>
+												<p>That is a huge gain, but is not all we set out to do. We learned a lot running these trainings, and we don&rsquo;t want to keep it to ourselves. We also want to share some insights into our experiences running trainings in the Global South to empower others to do the same. We know we can&rsquo;t scale if we need to travel to these locations every time a group needs digital security training.</p>
+												<p>We must share our skills with our partners and help build local capacity that can help these communities on a continuous basis. <a href="https://blog.torproject.org/reaching-people-where-they-are">Find out what we&#39;ve learned so far</a>.</p>
+												<hr />
+												<h1>Honoring Translators</h1>
+												<p><a href="https://blog.torproject.org/honoring-translators"><img alt="tor-translators" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor_translation_sprint.png?itok=9ZYgGQPd" style="width: 641px; height: 320px;" /></a></p>
+												<p><em>Thai translation sprint with <a href="https://www.localizationlab.org/">Localization Lab </a></em></p>
+												<p>We believe everyone should have private access to the open internet. That is what our tools aim to provide, but they&#39;re not doing any good if people are not able to use them in their own language.</p>
+												<p>As a small nonprofit organization, we are fortunate to have a community of volunteers who help us with many aspects of Tor, including running relays, research, outreach, and more.</p>
+												<p>To celebrate <a href="https://www.un.org/en/events/translationday/">International Translation Day 30 September</a>, the Tor Project would like to acknowledge all of the dedicated volunteer translators that contribute to the Tor Project on a daily basis. You help us make our software relevant for people who need it around the world. Thank you.</p>
+												<hr />
+												<h1>Browser Fingerprinting: An Introduction and the Challenges Ahead</h1>
+												<p><a href="https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead"><img alt="fingerprinting" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/img-fingerprint_0.png?itok=iygQwofn" style="width: 640px;" /></a></p>
+												<p>In the past few years, a technique called browser fingerprinting has received a lot of attention because of the risks it can pose to privacy. <span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">If one attribute of your browser fingerprint (or the combination of several) is unique, your device can be identified and tracked online. We started to guard against this since 2007, before the term &quot;</span><span class="css-901oao css-16my406 r-1qd0xha r-vw2c0b r-ad9z0x r-bcqeeo r-qvutc0">browser fingerprinting</span><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">&quot; was coined. </span></p>
+												<p><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0"><a href="https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead">Find out what it is, how it is used, and what we&#39;re doing to protect against it</a>. </span></p>
+												<hr />
+												<h1>Tor&#39;s Bug Smash Fund: $86K Raised!</h1>
+												<p><a href="https://blog.torproject.org/tors-bug-smash-fund-86k-raised"><img alt="bug smash" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-bug-smash-blog_2.png?itok=13l6SCtw" style="width: 640px; height: 320px;" /></a></p>
+												<p>To the Tor community: we owe you a thank you.</p>
+												<p>At the beginning of August, we asked you to help us build our very first Bug Smash Fund. This fund will ensure that the Tor Project has a healthy reserve earmarked for maintenance work and smashing the bugs necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly.</p>
+												<p><strong>Together we raised $86,081.</strong> You made the Bug Smash Fund campaign more successful than we could have predicted. <a href="https://blog.torproject.org/tors-bug-smash-fund-86k-raised">Here&#39;s what&#39;s next.</a></p>
+												<hr />
+												<h1>New Releases</h1>
+												<h2><span class="quickedit-field" data-quickedit-field-id="node/1739/title/en/teaser" property="schema:name">Tor 0.4.1.6</span></h2>
+												<p>This release backports several bugfixes to improve stability and correctness. Anyone experiencing build problems or crashes with 0.4.1.5, or experiencing reliability issues with single onion services, should upgrade.&nbsp;<a href="https://blog.torproject.org/new-release-tor-0416">Full changelog</a>.</p>
+												<h2>Tor 0.4.2.1-alpha</h2>
+												<p>This is the first alpha release in the 0.4.2.x series. It adds new defenses for denial-of-service attacks against onion services. It also includes numerous kinds of bugfixes and refactoring to help improve Tor&#39;s stability and ease of development. <a href="https://blog.torproject.org/new-alpha-release-tor-0421-alpha">Full changelog</a>.</p>
+												<h2>Tor Browser 8.5.5</h2>
+												<p>This release is updates Firefox to 60.9.0esr, Tor to <a href="https://blog.torproject.org/new-release-tor-0415">0.4.1.5</a>, and NoScript to 11.0.3. On the Windows side, we now have <a href="https://trac.torproject.org/projects/tor/ticket/27503">support for accessibility tools</a>. On the Android side, we added <a href="https://trac.torproject.org/projects/tor/ticket/28119">support for arm64-v8a devices</a>. <a href="https://blog.torproject.org/new-release-tor-browser-855">Full changelog</a>.</p>
+												<h2>Tor Browser 8.5.6</h2>
+												<p>This version is for Android only, the latest version for Linux, macOS and Windows is still 8.5.5.<a href="https://blog.torproject.org/new-alpha-release-tor-0421-alpha"> Full changelog</a>.</p>
+												<h2>Tor Browser 9.0a6</h2>
+												<p>This is the first alpha release based on Firefox ESR68, and therefore contains several important changes such as the rebasing of our Firefox patches, toolchain updates, integration of Torbutton directly into the browser and updates to Tor Launcher to make it compatible with ESR68. <a href="https://blog.torproject.org/new-release-tor-browser-90a6">Full changelog</a>.</p>
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><span class="quickedit-field" data-quickedit-field-id="node/1728/title/en/full"><a href="https://blog.torproject.org/events/mozfest-london">MozFest</a>. London, England.</span><time datetime="2019-09-12T12:00:00Z"> 21-27 October 2019</time>.</p>
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/swiss-web-security-day-bern">Swiss Web Security Day</a>. Bern, Switzerland. 30 October 2019.</p>
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/driving-it-copenhagen">Driving IT</a>. Copenhagen, Denmark. 1 November 2019.</p>
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+												<p><a href="https://www.wired.com/story/after-six-years-in-exile-edward-snowden-explains-himself/">After 6 Years in Exile, Edward Snowden Explains Himself</a>. WIRED. &quot;In a new memoir and interview, the world&rsquo;s most famous whistle-blower elucidates as never before why he stood up to mass surveillance&mdash;and his love for an internet that no longer exists.&quot;</p>
+												<p><a href="https://tribune.com.pk/story/2061933/1-pta-not-empowered-block-website-ihc">PTA not empowered to block any website: IHC</a>. The Express Tribune. &quot;The Islamabad High Court (IHC) has declared that the Pakistan Telecommunication Authority (PTA) is not empowered to block any website in violation of the due process and without hearing the viewpoint of the other party.&quot;</p>
+												<p class="content__headline " itemprop="headline"><a href="https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing">Revealed: how TikTok censors videos that do not please Beijing</a>. The Guardian. &quot;<a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/technology/tiktok">TikTok</a>, the popular Chinese-owned social network, instructs its moderators to censor videos that mention Tiananmen Square, Tibetan independence, or the banned religious group Falun Gong, according to leaked documents detailing the site&rsquo;s moderation guidelines.&quot;</p>
+												&nbsp;
+												<hr />
+												<h1>Join Our Community</h1>
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->

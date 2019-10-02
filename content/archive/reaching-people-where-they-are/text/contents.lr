@@ -1,0 +1,135 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-10-02
+---
+title: Reaching People Where They Are
+---
+body:
+
+## Reaching People Where They Are ##
+
+https://blog.torproject.org/reaching-people-where-they-are
+
+Part of the Tor Project's mission is to further the popular understanding of privacy technologies, and we believe we can achieve it by combining educational efforts with usability efforts. Popular understanding is to not only be aware of such privacy technologies but to also be able to use and control them.
+
+With that in mind, we decided to integrate user experience research into our digital security training with a single program called 'User Feedback Program
+'92.
+
+When we first launched this program two years ago, we aimed at a diverse and engaged audience of human rights defenders in the Global South. We are happy to share that, in a moderate estimate, these activities reached an audience of 800 people through 71 activities in 22 cities and seven countries: Brazil, Colombia, Mexico, India, Indonesia, Kenya, Uganda.
+
+This was our first major effort to establish a training cycle aimed to strengthen and expand the understanding of privacy technologies and the Tor community in the Global South. Members of the UX and Community teams conducted these trainings in partnership with local non-profits, who helped us reach the communities from their countries who needed this type of education the most.
+
+The results of interviews and usability tests were processed and analyzed by our UX team, and their work with users has led to different projects: a collection of personas to help guide our decisions when working on our tools, interface improvements, bugs fixed, and new features already deployed by the Tor Project developers. We are proud to say that today, the Tor Project has a software development cycle that puts the user at the center while respecting privacy.
+
+That is a huge gain, but is not all we set out to do. We learned a lot running these trainings, and we don
+'92t want to keep it to ourselves. We also want to share some insights into our experiences running trainings in the Global South to empower others to do the same. We know we can
+'92t scale if we need to travel to these locations every time a group needs digital security training.
+
+We must share our skills with our partners and help build local capacity that can help these communities on a continuous basis. Find out what we've learned so far: https://blog.torproject.org/reaching-people-where-they-are
+
+## Honoring Translators ##
+
+https://blog.torproject.org/honoring-translators
+
+We believe everyone should have private access to the open internet. That is what our tools aim to provide, but they're not doing any good if people are not able to use them in their own language.
+
+As a small nonprofit organization, we are fortunate to have a community of volunteers who help us with many aspects of Tor, including running relays, research, outreach, and more.
+
+To celebrate International Translation Day 30 September, the Tor Project would like to acknowledge all of the dedicated volunteer translators that contribute to the Tor Project on a daily basis. You help us make our software relevant for people who need it around the world. Thank you.
+
+## Browser Fingerprinting: An Introduction and the Challenges Ahead ##
+
+https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead
+
+In the past few years, a technique called browser fingerprinting has received a lot of attention because of the risks it can pose to privacy. If one attribute of your browser fingerprint (or the combination of several) is unique, your device can be identified and tracked online. We started to guard against this since 2007, before the term "browser fingerprinting" was coined.
+
+Find out what it is, how it is used, and what we're doing to protect against it.
+
+## Tor's Bug Smash Fund: $86K Raised! ##
+
+https://blog.torproject.org/tors-bug-smash-fund-86k-raised
+
+To the Tor community: we owe you a thank you!
+
+At the beginning of August, we asked you to help us build our very first Bug Smash Fund. This fund will ensure that the Tor Project has a healthy reserve earmarked for maintenance work and smashing the bugs necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly.
+
+Together we raised $86,081. You made the Bug Smash Fund campaign more successful than we could have predicted. Here's what's next: https://blog.torproject.org/tors-bug-smash-fund-86k-raised
+
+## New Releases ##
+
+Tor 0.4.1.6
+
+https://blog.torproject.org/new-release-tor-0416
+
+This release backports several bugfixes to improve stability and correctness. Anyone experiencing build problems or crashes with 0.4.1.5, or experiencing reliability issues with single onion services, should upgrade.
+
+Tor 0.4.2.1-alpha
+
+https://blog.torproject.org/new-alpha-release-tor-0421-alpha
+
+This is the first alpha release in the 0.4.2.x series. It adds new defenses for denial-of-service attacks against onion services. It also includes numerous kinds of bugfixes and refactoring to help improve Tor's stability and ease of development.
+
+Tor Browser 8.5.5
+
+https://blog.torproject.org/new-release-tor-browser-855
+
+This release is updating Firefox to 60.9.0esr, Tor to 0.4.1.5, and NoScript to 11.0.3. This release also includes various bug fixes. On the Windows side, we should now have support for accessibility tools. On the Android side, we added support for arm64-v8a devices.
+
+Tor Browser 8.5.6
+
+https://blog.torproject.org/new-release-tor-browser-856
+
+This version is for Android only, the latest version for Linux, macOS and Windows is still 8.5.5.
+
+Tor Browser 9.0a6
+
+https://blog.torproject.org/new-release-tor-browser-90a6
+
+This is the first alpha release based on Firefox ESR68, and therefore contains several important changes such as the rebasing of our Firefox patches, toolchain updates, integration of Torbutton directly into the browser and updates to Tor Launcher to make it compatible with ESR68.
+
+## Upcoming Events with Tor //
+
+MozFest. London, England. 21-27 October 2019. https://blog.torproject.org/events/mozfest-london
+
+Swiss Web Security Day. Bern, Switzerland. 30 October 2019. https://blog.torproject.org/events/swiss-web-security-day-bern
+
+Driving IT. Copenhagen, Denmark. 1 November 2019. https://blog.torproject.org/events/driving-it-copenhagen
+
+## What We're Reading ##
+
+After 6 Years in Exile, Edward Snowden Explains Himself. WIRED.
+
+"In a new memoir and interview, the world
+'92s most famous whistle-blower elucidates as never before why he stood up to mass surveillance
+'97and his love for an internet that no longer exists." https://www.wired.com/story/after-six-years-in-exile-edward-snowden-explains-himself/
+
+PTA not empowered to block any website: IHC. The Express Tribune. "The Islamabad High Court (IHC) has declared that the Pakistan Telecommunication Authority (PTA) is not empowered to block any website in violation of the due process and without hearing the viewpoint of the other party." https://tribune.com.pk/story/2061933/1-pta-not-empowered-block-website-ihc
+
+Revealed: how TikTok censors videos that do not please Beijing. The Guardian. "TikTok, the popular Chinese-owned social network, instructs its moderators to censor videos that mention Tiananmen Square, Tibetan independence, or the banned religious group Falun Gong, according to leaked documents detailing the site
+'92s moderation guidelines." https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
