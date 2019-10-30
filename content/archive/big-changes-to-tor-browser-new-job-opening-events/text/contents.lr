@@ -1,0 +1,132 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-10-30
+---
+title: Big Changes to Tor Browser, New Job Opening, Events
+---
+body:
+## We Brought Big UX and Localization Improvements to Tor Browser ##
+
+https://blog.torproject.org/new-release-tor-browser-90
+
+We want everyone in the world to be able to enjoy the privacy and freedom online Tor provides, and that's why over the past couple years, we've been working hard to boost our UX and localization efforts, with the biggest gains first visible in Tor Browser 8.0.
+
+In Tor Browser 9.0, we continued to build upon those efforts with sleeker integration and additional localization support so Tor Browser can work better for you.
+
+## Goodbye, Onion Button ##
+
+We want your experience using Tor to be fully integrated within the browser so how you use Tor is more intuitive. That's why now, rather than using the onion button that was in the toolbar, you can see your path through the Tor network and request a New Circuit through the Tor network in [i] on the URL bar.
+
+##Hello, New Identity Button##
+
+Instead of going into the onion button to request a New Identity, we've made this important feature easier to access by giving it its own button in the toolbar.
+
+You can also request a New Identity, and a New Circuit, from within the [=] menu on the toolbar.
+
+##Torbutton and Tor Launcher Integration##
+
+Now that both extensions are tightly integrated into Tor Browser, they'll no longer be found on the about:addons page.
+
+Rather than being a submenu behind the onion button, Tor Network Settings, including the ability to fetch bridges to bypass censorship where Tor is blocked, are easier to access on about:preferences#tor.
+
+##Better Localization Support##
+
+If we want all people around the world to be able to use our software, then we need to make sure it's speaking their language. Since 8.0, Tor Browser has been available in 25 languages, and we added 5 locales more in Tor Browser 8.5. We added support for two additional languages: Macedonian (mk) and Romanian (ro), bringing the number of supported languages to 32.
+
+We also fixed bugs in our previously shipped localized bundles (such as ar and ko).
+
+Many thanks to everyone who helped with these, in particular to our translators.
+
+And that's not all. Find out what else is new in Tor Browser 9: https://blog.torproject.org/new-release-tor-browser-90
+
+## Publish Anonymous, Uncensorable Websites with OnionShare ##
+
+https://blog.torproject.org/new-version-onionshare-makes-it-easy-anyone-publish-anonymous-uncensorable-websites-0
+
+OnionShare is an open source tool that lets you securely and anonymously share a file of any size.
+
+In addition to the "Share Files" and "Receive Files" tabs, OnionShare 2.2 introduces the "Publish Website" tab. You drag all of the files that make up your website into the OnionShare window and click "Start sharing." It will start a web server to host your static website and give you a .onion URL. This website is only accessible from the Tor network, so people will need Tor Browser to visit it. People who visit your website will have no idea who you are \'96 they won\'92t have access to your IP address, and they won\'92t know your identity or your location. And, so long as your website visitors are able to access the Tor network, the website can\'92t be censored.
+
+Read more about it and try it out: https://blog.torproject.org/new-version-onionshare-makes-it-easy-anyone-publish-anonymous-uncensorable-websites-0
+
+## We're Hiring a Shadow Simulation Developer ##
+
+https://blog.torproject.org/were-hiring-shadow-simulation-developer
+
+We are seeking an experienced programmer to help us develop cutting-edge network simulation / emulation software. This person will be responsible for the implementation, documentation, and testing of software to support research into privacy-enhancing technologies. In particular, this person will be contributing to software that constructs large, realistic, high fidelity simulations of anonymity networks, allowing other researchers to run existing software (e.g., Tor) on top of a virtualized network. As such, this person should be comfortable working with established codebases (github.com/shadow) and incrementally improving them through modular design.
+
+The ideal candidate will have significant practical programming skills, specifically, expertise in parallel program design and development.
+
+Learn more and how to apply: https://blog.torproject.org/were-hiring-shadow-simulation-developer
+
+## Take Back the Internet with Us ##
+
+Donate today, and Mozilla will match your donation. https://torproject.org/donate/donate-tbi-tn1
+
+## More New Releases ##
+
+Tor 0.4.2.3-alpha
+
+https://blog.torproject.org/new-alpha-release-tor-0423-alpha
+
+This release fixes several bugs from the previous alpha release, and from earlier versions of Tor.
+
+Tor Browser 9.5a1
+
+https://blog.torproject.org/new-release-tor-browser-95a1
+
+This is the first alpha release in the 0.4.2.x series. It adds new defenses for denial-of-service attacks against onion services. It also includes numerous kinds of bugfixes and refactoring to help improve Tor's stability and ease of development.
+
+Tails 4.0
+
+https://blog.torproject.org/new-release-tails-40
+
+The Tails team is especially proud to present you Tails 4.0, the first version of Tails based on Debian 10 (Buster). It brings new versions of most of the software included in Tails and some important usability and performance improvements. Tails 4.0 introduces more changes than any other version since years. This release also fixes many security issues.
+
+## Upcoming Events with Tor ##
+
+Tor Sharing. Taipei, Taiwan. 31 October 2019. https://blog.torproject.org/events/tor-sharing-taipei
+
+Driving IT. Copenhagen, Denmark. 1 November 2019. https://blog.torproject.org/events/driving-it-copenhagen
+
+Internet e anonimato: la rete Tor. Firenze, Italy. 6 November 2019. https://blog.torproject.org/events/internet-e-anonimato-la-rete-tor-firenze
+
+Tor Meetup. Brussels, Belgium. 8 November 2019.  https://blog.torproject.org/events/tor-meetup-brussels
+
+CriptoDunas. Fortaleza, Brazil. 11 November 2019 - 14 November 2019. https://blog.torproject.org/events/criptodunas-fortaleza-brazil
+
+The Future of Speech Online. Washington, DC, USA. 15 November 2019. https://blog.torproject.org/events/future-speech-online-dc
+
+## What We're Reading ##
+
+BBC Launches Tor Mirror Site To Thwart Media Censorship. NPR.
+"In an effort to fight media censorship, the BBC has made a version of its website available on Tor, a privacy-focused browser that makes it more difficult to monitor a user's online activity." https://www.npr.org/2019/10/24/773060596/bbc-launches-tor-mirror-site-to-thwart-media-censorship
+
+These watchdogs track secret online censorship across the globe. CNET.
+"Researchers at OONI use a collection of network signals submitted by volunteers that mean little individually but can point to interference when combined. The signs can seem like random quirks of the internet: 404 error messages and odd pop-up windows. OONI's researchers, however, use their data to uncover the techniques behind censorship. This lets them map what's been made invisible." https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/?ftag=COS-05-10aaa0b
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

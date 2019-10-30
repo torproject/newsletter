@@ -1,0 +1,202 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-10-30
+---
+title: Big Changes to Tor Browser, New Job Opening, Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://newsletter.torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>We Brought Big UX and Localization Improvements to Tor Browser</h1>
+
+												<p><a href="https://blog.torproject.org/new-release-tor-browser-90"><img alt="tor-browser9" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-browser-9.png?itok=rlV7sn8b" style="width: 640px; height: 313px;" /></a></p>
+
+												<p>We want everyone in the world to be able to enjoy the privacy and freedom online Tor provides, and that&#39;s why over the past couple years, we&#39;ve been working hard to boost our UX and localization efforts, with the biggest gains first visible in <a href="https://blog.torproject.org/new-release-tor-browser-80">Tor Browser 8.0</a>.</p>
+
+												<p>In Tor Browser 9.0, we continued to build upon those efforts with sleeker integration and additional localization support so Tor Browser can work better for you.</p>
+
+												<h2>Goodbye, Onion Button</h2>
+
+												<p>We want your experience using Tor to be fully integrated within the browser so how you use Tor is more intuitive. That&#39;s why now, rather than using the onion button that was in the toolbar, you can see your path through the Tor network and request a New Circuit through the Tor network in [i] on the URL bar.</p>
+
+												<p><a href="https://blog.torproject.org/new-release-tor-browser-90"><img alt="Tor Circuit" src="https://blog.torproject.org/sites/default/files/inline-images/tor-circuit-display-dark-theme.png" style="width: 640px; height: 567px;" /></a></p>
+
+												<h2>Hello, New Identity Button</h2>
+
+												<p>Instead of going into the onion button to request a New Identity, we&#39;ve made this important feature easier to access by giving it its own button in the toolbar.</p>
+
+												<p>You can also request a New Identity, and a New Circuit, from within the [=] menu on the toolbar.</p>
+
+												<h2>Torbutton and Tor Launcher Integration</h2>
+
+												<p>Now that both extensions are tightly integrated into Tor Browser, they&#39;ll no longer be found on the <span class="geshifilter"><code class="php geshifilter-php">about<span style="color: #339933;">:</span>addons</code></span> page.</p>
+
+												<p><a href="https://blog.torproject.org/new-release-tor-browser-90"><img alt="Preferences" src="https://blog.torproject.org/sites/default/files/inline-images/about-preferences-tor.png" style="width: 640px; height: 567px;" /></a></p>
+
+												<p>Rather than being a submenu behind the onion button, Tor Network Settings, including the ability to fetch bridges to bypass censorship where Tor is blocked, are easier to access on <span class="geshifilter"><code class="php geshifilter-php">about<span style="color: #339933;">:</span>preferences<span style="color: #666666; font-style: italic;">#tor</span></code></span>.</p>
+
+												<h2>Better Localization Support</h2>
+
+												<p>If we want all people around the world to be able to use our software, then we need to make sure it&#39;s speaking their language. <a href="https://blog.torproject.org/new-release-tor-browser-80">Since 8.0</a>, Tor Browser has been available in 25 languages, and we added 5 locales more in Tor Browser 8.5. We added support for two additional languages: Macedonian (mk) and Romanian (ro), bringing the number of supported languages to 32.</p>
+
+												<p>We also fixed bugs in our previously shipped localized bundles (such as ar and ko).</p>
+
+												<p>Many thanks to everyone who helped with these, in particular to <a href="https://blog.torproject.org/honoring-translators">our translators</a>.</p>
+
+												<p>And that&#39;s not all. <a href="https://blog.torproject.org/new-release-tor-browser-90">Find out what else is new in Tor Browser 9</a>.</p>
+												&nbsp;
+
+												<hr />
+												<h1>We&#39;re Hiring a Shadow Simulation Developer</h1>
+
+												<p><a href="https://blog.torproject.org/were-hiring-shadow-simulation-developer"><img alt="shadow-developer" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/shadow-developer.png?itok=019p2tDs" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>We are seeking an experienced programmer to help us develop cutting-edge network simulation / emulation software. This person will be responsible for the implementation, documentation, and testing of software to support research into privacy-enhancing technologies. In particular, this person will be contributing to software that constructs large, realistic, high fidelity simulations of anonymity networks, allowing other researchers to run existing software (e.g., Tor) on top of a virtualized network. As such, this person should be comfortable working with established codebases (github.com/shadow) and incrementally improving them through modular design.</p>
+
+												<p>The ideal candidate will have significant practical programming skills, specifically, expertise in parallel program design and development.</p>
+
+												<p><a href="https://blog.torproject.org/were-hiring-shadow-simulation-developer">Learn more including how to apply</a>.</p>
+
+												<hr />
+												<h1>Publish Anonymous, Uncensorable Websites with OnionShare</h1>
+
+												<p><a href="https://blog.torproject.org/new-version-onionshare-makes-it-easy-anyone-publish-anonymous-uncensorable-websites-0"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/onionshare-website-mode.png?itok=bwW3Yg5_" style="width: 640px; height: 590px;" /></a></p>
+
+												<p>OnionShare is an open source tool that lets you securely and anonymously share a file of any size.</p>
+
+												<p>In addition to the &ldquo;Share Files&rdquo; and &ldquo;Receive Files&rdquo; tabs, OnionShare 2.2 introduces the &ldquo;Publish Website&rdquo; tab. You drag all of the files that make up your website into the OnionShare window and click &ldquo;Start sharing.&rdquo; It will start a web server to host your static website and give you a .onion URL. This website is only accessible from the Tor network, so people will need <a href="https://torproject.org/download">Tor Browser</a> to visit it. People who visit your website will have no idea who you are &ndash; they won&rsquo;t have access to your IP address, and they won&rsquo;t know your identity or your location. And, so long as your website visitors are able to access the Tor network, the website can&rsquo;t be censored.</p>
+
+												<p><a href="https://blog.torproject.org/new-version-onionshare-makes-it-easy-anyone-publish-anonymous-uncensorable-websites-0">Read more about it and try it out</a>.</p>
+
+												<hr />
+												<h1>Take Back the Internet with Us</h1>
+
+												<p><a href="https://torproject.org/donate/donate-tbi-tn1"><img alt="take-back-the-internet" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/take-back-the-internet-with-tor-project.png?itok=enulxBZj" style="width: 640px; height: 334px;" /></a></p>
+
+												<p><a href="http://torproject.org/donate/donate-tbi-tn1">Donate today,</a> and Mozilla will match your donation.</p>
+
+												<hr />
+												<h1>More New Releases</h1>
+
+												<h2>Tor 0.4.2.3-alpha</h2>
+
+												<p>This release fixes several bugs from the previous alpha release, and from earlier versions of Tor. <a href="https://blog.torproject.org/new-alpha-release-tor-0423-alpha">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.5a1</h2>
+
+												<p>Tor Browser 9.5a1 is the first release in the 9.5 alpha series. It contains all the improvements and fixes from the 9.0 release as well as other new features: We <a href="https://trac.torproject.org/projects/tor/ticket/21549">enabled WASM on the standard security level</a>, <a href="https://trac.torproject.org/projects/tor/ticket/32125">fixed circuit display for bridges without a fingerprint</a>, and <a href="https://trac.torproject.org/projects/tor/ticket/32132">we re-enabled jemalloc for Windows users</a>. <a href="https://blog.torproject.org/new-release-tor-browser-95a1">Full changelog</a>.</p>
+
+												<h2>Tails 4.0</h2>
+
+												<p>The Tails team is especially proud to present you Tails 4.0, the first version of Tails based on Debian 10 (Buster). It brings new versions of most of the software included in Tails and some important usability and performance improvements. Tails 4.0 introduces more changes than any other version since years. This release also fixes many security issues. <a href="https://blog.torproject.org/new-release-tails-40">Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><span class="quickedit-field" data-quickedit-field-id="node/1728/title/en/full"><a href="https://blog.torproject.org/events/tor-sharing-taipei">Tor Sharing.</a> Taipei, Taiwan.</span><time datetime="2019-09-12T12:00:00Z"> 31 October 2019</time>.</p>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/driving-it-copenhagen">Driving IT</a>. Copenhagen, Denmark. 1 November 2019.</p>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/internet-e-anonimato-la-rete-tor-firenze">Internet e anonimato: la rete Tor</a>. Firenze, Italy. 6 November 2019.</p>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/tor-meetup-brussels">Tor Meetup</a>. Brussels, Belgium. 8 November 2019.</p>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/criptodunas-fortaleza-brazil">CriptoDunas</a>. Fortaleza, Brazil. November 11, 2019 - November 14, 2019.</p>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><a href="https://blog.torproject.org/events/future-speech-online-dc">The Future of Speech Online</a>. Washington, DC, USA. 15 November 2019.</p>
+
+												<hr />
+												<h1>Tor in the News</h1>
+
+												<p><a href="https://www.npr.org/2019/10/24/773060596/bbc-launches-tor-mirror-site-to-thwart-media-censorship">BBC Launches Tor Mirror Site To Thwart Media Censorship</a>. NPR.<br />
+												&quot;In an effort to fight media censorship, the BBC has made a version of its website available on Tor, a privacy-focused browser that makes it more difficult to monitor a user&#39;s online activity.&quot;</p>
+
+												<p><a href="https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/">These watchdogs track secret online censorship across the globe</a>. CNET.<br />
+												&quot;Researchers at OONI use a collection of network signals submitted by volunteers that mean little individually but can point to interference when combined. The signs can seem like random quirks of the internet: 404 error messages and odd pop-up windows. OONI&#39;s researchers, however, use their data to uncover the techniques behind censorship. This lets them map what&#39;s been made invisible.&quot;</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://torproject.org/donate/donate-tbi-tn1">Donate</a> to help keep Tor fast, strong, and secure. <a href="http://torproject.org/donate/donate-tbi-tn1">Take back the internet with us</a>.</p>
+
+												<div style="background-color: #68b030; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><a href="https://torproject.org/donate/donate-tbi-tn1" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
