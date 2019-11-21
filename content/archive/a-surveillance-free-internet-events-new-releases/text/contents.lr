@@ -1,0 +1,89 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-11-21
+---
+title: A Surveillance-Free Internet, Events, New Releases
+---
+body:
+
+## We Can Choose an Internet Without Surveillance ##
+
+https://blog.torproject.org/we-can-choose-internet-without-surveillance
+
+The surveillance dystopia is building up all around us, and the business model that has taken over the internet is largely to blame. In the surveillance economy, whenever we choose to use an application or a device, we are often forced to subject ourselves to unrestricted abuse of our private data. ISPs and big corporations are not only logging our activities, but often selling that information to third party data analysis and marketing companies like Cambridge Analytica and Dataminr.
+
+The effects of the surveillance economy are terrifying. Our online activity has been used to influence elections by shaping how politically motivated entities can spread personally targeted misinformation. We have also seen these companies sign contracts with law enforcement and authoritarian governments to use this information to unjustly target activists, minorities, and at-risk communities.
+
+Even if you have not immediately felt or experienced a direct consequence of being surveilled, the idea you may be surveilled can have chilling consequences on your daily life.
+
+PEN America surveyed over 520 American writers to understand if and how surveillance was influencing their work. 1 in 6 writers said they had avoided speaking or writing on a topic they thought would subject them to surveillance.
+
+Just the fear of surveillance can turn us into self-censors. This fear can stop us from exercising intellectual freedom and curiosity. If we think we are being watched, our behavior changes. Our mental state changes as well. According to research conducted by Christopher Burr at the Digital Ethics Lab at the University of Oxford, the effects of surveillance on the brain can "be just as mentally taxing as mental disorders like depression, and can even cause symptoms similar to post-traumatic stress disorder."
+
+The spread of surveillance is not inevitable. We can fight against facial recognition technology and invasive searches, stand up for encryption, and demand privacy by design from service providers.
+
+The internet is not just a network of computers—it's a network of people. We hold great power in deciding its future.
+
+## Our Website + Tor Browser Now Available in Catalan ##
+
+Sabem que és més fàcil utilitzar alguna cosa en el vostre propi idioma. Si mai no heu provat el navegador Tor, avui és el dia. Prova-ho ara: https://torproject.org/ca
+
+## Take Back the Internet with Us ##
+https://torproject.org/donate/donate-tbi-tn2
+
+Donate today, and Mozilla will match your donation.
+
+## New Releases ##
+
+Tor Browser 9.5a2
+https://blog.torproject.org/new-release-tor-browser-95a2
+This new alpha release contains various bug fixes and improvements. Among them, we improved the letterboxing experience.
+
+Tor 0.4.2.4-rc
+https://blog.torproject.org/new-release-candidate-tor-0424-rc
+Tor 0.4.2.4-rc is the first release candidate in its series. Packages should be available over the coming weeks, with a new alpha Tor Browser release likely by Dec 3.
+
+Tor Browser 9.0.1
+https://blog.torproject.org/new-release-tor-browser-901
+This release fixes regressions and improves upon our 9.0 release.
+
+## Upcoming Events with Tor ##
+
+V Jornades Internacionals de dones en el sector TIC. Barcelona, Spain. 22 November 2019. https://blog.torproject.org/events/v-jornades-internacionals-de-dones-en-el-sector-tic-barcelona
+
+WoSec and InfoSecGirls Workshop. Pune, India. 30 November 2019.
+https://blog.torproject.org/events/wosec-and-infosecgirls-workshop-pune
+
+Reproducible Builds Summit. Marrakesh, Morocco. 3-5 December 2019. https://blog.torproject.org/events/reproducible-builds-summit-marrakesh-2019
+
+Hackers Next Door. Brooklyn, New York. 14-15 December 2019. https://blog.torproject.org/events/hackers-next-door-brooklyn
+
+## What We're Reading ##
+Federal Court Rules Suspicionless Searches of Travelers' Phones and Laptops Unconstitutional. EFF.
+"In a major victory for privacy rights at the border, a federal court in Boston ruled today that suspicionless searches of travelers' electronic devices by federal agents at airports and other U.S. ports of entry are unconstitutional." https://www.eff.org/press/releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-tbi-tn2
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
