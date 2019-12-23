@@ -1,0 +1,140 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-12-26
+---
+title: Digital Rights are Human Rights
+---
+body:
+
+## Interview with Cindy Cohn, EFF Executive Director & Tor Board Member ##
+
+https://blog.torproject.org/interview-cindy-cohn-eff-executive-director
+
+Cindy Cohn, Executive Director of the Electronic Frontier Foundation (EFF) and Board Member of the Tor Project, was named one of America's Top 50 Women in Tech 2018 by Forbes. As a tireless defender of digital rights, we wanted to get her take on the state of the internet today, recent victories and challenges ahead, and Tor’s role in taking back the internet.
+
+## How would you describe the internet today?
+
+Disempowering. Between surveillance business models, national security surveillance, and ineffective legal and technical protections, many people feel that they have no power to protect their security and privacy.
+
+But the good news is that we can regain control and more people than ever are demanding a course change. Tor is a critical tool to helping us make that shift.
+
+## What do you think are some key victories that have happened in the past year to advance privacy and freedom online?
+
+Tor and the Tor network just keeps getting stronger, more important, and easier to use. That’s amazing and a testament to the fierce, powerful and smart people who develop, support, maintain, and protect it.
+
+I’m also heartened by the growing recognition across the world that privacy and security are linked and that technical, legal, and policy work is all needed to protect them.
+
+I’m biased, but I think that a major step toward protecting people’s privacy as they cross the US border came in the Alasaad case EFF and the ACLU handled, where the court agreed with us that the US government needs reasonable suspicion to search the devices that people carry.
+
+The ongoing efforts to encrypt the web and increase awareness about security tools and practices are also cause for celebration.
+
+## What challenges do you think privacy advocates and developers will face in the next year online?
+
+I think the rise of authoritarianism around the world will continue to present challenges for privacy advocates and developers. One of the key things that would-be dictators know is that they have to prevent the people from being able to speak and learn things confidentially. This means more attacks on encryption.
+
+I think that advocates and developers will need to continue to stand up for encryption and also ultimately will have to address the need to re-decentralize the internet. The pressures on the tech giants to make sure that no one can have a private conversation online will continue. We need to be ready and build out alternatives.
+
+## What is the internet you would like to see in the future?
+
+We need to build a world where everyone has free (as in speech) access to read, speak, create, and control their experience, including creating their own tools and protecting their own privacy. A world where humans have the legal, policy, and cultural support and protection to do so. Where individuals have the strength and processing power to take on larger organizations, whether government or corporate, as well as to be protected from them. A world where our technology, whether as simple as an email or as complex as an AI system, is trustworthy and loyal to us.
+
+## Why do you think people should support and care about Tor?
+
+If you care about maintaining (or creating) a society that can change — where ideas can grow and information can be learned free of control by governments or corporations — then Tor is one of the critical tools that you should support and care about.
+
+Tor protects the canaries in the coal mines.
+
+Even if you personally don’t need the protection that Tor offers, standing up for Tor is standing with the people who take risks to keep the rest of us informed about some of the most dangerous and important facts and issues facing the planet.
+
+## The Next Chapter of Anti-Censorship ##
+
+https://blog.torproject.org/next-chapter-anti-censorship
+
+The video from the Tor Project Co-Founder Roger Dingledine's DEF CON 2019 talk ("The Tor Censorship Arms Race: The Next Chapter") is now up.
+
+- YouTube version (for those who can tolerate surveillance capitalism): https://www.youtube.com/watch?v=ZB8ODpw_om8
+- Original mp4 from DEF CON's onion service (download it and play it locally, since playing it in a browser doesn't display video): m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/DEF%20CON%2027/DEF%20CON%2027%20video%20and%20slides/DEF%20CON%2027%20Conference%20-%20Roger%20Dingledine%20-%20The%20Tor%20Censorship%20Arms%20Race%20The%20Next%20Chapter.mp4
+- Backup mp4 for those who can't reach onion services: freehaven.net/~arma/DEF%20CON%2027%20Conference%20-%20Roger%20Dingledine%20-%20The%20Tor%20Censorship%20Arms%20Race%20The%20Next%20Chapter.mp4
+- Slides (pdf): freehaven.net/~arma/slides-dc19.pdf
+
+This talk gets you up to speed on all the ways governments have tried to block Tor, walks through our upcoming steps to stay ahead of the arms race, and gives you some new—easier—ways that let you help censored users reach the internet safely.
+
+## Digital Rights are Human Rights ##
+
+https://blog.torproject.org/digital-rights-are-human-rights
+
+At the Tor Project, we build technologies that defend and promote the human rights to privacy and freedom. More than just a way to exercise an individual right, it’s a collective collaboration and movement that generates a common good for all. Everyone can use this open and secure network as infrastructure that has privacy as a default feature of its design. The Tor network promotes a radical decentralization with onion services, so you can run your own service without a dedicated IP address or having a domain name, all done privately and securely. Tor also promotes net neutrality, since it doesn't modify the traffic based on who is accessing it or which sites they are visiting. In other words, it's what we've always wanted the internet to be. Find out about how we've been working directly with human rights defenders to help them protect themselves online.
+
+## Modularizing Key Aspects of the Tor Network, Supported by MOSS ##
+
+https://blog.torproject.org/modularizing-key-aspects-tor-network-moss
+
+In 2018, the Tor Project was awarded a grant from Mozilla’s Open Source Support (MOSS) program’s Mission Partners track to improve Tor's codebase. The network team spent the last 12 months working on creating a Tor network codebase that is:
+
+- Easier to scale, more flexible, and faster in order to handle more users;
+- Easier for Tor developers, third-party developers, and researchers to navigate; and
+- Easier to adopt, contribute to, and improve.
+
+In order to reach towards those goals, the network team:
+
+- Reduced module complexity and maintenance burden;
+ - Developed new architecture for several key Tor modules;
+- Implemented better tooling;
+- Improved testing for several key Tor modules; and
+- Improved our documentation.
+
+The biggest change introduced thanks to this project is a generic publish-subscribe mechanism for delivering messages internally. It is meant to help us improve the modularity of our code by avoiding direct coupling between modules that don't actually need to invoke one another.
+
+For example, there are numerous parts of our code that might need to take action when a circuit is completed: a controller might need to be informed, an onion service negotiation might need to be attached, a guard might need to be marked as working, or a client connection might need to be attached. But many of those actions occur at a higher layer than circuit completion: calling them directly is a layering violation and makes our code harder to understand and analyze. With message-passing, we can invert this layering violation: circuit completion can become a "message" that the circuit code publishes, and to which higher-level layers subscribe. This means that circuit handling can be decoupled from higher-level modules and stay nice and simple.
+
+The network team also continued earlier work that began in Tor 0.3.5 to make our code behave more modularly with its startup and teardown logic. Many tor modules now function as "subsystems" that are initialized, shut down, and updated with a standard interface, rather than with the confusing system of calls that was used before. Read more: https://blog.torproject.org/modularizing-key-aspects-tor-network-moss
+
+## Take Back the Internet with Us ##
+
+"Technology doesn't need to come at the expense of privacy. Connectivity doesn't need to cost us our self-determination. With your help, we can keep Tor growing and improving to be what the world needs: a way to help take back the internet for freedom and human rights." - Nick Mathewson, Co-Founder, The Tor Project
+
+Donate today, and Mozilla will match your donation. https://torproject.org/donate/donate-tbi-tn3
+
+## New Releases ##
+
+Tor Browser 9.5a3
+https://blog.torproject.org/new-release-tor-browser-95a3
+This new alpha release picks up security fixes for Firefox 68.3.0esr and updates our external extensions (NoScript and HTTPS Everywhere) to their latest versions. Among other things, we made some cleanups in torbutton and fixed localization in the Android bundles. We also add three new locales: lt (Lithuanian), ms (Maylay), and th (Thai).
+
+Tor 0.4.2.5 (also 0.4.1.7, 0.4.0.6, and 0.3.5.9)
+https://blog.torproject.org/new-release-0425-also-0417-0406-and-0359
+This is the first stable release in the 0.4.2.x series. This series improves reliability and stability, and includes several stability and correctness improvements for onion services. It also fixes many smaller bugs present in previous series.
+
+Tor Browser 9.0.2
+https://blog.torproject.org/new-release-tor-browser-902
+This new stable release is picks up security fixes for Firefox 68.3.0esr and updates our external extensions (NoScript and HTTPS Everywhere) to their latest versions. Apart from backports for patches that already landed in alpha releases and fixing an error in our circuit display and improving our letterboxing support, Tor Browser 9.0.2 provides properly localized Android bundles again as well.
+
+## Upcoming Events with Tor ##
+
+Censorship Resistance für den Anonymisierungsdienst Tor. Hagenberg, Austria. 9 January 2020. https://blog.torproject.org/events/censorship-resistance-fur-den-anonymisierungsdienst-tor-hagenberg
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-tbi-tn2
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

@@ -1,0 +1,225 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2019-12-26
+---
+title: Digital Rights are Human Rights
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1><a href="http://blog.torproject.org/interview-cindy-cohn-eff-executive-director">Interview with Cindy Cohn, EFF Executive Director, Tor Board Member</a><a href="https://blog.torproject.org/interview-cindy-cohn-eff-executive-director"><img alt="Cindy Cohn" src="https://blog.torproject.org/sites/default/files/inline-images/cindy_cohn_headshot_19c9297_sq1_hi_res_1.jpg" style="margin: 10px; float: right; width: 200px; height: 200px;" /></a></h1>
+
+												<p><em><a href="https://www.eff.org/about/staff/cindy-cohn">Cindy Cohn</a>, Executive Director of the Electronic Frontier Foundation (EFF) and Board Member of the Tor Project, was named one of <a href="https://www.forbes.com/profile/cindy-cohn/#570c881e5ee1">America&#39;s Top 50 Women in Tech 2018</a> by Forbes. As a tireless defender of digital rights, we wanted to get her take on the state of the internet today, recent victories and challenges ahead, and Tor&rsquo;s role in <a href="https://torproject.org/donate/donate-tbi-bp9">taking back the internet</a>.</em></p>
+
+												<p><strong>How would you describe the internet today?</strong></p>
+
+												<p>Disempowering. Between surveillance business models, national security surveillance, and ineffective legal and technical protections, many people feel that they have no power to protect their security and privacy.</p>
+
+												<p>But the good news is that we can regain control and more people than ever are demanding a course change. Tor is a critical tool to helping us make that shift.</p>
+
+												<p><strong>What do you think are some key victories that have happened in the past year to advance privacy and freedom online?</strong></p>
+
+												<p>Tor and the Tor network just keeps getting stronger, more important, and easier to use. That&rsquo;s amazing and a testament to the fierce, powerful and smart people who develop, support, maintain, and protect it.</p>
+
+												<p>I&rsquo;m also heartened by the growing recognition across the world that privacy and security are linked and that technical, legal, and policy work is all needed to protect them.</p>
+
+												<p>I&rsquo;m biased, but I think that a major step toward protecting people&rsquo;s privacy as they cross the US border came in the <a href="https://www.eff.org/deeplinks/2019/11/federal-judge-issues-historic-opinion-digital-privacy-border">Alasaad case EFF and the ACLU handled</a>, where the court agreed with us that the US government needs reasonable suspicion to search the devices that people carry.</p>
+
+												<p>The ongoing efforts to encrypt the web and increase awareness about security tools and practices are also cause for celebration.</p>
+
+												<p><strong>What challenges do you think privacy advocates and developers will face in the next year online?</strong></p>
+
+												<p>I think the rise of authoritarianism around the world will continue to present challenges for privacy advocates and developers. One of the key things that would-be dictators know is that they have to prevent the people from being able to speak and learn things confidentially. This means more attacks on encryption.</p>
+
+												<p>I think that advocates and developers will need to continue to stand up for encryption and also ultimately will have to address the need to re-decentralize the internet. The pressures on the tech giants to make sure that no one can have a private conversation online will continue. We need to be ready and build out alternatives.</p>
+
+												<p><strong>What is the internet you would like to see in the future?</strong></p>
+
+												<p>We need to build a world where everyone has free (as in speech) access to read, speak, create, and control their experience, including creating their own tools and protecting their own privacy. A world where humans have the legal, policy, and cultural support and protection to do so. Where individuals have the strength and processing power to take on larger organizations, whether government or corporate, as well as to be protected from them. A world where our technology, whether as simple as an email or as complex as an AI system, is trustworthy and loyal to us.</p>
+
+												<p><strong>Why do you think people should <a href="https://torproject.org/donate/donate-tbi-tn3">support</a> and care about Tor?</strong></p>
+
+												<p>If you care about maintaining (or creating) a society that can change &mdash; where ideas can grow and information can be learned free of control by governments or corporations &mdash; then Tor is one of the critical tools that you should support and care about.</p>
+
+												<p>Tor protects the canaries in the coal mines.</p>
+
+												<p>Even if you personally don&rsquo;t need the protection that Tor offers, standing up for Tor is standing with the people who take risks to keep the rest of us informed about some of the most dangerous and important facts and issues facing the planet.</p>
+
+												<hr />
+												<h1><a href="http://blog.torproject.org/digital-rights-are-human-rights">Digital Rights are Human Rights</a></h1>
+
+												<p><a href="https://blog.torproject.org/digital-rights-are-human-rights"><img alt="Digital Rights " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-human-rights-day-blogpost.png?itok=m0MY9G8W" style="width: 640px; height: 303px;" /></a></p>
+
+												<p>At the Tor Project, we build technologies that defend and promote the human rights to privacy and freedom. More than just a way to exercise an individual right, it&rsquo;s a collective collaboration and movement that generates a common good for all. Everyone can use this open and secure network as infrastructure that has privacy as a <a href="https://blog.torproject.org/category/tags/heart-internet-freedom">default feature of its design</a>.</p>
+
+												<p>The Tor network promotes a radical decentralization with <a href="https://community.torproject.org/onion-services/">onion services</a>, so you can run your own service without a dedicated IP address or having a domain name, all done privately and securely. Tor also promotes net neutrality, since it doesn&#39;t modify the traffic based on who is accessing it or which sites they are visiting. In other words, it&#39;s what we&#39;ve always wanted the internet to be. <a href="https://blog.torproject.org/digital-rights-are-human-rights">Find out about how we&#39;ve been working directly with human rights defenders to help them protect themselves online</a>.</p>
+
+												<hr />
+												<h1><a href="http://blog.torproject.org/next-chapter-anti-censorship">The Next Chapter of Anti-Censorship</a></h1>
+
+												<p><a href="https://blog.torproject.org/next-chapter-anti-censorship"><img alt="China-Censorship " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/EAST_TURKESTAN.png?itok=xyEfKSUr" style="width: 639px; height: 321px;" /></a></p>
+
+												<p>The video from the Tor Project Co-Founder Roger Dingledine&#39;s DEF CON 2019 talk (&quot;The Tor Censorship Arms Race: The Next Chapter&quot;) is now up:</p>
+
+												<ul>
+													<li>
+													<p><a href="https://www.youtube.com/watch?v=ZB8ODpw_om8">YouTube version</a> (for those who can tolerate surveillance capitalism)</p>
+													</li>
+													<li>
+													<p><a href="http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/DEF%20CON%2027/DEF%20CON%2027%20video%20and%20slides/DEF%20CON%2027%20Conference%20-%20Roger%20Dingledine%20-%20The%20Tor%20Censorship%20Arms%20Race%20The%20Next%20Chapter.mp4">Original mp4 from DEF CON&#39;s onion service</a> (download it and play it locally, since playing it in a browser doesn&#39;t display video)</p>
+													</li>
+													<li>
+													<p><a href="https://freehaven.net/~arma/DEF%20CON%2027%20Conference%20-%20Roger%20Dingledine%20-%20The%20Tor%20Censorship%20Arms%20Race%20The%20Next%20Chapter.mp4">Backup mp4 for those who can&#39;t reach onion services</a></p>
+													</li>
+													<li>
+													<p><a href="https://freehaven.net/~arma/slides-dc19.pdf">Slides (pdf)</a></p>
+													</li>
+												</ul>
+
+												<p>This talk gets you up to speed on all the ways governments have tried to block Tor, walks through our upcoming steps to stay ahead of the arms race, and gives you some new&mdash;easier&mdash;ways that let you help censored users reach the internet safely.</p>
+
+												<hr />
+												<h1 class="title"><a href="https://blog.torproject.org/modularizing-key-aspects-tor-network-moss" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1814/title/en/teaser" property="schema:name">Modularizing Key Aspects of the Tor Network, Supported by MOSS</span></a></h1>
+
+												<p><span class="quickedit-field" data-quickedit-field-id="node/1814/title/en/teaser" property="schema:name"><a href="https://blog.torproject.org/modularizing-key-aspects-tor-network-moss"><img alt="MOSS" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/moss-mission-partners.png?itok=gneBFIcN" style="width: 639px; height: 151px;" /></a></span></p>
+
+												<p>In 2018, the Tor Project was awarded a grant from <a href="https://www.mozilla.org/en-US/moss/mission-partners/">Mozilla&rsquo;s Open Source Support (MOSS) program&rsquo;s Mission Partners</a> track to improve Tor&#39;s codebase. The <a href="https://trac.torproject.org/projects/tor/wiki/org/teams/NetworkTeam">network team</a> spent the last 12 months working on creating a Tor network codebase that is:</p>
+
+												<ul>
+													<li>Easier to scale, more flexible, and faster in order to handle more users;</li>
+													<li>Easier for Tor developers, third-party developers, and researchers to navigate; and</li>
+													<li>Easier to adopt, contribute to, and improve.</li>
+												</ul>
+
+												<p>In order to reach towards those goals, the network team:</p>
+
+												<ul>
+													<li>Reduced module complexity and maintenance burden;</li>
+													<li>Developed new architecture for several key Tor modules;</li>
+													<li>Implemented better tooling;</li>
+													<li>Improved testing for several key Tor modules; and</li>
+													<li>Improved our documentation.</li>
+												</ul>
+
+												<p>The biggest change introduced thanks to this project is a generic publish-subscribe mechanism for delivering messages internally. It is meant to help us improve the modularity of our code by avoiding direct coupling between modules that don&#39;t actually need to invoke one another.</p>
+
+												<p>For example, there are numerous parts of our code that might need to take action when a circuit is completed: a controller might need to be informed, an onion service negotiation might need to be attached, a guard might need to be marked as working, or a client connection might need to be attached. But many of those actions occur at a higher layer than circuit completion: calling them directly is a layering violation and makes our code harder to understand and analyze. With message-passing, we can invert this layering violation: circuit completion can become a &quot;message&quot; that the circuit code publishes, and to which higher-level layers subscribe. This means that circuit handling can be decoupled from higher-level modules and stay nice and simple.</p>
+
+												<p>The network team also continued earlier work that began in Tor 0.3.5 to make our code behave more modularly with its startup and teardown logic. Many tor modules now function as &quot;subsystems&quot; that are initialized, shut down, and updated with a standard interface, rather than with the confusing system of calls that was used before. <a href="https://blog.torproject.org/modularizing-key-aspects-tor-network-moss">Read more</a>.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor 0.4.2.5 <span class="quickedit-field" data-quickedit-field-id="node/1811/title/en/full" property="schema:name">(also 0.4.1.7, 0.4.0.6, and 0.3.5.9)</span></h2>
+
+												<p>This is the first stable release in the 0.4.2.x series. This series improves reliability and stability, and includes several stability and correctness improvements for onion services. It also fixes many smaller bugs present in previous series. <a href="https://blog.torproject.org/new-release-0425-also-0417-0406-and-0359">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.5a3</h2>
+
+												<p>This new alpha release picks up security fixes for Firefox 68.3.0esr and updates our external extensions (NoScript and HTTPS Everywhere) to their latest versions. Among other things, we made some cleanups in torbutton and fixed localization in the Android bundles. We also add three new locales: lt (Lithuanian), ms (Maylay), and th (Thai).&nbsp;<span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0"><a href="https://blog.torproject.org/new-release-tor-browser-95a3">Full changelog</a>. </span></p>
+
+												<h2>Tor Browser 9.02</h2>
+
+												<p>This new stable release is picks up security fixes for Firefox 68.3.0esr and updates our external extensions (NoScript and HTTPS Everywhere) to their latest versions. Apart from backports for patches that already landed in alpha releases and fixing an error in our circuit display and improving our letterboxing support, Tor Browser 9.0.2 provides properly localized Android bundles again as well.<a href="https://blog.torproject.org/new-release-tor-browser-902"> Full changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/events/censorship-resistance-fur-den-anonymisierungsdienst-tor-hagenberg" hreflang="en">Censorship Resistance f&uuml;r den Anonymisierungsdienst Tor</a>. Hagenberg, Austria</span></span><span class="quickedit-field" data-quickedit-field-id="node/1728/title/en/full">.</span><time datetime="2019-09-12T12:00:00Z"> 9 January 2020</time>.</p>
+
+												<hr />
+												<h1>Take Back the Internet with Us</h1>
+
+												<blockquote>
+												<p><strong>Technology doesn&#39;t need to come at the expense of privacy. Connectivity doesn&#39;t need to cost us our self-determination.</strong> With your help, we can keep Tor growing and improving to be what the world needs: a way to help <a href="https://torproject.org/donate/donate-tbi-tn3">take back the internet</a> for freedom and human rights.</p>
+
+												<p>- Nick Mathewson, Co-Founder, The Tor Project</p>
+												</blockquote>
+
+												<p><a href="https://torproject.org/donate/donate-tbi-tn3">Donate today</a>, and Mozilla will match your donation.</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://torproject.org/donate/donate-tbi-tn3">Donate</a> to help keep Tor fast, strong, and secure. <a href="http://torproject.org/donate/donate-tbi-tn3">Take back the internet with us</a>.</p>
+
+												<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://torproject.org/donate/donate-tbi-tn3" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
