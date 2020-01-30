@@ -1,0 +1,128 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2020-01-30
+---
+title: Bug Smash, Advocacy, What We're Reading,  Events
+---
+body:
+
+## Tor's Bug Smash Fund: Progress So Far ##
+
+https://blog.torproject.org/tor-bug-smash-fund-progress
+
+At the beginning of August 2019, we asked you to help us build our very first Bug Smash Fund. This fund will ensure that the Tor Project has a healthy reserve earmarked for maintenance work and smashing the bugs necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly. Together we raised $86,081.
+
+So far, we've marked 77 tickets with BugSmashFund. As of today, 56 of those tickets have been closed, and 21 of them are still in progress. With this reserve, we've been able to fix bugs and complete necessary maintenance on core tor, bridgedb, Snowflake, and Metrics, as well as complete the Tor Browser ESR 68 migration. Roughly half of the Bug Smash Fund remains available for allocation, and we will continue to tag relevant maintenance work and bug fixing tickets that will be covered with this reserve. Thank you for supporting this work. Find out what tickets we've closed so far: https://blog.torproject.org/tor-bug-smash-fund-progress
+
+## Help Stop the Sale of Public Interest Registry to a Private Equity Firm ##
+
+https://act.eff.org/action/help-stop-the-sale-of-public-interest-registry-to-a-private-equity-firm
+
+Last month it was suddenly announced that the nonprofit that owns the .ORG domain registry was planning to sell it to a private equity firm, Ethos Capital. This could impact the millions of individuals and organizations that have a .ORG website, including the Tor Project, subjecting them to potential censorship and leaving the door open for price increases on domain registration and renewals.
+
+Please take action today and add your name to the twenty-thousand individuals who have opposed the sale.
+
+## Buying a smart phone on the cheap? Privacy might be the price you have to pay ##
+
+https://privacyinternational.org/advocacy/3320/open-letter-google
+
+https://privacyintyqcroe.onion/advocacy/3320/open-letter-google
+
+Research by Privacy International shows that cheap smartphones come with a hidden cost: pre-installed apps that can't be deleted and that leak your data.
+
+We're telling Google it's time to take action on pre-installed apps. Add your voice here: https://privacyinternational.org/petition.
+
+## Privacy isn't about having something to hide. ##
+
+We believe technology must be designed in an ethical way that respects people's digital rights. Privacy cannot be an afterthought with room for interpretation by businesses that thrive on exploiting us online. Privacy must be the default.
+
+https://www.nytimes.com/2019/12/29/technology/california-privacy-law.html
+
+https://www.nytimes3xbfgragh.onion/2019/12/29/technology/california-privacy-law.html
+
+## New Releases ##
+
+Tor 0.4.3.1-alpha
+
+https://blog.torproject.org/new-alpha-release-tor-0431-alpha
+
+This is the first alpha release in the 0.4.3.x series. It includes improved support for application integration of onion services, support for building in a client-only mode, and newly improved internal documentation (online at https://src-ref.docs.torproject.org/tor/). It also has numerous other small bugfixes and features, as well as improvements to our code's internal organization that should help us write better code in the future.
+
+Tor Browser 9.5a4
+
+https://blog.torproject.org/new-release-tor-browser-95a4
+
+This new alpha release picks up security fixes for Firefox 68.4.0esr and 68.4.1esr. In addition, this release updates the bundled NoScript extension to its latest version.
+
+Tor Browser 9.0.3 & 9.0.4
+
+https://blog.torproject.org/new-release-tor-browser-903
+
+https://blog.torproject.org/new-release-tor-browser-904
+
+9.0.4 fixes a critical security issue in Firefox: CVE-2019-17026.
+
+9.0.3 picks up security fixes for Firefox 68.4.0esr. We also updated Tor to 0.4.2.5 for the desktop versions. On Android we fixed a possible crash after the bootstrap.
+
+Stem 1.8
+
+https://blog.torproject.org/new-release-stem-18
+
+Stem is a Python library for interacting with Tor. With it you can script against your relay, descriptor data, or even write applications like Nyx.
+
+## What We're Reading ##
+
+"Reporters Face New Threats From the Governments They Cover," James Risen, The New York Times. [.onion]
+
+https://nytimes3xbfgragh.onion/2020/01/26/opinion/greenwald-brazil-reporter.html
+
+https://nytimes.com/2020/01/26/opinion/greenwald-brazil-reporter.html
+
+"Both the Trump administration and the right-wing Brazilian government of President Jair Bolsonaro seem to have decided to experiment with such draconian anti-press tactics..."
+
+"The Trump Administration's Lies About Encryption Are Putting Our Privacy in Danger," Trevor Timm.
+
+http://gen.medium.com/the-trump-administrations-lies-about-encryption-are-putting-our-privacy-in-danger-1291d5582283
+
+"The Trump administration is now engaged in a multipronged effort to pressure tech companies to weaken encryption protecting the privacy of billions of people. And make no mistake: They are blatantly lying about it to try to get their way."
+
+"You Are Now Remotely Controlled," Shoshana Zuboff, The New York Times.
+
+https://www.nytimes3xbfgragh.onion/2020/01/24/opinion/sunday/surveillance-capitalism.html
+
+https://nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html
+
+"Surveillance capitalists exploit the widening inequity of knowledge for the sake of profits. They manipulate the economy, our society and even our lives with impunity, endangering not just individual privacy but democracy itself."
+
+
+## Upcoming Events with Tor ##
+
+FOSDEM. Belgium, Brussels. 1-2 February 2020. https://blog.torproject.org/tor-fosdem-2020-brussels
+
+FOSDEM's Interview with Pili, Tor Project, Project Manager: https://fosdem.org/2020/interviews/pili-guerra/
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

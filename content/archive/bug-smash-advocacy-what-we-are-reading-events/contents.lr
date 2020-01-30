@@ -1,0 +1,163 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2020-01-30
+---
+title: Bug Smash, Advocacy, What We're Reading,  Events
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Tor&#39;s Bug Smash Fund: Progress So Far</h1>
+
+												<p><a href="https://blog.torproject.org/tor-bug-smash-fund-progress"><img alt="tor bug smash " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-bug-smash-blog_3.png?itok=dYLRCunj" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>At the beginning of August 2019, we asked you to help us build <a href="https://blog.torproject.org/tors-bug-smash-fund-help-tor-smash-all-bugs">our very first Bug Smash Fund</a>. This fund will ensure that the Tor Project has a healthy reserve earmarked for maintenance work and smashing the bugs necessary to keep Tor Browser, the Tor network, and the <a href="https://blog.torproject.org/strength-numbers-entire-ecosystem-relies-tor">many tools that rely on Tor</a> strong, safe, and running smoothly. Together we raised $86,081.</p>
+
+												<p>So far, we&rsquo;ve marked 77 tickets with <a href="https://trac.torproject.org/projects/tor/query?status=accepted&amp;status=assigned&amp;status=closed&amp;status=merge_ready&amp;status=needs_information&amp;status=needs_review&amp;status=needs_revision&amp;status=new&amp;status=reopened&amp;keywords=~BugSmashFund&amp;group=component&amp;col=id&amp;col=summary&amp;col=status&amp;col=type&amp;col=priority&amp;col=milestone&amp;col=component&amp;order=status">BugSmashFund</a>. As of today, 56 of those tickets have been closed, and 21 of them are still in progress. With this reserve, we&rsquo;ve been able to fix bugs and complete necessary maintenance on core tor, bridgedb, Snowflake, and Metrics, as well as complete the Tor Browser ESR 68 migration. Roughly half of the Bug Smash Fund remains available for allocation, and we will continue to tag relevant maintenance work and bug fixing tickets that will be covered with this reserve. <a href="https://blog.torproject.org/tor-bug-smash-fund-progress">Take a look at the tickets we&#39;ve closed so far</a>.</p>
+
+												<hr />
+												<h1>Help Stop the Sale of Public Interest Registry to a Private Equity Firm</h1>
+
+												<p><a href="https://act.eff.org/action/help-stop-the-sale-of-public-interest-registry-to-a-private-equity-firm"><img alt=".org" src="https://s3-us-west-1.amazonaws.com/actioncenter/action_pages/featured_images/000/000/419/original/dot-org-starburst-1.png?1574715180" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>Last month it was suddenly announced that the nonprofit that owns the .ORG domain registry was planning to sell it to a private equity firm, Ethos Capital. This could impact the millions of individuals and organizations that have a .ORG website, including the Tor Project, subjecting them to potential censorship and leaving the door open for price increases on domain registration and renewals.</p>
+
+												<p><a href="https://act.eff.org/action/help-stop-the-sale-of-public-interest-registry-to-a-private-equity-firm">Please take action today</a> and add your name to the <a href="https://savedotorg.org">twenty-thousand individuals</a> who have opposed the sale.</p>
+
+												<hr />
+												<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Buying a smart phone on the cheap? Privacy might be the price you have to pay</span></h1>
+
+												<p><em>Research by Privacy International shows that cheap smartphones come with a hidden cost: pre-installed apps that can&#39;t be deleted and that leak your data.</em></p>
+
+												<p>We&#39;re telling Google it&#39;s time to take action on pre-installed apps. Add your voice here: <a href="https://privacyinternational.org/petition#phil">privacyinternational.org/petition.</a></p>
+
+												<hr />
+												<h1>Privacy isn&#39;t about having something to hide.</h1>
+
+												<p><a href="https://twitter.com/torproject/status/1222163716281683970"><img alt="privacy" src="https://pbs.twimg.com/media/EPTLVZqVAAADMzf?format=jpg&amp;name=large" style="width: 640px; height: 360px;" /></a></p>
+
+												<p>We believe technology must b<span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">e designed in an ethical way that respects people&#39;s digital rights. Privacy cannot be an afterthought <a href="https://www.nytimes.com/2019/12/29/technology/california-privacy-law.html">with room for interpretation</a> by businesses that thrive on exploiting us online. Privacy must be the default. </span></p>
+
+												<hr />
+												<h1 class="title"><span class="quickedit-field" data-quickedit-field-id="node/1814/title/en/teaser" property="schema:name">What We&#39;re Reading</span></h1>
+
+												<h2 class="css-1qskr30 e1h9rw200" itemprop="headline"><span class="balancedHeadline" style="display: inline-block; max-width: 547.633px;">&quot;Reporters Face New Threats From the Governments They Cover,&quot; James Risen, <a href="https://www.nytimes.com/2020/01/26/opinion/greenwald-brazil-reporter.html">The New York Times</a>. [<a href="https://www.nytimes3xbfgragh.onion/2020/01/26/opinion/greenwald-brazil-reporter.html">.onion</a>]</span></h2>
+
+												<p>&quot;Both the Trump administration and the right-wing Brazilian government of President Jair Bolsonaro seem to have decided to experiment with such draconian anti-press tactics...&quot;</p>
+
+												<h2 class="ez fa eo fb eq fc es fd eu fe ew ff em">&quot;The Trump Administration&rsquo;s Lies About Encryption Are Putting Our Privacy in Danger,&quot; <a href="https://gen.medium.com/the-trump-administrations-lies-about-encryption-are-putting-our-privacy-in-danger-1291d5582283">Trevor Timm</a>.</h2>
+
+												<p>&quot;The Trump administration is now engaged in a multipronged effort to pressure tech companies to weaken encryption protecting the privacy of billions of people. And make no mistake: They are blatantly lying about it to try to get their way.&quot;</p>
+
+												<h2>&quot;You Are Now Remotely Controlled,&quot; <span class="css-1baulvz last-byline" itemprop="name">Shoshana Zuboff, </span><a href="https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html">The New York Times</a>. [<a href="https://www.nytimes3xbfgragh.onion/2020/01/24/opinion/sunday/surveillance-capitalism.html">.onion</a>]</h2>
+
+												<p>&quot;Surveillance capitalists exploit the widening inequity of knowledge for the sake of profits. They manipulate the economy, our society and even our lives with impunity, endangering not just individual privacy but democracy itself.&quot;</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor 0.4.3.1-alpha</h2>
+
+												<p>This is the first alpha release in the 0.4.3.x series. It includes improved support for application integration of onion services, support for building in a client-only mode, and newly improved internal documentation (online at https://src-ref.docs.torproject.org/tor/). It also has numerous other small bugfixes and features, as well as improvements to our code&#39;s internal organization that should help us write better code in the future. <a href="https://blog.torproject.org/new-alpha-release-tor-0431-alpha">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.5a4</h2>
+
+												<p>This new alpha release picks up security fixes for Firefox 68.4.0esr and 68.4.1esr. In addition, this release updates the bundled NoScript extension to its latest version.&nbsp;<span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0"><a href="https://blog.torproject.org/new-release-tor-browser-95a4">Full changelog</a>. </span></p>
+
+												<h2>Tor Browser 9.0.3 &amp; 9.0.4</h2>
+
+												<p>9.0.3 picks up security fixes for Firefox 68.4.0esr. We also updated Tor to 0.4.2.5 for the desktop versions. On Android we fixed a possible crash after the bootstrap.&nbsp;9.0.4 fixes a <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-03/">critical security issue in Firefox</a>: CVE-2019-17026.<a href="https://blog.torproject.org/new-release-tor-browser-903"> </a> <a href="https://blog.torproject.org/new-release-tor-browser-903">Full changelogs for 9.03 &amp; </a><a href="https://blog.torproject.org/new-release-tor-browser-904">9.04</a>.</p>
+
+												<h2>Stem 1.8</h2>
+
+												<p>Stem is a Python library for interacting with Tor. With it you can script against your relay, descriptor data, or even write applications like <a href="https://nyx.torproject.org/">Nyx</a>. <a href="https://blog.torproject.org/new-release-stem-18">Changelog</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<p class="field field--name-field-event-dates field--type-daterange field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1728/field_event_dates/en/full"><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/tor-fosdem-2020-brussels" hreflang="en">FOSDEM</a>. Belgium, Brussels</span></span><span class="quickedit-field" data-quickedit-field-id="node/1728/title/en/full">.</span><time datetime="2019-09-12T12:00:00Z"> 1-2 February 2020</time>. <a href="https://fosdem.org/2020/interviews/pili-guerra/">Interview with Tor speaker Pili Guerra</a>.</p>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
