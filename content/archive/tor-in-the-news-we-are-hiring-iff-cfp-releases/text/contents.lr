@@ -1,0 +1,141 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2020-02-27
+---
+title: Tor in the News, We're Hiring, IFF CFP, Releases
+---
+body:
+
+## Tor in the Media: 2019 ##
+
+https://blog.torproject.org/tor-media-2019
+
+In 2019, mainstream coverage of privacy wins and challenges increased, and with that, so did coverage of the Tor Project. We are proud of what we accomplished last year and proud that our work advancing human rights to privacy and freedom online has caught the attention of outlets such as BBC, WIRED, Deutsche Welle, and NPR. Not only did they write about us, but some of these big names also began using and promoting our tools.
+
+We’ve broken down 2019 coverage into sections: Tor’s Reach and Accessibility, Anti-Censorship, Onion Adoption, Ecosystem Impact, Cryptocurrency, and Advocacy. Check out the more comprehensive list of coverage.
+
+## Tor’s Reach and Accessibility
+
+Inspired by major advancements in Tor Browser’s design, integration of Tor tabs in Brave browser, and the alpha release of Tor Browser for Android, Lily Hay Newman at Wired declared 2019 the year to try Tor.
+
+    "In truth, Tor has been relatively accessible for years now, largely because of the Tor Browser, which works almost exactly like a regular browser and does all the complicated stuff for you in the background. But in 2018 a slew of new offerings and integrations vastly expanded the available tools, making 2019 the year to finally try Tor. You may even end up using the network without realizing it."
+
+As people become more aware of how tech giants exploit their information, Tor was also cited as privacy-first alternative to Chrome.
+
+As part of our goal to make Tor available to everyone online who needs it, we knew we needed to meet people where they are using the internet: on their mobile devices. In 2019, we made it "easier than ever" for people to use Tor by making it available on Android, and this development was written about by several publications.
+
+##Anti-Censorship
+
+In addition to improved accessibility and privacy protections, our anti-censorship work made headlines. OONI, a project under Tor, was recognized for its contributions to documenting evidence of internet censorship worldwide.
+
+Several outlets promoted Snowflake, an extension we released, now in an experimental stage, which empowers users of those browsers to help Tor users circumvent censorship.
+
+##Onion Adoption
+
+To help users in censored countries reach their content, BBC, Deutsche Welle, and Mada Masr have joined ProPublica, The New York Times, and BuzzFeed News to set up onion addresses using Tor onion services. In addition to those outlets promoting their onion mirrors, other news sites also picked up on the BBC announcement. Due to the enhanced privacy and security properties onion addresses provide, in addition to their ability to help censored users bypass blocks, we expect this trend to continue. We will be focusing on scaling to meet this demand in 2020.
+
+##Ecosystem
+
+Not all Tor benefits come from directly connecting to the network, using Tor Browser, or implementing onion services. Our innovations and techniques also help to raise the bar for privacy and security in other technologies and were written about for doing so. Firefox users now benefit from our security and privacy features, including an anti-fingerprint technique called "letterboxing." Mozilla is also exploring using Tor for a ‘Super Private Browsing’ mode. In 2019, Mozilla announced a research grant regarding Tor integration to Firefox. Currently the Firefox team is exploring testing a prototype using an add-on integration.
+
+##Cryptocurrency
+
+This year, we were a trailblazing nonprofit organization regarding our acceptance of cryptocurrency donations. Many people in the cryptocurrency community share Tor's values of privacy and freedom online and expressed excitement about contributing to Tor through a variety of new cryptocurrencies. As one of the first nonprofits to accept cryptocurrencies on such a wide scale, we also set an example for other organizations to follow.
+
+##Advocacy
+
+Our mission extends beyond developing tools that advance the human rights to privacy and freedom online; we also advocate for their use and other relevant critical issues necessary for a world where Tor thrives. We are proud to have joined in several campaigns in 2019 to uphold our values and speak out against dangerous demands to weaken encryption and increase surveillance.
+
+2019 was a big year in the news for Tor, and as the demand for privacy online increases, we expect the stories to continue in 2020 as we focus on promoting our tools as the backbone of an internet that puts privacy first, by design.
+
+Check out a more comprehensive list of Tor's media coverage: https://blog.torproject.org/tor-media-2019
+
+## We're Hiring an Executive Assistant ##
+
+https://www.torproject.org/about/jobs/executive-assistant/
+
+The Executive Assistant is responsible for providing high-level administrative support to the Executive Director. This position will actively manage the ED’s schedule, handle internal and external executive-level communications, and coordinate special projects and events. This position is full-time and remote; someone in the Eastern time zone strongly preferred.
+
+## Tor Village at IFF: Call for Proposals ##
+
+During this year's Internet Freedom Festival (IFF), we're organizing a village with activities on privacy, anonymity, and anti-censorship based around Tor. IFF will take place from April 20 - 24 2020 in Valencia, Spain, and the Tor Village will take place on the last two days, April 23 and 24. Proposals can be made in English or Spanish. Proposals should be sent by March 10th at 23:59 UTC to iff@torproject.org. Proposals sent after the deadline or by other means will not be accepted.
+
+Check out some activity ideas and how to submit: https://blog.torproject.org/tor-village-iff-2020-call-proposals
+
+## New Releases ##
+
+BridgeDB 0.9.3
+
+https://blog.torproject.org/new-release-bridgedb-093
+
+When ISPs or governments block access to the Tor network, our users rely on bridges to connect. With BridgeDB, we tackle the problem of how to get bridges to censored users while making it difficult for censors to get all bridges. We recently released BridgeDB version 0.9.3, which comes with bug fixes and new features.
+
+Tor Browser 9.5a5
+
+https://blog.torproject.org/new-release-tor-browser-95a5
+
+This release updates Firefox to 68.5.0esr, NoScript to 11.0.13, and on desktop, Tor to 0.4.3.2-alpha. We also added a new default bridge.
+
+Tor Browser 9.0.5
+
+https://blog.torproject.org/new-release-tor-browser-905
+
+This release updates Firefox to 68.5.0esr, NoScript to 11.0.13, and on desktop, Tor to 0.4.2.6. We also added a new default bridge and backported a few improvements from the alpha series.
+
+Tor 0.4.3.2-alpha
+
+https://blog.torproject.org/new-release-tor-0432-alpha
+
+This is the second stable alpha release in the Tor 0.4.3.x series. It fixes several bugs present in the previous alpha release. Anybody running the previous alpha should upgrade and look for bugs in this one instead.
+
+## What We're Reading ##
+
+"Hacker Eva Galperin Has a Plan to Eradicate Stalkerware," Andy Greenberg, WIRED.
+
+https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/
+
+"Brazilian Judge Declines to Move Forward With Charges Against Glenn Greenwald 'for Now,'" Murtaza Hussain, The Intercept.
+
+https://theintercept.com/2020/02/06/glenn-greenwald-intercept-brazil-charges/
+
+"How schools are using kids' phones to track and surveil them," Alfred Ng, CNET.
+
+https://www.cnet.com/news/how-schools-are-using-kids-phones-to-track-and-surveil-them/
+
+## Upcoming Events with Tor ##
+
+Netdev 0x14. Vancouver, Canada. March 17, 2020 - March 20, 2020. https://blog.torproject.org/net-dev-vancouver
+
+Bitcoin2020. San Francisco, USA. March 27, 2020 - March 28, 2020. https://blog.torproject.org/bitcoin2020-sanfrancisco
+
+IFF and Tor Village. Valencia, Spain. April 20, 2020 - April 24, 2020. https://blog.torproject.org/iff-tor-village-valencia
+
+BSides. Barcelona, Spain. May 08, 2020. https://blog.torproject.org/b-sides-barcelona-2020
+
+CryptoRave, São Paulo, Brazil. May 15, 2020 - May 16, 2020. https://blog.torproject.org/cryptorave-sao-paulo-2020
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

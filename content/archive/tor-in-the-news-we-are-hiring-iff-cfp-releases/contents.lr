@@ -1,0 +1,211 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2020-02-27
+---
+title: Tor in the News, We're Hiring, IFF CFP, Releases
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>Tor in the Media: 2019</h1>
+
+												<p><a href="https://blog.torproject.org/tor-media-2019"><img alt="Tor Media" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-media-2019-2.png?itok=Zu3xnatI" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>In 2019, mainstream coverage of privacy wins and challenges increased, and with that, so did coverage of the Tor Project. We are proud of what we accomplished last year and proud that our work advancing human rights to privacy and freedom online has caught the attention of outlets such as BBC, WIRED, Deutsche Welle, and NPR. Not only did they write about us, but some of these big names also began using and promoting our tools.</p>
+
+												<p>We&rsquo;ve broken down 2019 coverage into sections: Tor&rsquo;s Reach and Accessibility, Anti-Censorship, Onion Adoption, Ecosystem Impact, Cryptocurrency, and Advocacy. Check out the more <a href="https://blog.torproject.org/tor-media-2019">comprehensive list of coverage</a>.</p>
+
+												<h2>Tor&rsquo;s Reach and Accessibility</h2>
+
+												<p>Inspired by major advancements in Tor Browser&rsquo;s design, integration of Tor tabs in Brave browser, and the alpha release of Tor Browser for Android, Lily Hay Newman at <a href="https://www.wired.com/story/tor-anonymity-easier-than-ever/">Wired declared</a> 2019 the year to try Tor.</p>
+
+												<blockquote>
+												<p>&ldquo;In truth, Tor has been relatively accessible for years now, largely because of the Tor Browser, which works almost exactly like a regular browser and does all the complicated stuff for you in the background. But in 2018 a slew of new offerings and integrations vastly expanded the available tools, making 2019 the year to finally try Tor. You may even end up using the network without realizing it.&rdquo;</p>
+												</blockquote>
+
+												<p>As people become more aware of how tech giants exploit their information, Tor was also cited as <a href="https://www.fastcompany.com/90316917/the-paranoid-persons-guide-to-online-privacy">privacy-first alternative to Chrome</a>.</p>
+
+												<p>As part of our goal to make Tor available to everyone online who needs it, we knew we needed to meet people where they are using the internet: on their mobile devices. In 2019, we made it &ldquo;easier than ever&rdquo; for people to use Tor by making it available on Android, and this development was written about by several publications.</p>
+
+												<h2>Anti-Censorship</h2>
+
+												<p>In addition to improved accessibility and privacy protections, our anti-censorship work made headlines. OONI, a project under Tor, was recognized for its contributions to <a href="https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/">documenting evidence of internet censorship</a> worldwide.</p>
+
+												<p>Several outlets promoted <a href="https://snowflake.torproject.org/">Snowflake</a>, an extension we released, now in an experimental stage, which empowers users of those browsers to help Tor users circumvent censorship.</p>
+
+												<h2>Onion Adoption</h2>
+
+												<p>To help users in censored countries reach their content, <a href="https://www.npr.org/2019/10/24/773060596/bbc-launches-tor-mirror-site-to-thwart-media-censorship">BBC</a>, <a href="https://www.dw.com/pt-br/sites-da-deutsche-welle-agora-acess%C3%ADveis-através-do-protocolo-tor/a-51340347">Deutsche Welle</a>, and Mada Masr have joined ProPublica, The New York Times, and BuzzFeed News to set up onion addresses using Tor onion services. In addition to those outlets promoting their onion mirrors, other news sites also picked up on the BBC announcement. Due to the enhanced privacy and security properties onion addresses provide, in addition to their ability to help censored users bypass blocks, we expect this trend to continue. We will be focusing on scaling to meet this demand in 2020.</p>
+
+												<h2>Ecosystem</h2>
+
+												<p>Not all Tor benefits come from directly connecting to the network, using Tor Browser, or implementing onion services. Our innovations and techniques also help to <a href="https://www.zdnet.com/article/firefox-to-add-tor-browser-anti-fingerprinting-technique-called-letterboxing/">raise the bar for privacy and security in other technologies</a> and were written about for doing so. Firefox users now benefit from our security and privacy features, including an anti-fingerprint technique called &quot;letterboxing.&quot; Mozilla is also exploring using Tor for a &lsquo;Super Private Browsing&rsquo; mode. In 2019, <a href="https://www.zdnet.com/article/mozilla-offers-research-grant-for-a-way-to-embed-tor-inside-firefox/">Mozilla announced a research grant</a> regarding Tor integration to Firefox. Currently the Firefox team is exploring testing a prototype using an <a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-tor-mode-likely-to-start-as-a-browser-addon/">add-on integration</a>.</p>
+
+												<h2>Cryptocurrency</h2>
+
+												<p>This year, we were a trailblazing nonprofit organization regarding our acceptance of cryptocurrency donations. Many people in the cryptocurrency community share Tor&#39;s values of privacy and freedom online and <a href="https://www.coindesk.com/tor-project-takes-cryptos-after-donors-request-new-options">expressed excitement</a> about contributing to Tor through a variety of new cryptocurrencies. As one of the first nonprofits to accept cryptocurrencies on such a wide scale, we also <a href="https://www.dailydot.com/layer8/cryptocurrency-philanthropy-charity-bitcoin/">set an example</a> for other organizations to follow.</p>
+
+												<h2>Advocacy</h2>
+
+												<p>Our mission extends beyond developing tools that advance the human rights to privacy and freedom online; we also advocate for their use and other relevant critical issues necessary for a world where Tor thrives. We are proud to have joined in several campaigns in 2019 to uphold our values and speak out against dangerous demands to <a href="https://www.vice.com/en_us/article/ne8q3w/36-civil-rights-groups-demand-end-to-amazons-partnerships-with-police">weaken encryption</a> and <a href="https://techcrunch.com/2019/10/08/over-30-civil-rights-groups-demand-an-end-to-amazon-rings-police-partnerships/">increase surveillance</a>.</p>
+
+												<p>2019 was a big year in the news for Tor, and as the demand for privacy online increases, we expect the stories to continue in 2020 as we focus on promoting our tools as the backbone of an internet that puts privacy first, by design.</p>
+
+												<p><a href="https://blog.torproject.org/tor-media-2019">Check out a more comprehensive list of Tor&#39;s media coverage</a>.</p>
+
+												<hr />
+												<h1>We&#39;re Hiring an Executive Assistant</h1>
+
+												<p><a href="https://www.torproject.org/about/jobs/executive-assistant/"><img alt="hiring" src="https://pbs.twimg.com/media/ERjaSxhWkAAnRc7?format=jpg&amp;name=medium" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>The Executive Assistant is responsible for providing high-level administrative support to the Executive Director. This position will actively manage the ED&rsquo;s schedule, handle internal and external executive-level communications, and coordinate special projects and events.</p>
+
+												<p>This position is full-time and remote; someone in the Eastern time zone strongly preferred. <a href="https://www.torproject.org/about/jobs/executive-assistant/">Learn more and apply</a>.</p>
+
+												<hr />
+												<h1 class="page-title">Tor Village at IFF: Call for Proposals</h1>
+
+												<p><a href="https://blog.torproject.org/tor-village-iff-2020-call-proposals"><img alt="Tor @ IFF " src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/iff-tor-village-cfp-2020.png?itok=nLbnn1_2" style="width: 640px; height: 320px;" /></a></p>
+
+												<p>During this year&#39;s <a href="https://internetfreedomfestival.org/">Internet Freedom Festival (IFF)</a>, we&#39;re organizing a village with activities on privacy, anonymity, and anti-censorship based around Tor. IFF will take place from April 20 - 24 2020 in Valencia, Spain, and the Tor Village will take place on the last two days, April 23 and 24. Proposals can be made in English or Spanish. Proposals should be sent by March 10th at 23:59 UTC to iff@torproject.org. Proposals sent after the deadline or by other means will not be accepted.</p>
+
+												<p><a href="http://https://blog.torproject.org/tor-village-iff-2020-call-proposals">Check out some activity ideas and how to submit</a>.</p>
+
+												<p>&nbsp;</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>BridgeDB 0.9.3</h2>
+
+												<p>When ISPs or governments block access to the Tor network, our users rely on <a href="https://community.torproject.org/relay/types-of-relays/">bridges</a> to connect. With <a href="https://bridges.torproject.org">BridgeDB</a>, we tackle the problem of how to get bridges to censored users while making it difficult for censors to get all bridges. We recently released BridgeDB version 0.9.3, which comes with bug fixes and new features. <a href="https://blog.torproject.org/new-release-bridgedb-093">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.5a5</h2>
+
+												<p>This release updates Firefox to 68.5.0esr, NoScript to 11.0.13, and on desktop, Tor to 0.4.3.2-alpha. We also added a new default bridge.&nbsp;<span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0"><a href="https://blog.torproject.org/new-release-tor-browser-95a5">Full changelog</a>. </span></p>
+
+												<h2>Tor Browser 9.0.5</h2>
+
+												<p>This release updates Firefox to 68.5.0esr, NoScript to 11.0.13, and on desktop, Tor to <a href="https://blog.torproject.org/new-releases-tor-0426-0418">0.4.2.6</a>. We also added a new default bridge and backported a few improvements from the alpha series.<a href="https://blog.torproject.org/new-release-tor-browser-905"> Full changelog</a>.</p>
+
+												<h2>Tor 0.4.3.2-alpha</h2>
+
+												<p>This is the second stable alpha release in the Tor 0.4.3.x series. It fixes several bugs present in the previous alpha release. Anybody running the previous alpha should upgrade and look for bugs in this one instead.<a href="https://blog.torproject.org/new-release-tor-0432-alpha"> Full changelog</a>.</p>
+
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+
+												<p>&quot;Hacker Eva Galperin Has a Plan to Eradicate Stalkerware,&quot; Andy Greenberg, <a href="https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/">WIRED</a>.</p>
+
+												<p>&quot;Brazilian Judge Declines to Move Forward With Charges Against Glenn Greenwald &#39;for Now,&#39;&quot; Murtaza Hussain, <a href="https://theintercept.com/2020/02/06/glenn-greenwald-intercept-brazil-charges/">The Intercept</a>.</p>
+
+												<p>&quot;How schools are using kids&#39; phones to track and surveil them,&quot; Alfred Ng, <a href="https://www.cnet.com/news/how-schools-are-using-kids-phones-to-track-and-surveil-them/">CNET</a>.</p>
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<div class="views-row">
+												<p class="field-content"><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/net-dev-vancouver" hreflang="en">Netdev 0x14. Vancouver, Canada</a></span></span><time datetime="2020-03-27T12:00:00Z">. </time><time datetime="2020-03-17T12:00:00Z">March 17, 2020</time> - <time datetime="2020-03-20T12:00:00Z">March 20, 2020.</time></p>
+												</div>
+
+												<div class="views-row">
+												<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/bitcoin2020-sanfrancisco" hreflang="en">Bitcoin2020. San Francisco, USA. </a></span></span><time datetime="2020-03-27T12:00:00Z">March 27, 2020</time> - <time datetime="2020-03-28T12:00:00Z">March 28, 2020.</time></p>
+
+												<div class="views-row">
+												<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/iff-tor-village-valencia" hreflang="en">IFF and Tor Village. Valencia, Spain. </a></span></span><time datetime="2020-04-20T12:00:00Z">April 20, 2020</time> - <time datetime="2020-04-24T12:00:00Z">April 24, 2020.</time></p>
+												</div>
+
+												<div class="views-row">
+												<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/b-sides-barcelona-2020" hreflang="en">BSides. Barcelona, Spain. </a></span></span><time datetime="2020-05-08T12:00:00Z">May 08, 2020.</time></p>
+												</div>
+
+												<div class="views-row">
+												<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/cryptorave-sao-paulo-2020" hreflang="en">CryptoRave, S&atilde;o Paulo, Brazil. </a></span></span><time datetime="2020-05-15T12:00:00Z">May 15, 2020</time> - <time datetime="2020-05-16T12:00:00Z">May 16, 2020.</time></p>
+												</div>
+												</div>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://trac.torproject.org/projects/tor/wiki/TorRelayGuide">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+																								<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
