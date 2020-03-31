@@ -1,0 +1,159 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2020-03-31
+---
+title: Remote Work and Personal Safety
+---
+body:
+
+## Remote Work and Personal Safety ##
+
+English: https://blog.torproject.org/remote-work-personal-safety
+
+Spanish: https://blog.torproject.org/Conectadas-seguras-tiempos-cuarentena
+
+Portuguese: https://blog.torproject.org/trabalho-remoto-seguranca-pessoal
+
+Italian: https://blog.torproject.org/lavoro-remoto-sicurezza-personale
+
+This is a novel and troubling situation we’re in globally. As a remote, international organization developing tools for online safety, we’d like to share some of our tips about working from home and retaining your rights to privacy and freedom of expression.
+
+# Remote Working
+
+Since incorporated in 2006, the Tor Project and its community have largely operated remotely. Whenever possible, we use free and open source tools that share our commitment to advancing the human rights to privacy and freedom of expression online. Here’s what we’re using now to stay connected:
+
+IRC. The bulk of our online conversations happen in open channels on IRC, like #tor-project, #tor-dev, and #tor-www among others. If you want to chat with us about Tor, you can find us in #tor.  No matter what chat tool your organization may use, we recommend setting up an off-topic channel or direct messaging the person you want to connect with. The opportunity to interact on a more personal level by sharing news and just bantering without interfering with core channel topics is invaluable. You don’t need to share an email address or personal identifying information to register or use IRC.
+
+Nextcloud. This productivity platform could be your alternative to G Suite. We use it for collaborative docs, calendars, and file storage.
+
+Riseup pads. We use these for agendas, taking notes, and drafting blog posts. They don’t save indefinitely, so this isn’t for storage, but ephemerality can keep sensitive information safe. There’s no account needed, only a web browser.
+
+For people working with at-risk groups or sensitive information, these will be particularly helpful:
+
+Tor Browser. Using Tor Browser for searches, logging into accounts, or collaborating protects you from trackers on websites, surveillance from your ISP or anyone monitoring your network, and from censorship enacted by your ISP or government. If you are a health provider or first responder conducting sensitive searches that could be tied to people visiting you or other more easily monitorable activities, Tor Browser is a tool that can protect you and the people you serve.
+
+"I'm a doctor in a very political town. When I have to do research on diseases and treatment or look into aspects of my patients' histories, I am well aware that my search histories might be correlated to patient visits and leak information about their health, families, and personal lives. I use Tor to do much of my research when I think there is a risk of correlating it to patient visits."  - Anonymous Tor User
+
+Signal. For 1:1 messaging, calls, and small group chats, we use Signal, the open source messaging app. It’s end-to-end encrypted, and you can set messages containing sensitive information to expire.
+
+Jitsi Meet. For voice and video meetings, Jitsi Meet is a staple. It’s open source, encrypted, and no accounts are necessary to use it. Just choose a meeting address, say https://meet.jit.si/onionsforall, and share that link. Try this before turning to Zoom, which has come under scrutiny for its lack of transparency.
+
+OnionShare. OnionShare allows you to securely and anonymously share a file of any size without any third parties. If you need to share critical resources with individuals or groups, the latest version of OnionShare also allows you to spin up an onion site only accessible over the Tor network.
+
+share.riseup.net. This is a web-based tool for speedily sharing smaller files (up to 50mb). We frequently drop riseup links into our IRC channels to share photos and screenshots.
+
+If you’re still not finding the right tool to fit your coworking needs, anarcat, SysAdmin at the Tor Project, has more recommendations for Remote presence tools for social distancing: https://anarc.at/blog/2020-03-15-remote-tools/
+
+# Personal Safety
+
+Home isn’t a safe space for everyone. We realize that there are many people who are suddenly at home more often and in relationships that put them at risk of harm. If you are seeking help in a relationship or are in contact with someone who needs help, we recommend using Tor Browser to seek information or assistance without leaving a trace of that search or browsing history. The National Network to End Domestic Violence has additional recommendations you can follow.
+
+The same goes for anyone researching sensitive personal topics, be they womens’ health resources, immigration resources, or information about medical or mental health conditions: Using Tor Browser, in combination with its default search engine DuckDuckGo, can help you keep your personal information to yourself, empower you with the ability to choose what you share, and allow you to access critical information and resources that may be blocked or under scrutiny.
+
+"I use Tor Browser to research about mental diseases, e.g. depression, that occur in our family. I don't want anyone to know about these diseases who I don't want to tell. That's why I use Tor for researching about anything related to these diseases." - Anonymous Tor User
+
+Many of the tools for coworking we outlined above, including Jitsi, Signal, and OnionShare, can help you communicate more safely in difficult circumstances.
+
+#Stay Connected
+
+These are uncertain times, and it’s critical we stay connected and do our part to keep each other safe. If you have any questions about Tor, how Tor or any of these other tools may be helpful to you, join us in #tor on IRC.
+
+If you want to get involved with our work, we welcome you to join our community. We are a small nonprofit organization with a big mission: to make privacy and freedom the default online, and our work is made possible by countless volunteer contributors around the world. We hope you'll join us.
+
+We are just one of countless online communities where you could make an impact, so if you’re not finding the right fit, keep exploring. This could also be an opportunity to start your own.
+
+##Cooking with Onions: Reclaiming the Onionbalance //
+https://blog.torproject.org/cooking-onions-reclaiming-onionbalance
+
+Onionbalance is one of the standard ways onion service administrators can load balance onion services, but it didn't work for v3 onions. Until now. We just released a new version of Onionbalance that supports v3 onion services.
+
+The core functionality remains the same: Onionbalance allows onion service operators to achieve the property of high availability by allowing multiple machines to handle requests for an onion service.
+
+If you are already familiar with configuring Tor onion services, setting up Onionbalance is simple. Check the precise setup instructions on our documentation page. Read more: https://blog.torproject.org/cooking-onions-reclaiming-onionbalance
+
+##New Releases ##
+
+Tor Browser 9.0.7
+https://blog.torproject.org/new-release-tor-browser-907
+
+This release updates Tor to 0.4.2.7 and NoScript to 11.0.19. In addition, this release disables Javascript for the entire browser when the Safest security level is selected. This may be a breaking change for your workflow if you previously allowed Javascript on some sites using NoScript.
+
+Tor 0.3.5.10, 0.4.1.9, and 0.4.2.7
+
+https://blog.torproject.org/new-releases-03510-0419-0427
+
+This is the third stable release in the 0.4.2.x series. It backports numerous fixes from later releases, including a fix for TROVE-2020-002, a major denial-of-service vulnerability that affected all released Tor instances since 0.2.1.5-alpha.
+
+Tor 0.4.3.3-alpha
+
+https://blog.torproject.org/new-release-tor-04330-alpha
+
+Tor 0.4.3.3-alpha fixes several bugs in previous releases, including TROVE-2020-002, a major denial-of-service vulnerability that affected all released Tor instances since 0.2.1.5-alpha.
+
+Tor Browser 9.5a8
+
+https://blog.torproject.org/new-release-tor-browser-95a8
+
+This release updates Firefox to 68.6.0esr and NoScript to 11.0.15.
+
+Tor Browser 9.0.6
+
+https://blog.torproject.org/new-release-tor-browser-906
+
+This release updates Firefox to 68.6.0esr and NoScript to 11.0.15.
+
+Tor Browser 9.5a7
+
+https://blog.torproject.org/new-release-tor-browser-95a7
+
+This release resolves breakage introduced in version 9.5a6 where non-en-US versions are not starting up.
+
+
+##What We're Reading ##
+
+"As Coronavirus Surveillance Escalates, Personal Privacy Plummets," NYTimes.
+
+https://nytimes.com/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
+
+https://www.nytimes3xbfgragh.onion/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
+
+"Expertos en privacidad admiten que la crisis permite un uso excepcional de datos personales," El Pais.
+
+https://elpais.com/tecnologia/2020-03-21/expertos-en-privacidad-admiten-que-la-crisis-permite-un-uso-excepcional-de-datos-personales.html
+
+"How to use the Tor Browser’s tools to protect your privacy," The Verge.
+
+https://www.theverge.com/2020/2/21/21138403/tor-privacy-tools-private-network-browser-settings-security
+
+"Locked-Down Lawyers Warned Alexa Is Hearing Confidential Calls," Bloomberg.
+
+https://www.bloomberg.com/news/articles/2020-03-20/locked-down-lawyers-warned-alexa-is-hearing-confidential-calls
+
+##Upcoming Events with Tor //
+
+
+##Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://trac.torproject.org/projects/tor/wiki/TorRelayGuide
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
