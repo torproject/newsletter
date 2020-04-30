@@ -1,0 +1,259 @@
+title: COVID-19's impact on Tor
+---
+author: newsletter@torproject.org
+---
+body: 
+---
+html_body:
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<title></title>
+<style type="text/css">{literal}v
+    /* Client-specific Styles */
+    #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
+    body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+h1 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 23px; color:#7d4698; text-align:left; line-height: 32px; padding-bottom:15px;}
+	h2 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px; color:#7d4698; text-align:left; line-height: 26px; padding-bottom: 5px;}
+	h4 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 16px; color:#7d4698; text-align:left; line-height: 21px; padding:5px 15px;}
+    p {font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 16px; color: #484848; text-align:left; line-height: 18px; padding-bottom:5px;}
+
+    /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+    .ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing. */
+    #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+    img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode: bicubic;}
+    a img {border:none;}
+    .image_fix {display:block;}
+	h1 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 23px; color:#7d4698; text-align:left; line-height: 32px; padding-bottom: 15px;}
+	h2 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 18px; color:#7d4698; text-align:left; line-height: 26px; padding-bottom:5px;}
+	h4 {font-family: Source Sans Pro, Helvetica, arial, sans-serif; font-size: 16px; color:#7d4698; text-align:left; line-height: 24px; padding:5px 15px;}
+    p {font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 16px; color: #484848; text-align:left; line-height: 21px; padding-bottom:5px;}
+    table td {border-collapse: collapse;}
+    table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    a {text-decoration: none;color:#7d4698;}
+
+    /*STYLES*/
+    table[class=full] { width: 100%; clear: both; }
+
+    /*IPAD STYLES*/
+    @media only screen and (max-width: 640px) {
+    a[href^="tel"], a[href^="sms"] {text-decoration: none;color:#7d4698;pointer-events: none;cursor: default;}
+    .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {text-decoration: default;color:#7d4698;pointer-events: auto;cursor: default;}
+    table[class=devicewidth] {width: 440px!important;text-align:center!important;}
+    table[class=devicewidthmob] {width: 416px!important;text-align:center!important;}
+    table[class=devicewidthinner] {width: 416px!important;text-align:center!important;}
+    img[class=banner] {width: 440px!important;auto!important;}
+    img[class=col2img] {width: 440px!important;height:auto!important;}
+    table[class="cols3inner"] {width: 100px!important;}
+    table[class="col3img"] {width: 131px!important;}
+    img[class="col3img"] {width: 131px!important;height: auto!important;}
+    table[class="removeMobile"]{width:10px!important;}
+    img[class="blog"] {width: 440px!important;height: auto!important;}
+    }
+
+    /*IPHONE STYLES*/
+    @media only screen and (max-width: 480px) {
+    a[href^="tel"], a[href^="sms"] {text-decoration: none;color: #7d4698;pointer-events: none;cursor: default;}
+    .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {text-decoration: none;color:#7d4698;pointer-events: auto;cursor: default;}
+
+    table[class=devicewidth] {width: 280px!important;text-align:center!important;}
+    table[class=devicewidthmob] {width: 260px!important;text-align:center!important;}
+    table[class=devicewidthinner] {width: 260px!important;text-align:center!important;}
+    img[class=banner] {width: 280px!important;height:100px!important;}
+    img[class=col2img] {width: 280px!important;height:auto!important;}
+    table[class="cols3inner"] {width: 260px!important;}
+    img[class="col3img"] {width: 280px!important;height: auto!important;}
+    table[class="col3img"] {width: 280px!important;}
+    img[class="blog"] {width: 280px!important;auto!important;}
+    td[class="padding-top-right15"]{padding:15px 15px 0 0 !important;}
+    td[class="padding-right15"]{padding-right:15px !important;}
+    }
+
+    @media only screen and (max-device-width: 800px)
+    {td[class="padding-top-right15"]{padding:15px 15px 0 0 !important;}
+    td[class="padding-right15"]{padding-right:15px !important;}}
+    @media only screen and (max-device-width: 769px) {
+    .devicewidthmob {font-size:16px;}
+    }
+
+    @media only screen and (max-width: 640px) {
+    .desktop-spacer {display:none !important;}
+ }
+  {/literal}
+</style>
+<!-- Start of preheader --><!-- Start of preheader -->
+<table bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- End of main-banner-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<hr />
+												<h1>COVID-19&#39;s impact on Tor</h1>
+
+												<p>Tor, like much of the world, has been caught up in the COVID-19 crisis. Like many other nonprofits and small businesses, the crisis has hit us hard, and we have had to make some difficult decisions.</p>
+
+												<p>We had to let go of 13 great people who helped make Tor available to millions of people around the world. We will move forward with a core team of 22 people, and remain dedicated to continuing our work on Tor Browser and the Tor software ecosystem.</p>
+
+												<p>The world won&rsquo;t be the same after this crisis, and the need for privacy and secure access to information will become more urgent. In these times, being online is critical and many people face ongoing obstacles to getting and sharing needed information. We are taking today&rsquo;s difficult steps to ensure the Tor Project continues to exist and our technology stays available.</p>
+
+												<p>We are terribly sad to lose such valuable teammates, and we want to let all our users and supporters know that Tor will continue to provide privacy, security, and censorship circumvention services to anyone who needs them.&nbsp; This won&#39;t affect our releases, Tor network and Tor Browser releases will continue as scheduled.</p>
+
+												<p>The most impactful way to help the Tor Project at this time is to become a monthly donor. Reoccurring, unrestricted income makes our budget more predictable and sustainable. If you&#39;d like to make a donation, <a href="https://donate.torproject.org/monthly-giving" target="_blank">please consider monthly giving</a>.</p>
+
+												<p>&nbsp;</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2>Tor 0.4.3.4-rc&nbsp;</h2>
+
+												<p>This is the first release candidate in its series. It fixes several bugs from earlier versions, including one affecting DoS defenses on bridges using pluggable transports.&nbsp;<a href="https://blog.torproject.org/new-release-candidate-tor-0434-rc" target="_blank">Full changelog.</a></p>
+
+												<h2>Tor Browser 9.5a11</h2>
+
+												<p>This release updates Firefox to 68.7.0esr, NoScript to 11.0.23, and OpenSSL to 1.1.1f. In addition, this update&nbsp;features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-13/" target="_blank">security fixes</a> to Firefox and it&nbsp;includes<strong> improved usability for onion services</strong>. <a href="https://blog.torproject.org/new-release-tor-browser-95a11" target="_blank">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.0.9</h2>
+
+												<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-11/" target="_blank">security fixes</a> to Firefox. Please make sure you update your Tor Browser.&nbsp;<a href="https://blog.torproject.org/new-release-tor-browser-909" target="_blank">Full changelog</a>.</p>
+
+												<h2>Tails 4.5</h2>
+
+												<p>The Tails team is happy to publish Tails&nbsp;4.5, the first version of Tails to support Secure Boot. This release also fixes <a href="https://tails.boum.org/security/Numerous_security_holes_in_4.4.1/" rel="nofollow">many security vulnerabilities</a>. You should upgrade as soon as possible.&nbsp;<a href="https://blog.torproject.org/new-release-tails-45" target="_blank">Full changelog</a>.</p>
+
+												<h2>Tor Browser 9.5a10</h2>
+
+												<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-11/" target="_blank">security fixes</a> to Firefox. Please make sure you update your Tor Browser. <a href="https://blog.torproject.org/new-release-tor-browser-95a10" target="_blank">Full changelog.</a></p>
+
+												<h2>Tor Browser 9.0.8</h2>
+
+												<p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-11/" target="_blank">security fixes</a> to Firefox. Please make sure you update your Tor Browser.&nbsp;<a href="https://blog.torproject.org/new-release-tor-browser-908" target="_blank">Full changelog</a>.</p>
+
+												<p>&nbsp;</p>
+
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+
+												<p><span class="balancedHeadline" style="display: inline-block; max-width: 586.129px;">&quot;Brave whistleblowers are being punished for saving lives during a pandemic,&quot; <a href="https://freedom.press/news/brave-whistleblowers-saving-lives-coronavirus-covid-pandemic/" target="_blank">Freedom of the Press Foundation</a>.</span></p>
+
+												<p>&quot;The EARN IT Act Violates the Constitution,&quot; <a href="https://elpais.com/tecnologia/2020-03-21/expertos-en-privacidad-admiten-que-la-crisis-permite-un-uso-excepcional-de-datos-personales.html">E</a><a href="https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution" target="_blank">lectronic Frontier Foundation</a>.</p>
+
+												<p>&quot;You&#39;ll discover how @torproject protects our internet browsing,&quot; <a href="https://www.youtube.com/watch?v=bDNJGsPx-2Y" target="_blank">The Cypherpunk Chronicles</a>.</p>
+
+												<p>&quot;UK government using confidential patient data in coronavirus response,&quot; <a href="https://www.theguardian.com/world/2020/apr/12/uk-government-using-confidential-patient-data-in-coronavirus-response" target="_blank">The Guardian</a>.</p>
+												&nbsp;
+
+												<hr />
+												<h1>Upcoming Events with Tor</h1>
+
+												<div class="views-row">
+												<div class="views-row">
+												<p><time datetime="2020-04-24T12:00:00Z">*<em> Postponed. </em></time><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/b-sides-barcelona-2020" hreflang="en">BSides. Barcelona, Spain. </a></span></span><time datetime="2020-05-08T12:00:00Z">May 08, 2020. </time></p>
+												</div>
+
+												<div class="views-row">
+												<p><time datetime="2020-04-24T12:00:00Z">*<em> Postponed. </em></time><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/cryptorave-sao-paulo-2020" hreflang="en">CryptoRave, S&atilde;o Paulo, Brazil. </a></span></span><time datetime="2020-05-15T12:00:00Z">May 15, 2020</time> - <time datetime="2020-05-16T12:00:00Z">May 16, 2020. </time></p>
+												</div>
+												</div>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+												{domain.address}<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- Spacing -->
+								<tr>
+									<td>&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
+---
+pub_date: 2020-05-06
+---
+_template: newsletter.html
+---
+twitter_handle: torproject

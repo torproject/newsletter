@@ -1,0 +1,106 @@
+_model: page
+---
+title: COVID-19's impact on Tor
+---
+_template: post.html
+---
+pub_date: 2020-05-06
+---
+body:
+
+View this email in your browser: [HTML](/2020-03-31-covid-19-impact-on-tor/)
+
+##  COVID-19's impact on Tor
+
+https://blog.torproject.org/covid19-impact-tor
+
+Tor, like much of the world, has been caught up in the COVID-19 crisis. Like many other nonprofits and small businesses, the crisis has hit us hard, and we have had to make some difficult decisions.
+
+We had to let go of 13 great people who helped make Tor available to millions of people around the world. We will move forward with a core team of 22 people, and remain dedicated to continuing our work on Tor Browser and the Tor software ecosystem.
+
+The world won’t be the same after this crisis, and the need for privacy and secure access to information will become more urgent. In these times, being online is critical and many people face ongoing obstacles to getting and sharing needed information. We are taking today’s difficult steps to ensure the Tor Project continues to exist and our technology stays available.
+
+We are terribly sad to lose such valuable teammates, and we want to let all our users and supporters know that Tor will continue to provide privacy, security, and censorship circumvention services to anyone who needs them.  This won't affect our releases, Tor network and Tor Browser releases will continue as scheduled.
+
+The most impactful way to help the Tor Project at this time is to become a monthly donor. Reoccurring, unrestricted income makes our budget more predictable and sustainable. If you'd like to make a donation, please consider monthly giving.
+
+https://donate.torproject.org/monthly-giving
+
+## New Releases
+
+### Tor 0.4.3.4-rc 
+
+This is the first release candidate in its series. It fixes several bugs from earlier versions, including one affecting DoS defenses on bridges using pluggable transports.
+
+https://blog.torproject.org/new-release-candidate-tor-0434-rc
+
+### Tor Browser 9.5a11
+
+This release updates Firefox to 68.7.0esr, NoScript to 11.0.23, and OpenSSL to 1.1.1f. In addition, this update features important security fixes to Firefox and it includes improved usability for onion services.
+
+https://blog.torproject.org/new-release-tor-browser-95a11
+
+### Tor Browser 9.0.9
+
+This release features important security fixes to Firefox. Please make sure you update your Tor Browser.
+
+https://blog.torproject.org/new-release-tor-browser-909
+
+### Tails 4.5
+
+The Tails team is happy to publish Tails 4.5, the first version of Tails to support Secure Boot. This release also fixes many security vulnerabilities. You should upgrade as soon as possible.
+
+https://blog.torproject.org/new-release-tails-45
+
+### Tor Browser 9.5a10
+
+This release features important security fixes to Firefox. Please make sure you update your Tor Browser.
+
+https://blog.torproject.org/new-release-tor-browser-95a10
+
+### Tor Browser 9.0.8
+
+This release features important security fixes to Firefox. Please make sure you update your Tor Browser. Full changelog.
+https://blog.torproject.org/new-release-tor-browser-908
+
+## What We're Reading
+
+ * "Brave whistleblowers are being punished for saving lives during a pandemic," Freedom of the Press Foundation.
+https://freedom.press/news/brave-whistleblowers-saving-lives-coronavirus-covid-pandemic/
+
+ * "The EARN IT Act Violates the Constitution," Electronic Frontier Foundation.
+https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution
+
+ * "You'll discover how @torproject protects our internet browsing," The Cypherpunk Chronicles.
+https://www.youtube.com/watch?v=bDNJGsPx-2Y
+
+ * "UK government using confidential patient data in coronavirus response," The Guardian.
+https://www.theguardian.com/world/2020/apr/12/uk-government-using-confidential-patient-data-in-coronavirus-response
+
+## Upcoming Events with Tor
+
+* Postponed. BSides. Barcelona, Spain. May 08, 2020.
+
+* Postponed. CryptoRave, São Paulo, Brazil. May 15, 2020 - May 16, 2020.
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized:  https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
