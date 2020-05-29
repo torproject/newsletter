@@ -1,0 +1,179 @@
+title: Unveiling the new Tor Community portal
+---
+author: newsletter@torproject.org
+---
+pub_date: 2020-05-29
+---
+_template: newsletter.html
+---
+body: 
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+  <tbody>
+    <tr>
+      <td width="100%">
+      <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+        <tbody><!-- Spacing -->
+          <tr>
+            <td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+          </tr>
+          <tr>
+            <td>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+              <tbody>
+                <tr>
+                  <td width="100%">
+                  <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+                    <tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+                      <tr>
+                        <td style="padding:0 15px 15px 15px;">
+                        <hr />
+                        <h1>Unveiling the new Tor Community portal</h1>
+
+                        <p><a href="https://blog.torproject.org/community-portal" target="_self"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/cover1.png?itok=geKY2-rf" style="width: 640px; height: 320px;" /></a></p>
+
+                        <p>Community is at the core of Tor&#39;s success, popularity, and survival. We would not have a network with the security properties it has if it weren&rsquo;t for the thousands of volunteer relay operators. We would not have Tor Browser if it weren&rsquo;t for <a href="https://blog.torproject.org/category/tags/heart-internet-freedom">our open source community</a>. People would not know about Tor if it weren&rsquo;t for our community of trainers and translators who help us make sure educational information about Tor and our tools are accessible to everyone. We also count on a community of researchers, designers, developers, bug reporters, documentation writers, and many more to <a href="https://blog.torproject.org/aggregation-feed-types/strength-numbers">keep Tor strong</a>.</p>
+
+                        <p>It&#39;s about time that the Tor Project has a dedicated place to help <em>you</em>!</p>
+
+                        <p>This month, we officially launched our <a href="https://community.torproject.org/">Community portal</a>. This is part of <a href="https://blog.torproject.org/meet-new-torprojectorg">our continuous effort to better organize all of our different content into portals</a>. The Community portal contains six sections: Training, Outreach, Onion Services, Localization, User Research, and Relay Operations.</p>
+
+                        <h2>Training</h2>
+
+                        <p>Inside of the <a href="http://community.torproject.org/training/">Training</a> section, you will find <a href="https://community.torproject.org/training/resources/">slides</a>, <a href="https://community.torproject.org/training/risks/">risk assessment</a> templates, and <a href="https://community.torproject.org/training/best-practices/">materials to help you</a> organize your own Tor training with your group or organization. Because of the pandemic, we recommend you run these activities online, instead of in person, with your local community or affinity group. Check out our <a href="https://blog.torproject.org/remote-work-personal-safety">blog post on remote work</a> to learn about the tools we recommend.</p>
+
+                        <h2>Outreach</h2>
+
+                        <p>In the <a href="https://community.torproject.org/outreach/">Outreach</a> section, you&#39;ll find our events calendar, materials like <a href="https://community.torproject.org/outreach/kit/">flyers and pamphlets</a> to <a href="https://community.torproject.org/outreach/talk/">spread the word about Tor</a>, and instructions on <a href="https://community.torproject.org/outreach/meetup/">how to run your own Tor meetup</a> in your city.</p>
+
+                        <h2>Onion Services</h2>
+
+                        <p>The <a href="http://community.torproject.org/onion-services">Onion Services</a> section includes guides, tools, and <a href="https://community.torproject.org/onion-services/overview/">explanations about onion services</a> and their privacy and security benefits.</p>
+
+                        <h2>Relay Operators</h2>
+
+                        <p>The <a href="https://community.torproject.org/relay/">Relay Operators</a> section includes information about <a href="https://community.torproject.org/relay/types-of-relays/">different types of nodes on the network</a>, how to <a href="https://community.torproject.org/relay/setup/">install a relay</a>, where to <a href="https://community.torproject.org/relay/getting-help/">find technical support</a>, and how to join the <a href="https://community.torproject.org/relay/community-resources/">relay operators community</a>.</p>
+
+                        <h2>User Research</h2>
+
+                        <p>In the <a href="http://community.torproject.org/user-research">User Research</a> section you will find our <a href="https://community.torproject.org/user-research/guidelines/">Research Guidelines</a>, our <a href="https://community.torproject.org/user-research/open/">reports</a> on previous research and methodologies, and <a href="https://community.torproject.org/user-research/persona/">Tor Personas</a>, a tool that helps us to human-center our design and development processes.</p>
+
+                        <h2>Localization</h2>
+
+                        <p>In the <a href="https://community.torproject.org/localization/">Localization </a>section, you can learn how to plug in to translating Tor tools and websites and <a href="https://community.torproject.org/localization/pick-a-project/">which projects need help</a>.</p>
+
+                        <p><a href="https://blog.torproject.org/community-portal">Read about the new Community Portal</a>.</p>
+
+                        <hr />
+                        <h1>Test of Time: Celebrating Onions</h1>
+
+                        <p><a href="https://blog.torproject.org/test-of-time-celebrating-onions"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/celebrating-onions.png?itok=CauOSF9Z" style="width: 640px; height: 320px;" /></a></p>
+
+                        <p>This month, the pre-Tor onion routing paper, &quot;Anonymous Connections and Onion Routing&quot; by Paul Syverson, David Goldschlag, and Michael Reed from IEEE S&amp;P 1997, received the Test of Time Award by the IEEE Symposium on Security and Privacy in Oakland.</p>
+
+                        <p>This award recognizes papers published at IEEE&rsquo;s flagship security conference that have made a lasting impact on the field. This work introduced many ideas that would later be important for Tor&rsquo;s design. <a href="https://blog.torproject.org/test-of-time-celebrating-onions">Read more about Anonymous Connections and Onion Routing</a>.</p>
+
+                        <hr />
+                        <h1>New Releases</h1>
+
+                        <h2><span property="schema:name">Tor Browser 9.5a13</span></h2>
+
+                        <p>This release updates NoScript to version 11.0.26, and Tor to 0.4.3.5. This is expected to be the final alpha release of Tor Browser 9.5. <a href="https://blog.torproject.org/new-release-tor-browser-95a13" target="_blank">Full changelog.</a></p>
+
+                        <h2><span property="schema:name">Tor 0.4.3.5</span></h2>
+
+                        <p>This release adds support for building without relay code enabled, functionality needed for OnionBalance with v3 onion services, refactoring of configuration and controller functionality, and bug and performance fixes. <a href="https://blog.torproject.org/node/1872">Full changelog</a>.</p>
+
+                        <h2><span property="schema:name">Tor Browser 9.5a12</span></h2>
+
+                        <p>This release updates Firefox to 68.8.0esr, NoScript to 11.0.25, OpenSSL to 1.1.1g, and Tor to 0.4.3.4-rc. Android Tor Browser now includes Tor built using the reproducible build system. <a href="https://blog.torproject.org/new-release-tor-browser-95a12" target="_blank">Full changelog</a>.</p>
+
+                        <h2><span property="schema:name">Tor Browser 9.0.10</span></h2>
+
+                        <p>This release features important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-17/" target="_blank">security fixes</a> to Firefox and updates Firefox to 68.8.0esr, NoScript to 11.0.25, and OpenSSL to 1.1.1g. Please make sure you update your Tor Browser. <a href="https://blog.torproject.org/new-release-tor-browser-9010" target="_blank">Full changelog.</a></p>
+
+                        <hr />
+                        <h1>What We&#39;re Reading</h1>
+
+                        <p>&quot;Since I Met Edward Snowden, I&rsquo;ve Never Stopped Watching My Back,&quot; <a href="https://www.theatlantic.com/magazine/archive/2020/06/edward-snowden-operation-firstfruits/610573/">The Atlantic</a>.</p>
+
+                        <p><span class="balancedHeadline" style="display: inline-block; max-width: 586.129px;">&quot;</span>Women on Web website censored in Spain,<span class="balancedHeadline" style="display: inline-block; max-width: 586.129px;">&quot; <a href="https://blog.magma.lavafeld.org/post/women-on-web-blocking/" target="_blank">Magma</a>.</span></p>
+
+                        <p>&quot;<span>Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant</span>,&quot; <a href="https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant" target="_blank">Vice</a>.</p>
+
+                        <p>&quot;Coronavirus will turn your office into a surveillance state,&quot; <a href="https://www.wired.co.uk/article/coronavirus-work-office-surveillance">WIRED</a>.</p>
+
+                        <p>&quot;New bill threatens journalists&rsquo; ability to protect sources,&quot; <a href="https://techcrunch.com/2020/05/01/new-bill-threatens-journalists-ability-to-protect-sources/">Tech Crunch</a>.</p>
+
+                        <hr />
+                        <h1>Upcoming Events with Tor</h1>
+
+                        <div class="views-row">
+                        <div class="views-row">
+                        <p><time datetime="2020-04-24T12:00:00Z">*<em> Postponed. </em></time><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/net-dev-vancouver" hreflang="en">Netdev 0x14, Vancouver.</a></span></span><time datetime="2020-05-08T12:00:00Z"> June 16, 2020 - June 19, 2020.</time></p>
+                        </div>
+                        </div>
+
+                        <hr />
+                        <h1>Join Our Community</h1>
+
+                        <p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+                        <p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+                        <p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+                        <div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:0 15px;">
+                        <p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+                        <hr />
+                        <p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+                        <a href="https://torproject.org">torproject.org</a></small></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="left-image" width="100%">
+  <tbody>
+    <tr>
+      <td>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+        <tbody>
+          <tr>
+            <td width="100%">
+            <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+              <tbody><!-- Spacing -->
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->

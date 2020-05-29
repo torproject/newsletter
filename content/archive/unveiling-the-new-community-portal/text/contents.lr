@@ -1,0 +1,122 @@
+_model: post
+---
+title: Unveiling the new Tor Community portal
+---
+_template: post.html
+---
+pub_date: 2020-05-29
+---
+body:
+
+## Unveiling the new Tor Community portal
+
+https://blog.torproject.org/community-portal
+
+Community is at the core of Tor's success, popularity, and survival. We would not have a network with the security properties it has if it weren’t for the thousands of volunteer relay operators. We would not have Tor Browser if it weren’t for our open source community. People would not know about Tor if it weren’t for our community of trainers and translators who help us make sure educational information about Tor and our tools are accessible to everyone. We also count on a community of researchers, designers, developers, bug reporters, documentation writers, and many more to keep Tor strong.
+
+It's about time that the Tor Project has a dedicated place to help you!
+
+This month, we officially launched our Community portal. This is part of our continuous effort to better organize all of our different content into portals. The Community portal contains six sections: Training, Outreach, Onion Services, Localization, User Research, and Relay Operations.
+
+### Training
+
+https://community.torproject.org/training
+
+Inside of the Training section, you will find slides, risk assessment templates, and materials to help you organize your own Tor training with your group or organization. Because of the pandemic, we recommend you run these activities online, instead of in person, with your local community or affinity group. Check out our blog post on remote work to learn about the tools we recommend: https://blog.torproject.org/remote-work-personal-safety 
+
+### Outreach
+
+In the Outreach section, you'll find our events calendar, materials like flyers and pamphlets to spread the word about Tor, and instructions on how to run your own Tor meetup in your city.
+https://community.torproject.org/outreach/
+
+### Onion Services
+
+The Onion Services section includes guides, tools, and explanations about onion services and their privacy and security benefits.
+https://community.torproject.org/onion-services/
+
+### Relay Operators
+
+The Relay Operators section is dedicated to explaining the different types of nodes on the network, how to install a relay on different platforms, where to find technical support, and how to be part of the relay operators community.
+https://community.torproject.org/relay/ 
+
+### User Research
+
+In the User Research section you will find our Research Guidelines, our reports on previous research and methodologies, and Tor Personas, a tool that helps us to human-center our design and development processes.
+https://community.torproject.org/user-research/
+
+### Localization
+
+In the Localization section, you can learn how to plug in to this work and which projects need help. 
+https://community.torproject.org/localization/ 
+
+## Test of Time: Celebrating Onions
+
+https://blog.torproject.org/test-of-time-celebrating-onions
+
+This month, the pre-Tor onion routing paper, "Anonymous Connections and Onion Routing" by Paul Syverson, David Goldschlag, and Michael Reed from IEEE S&P 1997, received the Test of Time Award by the IEEE Symposium on Security and Privacy in Oakland.
+
+This award recognizes papers published at IEEE’s flagship security conference that have made a lasting impact on the field. This work introduced many ideas that would later be important for Tor’s design. 
+
+## New Releases
+
+### Tor Browser 9.5a13
+https://blog.torproject.org/new-release-tor-browser-95a13
+
+This release updates NoScript to version 11.0.26, and Tor to 0.4.3.5. This is expected to be the final alpha release of Tor Browser 9.5.
+
+### Tor 0.4.3.5
+https://blog.torproject.org/node/1872
+
+This release adds support for building without relay code enabled, functionality needed for OnionBalance with v3 onion services, refactoring of configuration and controller functionality, and bug and performance fixes.
+
+### Tor Browser 9.5a12
+https://blog.torproject.org/new-release-tor-browser-95a12
+
+This release updates Firefox to 68.8.0esr, NoScript to 11.0.25, OpenSSL to 1.1.1g, and Tor to 0.4.3.4-rc. Android Tor Browser now includes Tor built using the reproducible build system.
+
+#### Tor Browser 9.0.10
+
+https://blog.torproject.org/new-release-tor-browser-9010
+
+This release features important security fixes to Firefox and updates Firefox to 68.8.0esr, NoScript to 11.0.25, and OpenSSL to 1.1.1g. Please make sure you update your Tor Browser.
+
+## What We're Reading
+
+* "Since I Met Edward Snowden, I’ve Never Stopped Watching My Back," The Atlantic.
+https://www.theatlantic.com/magazine/archive/2020/06/edward-snowden-operation-firstfruits/610573/
+
+* "Women on Web website censored in Spain," Magma.
+https://blog.magma.lavafeld.org/post/women-on-web-blocking/
+
+* "Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant," Vice.
+https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant
+
+* "Coronavirus will turn your office into a surveillance state," WIRED.
+https://www.wired.co.uk/article/coronavirus-work-office-surveillance
+
+* "New bill threatens journalists’ ability to protect sources," Tech Crunch.
+https://techcrunch.com/2020/05/01/new-bill-threatens-journalists-ability-to-protect-sources/
+
+## Upcoming Events with Tor
+
+* Postponed. Netdev 0x14, Vancouver. June 16, 2020 - June 19, 2020.
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
