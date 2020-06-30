@@ -1,0 +1,130 @@
+_model: page
+---
+title: Tor Browser 9.5 makes onion services easier to find and use
+---
+_template: post.html
+---
+pub_date: 2020-06-30
+---
+body:
+
+## Tor Browser 9.5 makes onion services easier to find and use
+https://blog.torproject.org/new-release-tor-browser-95
+
+Tor's onion routing remains the best way to achieve end-to-end anonymous communication on the internet. With onion services (.onion addresses), website administrators can provide their users with anonymous connections that are metadata-free or that hide metadata from any third party. Onion services are also one of the few censorship circumvention technologies that allow users to route around censorship while simultaneously protecting their privacy and identity.
+
+With our latest Tor Browser release, we've made onion services easier to discover, remember, and use. Here's what's new:
+
+### Onion Location
+
+Website publishers now can advertise their onion service to Tor users by adding an HTTP header. When visiting a website that has both an .onion address and Onion Location enabled via Tor Browser, users will be prompted about the onion service version of the site and will be asked to opt-in to upgrade to the onion service on their first use.
+
+### Onion Authentication
+
+Onion services administrators who want to add an extra layer of security to their website can now set a pair of keys for access control and authentication. Tor Browser users can save keys and manage them via about:preferences#privacy in the Onion Services Authentication section.
+
+### URL Bar Security Indicators
+
+Browsers traditionally rendered sites delivered via a secure transport protocol with a green lock icon. But in mid-2019, the formerly green lock icon became gray, intending to de-emphasize the default (safe) connection state and, instead, putting more emphasis on broken or insecure connections. We have updated Tor Browser security indicators to make it easier for users to understand when they are visiting a non-secure website.
+
+### Error Pages for Onion Services
+
+In this release, we have improved the way Tor Browser communicates with users about service-, client-, and network-side errors that might happen when they are trying to visit an onion service. Tor Browser now displays a simplified diagram of the connection and shows where the error occurred. We want these messages to be clear and informative without being overwhelming.
+Onion Names
+
+Because of cryptographic protections, onion service URLs are not easy for humans to remember (ie, https://torproject.org vs. http://expyuzz4wqqyqhjn.onion/). This makes it hard for users to discover or return to an onion site. For this release, we partnered with Freedom of the Press Foundation (FPF) and the Electronic Frontier Foundation's HTTPS Everywhere to develop the first proof-of-concept human-memorable names for SecureDrop onion services addresses.
+
+Read about all of the onion service improvements in Tor Browser 9.5: https://blog.torproject.org/new-release-tor-browser-95
+
+## Save Open Technology Fund, #SaveInternetFreedom
+
+https://blog.torproject.org/save-open-technology-fund
+
+The Tor Project has joined the voices around the world from the internet freedom community and in the U.S. Congress to express concerns about the rapid firing of key personnel and dissolution of the board of directors at the four agencies (Middle East Broadcasting, Radio Free Asia, Radio Free Europe/Radio Liberty, and the Open Technology Fund) under the U.S. Agency for Global Media (USAGM).
+
+Of most immediate concern to Tor is the future of the Open Technology Fund (OTF) and its crucial mission, since 2012, of providing funding for technology that enables free expression, helps people circumvent censorship, and obstructs repressive surveillance.
+
+Read our full statement and sign the open letter to Congress: https://blog.torproject.org/save-open-technology-fund. Help #SaveInternetFreedom.
+
+## Introducing PrivChat
+
+https://torproject.org/privchat
+
+PrivChat is brand-new a fundraising event series held to raise donations for the Tor Project. Through PrivChat, we will bring you important information related to what is happening in tech, human rights, and internet freedom by convening experts for a chat with our community.
+
+For our first ever PrivChat, we brought together Carmela Troncoso, Assistant Professor at EPFL (Switzerland); Daniel Kahn Gillmor, Senior Staff Technologist for ACLU’s Speech, Privacy, and Technology Project; and Matt Mitchell, hacker and Tech Fellow at the Ford Foundation, to chat with us about privacy in the context of the COVID-19 pandemic, contact tracing, privacy, and the uprising in the U.S. against systemic racism.
+
+If you missed the lived PrivChat, you can watch the recorded version here: https://youtu.be/gSyDvG4Z308. If you're interested in attended the next PrivChat, stay up-to-date on this page: https://torproject.org/privchat. 
+
+## The value of Tor and anonymous contributions to Wikipedia
+
+https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia
+
+According to a recently published research paper co-authored by researchers from Drexel, NYU, and the University of Washington, Tor users make high-quality contributions to Wikipedia. And, when they are blocked, as doctoral candidate Chau Tran, the lead author describes, "the collateral damage in the form of unrealized valuable contributions from anonymity seekers is invisible."
+
+By examining more than 11,000 Wikipedia edits made by Tor users able to bypass Wikipedia's Tor ban between 2007 and 2018, the research team found that Tor users made similar quality edits to those of IP editors, who are non-logged-in users identified by their IP addresses, and first-time editors. The paper notes that Tor users, on average, contributed higher-quality changes to articles than non-logged-in IP editors. Read more about the value of anonymous contributions to Wikipedia: https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia
+
+## GSoC and Outreachy 2020 projects
+
+We're pleased to announce that the Tor Project is hosting students this summer as part of Google Summer of Code and Outreachy, thanks to support from DIAL Open Source Center. Find out more about the students and their projects: https://blog.torproject.org/gsoc-outreachy-2020
+
+## New Releases
+
+* Tor 0.4.4.1-alpha
+https://blog.torproject.org/new-release-tor-0441-alpha
+This is the first alpha release in the 0.4.4.x series. It improves our guard selection algorithms, improves the amount of code that can be disabled when running without relay support, and includes small bugfixes and enhancements. 
+
+* Tor Browser 10.0a1
+https://blog.torproject.org/new-release-tor-browser-100a1
+This release updates Firefox to 68.9.0esr, and HTTPS-Everywhere to 2020.5.20. In addition, Snowflake is now available for testing on Android. 
+
+* BridgeDB 0.10.1
+https://blog.torproject.org/new-release-bridgedb-010-1
+This release includes improvements to BridgeDB's email autoresponder, changes to the distribution mechanism, improvements to the UI, and a "howto" box that explains how people add bridges to Tor Browser. 
+
+## What We're Reading 
+
+* "How Surveillance Has Always Reinforced Racism," WIRED.
+https://www.wired.com/story/how-surveillance-reinforced-racism/
+
+* "Tactics to secure your smartphone before joining a protest," Amnesty International.
+https://www.amnesty.org/en/latest/campaigns/2020/06/tactics-to-secure-phone-before-a-protest/
+
+* "Zoom admits to shutting down activist accounts at the request of the Chinese government," Tech Crunch.
+https://www.techcrunch.com/2020/06/11/zoom-admits-to-shutting-down-activist-accounts-at-the-request-of-the-chinese-government/
+
+* "Google Sued for $5 Billion for Tracking Users, Even Those Using 'Incognito' Mode," VICE.
+https://www.techcrunch.com/2020/06/11/zoom-admits-to-shutting-down-activist-accounts-at-the-request-of-the-chinese-government/
+
+## Events with Tor
+
+* (ICYMI) Tor Browser 9.5 Release | Onion-Location and new features (recorded virtual event), June 5, 2020.
+https://www.youtube.com/watch?v=arjXJ2NY--E
+
+* (ICYMI) PrivChat with Tor | Online Privacy in 2020: Activism & COVID-19 (recorded virtual event), June 23, 2020.
+https://www.youtu.be/gSyDvG4Z308
+
+* (ICYMI) Circumventing Internet Censorship with Tor @ Internet Measurement Village (recorded virtual event), June 30, 2020.
+https://blog.torproject.org/imv-circumventing-censorship
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized:  https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
