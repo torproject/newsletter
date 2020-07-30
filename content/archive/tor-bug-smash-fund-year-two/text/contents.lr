@@ -1,0 +1,142 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-07-31
+---
+title: Tor's Bug Smash Fund: Year Two!
+---
+body:
+
+## Tor's Bug Smash Fund: Year Two! ##
+
+https://blog.torproject.org/tor-bug-smash-fund-2020
+
+The Bug Smash Fund is back for its second year. In 2019, we launched Tor’s Bug Smash Fund (https://blog.torproject.org/tors-bug-smash-fund-help-tor-smash-all-bugs) to find and fix bugs in our software and conduct routine maintenance. Maintenance isn’t a flashy new feature, and that makes it less interesting to many traditional funders, but it’s what keeps the reliable stuff working--and with your support, we were able to close 77 tickets as a result.
+
+These bugs and issues ranged from maintenance on mechanisms for sending bridges via email and collecting metrics data to improving tor padding, testing, onion services, documentation, Tor Browser UX, and tooling for development. This work keeps Tor Browser, the Tor network, and the many tools that rely on Tor (https://blog.torproject.org/strength-numbers-entire-ecosystem-relies-tor) strong, safe, and running smoothly.
+
+And there’s so much more we can accomplish. Nineteen tickets tagged BugSmashFund (https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues?label_name%5B%5D=BugSmashFund&scope=all&state=all) are still open, and as you know, a big part of building software is ensuring that you can address issues when you find them. As such, *starting August 1, every donation we receive during the month of August will count towards the Bug Smash Fund 2020.*
+
+Learn more about the Bug Smash Fund and how to contribute: https://blog.torproject.org/tor-bug-smash-fund-2020
+
+## #MoreOnionsPorfavor: Onionize your website and take back the internet ##
+https://blog.torproject.org/more-onions-porfavor
+
+Starting July 8th through August 10th, the Tor Project is running a campaign called #MoreOnionsPorfavor to raise awareness about onion sites, that is, websites available over onion services. We recently released a feature called Onion-Location in Tor Browser that announces to users if a website has an onion site available.
+
+Many web administrators have already joined us and made their websites available over onion services and Onion-Location. For example, ProPublica, DEF CON, Privacy International, Riseup.net, Systemli.org, and Write.as.
+
+Join us to make a more secure web! To participate, enable Onion-Location, share your onion site using the hashtag #MoreOnionsPorFavor on your favorite social media, and we'll select some onion service operators to receive a Tor swag. Find out how to launch your onion service and set up Onion-Location: https://blog.torproject.org/more-onions-porfavor
+
+## Onion Service version 2 deprecation timeline ##
+
+https://blog.torproject.org/v2-deprecation-timeline
+
+More than 15 years ago, Onion Service (at the time named Hidden Service) saw the light of day. It was initially an experiment in order to learn more on what the Tor Network could offer. The protocol reached its version 2 soon after deployment.
+
+Version 2 developed into a strong stable product that has been used for over a decade. Since then, onion service adoption has increased drastically, from the .onion tld being standarized by ICANN, to SSL certificates being issued to .onion addresses. Today, onion services support an ecosystem of client applications: from web browsing to file sharing and private messaging.
+
+In 2015, a large scale development effort spanning over 3 years resulted in onion services version 3. On January 9th 2018, Tor version 0.3.2.9 was released which was the first tor supporting onion service version 3. Every single relay on the Tor network now supports version 3. It is also today's default version when creating an onion service.
+
+With onions v3 standing strong, we are at a good position to retire v2. It has completed its course and provided security and privacy to countless people around the world. But more importantly, v2 has created and propulsed a new era of private and secure communication. Prepare for v2 retirement with our planned deprecation timeline: https://blog.torproject.org/v2-deprecation-timeline.
+
+## New Releases ##
+
+Tor 0.3.5.11, 0.4.2.8, and 0.4.3.6 (with security fixes)
+
+https://blog.torproject.org/new-release-tor-03511-0428-0436-security-fixes
+
+These releases fix TROVE-2020-001, a medium-severity denial of service vulnerability affecting all versions of Tor when compiled with the NSS encryption library. (This is not the default configuration.)
+
+Tor 0.4.4.2-alpha
+
+https://blog.torproject.org/node/1899
+
+This is the second alpha release in the 0.4.4.x series. It fixes a few bugs in the previous release, and solves a few usability, compatibility, and portability issues.
+
+Tor Browser 10.0a3
+
+https://blog.torproject.org/new-release-tor-0441-alpha
+
+This is an Android-only release. It updates Firefox to 68.10.1esr and features important security updates to Firefox.
+
+Tor Browser 9.5.2
+
+https://blog.torproject.org/new-release-tor-browser-952
+
+This release updates Firefox to 68.10.1esr. It also includes important security updates to Firefox.
+
+Tor Browser 10.0a2
+
+https://blog.torproject.org/new-release-tor-browser-100a2
+
+This release update Firefox to 68.10.0esr, Tor to 0.4.4.1-alpha, and NoScript to 11.0.32. This release also includes important security updates to Firefox.
+
+## What We're Reading ##
+
+"Homeland Security worries COVID-19 masks are breaking facial recognition, leaked document shows," The Intercept.
+
+https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/
+
+"Appeals court blocks Trump appointee's takeover of web nonprofit," Politico.
+
+https://www.politico.com/news/2020/07/21/appeals-court-trump-appointees-web-nonprofit-375753
+
+"A New Map Shows the Inescapable Creep of Surveillance," WIRED.
+
+https://www.wired.com/story/atlas-of-surveillance-eff-law-enforcement-map/
+
+"The Trump Administration is Attacking Critical Internet Privacy Tools," Vice.
+
+https://www.vice.com/en_us/article/v7gz4d/the-trump-administration-is-attacking-critical-internet-privacy-tools
+
+"How to Check Your Devices for Stalkerware," WIRED.
+
+https://www.wired.com/story/how-to-check-for-stalkerware/
+
+"EFF to Court: Trump Appointee’s Removal of Open Technology Fund Leadership Is Unlawful," EFF.
+
+https://www.eff.org/press/releases/eff-court-trump-appointees-removal-open-technology-fund-leadership-unlawfu
+
+## Upcoming Events with Tor ##
+
+(ICYMI) Privacy Enhancing Technologies Symposium (recorded virtual event), July 13-17, 2020.
+
+https://blog.torproject.org/pets-2020
+
+(ICYMI) Tor Project @ Rightscon: The Case for Privacy By Design, June 27, 2020.
+
+https://blog.torproject.org/rightscon-2020
+
+Bornhack (DK), August 11-18, 2020.
+
+https://blog.torproject.org/bornhack-2020
+
+Walking Onions @ USENIX Security Symposium (virtual event), August 12-14, 2020.
+
+https://blog.torproject.org/usenix-security-2020
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
