@@ -1,0 +1,113 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-08-31
+---
+title: Security news, Bug Smash Fund, #MoreOnionsPorFavor
+---
+body:
+
+## Security news, Bug Smash Fund, #MoreOnionsPorFavor ##
+
+Hello Tor community,
+
+This month, we decided to write a slightly different newsletter. We want to answer questions you may have regarding news about Tor’s security.
+
+First, Tor is a secure tool to use. For perspective on how the Tor Project makes decisions about security and development, we’ll start with a tweet from Edward Snowden (twitter.com/snowden/status/1165391734823669761?lang=en): "I wouldn’t expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that is not the claim. Security is the process of choosing between "less safe" and "more safe’" and continuing to fork towards safety until you reach 'safe enough.'"
+
+Snowden is right. Like all software, Tor development is a process. The Tor daemon, Tor Browser, onion services, pluggable transports, and many other software we develop are just like any other piece of software - they will have bugs. We are always working to make Tor safer for the largest number of users by prioritizing the most impactful changes.
+
+In that spirit, we’d like to talk about two clusters of reports and the action we’ve taken.
+
+1. You may have heard about a series of bugs in Tor being reported as “0-days.” These bugs aren’t 0-days. Many of them are open in our bug tracker. We have triaged these tickets and determined they are not high priority, and they do not harm our users' anonymity. We explained more about our decision process regarding these bugs, and what comes next, in a tweet (twitter.com/torproject/status/1288955073322602496).
+
+2. You may have heard about a group of exit relays running sslstrip attacks on the Tor network in May and June 2020. This attack targeted unencrypted HTTP connections to a small number of cryptocurrency exchange websites, and left other traffic alone. These relays have been monitored and excluded from the Tor network since they’ve joined. You can read the full details about the attack, and the next steps to mitigation, on our blog. (blog.torproject.org/bad-exit-relays-may-june-2020) Monitoring the Tor network continuously is very important in catching these kinds of attacks, and given our limited capacity, you can help by donating (https://donate.torproject.org) to help increase our network monitoring capacity, running your own relay (https://community.torproject.org/relay/), or reporting bad relays (https://community.torproject.org/relay/community-resources/bad-relays/).
+
+These reports point to some truths about the Tor Project: (1) We have finite capacity, which has been exacerbated by the financial need to lay off 1/3 of our staff in April. (2) Given our finite capacity, we have to triage and prioritize the work that has the highest impact for our users. (3) We can improve communication with our volunteers, contributors, and users so that our decision making process, and the priority of user security, is more clear. Like this newsletter.
+
+Our blog is another important resource for updates on what’s happening in the Tor world, and is one of the places we will use to improve our communication. This month we published a blog post outlining the two methods we are considering to mitigate DDoS attacks on the Tor network (https://blog.torproject.org/stop-the-onion-denial), which is an example of how we like to discuss problems and potential solutions. We’ve also begun posting monthly reports on anti-censorship activities (https://blog.torproject.org/anti-censorship-july-2020) so you can keep up with our work in this area.
+
+We believe that transparency builds trust. Our work is available for anyone to review and use to learn about Tor. Our code is open. Our development meetings and discussions are open on IRC and mailing list. We welcome those who would like to help review our work for security issues, and when they are found, to use responsible disclosure to report them.
+
+Isabela Bagueros
+Executive Director
+
+### Final day to donate to the Bug Smash Fund
+
+https://blog.torproject.org/tor-bug-smash-fund-2020
+
+Today, August 31, is the final day of the Bug Smash Fund campaign (https://blog.torproject.org/tor-bug-smash-fund-2020). We owe you a big thank you. This campaign has been more successful than 2019’s, even though we had to overcome a loss of donations from cancelled in-person events. If you haven’t made a contribution to the Bug Smash Fund, and want to help us build a reserve of funds that goes towards finding and fixing bugs and conducting routine maintenance, you still have a chance. Make a donation before the end of the day on August 31 (https://donate.torproject.org), and your contribution will help us smash all the bugs.
+
+### End of #MoreOnionsPorFavor campaign
+
+https://blog.torproject.org/more-onions-end-of-campaign
+
+Over the last month, onion services operators and our broad community celebrated and deployed a brand new feature called Onion-Location (https://support.torproject.org/onionservices/onion-location/). The feature, a purple pill in the URL bar, advertises to users that there’s a more secure way to connect to a site by using onion services. Over 60 organisations and individuals -- small, medium, and large onions -- have reached out to us to be part of this campaign. Read more about the success of the #MoreOnionsPorFavor (https://blog.torproject.org/more-onions-end-of-campaign).
+
+### New Releases
+
+Tor Browser 10.0a6
+https://blog.torproject.org/new-release-tor-browser-100a6
+This release ships with Firefox 78.2.0esr, and updates NoScript to 11.0.39. Full changelog.
+
+Tor Browser 9.5.4
+https://blog.torproject.org/new-release-tor-browser-954
+This release updates Firefox to 68.12.0esr, NoScript to 11.0.38, and HTTPS Everywhere to 2020.08.13. Full changelog.
+
+Tor Browser 10.0a5
+https://blog.torproject.org/new-release-tor-browser-100a5
+This release ships with Firefox 78.1.0esr but there are a lot more changes that we included compared to the previous alpha version. Full changelog.
+
+0.4.4.4-rc
+https://blog.torproject.org/node/1908
+Tor 0.4.4.4-rc is the first release candidate in its series. It fixes several bugs in previous versions, including some that caused annoying behavior for relay and bridge operators. Full changelog.
+
+### What We're Reading
+
+"Así logramos que el más grande operador de telecomunicaciones mexicano dejara de bloquear la internet segura," GlobalVoices.
+https://es.globalvoices.org/2020/08/18/asi-logramos-que-el-mas-grande-operador-de-telecomunicaciones-mexicano-dejara-de-bloquear-la-internet-segura/
+
+"A quarter of the Alexa Top 10K websites are using browser fingerprinting scripts," ZDNet.
+https://www.zdnet.com/article/a-quarter-of-the-alexa-top-10k-websites-are-using-browser-fingerprinting-scripts/
+
+"Roger Dingledine of the Tor Project talks privacy and COVID-19 apps," Avast.
+https://blog.avast.com/cybersecai-connected-qa-with-roger-dingledine-avast
+
+"Poll reveals Americans data privacy frustrations," Axios.
+https://www.axios.com/exclusive-poll-reveals-americans-data-privacy-frustrations-16514f76-ff5e-4df1-929e-6ba259268023.html
+
+"A new technique can detect newer 4G 'stingray' cell phone snooping," Tech Crunch.
+https://techcrunch.com/2020/08/05/crocodile-hunter-4g-stingray-cell/
+
+"The Age of Mass Surveillance Will Not Last Forever," WIRED.
+https://www.wired.com/story/the-age-of-mass-surveillance-will-not-last-forever/
+
+### Upcoming Events with Tor
+
+(ICYMI) Walking Onions @ USENIX Security Symposium (recorded virtual event), August 12-14, 2020.
+https://www.usenix.org/conference/usenixsecurity20/presentation/komlo
+
+(ICYMI) PrivChat #2 | The Good, the Bad, and the Ugly of Censorship Circumvention (recorded virtual event), August 28.
+https://www.youtube.com/watch?v=aOOChyMCZH4
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject

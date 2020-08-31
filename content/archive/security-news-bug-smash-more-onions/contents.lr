@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-08-31
+---
+title: Security news, Bug Smash Fund, #MoreOnionsPorFavor
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="4192" width="676">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+												<p>Hello Tor community,</p>
+
+												<p>This month, we decided to write a slightly different newsletter. We want to answer questions you may have regarding news about Tor&rsquo;s security.</p>
+
+												<p><strong>First, Tor is a secure tool to use</strong>. For perspective on how the Tor Project makes decisions about security and development, we&rsquo;ll start with a <a href="https://twitter.com/snowden/status/1165391734823669761?lang=en">tweet</a> from Edward Snowden:</p>
+
+												<blockquote>
+												<p><em>I wouldn&rsquo;t expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that is not the claim. Security is the process of choosing between &ldquo;less safe&rdquo; and &ldquo;more safe&rsquo;&rdquo; and continuing to fork towards safety until you reach &ldquo;safe enough.&rdquo;</em></p>
+												</blockquote>
+												&nbsp;
+
+												<p>Snowden is right. Like all software, Tor development is a process. The Tor daemon, Tor Browser, onion services, pluggable transports, and many other software we develop are just like any other piece of software &mdash; they will have bugs. We are always working to make Tor safer for the largest number of users by prioritizing the most impactful changes.</p>
+
+												<p>In that spirit, we&rsquo;d like to talk about two clusters of reports and the action we&rsquo;ve taken.</p>
+
+												<p>1. You may have heard about a series of bugs in Tor being reported as &ldquo;0-days.&rdquo; These bugs aren&rsquo;t 0-days. Many of them are open in our bug tracker. We have triaged these tickets and determined they are not high priority, and they do not harm our users&#39; anonymity. We explained more about our decision process regarding these bugs, and what comes next, in a <a href="https://twitter.com/torproject/status/1288955073322602496">tweet</a>.</p>
+
+												<p>2. You may have heard about a group of exit relays running sslstrip attacks on the Tor network in May and June 2020. This attack targeted unencrypted HTTP connections to a small number of cryptocurrency exchange websites, and left other traffic alone. These relays have been monitored and excluded from the Tor network since they&rsquo;ve joined. <a href="https://blog.torproject.org/bad-exit-relays-may-june-2020">You can read the full details about the attack, and the next steps to mitigation, on our blog</a>. Monitoring the Tor network continuously is very important in catching these kinds of attacks, and given our limited capacity, you can help by <a href="https://donate.torproject.org">donating</a> to help increase our network monitoring capacity, <a href="https://community.torproject.org/relay/">running your own relay</a>, or <a href="https://community.torproject.org/relay/community-resources/bad-relays/">reporting bad relays</a>.</p>
+
+												<p>These reports point to some truths about the Tor Project: (1) We have finite capacity, which has been exacerbated by the financial need to lay off 1/3 of our staff in April. (2) Given our finite capacity, we have to triage and prioritize the work that has the highest impact for our users. (3) We can improve communication with our volunteers, contributors, and users so that our decision making process, and the priority of user security, is more clear. Like this newsletter.</p>
+
+												<p>Our blog is another important resource for updates on what&rsquo;s happening in the Tor world, and is one of the places we will use to improve our communication. This month we published a blog post outlining the <a href="https://blog.torproject.org/stop-the-onion-denial">two methods we are considering to mitigate DDoS attacks on the Tor network</a>, which is an example of how we like to discuss problems and potential solutions. We&rsquo;ve also begun posting <a href="https://blog.torproject.org/anti-censorship-july-2020">monthly reports on anti-censorship activities</a> so you can keep up with our work in this area.</p>
+
+												<p>We believe that transparency builds trust. Our work is available for anyone to review and use to learn about Tor. Our code is open. Our development meetings and discussions are open on IRC and mailing list. We welcome those who would like to help review our work for security issues, and when they are found, to use responsible disclosure to report them.</p>
+
+												<p><br />
+												Isabela Bagueros<br />
+												Executive Director</p>
+
+												<hr />
+												<h1>Final day to donate to the Bug Smash Fund</h1>
+
+												<p><a href="https://blog.torproject.org/tor-bug-smash-fund-2020"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-bug-smash-blog_4.png?itok=3jebgvhz" style="width: 640px; height: 320px;" /></a></p>
+
+												<p><strong>Today, August 31, is the final day of the <a href="https://blog.torproject.org/tor-bug-smash-fund-2020">Bug Smash Fund campaign</a>. </strong>We owe you a big thank you. This campaign has been more successful than 2019&rsquo;s, even though we had to overcome a loss of donations from cancelled in-person events. If you haven&rsquo;t made a contribution to the Bug Smash Fund, and want to help us build a reserve of funds that goes towards finding and fixing bugs and conducting routine maintenance, you still have a chance. <a href="https://donate.torproject.org">Make a donation before the end of the day on August 31</a>, and your contribution will help us smash all the bugs.</p>
+
+												<hr />
+												<h1 class="title">End of #MoreOnionsPorFavor campaign<br />
+												<br />
+												<a href="https://blog.torproject.org/more-onions-end-of-campaign"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/more-onions-porfavor.png?itok=0MEcxQZE" style="width: 640px; height: 320px;" /></a></h1>
+
+												<p>Over the last month, onion services operators and our broad community celebrated and deployed a brand new feature called<a href="https://support.torproject.org/onionservices/onion-location/"> Onion-Location</a>. The feature, a purple pill in the URL bar, advertises to users that there&rsquo;s a more secure way to connect to a site by using onion services. Over 60 organisations and individuals -- small, medium, and large onions -- have reached out to us to be part of this campaign. <a href="https://blog.torproject.org/more-onions-end-of-campaign">Read more about the success of the #MoreOnionsPorFavor</a>.</p>
+
+												<hr />
+												<h1>New Releases</h1>
+
+												<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100a6" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1916/title/en/teaser" property="schema:name">Tor Browser 10.0a6</span></a></h2>
+
+												<p>This release ships with Firefox 78.2.0esr, and updates NoScript to 11.0.39. <a href="https://blog.torproject.org/new-release-tor-browser-100a6">Full changelog</a>.</p>
+
+												<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-954" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1914/title/en/teaser" property="schema:name">Tor Browser 9.5.4</span></a></h2>
+
+												<p>This release updates Firefox to 68.12.0esr, NoScript to 11.0.38, and HTTPS Everywhere to 2020.08.13. <a href="https://blog.torproject.org/new-release-tor-browser-954">Full changelog</a>.</p>
+
+												<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100a5" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1911/title/en/teaser" property="schema:name">Tor Browser 10.0a5</span></a></h2>
+
+												<p>This release ships with Firefox 78.1.0esr but there are a lot more changes that we included compared to the previous alpha version. <a href="https://blog.torproject.org/new-release-tor-browser-100a5">Full changelog</a>.</p>
+
+												<h2 class="title"><a href="https://blog.torproject.org/node/1908" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1908/title/en/teaser" property="schema:name">0.4.4.4-rc</span></a></h2>
+
+												<p>Tor 0.4.4.4-rc is the first release candidate in its series. It fixes several bugs in previous versions, including some that caused annoying behavior for relay and bridge operators. <a href="https://blog.torproject.org/node/1908">Full changelog</a>.</p>
+
+												<hr />
+												<h1>What We&#39;re Reading</h1>
+
+												<p>&quot;As&iacute; logramos que el m&aacute;s grande operador de telecomunicaciones mexicano dejara de bloquear la internet segura,&quot; <a href="https://es.globalvoices.org/2020/08/18/asi-logramos-que-el-mas-grande-operador-de-telecomunicaciones-mexicano-dejara-de-bloquear-la-internet-segura/">GlobalVoices</a>.<br />
+												<br />
+												&quot;A quarter of the Alexa Top 10K websites are using browser fingerprinting scripts,&quot; <a href="https://www.zdnet.com/article/a-quarter-of-the-alexa-top-10k-websites-are-using-browser-fingerprinting-scripts/">ZDNet</a>.<br />
+												<br />
+												&quot;Roger Dingledine of the Tor Project talks privacy and COVID-19 apps,&quot; <a href="https://blog.avast.com/cybersecai-connected-qa-with-roger-dingledine-avast">Avast</a>.</p>
+
+												<p>&quot;Poll reveals Americans data privacy frustrations,&quot; <a href="https://www.axios.com/exclusive-poll-reveals-americans-data-privacy-frustrations-16514f76-ff5e-4df1-929e-6ba259268023.html">Axios</a>.</p>
+
+												<p>&quot;A new technique can detect newer 4G &#39;stingray&#39; cell phone snooping,&quot; <a href="https://techcrunch.com/2020/08/05/crocodile-hunter-4g-stingray-cell/">Tech Crunch</a>.<br />
+												<br />
+												&quot;The Age of Mass Surveillance Will Not Last Forever,&quot; <a href="https://www.wired.com/story/the-age-of-mass-surveillance-will-not-last-forever/">WIRED</a>.</p>
+
+												<hr />
+												<h1>Events with Tor</h1>
+
+												<div class="views-row">
+												<div class="views-row">
+												<p>(ICYMI)&nbsp;<a href="https://www.usenix.org/conference/usenixsecurity20/presentation/komlo">Walking Onions @ USENIX Security Symposium (recorded virtual event)</a>, August 12-14, 2020.<br />
+												<br />
+												(ICYMI) <a href="https://www.youtube.com/watch?v=aOOChyMCZH4">PrivChat #2 | The Good, the Bad, and the Ugly of Censorship Circumvention (recorded virtual event)</a>, August 28.</p>
+												</div>
+												</div>
+
+												<hr />
+												<h1>Join Our Community</h1>
+
+												<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+												<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+												<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+												<p>&nbsp;</p>
+
+												<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding:0 15px;">
+												<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+												<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+												{domain.address}<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Spacing --></td>
+		</tr>
+	</tbody>
+</table>
