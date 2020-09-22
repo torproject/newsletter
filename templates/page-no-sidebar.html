@@ -16,7 +16,7 @@
           <h2>{{ this.title }}</h2>
           <div class="errors">
           </div>
-          {% block body %}{% endblock %}
+          {% block body %}{{ this.body }}{% endblock %}
           <script src="{{ '/static/js/errors.js'|asseturl }}" ></script>
         </main>
       </div>

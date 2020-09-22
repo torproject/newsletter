@@ -1,0 +1,15 @@
+_model: page
+---
+title: Subscription Confirmed
+---
+html: errors.html
+---
+_template: page-no-sidebar.html
+---
+body:
+
+Thanks for joining our email list - you'll hear from us soon! In the meantime, follow @TorProject on Twitter to keep in touch.
+
+As a non-profit organization, we rely on contributions from people like you to help us create and maintain technology used by millions of users daily to browse, communicate, and express themselves online privately. Every little bit helps - please donate today.
+
+<a class="btn btn-purple" href="https://www.torproject.org/donate">Donate Now</a>

@@ -1,0 +1,11 @@
+_model: page
+---
+title: Confirmation Sent
+---
+html: errors.html
+---
+_template: page-no-sidebar.html
+---
+body:
+
+ A request for confirmation has been sent to your email address. Once you click on that link, you will be subscribed. 
