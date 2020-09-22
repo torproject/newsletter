@@ -1,0 +1,28 @@
+{% from "macros/archive.html" import render_intro_post %}
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ '/static/css/bootstrap.css'|asseturl }}">
+<link rel="stylesheet" href="{{ '/static/fonts/fontawesome/css/all.min.css'|asseturl }}" rel="stylesheet">
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
+<body class="no-gutters" data-spy="scroll" data-target="#sidenav-topics" id="topics" data-children=".item">
+  <header>
+    {% include 'navbar.html' %}
+  </header>
+  <div class="page bg-light">
+    <div class="container-fluid">
+      <div class="row flex-xl-nowrap">
+        <main role="main" class="col-sm-12 col-xs-12 ml-sm-auto col-md-9 col-lg-9 mx-auto m-5">
+          <h2>{{ this.title }}</h2>
+          <div class="errors">
+          </div>
+          {% block body %}{% endblock %}
+          <script src="{{ '/static/js/errors.js'|asseturl }}" ></script>
+        </main>
+      </div>
+    </div>
+  </div>
+  <footer class="footer">
+    {% include 'footer.html' %}
+  </footer>
+</body>
