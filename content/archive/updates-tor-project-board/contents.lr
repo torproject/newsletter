@@ -1,0 +1,171 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-09-29
+---
+title: Updates on the Tor Project’s Board
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+									<h1><a href="https://blog.torproject.org/welcome-new-tor-board-members">Updates on the Tor Project&rsquo;s Board</a></h1>
+
+									<p><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/board-september.png" style="width: 600px; height: 300px;" /></p>
+
+									<p>We would like to share some updates regarding the Tor Project&rsquo;s Board. We had two members stepping down, Megan Price and Shari Steele, both provided great contributions for the Board that Tor will always be thankful for. And we are grateful to have them as supporters and friends of Tor.</p>
+
+									<p>To move forward we decided to invite two new members. We are happy to say both have accepted our invitation and joined the Board. <strong>Rabbi Rob</strong>, the founder and CEO of Team Cymru and <strong>Chelsea Komlo</strong>, cryptography and privacy researcher and engineer.</p>
+
+									<p><a href="https://blog.torproject.org/welcome-new-tor-board-members">Read their&nbsp;full bios on&nbsp;our blog.</a></p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/tor-bug-smash-fund-2020-106K-raised"><span property="schema:name">Tor&rsquo;s Bug Smash Fund, Year 2: $106,709 Raised!</span></a></h1>
+
+									<p><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-bug-smash-blog_4.png?itok=3jebgvhz" style="width: 640px; height: 320px;" /></p>
+
+									<p>This August, we asked you to help us fundraise for our second annual Bug Smash Fund campaign. This fund is designed to grow a healthy reserve earmarked for maintenance work, finding bugs, and smashing them&mdash;all tasks necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly.</p>
+
+									<p>In 2019, we raised $86,081, half of which we raised in-person at DEFCON.</p>
+
+									<p><strong>In 2020, despite the challenges of COVID-19 and event cancellations, you helped us to raise $106,709! </strong><a href="https://blog.torproject.org/tor-bug-smash-fund-2020-106K-raised">Check out our &#39;thank you!&#39; post.</a></p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<hr /></div>
+
+									<h1><a href="https://blog.torproject.org/icfp-otf-censored-continent"><span property="schema:name">Censored continent: understanding the use of tools during information controls in Africa: Nigeria, Cameroon, Uganda, and Zimbabwe as case studies.</span></a></h1>
+
+									<p class="ace-line"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/icfp_0.png?itok=KmxJOWmq" style="width: 600px; height: 300px;" /></p>
+
+									<p><span>Between 2019 and 2020, the Tor Project has had the opportunity to serve as the host organization of OTF Information Controls Fellow, Babatunde Okunoye.</span></p>
+
+									<p><span>As part of his fellowship, Babatunde examined the use of Internet censorship circumvention tools in Cameroon, Nigeria, Uganda, and Zimbabwe, four countries in Africa with varying degrees of Internet censorship, including Internet bandwidth throttling, social media app restrictions, and website blocks. Interviews were done with 33 people, including students, civil society members, people in business, and teachers, revealing how communities mobilized to defeat censorship. <a href="https://blog.torproject.org/icfp-otf-censored-continent">You can read a summary of Babatunde&#39;s findings and the full report here.&nbsp;</a></span></p>
+
+									<hr />
+									<h1><a href="https://blog.torproject.org/anti-censorship-august-2020"><span property="schema:name">Anti-censorship team report: August 2020</span></a></h1>
+
+									<p>Tor&#39;s anti-censorship team writes monthly reports to keep the world updated on its progress. This blog post summarizes the anti-censorship work we got done in August 2020. <a href="https://blog.torproject.org/anti-censorship-august-2020">Let us know if you have any questions or feedback!</a></p>
+
+									<hr />
+									<h1><a href="https://blog.torproject.org/gsoc-2020-snowflake-proxy-mobile"><span property="schema:name">GSoC 2020: Snowflake Proxy on Mobile</span></a></h1>
+
+									<p>Every year the Tor Project hosts interns through programs like Outreachy and Google Summer of Code. Hashik&nbsp;worked with our anti-censorship team to bring Snowflake proxy to Android.</p>
+
+									<p>&ldquo;Tor&rsquo;s community is very welcoming; all the Tor core developers are down to earth, humble, and easy to approach for any technical difficulty. Any interested person can barge into their IRC channels and ask any question, and either the developers or the fellow folks in the community<br />
+									would answer our questions.&rdquo;</p>
+
+									<p>We are happy that Hashik&nbsp;had a great time at the Tor Project. &nbsp;<a href="https://blog.torproject.org/gsoc-2020-snowflake-proxy-mobile">Check out his final report here.</a></p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1921"><span class="quickedit-field" data-quickedit-field-id="node/1906/title/en/teaser" property="schema:name">Tor 0.4.4.5</span></a></h2>
+
+									<p>This series improves our guard selection algorithms, adds v3 onion balance support, improves the amount of code that can be disabled when running without relay support, and includes numerous small bugfixes and enhancements. It also lays the ground for some IPv6 features that we&#39;ll be developing more in the next (0.4.5) series.&nbsp;<a href="https://blog.torproject.org/node/1921">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100"><span class="quickedit-field" data-quickedit-field-id="node/1905/title/en/teaser" property="schema:name">Tor Browser 10</span></a></h2>
+
+									<p>Tor Browser 10 ships with Firefox 78.3.0esr, updates NoScript to 11.0.44, and Tor to 0.4.4.5. This release includes important security updates to Firefox. Android Tor Browser 10 is under active development and we are supporting the current 9.5 series for Android until the new one is ready. We are informed by Mozilla of any issues they learn about affecting the 9.5 series. We expect to release the new Tor Browser for Android based on Fenix in the following weeks.&nbsp;<a href="https://blog.torproject.org/new-release-tor-browser-100">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tails-411"><span class="quickedit-field" data-quickedit-field-id="node/1904/title/en/teaser" property="schema:name">Tails 4.11</span></a></h2>
+
+									<p class="title"><strong>This release fixes many security vulnerabilities. You should upgrade as soon as possible.</strong>&nbsp;<a href="https://blog.torproject.org/new-release-tails-411">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a1">Tor Browser 10.5a1</a></h2>
+
+									<p>Tor Browser 10.5a1 ships with Firefox 78.3.0esr, updates NoScript to 11.0.44, and Tor to 0.4.4.5. <a href="https://blog.torproject.org/new-release-tor-browser-105a1">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100a7"><span property="schema:name">Tor Browser 10.0a7</span></a></h2>
+
+									<p>We are happy to announce the third alpha for desktop users based on Firefox 78 ESR. The Android version is under active development and will be available in the coming weeks. <a href="https://blog.torproject.org/new-release-tor-browser-100a7">Full changelog.</a></p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;Portland, Oregon, passes toughest ban on facial recognition in US,&quot; <a href="https://www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/">CNET.</a></p>
+
+									<p>&quot;We made the largest Mexican telecommunications operator stop blocking secure internet,&quot; <a href="https://globalvoices.org/2020/09/08/we-made-the-largest-mexican-telecommunications-operator-stop-blocking-secure-internet/">GlobalVoices.</a></p>
+
+									<p>&quot;Free VPNs are bad for your privacy,&quot; <a href="https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/">Tech Crunch.</a><br />
+									<br />
+									&quot;Trump cuts aid for pro-democracy groups in Belarus, Hong Kong and Iran,&quot; <a href="https://www.theguardian.com/us-news/2020/sep/24/trump-open-technology-fund-hong-kong-belarus-iran">The Guardian.</a></p>
+
+									<p>&quot;U.S. court: Mass surveillance program exposed by Snowden was illegal,&quot; <a href="https://www.reuters.com/article/us-usa-nsa-spying/u-s-court-mass-surveillance-program-exposed-by-snowden-was-illegal-idUSKBN25T3CK">Reuters.</a></p>
+
+									<p>&quot;Remote Learning During Pandemic Brings Privacy Risks,&quot; <a href="https://www.wsj.com/articles/remote-learning-during-pandemic-brings-privacy-risks-11599039000">The Wall Street Journal.</a></p>
+
+									<p>&quot;Zimbabwe&rsquo;s Speedy Social Media Law Is Africa&rsquo;s Latest Internet Censorship Plot,&quot; <a href="https://weetracker.com/2020/08/31/zimbabwe-africa-social-media-laws/">WT.</a></p>
+
+									<p>&quot;Private Intel Firm Buys Location Data to Track People to their &#39;Doorstep&#39;,&quot; <a href="https://www.vice.com/en_us/article/qj454d/private-intelligence-location-data-xmode-hyas">Motherboard.</a></p>
+
+									<hr />
+									<h1>Events with Tor</h1>
+
+									<div class="views-row">
+									<div class="views-row">
+									<p><a href="https://blog.torproject.org/node/1925">Roger keynotes at CyberSec&amp;AI</a>, October 8, 2020.</p>
+
+									<p>&nbsp;</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+									<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+												{domain.address}<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Spacing --></td>
+		</tr>
+	</tbody>
+</table>

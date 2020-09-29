@@ -1,0 +1,114 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-09-29
+---
+title: Updates on the Tor Project’s Board
+---
+body:
+
+## Updates on the Tor Project’s Board
+https://blog.torproject.org/welcome-new-tor-board-members
+
+We would like to share some updates regarding the Tor Project’s Board. We had two members stepping down, Megan Price and Shari Steele, both provided great contributions for the Board that Tor will always be thankful for. And we are grateful to have them as supporters and friends of Tor.
+
+To move forward we decided to invite two new members. We are happy to say both have accepted our invitation and joined the Board. Rabbi Rob, the founder and CEO of Team Cymru and Chelsea Komlo, cryptography and privacy researcher and engineer.
+
+
+### Tor’s Bug Smash Fund, Year 2: $106,709 Raised!
+https://blog.torproject.org/tor-bug-smash-fund-2020-106K-raised
+
+This August, we asked you to help us fundraise for our second annual Bug Smash Fund campaign. This fund is designed to grow a healthy reserve earmarked for maintenance work, finding bugs, and smashing them—all tasks necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly.
+
+In 2019, we raised $86,081, half of which we raised in-person at DEFCON.
+
+In 2020, despite the challenges of COVID-19 and event cancellations, you helped us to raise $106,709!
+
+
+### Censored continent: understanding the use of tools during information controls in Africa: Nigeria, Cameroon, Uganda, and Zimbabwe as case studies.
+https://blog.torproject.org/icfp-otf-censored-continent
+
+Between 2019 and 2020, the Tor Project has had the opportunity to serve as the host organization of OTF Information Controls Fellow, Babatunde Okunoye.
+
+As part of his fellowship, Babatunde examined the use of Internet censorship circumvention tools in Cameroon, Nigeria, Uganda, and Zimbabwe, four countries in Africa with varying degrees of Internet censorship, including Internet bandwidth throttling, social media app restrictions, and website blocks. Interviews were done with 33 people, including students, civil society members, people in business, and teachers, revealing how communities mobilized to defeat censorship.
+
+
+### Anti-censorship team report: August 2020
+https://blog.torproject.org/anti-censorship-august-2020
+
+Tor's anti-censorship team writes monthly reports to keep the world updated on its progress. This blog post summarizes the anti-censorship work we got done in August 2020. Let us know if you have any questions or feedback!
+
+
+### GSoC 2020: Snowflake Proxy on Mobile 
+https://blog.torproject.org/gsoc-2020-snowflake-proxy-mobile
+
+Every year the Tor Project hosts interns through programs like Outreachy and Google Summer of Code. Hashik worked with our anti-censorship team on bringing Snowflake proxy to Android. We are happy that Hashik had a great time at the Tor Project.
+
+“Tor’s community is very welcoming; all the Tor core developers are down to earth, humble, and easy to approach for any technical difficulty. Any interested person can barge into their IRC channels and ask any question, and either the developers or the fellow folks in the community would answer our questions.”
+
+### New Releases
+
+Tor 0.4.4.5
+https://blog.torproject.org/node/1921
+This series improves our guard selection algorithms, adds v3 onion balance support, improves the amount of code that can be disabled when running without relay support, and includes numerous small bugfixes and enhancements. It also lays the ground for some IPv6 features that we'll be developing more in the next (0.4.5) series.
+
+Tor Browser 10
+https://blog.torproject.org/new-release-tor-browser-100
+Tor Browser 10 ships with Firefox 78.3.0esr, updates NoScript to 11.0.44, and Tor to 0.4.4.5. This release includes important security updates to Firefox.
+Android Tor Browser 10 is under active development and we are supporting the current 9.5 series for Android until the new one is ready. We are informed by Mozilla of any issues they learn about affecting the 9.5 series. We expect to release the new Tor Browser for Android based on Fenix in the following weeks.
+
+Tails 4.11
+https://blog.torproject.org/new-release-tails-411
+This release fixes many security vulnerabilities. You should upgrade as soon as possible.
+
+Tor Browser 10.0a7
+https://blog.torproject.org/new-release-tor-browser-100a7
+We are happy to announce the third alpha for desktop users based on Firefox 78 ESR. The Android version is under active development and will be available in the coming weeks.
+
+Tor Browser 10.5a1
+https://blog.torproject.org/new-release-tor-browser-105a1
+Tor Browser 10.5a1 ships with Firefox 78.3.0esr, updates NoScript to 11.0.44, and Tor to 0.4.4.5.
+
+### What We're Reading
+
+"Portland, Oregon, passes toughest ban on facial recognition in US," CNET.
+https://www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/
+
+"We made the largest Mexican telecommunications operator stop blocking secure internet," GlobalVoices.
+https://globalvoices.org/2020/09/08/we-made-the-largest-mexican-telecommunications-operator-stop-blocking-secure-internet/
+
+"Free VPNs are bad for your privacy," Tech Crunch.
+https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/
+
+"Trump cuts aid for pro-democracy groups in Belarus, Hong Kong and Iran," The Guardian.
+https://www.theguardian.com/us-news/2020/sep/24/trump-open-technology-fund-hong-kong-belarus-iran
+
+"U.S. court: Mass surveillance program exposed by Snowden was illegal," Reuters.
+https://www.reuters.com/article/us-usa-nsa-spying/u-s-court-mass-surveillance-program-exposed-by-snowden-was-illegal-idUSKBN25T3CK
+
+"Remote Learning During Pandemic Brings Privacy Risks," The Wall Street Journal.
+https://www.wsj.com/articles/remote-learning-during-pandemic-brings-privacy-risks-11599039000
+
+"Zimbabwe’s Speedy Social Media Law Is Africa’s Latest Internet Censorship Plot," WT.
+https://weetracker.com/2020/08/31/zimbabwe-africa-social-media-laws/
+
+"Private Intel Firm Buys Location Data to Track People to their 'Doorstep'," Motherboard.
+https://www.vice.com/en_us/article/qj454d/private-intelligence-location-data-xmode-hyas
+
+### Upcoming Events with Tor
+
+Roger keynotes at CyberSec&AI, October 8, 2020.
+https://blog.torproject.org/node/1925
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org 
