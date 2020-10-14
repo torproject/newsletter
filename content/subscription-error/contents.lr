@@ -1,0 +1,7 @@
+_model: page
+---
+title: Error Confirming Your Subscription
+---
+html: errors.html
+---
+_template: page-no-sidebar.html
