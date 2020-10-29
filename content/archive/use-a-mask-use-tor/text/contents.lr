@@ -1,0 +1,117 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-10-29
+---
+title: Use a Mask, Use Tor; Tor Browser & Onion Services; Localization Hackathon
+---
+body:
+
+## Use A Mask, Use Tor: Resist the Surveillance Pandemic
+https://blog.torproject.org/use-a-mask-use-tor
+
+As many friends and followers of Tor know by now, we spend the final weeks of each year asking for your help as part of our year-end fundraising campaign (https://torproject.org/donate/donate-usetor-tn1). This year hasn't been a normal year at all, not for Tor and not for the rest of the world.
+
+For our 2020 campaign, we wanted a theme that conveys a positive message and speaks to the power of community action. That’s why we decided on the theme Use a Mask, Use Tor.
+
+To put it simply, using a mask keeps yourself and your communities safe in person. Using Tor keeps yourself and your communities safe online. Both tools help to conceal your identity, can break systems of surveillance, and their widespread use can promote the health of communities while undermining the power of systems bent on dividing us. Using a mask and using Tor helps us stand in solidarity with one another.
+
+Use a mask, use Tor. And now, use your Tor mask! Make a donation of $50 and receive a limited-edition Tor mask: https://torproject.org/donate/donate-usetor-tn1
+
+Every donation made from now through the end of 2020 will count towards our year-end campaign. Be on the lookout for events, giveaways, and new merch available from now until December 31. Read more about the campaign on our blog: https://blog.torproject.org/use-a-mask-use-tor
+
+### Tor Browser and Onion Services: Challenges and Opportunities
+https://blog.torproject.org/tor-brower-onion-services-challenges-opportunities
+
+Maintaining a browser like Tor Browser has its challenges but also its rewards. It allows us to reach faster adoption of important technologies like onion services, providing a more secure browsing experience for all Tor users. Improving the treatment of onion services on the browser side, however, comes with its own challenges both for users and service providers and it is important to reflect on those as a requirement for future growth.
+
+Thus, we feel it is time to take stock and outline the steps we have taken over the years to improve the user experience and adoption of onion services, the challenges we faced and continue to face, and what the future might look like.
+
+Check out our blog post for how we got where we are today, our challenges, and what's next for Tor Browser and onion services: https://blog.torproject.org/tor-brower-onion-services-challenges-opportunities
+
+### Join the Tor Localization Hackathon November 6 - 9
+https://blog.torproject.org/tor-l10n-hackathon
+
+Between November 6 and 9, the Tor Project and Localization Lab (https://www.localizationlab.org/) will host the first edition of Tor Project's localization hackathon, the Tor L10n Hackathon. A hackathon is an event where a community hangs out and works together to update, fix, and collaborate on a project. The L10n Hackathon is a totally remote and online event.
+
+In this localization hackathon we're going to work exclusively on the localization of our latest resource, the Tor Community portal. Find out how to join the hackathon on our blog: https://blog.torproject.org/tor-l10n-hackathon
+
+### Anti-censorship team report: September 2020
+https://blog.torproject.org/anti-censorship-september-2020
+
+Tor's anti-censorship team writes monthly reports to keep the world updated on its progress. This blog post summarizes the anti-censorship work we got done in September 2020. Let us know if you have any questions or feedback!
+
+### New Releases
+
+Tor Browser 10.0a9 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-100a9
+Tor Browser 10.0a9 ships with Fenix 82.1.1. As this is the second alpha version based on Fenix we expect more bugs than usual. Please report them (with steps to reproduce), either on our blog or on Gitlab, or essentially with any other means that would reach us. We are in particular interested in potential proxy bypasses which our proxy audit missed. 
+
+Tor Browser 10.5a2
+https://blog.torproject.org/new-release-tor-browser-105a2
+Tor Browser 10.5a2 ships with Firefox 78.4.0esr, updates NoScript to 11.1.3, and OpenSSL to 1.1.1h. This release includes important security updates to Firefox. Tor Browser 10.5 does not support CentOS 6. 
+
+Tor Browser 10.0.2
+https://blog.torproject.org/new-release-tor-browser-1002
+This release updates Firefox to 78.4.0esr and NoScript to 11.1.3. This release includes important security updates to Firefox. Now Javascript on the Safest security level is governed by NoScript again. 
+
+Tor Browser 10.0.1
+https://blog.torproject.org/new-release-tor-browser-1001
+This release updates NoScript to 11.1.1 and fixes some bugs, including the issue of watching Youtube videos on Windows. 
+
+Tor Browser 10.0a8 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-100a8
+We are happy to announce the first alpha for Android users based on Fenix 81. The Desktop version was released at the end of September. Over the last four months we adjusted our toolchains, finished our proxy audit, re-implemented the user interfaces, and fixed a lot of issues that came down on us due to the switch from Firefox 68esr to Fenix. 
+
+### What We're Reading
+
+"The Police Can Probably Break Into Your Phone," The New York Times.
+https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html
+
+"Onions on the side: Tracking Tor availability for reader privacy on major news sites," Freedom of the Press Foundation.
+https://freedom.press/news/onions-side-tracking-tor-availability-reader-privacy-major-news-sites/
+
+"Amazon Unveils Drone That Films Inside Your Home. What Could Go Wrong?" The New York Times.
+https://www.nytimes.com/2020/09/24/technology/amazon-ring-drone.html
+
+"Bitcoin's Next Upgrade Will Support Tor V3 Addresses," Decrypt.
+https://decrypt.co/44640/bitcoins-next-upgrade-will-support-tor-v3-addresses
+
+"CBP Bought 'Global' Location Data from Weather and Game Apps," Motherboard.
+https://www.vice.com/en/article/n7wakg/cbp-dhs-location-data-venntel-apps
+
+"Introducing Onion Names for SecureDrop," SecureDrop.
+https://securedrop.org/news/introducing-onion-names-securedrop/
+
+"Google is giving data to police based on search keywords, court docs show," CNet.
+https://www.cnet.com/news/google-is-giving-data-to-police-based-on-search-keywords-court-docs-show/
+
+### Upcoming Events with Tor
+
+Anonymity loves Diversity: The Case of Tor (Foss-North), November 1st, 2020 @ 16:00 - 17:00 (CET).
+https://blog.torproject.org/foss-north-2020
+
+Tor Localization Hackathon, November 6 - 9, 2020.
+https://blog.torproject.org/node/1946
+
+State of the Onion: Tor & Community Updates from 2020, November 16, 2020 @ 16:00 - 18:00 UTC.
+https://blog.torproject.org/state-of-the-onion-2020
+
+Tor Talk at GNU Health Conference 2020, November 20, 2020
+https://blog.torproject.org/tor-ghcon-2020
+
+Tor introduction @ LHC (Campinas), November 26 @ 23:00 UTC
+https://blog.torproject.org/tor-intro-lhc-2020
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://gitlab.torproject.org/tpo/team#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org

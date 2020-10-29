@@ -1,0 +1,174 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-10-29
+---
+title: Use a Mask, Use Tor; Tor Browser & Onion Services; Localization Hackathon
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+										<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+
+											<tr>
+												<td style="padding:0 15px 15px 15px;">
+<hr />
+									<h1><a href="https://blog.torproject.org/use-a-mask-use-tor">Use A Mask, Use Tor: Resist the Surveillance Pandemic</a></h1>
+
+									<p><a href="https://blog.torproject.org/use-a-mask-use-tor"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/blog_cover4_small_0.png?itok=w1QXUzad" style="width: 600px; height: 300px;" /></a></p>
+
+									<p style="line-height:1.38">As many friends and followers of Tor know by now, we spend the final weeks of each year <a href="https://torproject.org/donate/donate-usetor-tn1">asking for your help as part of our year-end fundraising campaign</a>. This year hasn&#39;t been a normal year at all, not for Tor and not for the rest of the world.</p>
+
+									<p>For our 2020 campaign, we wanted a theme that conveys a positive message and speaks to the power of community action. That&rsquo;s why we decided on the theme <strong>Use a Mask, Use Tor.</strong></p>
+
+									<p>To put it simply, using a mask keeps yourself and your communities safe in person. Using Tor keeps yourself and your communities safe online. Both tools help to conceal your identity, can break systems of surveillance, and their widespread use can promote the health of communities while undermining the power of systems bent on dividing us. Using a mask and using Tor helps us stand in solidarity with one another.</p>
+
+									<p>Use a mask, use Tor. And now, use your Tor mask! <a href="https://torproject.org/donate/donate-usetor-tn1">Make a donation of $50 and receive a limited-edition Tor mask</a>.</p>
+
+									<p><a href="https://torproject.org/donate/donate-usetor-tn1"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/mask-use-tor-newsletter.png" style="width: 640px; height: 150px;" /></a></p>
+
+									<p style="line-height:1.38"><a href="https://torproject.org/donate/donate-usetor-tn1">Every donation</a> made from now through the end of 2020 will count towards our year-end campaign.<strong> </strong>Be on the lookout for events, giveaways, and new merch available from now until December 31. <a href="https://blog.torproject.org/use-a-mask-use-tor">Read more about the campaign on our blog</a>.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/tor-brower-onion-services-challenges-opportunities">Tor Browser and Onion Services: Challenges and Opportunities </a></h1>
+
+									<p><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/onions.png?itok=k8-kkwG-" style="width: 640px; height: 373px;" /></p>
+
+									<p id="magicdomid4">Maintaining a browser like Tor Browser has its challenges but also its rewards. It allows us to reach faster adoption of important technologies like onion services, providing a more secure browsing experience for all Tor users. Improving the treatment of onion services on the browser side, however, comes with its own challenges both for users and service providers and it is important to reflect on those as a requirement for future growth.</p>
+
+									<p>Thus, we feel it is time to take stock and outline the steps we have taken over the years to improve the user experience and adoption of onion services, our challenges, and what the future holds. <a href="https://blog.torproject.org/tor-brower-onion-services-challenges-opportunities">Check out our blog post</a> for what&#39;s next for Tor Browser and onion services.</p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<hr /></div>
+
+									<h1 class="title"><a href="https://blog.torproject.org/tor-l10n-hackathon" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1934/title/en/teaser" property="schema:name">Join the Tor Localization Hackathon November 6 - 9 </span></a></h1>
+
+									<p class="ace-line"><a href="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-l10n-hackathon.png?itok=8WzwnVp3"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-l10n-hackathon.png?itok=8WzwnVp3" style="width: 640px; height: 320px;" /></a></p>
+
+									<p>Between November 6 and 9, the Tor Project and <a href="https://www.localizationlab.org/">Localization Lab</a> will host the first edition of Tor Project&#39;s localization hackathon, the Tor L10n Hackathon. A hackathon is an event where a community hangs out and works together to update, fix, and collaborate on a project. The L10n Hackathon is a totally remote and online event.</p>
+
+									<p>In this localization hackathon we&#39;re going to work exclusively on the localization of our latest resource, the <a href="https://community.torproject.org/">Tor Community portal</a>.<a href="https://blog.torproject.org/tor-l10n-hackathon"> Find out how to join the hackathon on our blog</a>.</p>
+
+									<hr />
+									<h1><a href="https://blog.torproject.org/anti-censorship-september-2020">Anti-censorship team report: September 2020</a></h1>
+
+									<p>Tor&#39;s anti-censorship team writes monthly reports to keep the world updated on its progress. This blog post summarizes the anti-censorship work we got done in September 2020. <a href="https://blog.torproject.org/anti-censorship-september-2020">Let us know if you have any questions or feedback!</a></p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100a9" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1942/title/en/teaser" property="schema:name">Tor Browser 10.0a9 (Android Only)</span></a></h2>
+
+									<p>Tor Browser 10.0a9 ships with Fenix 82.1.1. As this is the second alpha version based on Fenix we expect more bugs than usual. Please report them (with steps to reproduce), either on our blog or on <a href="https://gitlab.torproject.org">Gitlab</a>, or essentially with any other means that would reach us. We are in particular interested in potential proxy bypasses which our proxy audit missed. <a href="https://blog.torproject.org/new-release-tor-browser-100a9">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a2" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1939/title/en/teaser" property="schema:name">Tor Browser 10.5a2</span></a></h2>
+
+									<p>Tor Browser 10.5a2 ships with Firefox 78.4.0esr, updates NoScript to 11.1.3, and OpenSSL to 1.1.1h. This release includes important security updates to Firefox. Tor Browser 10.5 does not support CentOS 6. <a href="https://blog.torproject.org/new-release-tor-browser-105a2">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1002"><span class="quickedit-field" data-quickedit-field-id="node/1938/title/en/full" property="schema:name">Tor Browser 10.0.2</span></a></h2>
+
+									<p>This release updates Firefox to 78.4.0esr and NoScript to 11.1.3. This release includes important security updates to Firefox.<strong> </strong>Now Javascript on the Safest security level is governed by NoScript again. <a href="https://blog.torproject.org/new-release-tor-browser-1002">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1001"><span class="quickedit-field" data-quickedit-field-id="node/1936/title/en/full" property="schema:name">Tor Browser 10.0.1</span></a></h2>
+
+									<p>This release updates NoScript to 11.1.1 and fixes some bugs, including the issue of watching Youtube videos on Windows. <a href="https://blog.torproject.org/new-release-tor-browser-1001">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-100a8" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1933/title/en/teaser" property="schema:name">Tor Browser 10.0a8 (Android Only)</span></a></h2>
+
+									<p>We are happy to announce the first alpha for Android users based on Fenix 81. The Desktop version was released at the end of September. Over the last four months we adjusted our toolchains, finished our proxy audit, re-implemented the user interfaces, and fixed a lot of issues that came down on us due to the switch from Firefox 68esr to Fenix. <a href="https://blog.torproject.org/new-release-tor-browser-100a8">Full changelog</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;The Police Can Probably Break Into Your Phone,&quot; <a href="https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html?action=click&amp;module=News&amp;pgtype=Homepage">The New York Times</a>.</p>
+
+									<div class="container-narrow m-y-3">
+									<p>&quot;Onions on the side: Tracking Tor availability for reader privacy on major news sites,&quot; <a href="https://freedom.press/news/onions-side-tracking-tor-availability-reader-privacy-major-news-sites/">Freedom of the Press Foundation</a>.</p>
+
+									<p class="css-rsa88z e1h9rw200" data-test-id="headline" id="link-5df47209" itemprop="headline">&quot;Amazon Unveils Drone That Films Inside Your Home. What Could Go Wrong?&quot; <a href="https://www.nytimes.com/2020/09/24/technology/amazon-ring-drone.html">The New York Times</a>.</p>
+									</div>
+
+									<p>&quot;Bitcoin&#39;s Next Upgrade Will Support Tor V3 Addresses,&quot; <a href="https://decrypt.co/44640/bitcoins-next-upgrade-will-support-tor-v3-addresses">Decrypt</a>.</p>
+
+									<div class="smart-header smart-header--light article__header__title">
+									<p class="smart-header__hed smart-header__hed--size-2"><span data-article-description="New documents obtained by Motherboard provide more detail on what exactly location data firms are selling to the U.S. government." data-article-title="CBP Bought 'Global' Location Data from Weather and Game Apps" data-article-url="/en/article/n7wakg/cbp-dhs-location-data-venntel-apps" data-direction="down">&quot;CBP Bought &#39;Global&#39; Location Data from Weather and Game&nbsp;Apps</span>,&quot; <a href="https://www.vice.com/en/article/n7wakg/cbp-dhs-location-data-venntel-apps">Motherboard</a>.<br />
+									<br />
+									&quot;Introducing Onion Names for SecureDrop,&quot; <a href="https://securedrop.org/news/introducing-onion-names-securedrop/">SecureDrop</a>.<br />
+									<br />
+									&quot;Google is giving data to police based on search keywords, court docs show,&quot; <a href="https://www.cnet.com/news/google-is-giving-data-to-police-based-on-search-keywords-court-docs-show/">CNet</a>.</p>
+									</div>
+
+									<hr />
+									<h1>Events with Tor</h1>
+
+									<div class="views-row">
+									<div class="views-row">
+									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/foss-north-2020" hreflang="en">Anonymity loves Diversity: The Case of Tor (Foss-North)</a>, </span></span>November 1, 2020 @ 16:00 - 17:00 (CET).</p>
+
+									<p><a href="https://blog.torproject.org/node/1946">Tor Localization Hackathon</a>, November 6 - 9, 2020.</p>
+
+									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/state-of-the-onion-2020">State of the Onion: Tor &amp; Community Updates from 2020</a>, November 16, 2020</span></span> @ 16:00 - 18:00 UTC.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/tor-ghcon-2020"><span class="quickedit-field" data-quickedit-field-id="node/1947/title/en/full">Tor Talk at GNU Health Conference 2020</span></a><span class="quickedit-field" data-quickedit-field-id="node/1947/title/en/full">, November 20, 2020</span></p>
+
+									<p class="title"><span class="quickedit-field" data-quickedit-field-id="node/1945/title/en/full"><a href="https://blog.torproject.org/tor-intro-lhc-2020">Tor introduction @ LHC (Campinas)</a>, November 26 @ 23:00 UTC.</span></p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team#Teams">teams </a> and start collaborating.</p>
+
+									<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+												{domain.address}<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Spacing --></td>
+		</tr>
+	</tbody>
+</table>
