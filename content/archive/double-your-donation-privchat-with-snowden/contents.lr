@@ -1,0 +1,178 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-11-30
+---
+title: Double your donation, PrivChat with  Snowden, State of the Onion
+---
+html_body:
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1><a href="https://torproject.org/donate/donate-usetor-tn-fot">All Donations Matched by Friends of Tor</a></h1>
+
+									<p><a href="https://torproject.org/donate/donate-usetor-tn-fot"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/match1_0.png?itok=HlaU6JqE" style="width: 640px; height: 320px;" /></a></p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<p>Every dollar donated to the Tor Project now through December 31, up to $100,000, will be matched by Friends of Tor. <strong>That means your donation will be doubled. </strong>We&rsquo;re able to offer this match because of generous folks in our community who believe in Tor, privacy online, and the work to resist the surveillance pandemic.</p>
+
+									<p><strong>Make a donation today and <a href="https://torproject.org/donate/donate-usetor-tn-fot">your gift will be matched</a>, 1:1.</strong></p>
+
+									<p>Meet the <a href="https://blog.torproject.org/friends-of-tor-match-2020">Friends of Tor</a> who generously came forward to make this match possible on our blog.</p>
+									</div>
+
+									<hr />
+									<h1>You&#39;re Invited: PrivChat hosted by Edward Snowden</h1>
+
+									<p><a href="https://torproject.org/privchat"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/edward-snowden-barton-gellman.jpg.png?itok=FXv8wZ59" style="width: 640px; height: 314px;" /></a><em>Photo by Barton Gellman </em></p>
+
+									<p class="ace-line" id="magicdomid8"><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z">The Tor Project&#39;s main mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies. People use our technology</span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z">, namely the Tor network and Tor Browser,</span><span class="author-a-45z66zcz76zpvz76zpk3z70zz73zz83zz66zk"> </span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z">in diverse ways. Tor is used by whistleblowers who need a safe way to bring to light information about wrongdoing -- information that is crucial for society to know</span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z"> -- without sharing their identity</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z">. Tor is used by activists around the world who are fighting </span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z">against authoritarian governments</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z"> and to defend human rights, not only for their safety</span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z"> and anonymity, but also</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z"> to circumvent internet censorship so their voices can be heard. </span></p>
+
+									<p class="ace-line"><a href="http://torproject.org/privchat"><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z">For our third edition of PrivChat</span></a><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z">,</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z"> we are bringing you some</span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z"> real-life</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z"> Tor users who will share </span><span class="author-a-5z66z1xz76zbmz90zz77z7z70zz67zgz83zez85z">how</span><span class="author-a-mcz79zb2d386z76zz80zbsz76zz67zz80z"> Tor has been important for them and their work to defend human rights and freedoms around the world.</span> Hosted by <strong>Edward Snowden</strong>, featuring technoligist and privacy research <strong>Ramy Raoof</strong> and librarian and founder of Library Freedom Project, <strong>Alison Macrina</strong>.</p>
+
+									<p class="ace-line"><a href="https://www.youtube.com/watch?v=S2N3GoewgC8">Join us for PrivChat: Advancing Human Rights with Tor</a> on <strong>December 11 at 18:00 UTC, 13:00 Eastern, 10:00 Pacific</strong>.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://www.youtube.com/watch?v=IyWyTypRGWQ">State of the Onion: Tor &amp; Community Updates from 2020</a></h1>
+
+									<p><a href="https://www.youtube.com/watch?v=IyWyTypRGWQ"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/main.png?itok=jvjZOlLW" style="width: 640px; height: 360px;" /></a></p>
+
+									<p>Every year people from the Tor Project and its communities present the <strong>State of the Onion</strong>, a compilation of updates from our different projects, at conferences around the world. We use this opportunity to talk about highlights of the work we&rsquo;ve accomplished during the year and what we are excited about in the upcoming year.</p>
+
+									<p>With COVID-19 pandemic this year, we didn&rsquo;t have the chance to &lsquo;tour&rsquo; our State of the Onion during any face-to-face conferences. So we decided to bring the State of the Onion to you in virtual format.</p>
+
+									<p>We invite you to <a href="https://www.youtube.com/watch?v=IyWyTypRGWQ">watch the full recording of State of the Onion 2020</a> on YouTube. <a href="https://blog.torproject.org/state-of-the-onion-2020">Our blog outlines the full program</a> and who took part in the event.</p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<hr /></div>
+
+									<h1 class="title"><a href="https://blog.torproject.org/transparency-openness-and-our-2018-and-2019-financials" rel="bookmark">Transparency, Openness, and Our 2018 and 2019 Finances </a></h1>
+
+									<p class="ace-line"><a href="https://blog.torproject.org/transparency-openness-and-our-2018-and-2019-financials"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-purple-onion_2.jpg.png?itok=Ipm_JSeN" style="width: 640px; height: 320px;" /></a></p>
+
+									<p><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">We publish all of our related tax documents for transparency. After completing standard audits for 2017-2018 and for 2019,<a href="https://www.torproject.org/about/reports/"> our federal tax filings and audits for the last two years</a> are available in full on our website.</span> We&#39;ve outlined some <a href="https://blog.torproject.org/transparency-openness-and-our-2018-and-2019-financials">observations to help you read through the 2018 and 2019 financial documents</a> on our blog.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/hrd-amazon-training"><span property="schema:name">Digital security tools for human rights defenders</span></a></h1>
+
+									<p><span property="schema:name"><a href="https://blog.torproject.org/hrd-amazon-training"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/bertha-nah2.png?itok=c16_szmW" style="width: 640px; height: 320px;" /></a></span></p>
+
+									<p>Since July 2020, Narrira Lemos has been working with the Tor Project as a <a href="https://berthafoundation.org/bertha-challenge/">Bertha Fellow</a> to strengthen and promote digital security among individuals and organizations in the Amazonian region of Brazil, where she works with the technological challenges of the people who live there fighting to protect forests. On the blog, Nah <a href="https://blog.torproject.org/hrd-amazon-training">outlines her work with rural communities</a>, the impact of the pandemic, and how these human rights defenders use Tor Browser and other digital security tools.</p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1958"><span property="schema:name">Tor 0.4.5.2-alpha</span></a></h2>
+
+									<p>Tor 0.4.5.2-alpha is the second alpha release in the 0.4.5.x series. It fixes several bugs present in earlier releases, including one that made it impractical to run relays on Windows. It also adds a few small safety features. <a href="https://blog.torproject.org/node/1958">Full changelog</a></p>
+
+									<h2 class="title"><span property="schema:name">Tor Browser 10.5a4</span></h2>
+
+									<p>This release updates Firefox to 78.5.0esr for desktop and Fenix to 83.0 for Android. Additionally, we update Tor to 0.4.5.1-alpha. This release includes important security updates both for desktop and Android users. <a href="https://blog.torproject.org/new-release-tor-browser-105a4">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1005"><span property="schema:name">Tor Browser 10.0.5 (Only Desktop)</span></a></h2>
+
+									<p>This release updates Firefox to 78.5.0esr and updates Tor to 0.4.4.6. This release includes important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-51/">security updates</a> to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-1005">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a3">Tor Browser 10.5a3</a></h2>
+
+									<p>Tor Browser 10.5a3 updates NoScript to 11.1.5 and libevent to 2.1.12. This release includes important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-49/">security updates</a> to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-105a3">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1952" rel="bookmark">Tor 0.3.5.12, 0.4.3.7, and 0.4.4.6</a></h2>
+
+									<p>Tor 0.4.4.6 is the second stable release in the 0.4.4.x series. It backports fixes from later releases, including a fix for TROVE-2020- 005, a security issue that could be used, under certain cases, by an adversary to observe traffic patterns on a limited number of circuits intended for a different relay. <a href="https://blog.torproject.org/node/1952">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1004" rel="bookmark"><span property="schema:name">Tor Browser 10.0.4</span></a></h2>
+
+									<p>This release updates NoScript to 11.1.5 and includes an important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-49/">security update</a> to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-1004">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1003" rel="bookmark"><span property="schema:name">Tor Browser 10.0.3 (Android Only)</span></a></h2>
+
+									<p>After many months of design and development we are very happy to announce the release of Tor Browser 10.0.3 for Android. This is the first Android Tor Browser version in the stable 10.0 series. The Desktop version was released at the <a href="https://blog.torproject.org/new-release-tor-browser-100">end of September</a>. We began working on this project in April 2020 with the goal of rebuilding the Android Tor Browser on top of Mozilla&#39;s new Android Firefox Browser, <a href="https://blog.mozilla.org/blog/2020/08/25/introducing-a-new-firefox-for-android-experience/">Fenix</a>. Over the last six months, we successfully achieved this goal and we reached feature parity with the previous Android Tor Browser version. <a href="https://blog.torproject.org/new-release-tor-browser-1003">Full changelog</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;Browsing internet &#39;safely&#39; on Android phones becomes easier with this new app,&quot; <a href="https://timesofindia.indiatimes.com/gadgets-news/browsing-internet-safely-on-android-phones-becomes-easier-with-this-new-app/articleshow/79013318.cms">India Times</a>.</p>
+
+									<p>&quot;How Police Can Crack Locked Phones&mdash;and Extract Information,&quot; <a href="https://www.wired.com/story/how-police-crack-locked-phones-extract-information/">Wired</a>.</p>
+
+									<p>&quot;The best way to fight election disinformation is to fight surveillance capitalism,&quot; <a href="https://fightfortheftr.medium.com/the-best-way-to-fight-election-disinformation-is-to-fight-surveillance-capitalism-d5d835683a9e">Fight for the Future</a>.</p>
+
+									<p>&quot;Crypto Wallet Trezor Incorporates &lsquo;Tor Switch&#39; in its Desktop App for Increased Privacy,&quot; <a href="https://bitcoinexchangeguide.com/crypto-wallet-trezor-incorporates-tor-switch-in-its-desktop-app-for-increased-privacy/">Bitcoin Exchange Guide</a>.</p>
+
+									<p class="smart-header__hed smart-header__hed--size-2">&quot;<span data-article-description="A Muslim prayer app with over 98 million downloads is one of the apps connected to a wide-ranging supply chain that sends ordinary people's personal data to brokers, contractors, and the military." data-article-id="5fb1f955ace9ea009d2f7769" data-article-locale="en_us" data-article-title="How the U.S. Military Buys Location Data from Ordinary Apps" data-article-url="/en/article/jgqm5x/us-military-location-data-xmode-locate-x" data-direction="down">How the U.S. Military Buys Location Data from Ordinary&nbsp;Apps,&quot; <a href="https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x">Motherboard</a>.</span></p>
+
+									<p class="smart-header__hed smart-header__hed--size-2"><span data-article-description="A Muslim prayer app with over 98 million downloads is one of the apps connected to a wide-ranging supply chain that sends ordinary people's personal data to brokers, contractors, and the military." data-article-id="5fb1f955ace9ea009d2f7769" data-article-locale="en_us" data-article-title="How the U.S. Military Buys Location Data from Ordinary Apps" data-article-url="/en/article/jgqm5x/us-military-location-data-xmode-locate-x" data-direction="down">&quot;</span>Tor Project rolls out program to turbo-charge network throughput,&quot; <a href="https://portswigger.net/daily-swig/tor-project-rolls-out-program-to-turbo-charge-network-throughput">The Daily Swig</a>.</p>
+
+									<p class="smart-header__hed smart-header__hed--size-2">&quot;<span data-article-description="Unless you just enjoy browsing with a dark colour scheme. " data-article-id="5f91959068cff70095f301fb" data-article-locale="en_uk" data-article-title="Does Incognito Mode Actually Work? " data-article-url="/en/article/y3gzgb/incognito-mode-is-actually-pretty-useless" data-direction="down">&#39;Incognito Mode&#39; Is Actually Pretty Useless,&quot; <a href="https://www.vice.com/en/article/y3gzgb/incognito-mode-is-actually-pretty-useless">VICE</a>.</span></p>
+
+									<hr />
+									<h1>Events with Tor</h1>
+
+									<div class="views-row">
+									<div class="views-row">
+									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://youtu.be/lBjZOvA2kF4">(ICYMI) Anonymity loves Diversity: The Case of Tor (Foss-North)</a>, </span></span>November 1, 2020.</p>
+
+									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://www.youtube.com/watch?v=IyWyTypRGWQ">(ICYMI) State of the Onion: Tor &amp; Community Updates from 2020</a>, November 16, 2020</span></span>.</p>
+
+									<p>PrivChat #3 with Edward Snowden, December 11, 2020.</p>
+									</div>
+									</div>
+
+									<hr />
+
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team#Teams">teams </a> and start collaborating.</p>
+
+									<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+												<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+												<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+												{domain.address}<br />
+												<a href="https://torproject.org">torproject.org</a></small></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Spacing --></td>
+		</tr>
+	</tbody>
+</table>

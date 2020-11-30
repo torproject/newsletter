@@ -1,0 +1,118 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-11-30
+---
+title: Double your donation, PrivChat with  Snowden, State of the Onion
+---
+body:
+
+## Use a Mask, Use Tor: Friends of Tor Matching Donations
+https://blog.torproject.org/friends-of-tor-match-2020
+
+Every dollar donated to the Tor Project now through December 31, up to $100,000, will be matched by Friends of Tor (https://torproject.org/donate/donate-usetor-tn-fot). That means your donation will be doubled. We’re able to offer this match because of generous folks in our community who believe in Tor, privacy online, and the work to resist the surveillance pandemic.
+
+Make a donation today and your gift will be matched, 1:1: https://torproject.org/donate/donate-usetor-tn-fot
+
+Meet the Friends of Tor who generously came forward to make this match possible on our blog: https://blog.torproject.org/friends-of-tor-match-2020
+
+### You're Invited: PrivChat with Edward Snowden
+
+The Tor Project's main mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies. People use our technology, namely the Tor network and Tor Browser, in diverse ways. Tor is used by whistleblowers who need a safe way to bring to light information about wrongdoing -- information that is crucial for society to know -- without sharing their identity. Tor is used by activists around the world who are fighting against authoritarian governments and to defend human rights, not only for their safety and anonymity, but also to circumvent internet censorship so their voices can be heard.
+
+For our third edition of PrivChat (https://torproject.org/privchat), we are bringing you some real-life Tor users who will share how Tor has been important for them and their work to defend human rights and freedoms around the world. Hosted by Edward Snowden, featuring technoligist and privacy research Ramy Raoof and librarian and founder of Library Freedom Project, Alison Macrina.
+
+Join us for PrivChat: Advancing Human Rights with Tor on December 11 at 18:00 UTC, 13:00 Eastern, 10:00 Pacific: https://www.youtube.com/watch?v=S2N3GoewgC8
+
+### State of the Onion: Tor & Community Updates from 2020
+https://www.youtube.com/watch?v=IyWyTypRGWQ
+
+Every year people from the Tor Project and its communities present the State of the Onion, a compilation of updates from our different projects, at conferences around the world. We use this opportunity to talk about highlights of the work we’ve accomplished during the year and what we are excited about in the upcoming year.
+
+With COVID-19 pandemic this year, we didn’t have the chance to ‘tour’ our State of the Onion during any face-to-face conferences. So we decided to bring the State of the Onion to you in virtual format.
+
+We invite you to watch the full recording of State of the Onion 2020 on YouTube (https://www.youtube.com/watch?v=IyWyTypRGWQ). Our blog outlines the full program and who took part in the event (https://blog.torproject.org/state-of-the-onion-2020).
+
+### Transparency, Openness, and Our 2018 and 2019 Finances
+https://blog.torproject.org/transparency-openness-and-our-2018-and-2019-financials
+
+We publish all of our related tax documents for transparency (https://www.torproject.org/about/reports/). After completing standard audits for 2017-2018 and for 2019, our federal tax filings and audits for the last two years are available in full on our website. We've outlined some observations to help you read through the 2018 and 2019 financial documents on our blog: https://blog.torproject.org/transparency-openness-and-our-2018-and-2019-financials.
+
+### Digital security tools for human rights defenders
+https://blog.torproject.org/hrd-amazon-training
+
+Since July 2020, Narrira Lemos has been working with the Tor Project as a Bertha Fellow (https://berthafoundation.org/bertha-challenge/) to strengthen and promote digital security among individuals and organizations in the Amazonian region of Brazil, where she works with the technological challenges of the people who live there fighting to protect forests. On the blog, Nah outlines her work with rural communities, the impact of the pandemic, and how these human rights defenders use Tor Browser and other digital security tools: https://blog.torproject.org/hrd-amazon-training.
+
+### New Releases
+
+Tor 0.4.5.2-alpha
+https://blog.torproject.org/node/1958
+Tor 0.4.5.2-alpha is the second alpha release in the 0.4.5.x series. It fixes several bugs present in earlier releases, including one that made it impractical to run relays on Windows. It also adds a few small safety features. 
+
+Tor Browser 10.5a4
+https://blog.torproject.org/new-release-tor-browser-105a4
+This release updates Firefox to 78.5.0esr for desktop and Fenix to 83.0 for Android. Additionally, we update Tor to 0.4.5.1-alpha. This release includes important security updates both for desktop and Android users.
+
+Tor Browser 10.0.5 (Only Desktop)
+https://blog.torproject.org/new-release-tor-browser-1005
+This release updates Firefox to 78.5.0esr and updates Tor to 0.4.4.6. This release includes important security updates to Firefox. 
+
+Tor Browser 10.5a3
+https://blog.torproject.org/new-release-tor-browser-105a3
+Tor Browser 10.5a3 updates NoScript to 11.1.5 and libevent to 2.1.12. This release includes important security updates to Firefox.
+
+Tor 0.3.5.12, 0.4.3.7, and 0.4.4.6
+https://blog.torproject.org/node/1952
+Tor 0.4.4.6 is the second stable release in the 0.4.4.x series. It backports fixes from later releases, including a fix for TROVE-2020- 005, a security issue that could be used, under certain cases, by an adversary to observe traffic patterns on a limited number of circuits intended for a different relay. 
+
+Tor Browser 10.0.4
+https://blog.torproject.org/new-release-tor-browser-1004
+This release updates NoScript to 11.1.5 and includes an important security update to Firefox. 
+
+Tor Browser 10.0.3 (Android Only)
+blog.torproject.org/new-release-tor-browser-1003
+After many months of design and development we are very happy to announce the release of Tor Browser 10.0.3 for Android. This is the first Android Tor Browser version in the stable 10.0 series. The Desktop version was released at the end of September. We began working on this project in April 2020 with the goal of rebuilding the Android Tor Browser on top of Mozilla's new Android Firefox Browser, Fenix. Over the last six months, we successfully achieved this goal and we reached feature parity with the previous Android Tor Browser version. 
+
+### What We're Reading
+
+"Browsing internet 'safely' on Android phones becomes easier with this new app," India Times.
+https://timesofindia.indiatimes.com/gadgets-news/browsing-internet-safely-on-android-phones-becomes-easier-with-this-new-app/articleshow/79013318.cms
+
+"How Police Can Crack Locked Phones—and Extract Information," Wired.
+https://www.wired.com/story/how-police-crack-locked-phones-extract-information/
+
+"The best way to fight election disinformation is to fight surveillance capitalism," Fight for the Future.
+https://fightfortheftr.medium.com/the-best-way-to-fight-election-disinformation-is-to-fight-surveillance-capitalism-d5d835683a9e
+
+"Crypto Wallet Trezor Incorporates ‘Tor Switch' in its Desktop App for Increased Privacy," Bitcoin Exchange Guide.
+https://bitcoinexchangeguide.com/crypto-wallet-trezor-incorporates-tor-switch-in-its-desktop-app-for-increased-privacy/
+
+"How the U.S. Military Buys Location Data from Ordinary Apps," Motherboard.
+https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x
+
+"Tor Project rolls out program to turbo-charge network throughput," The Daily Swig.
+https://portswigger.net/daily-swig/tor-project-rolls-out-program-to-turbo-charge-network-throughput
+
+"'Incognito Mode' Is Actually Pretty Useless," VICE.
+https://www.vice.com/en/article/y3gzgb/incognito-mode-is-actually-pretty-useless
+
+### Upcoming Events with Tor
+
+(ICYMI) Anonymity loves Diversity: The Case of Tor (Foss-North), November 1st, 2020.
+https://youtu.be/lBjZOvA2kF4
+
+(ICYMI) State of the Onion: Tor & Community Updates from 2020, November 16, 2020.
+https://www.youtube.com/watch?v=IyWyTypRGWQ
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about each of our teams and start collaborating: https://gitlab.torproject.org/tpo/team#Teams
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
