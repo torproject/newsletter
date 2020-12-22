@@ -1,0 +1,82 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-12-21
+---
+title: Tor in 2021, from Trac to Gitlab, PrivChat #3
+---
+body:
+
+### Looking Forward: Tor in 2021
+https://blog.torproject.org/tor-in-2021
+
+This year has been difficult for all of us. As individuals, we’ve had to adapt to the new normal of COVID-19, and as an organization, the Tor Project also had to adapt to our “new normal” after we made the difficult decision to let go of one third of our organization. Although challenging, we have managed to reorganize in order to meet the goals we originally set for 2020, and now, it’s time to look forward to 2021.
+
+We have shared many of our goals for the next year, including addressing the "Tor is too slow" complaint, supporting the relay operator community, improving network health, developing a Rust Tor implementation, & unblocking Tor through outreach. Read more about our plans from our executive director, Isabela Bagueros: https://blog.torproject.org/tor-in-2021
+
+### Moving Tor from Trac to Gitlab
+https://blog.torproject.org/node/1957
+
+Tor had been using Trac (https://trac.torproject.org) until June 2020, when we moved to our self-hosted instance of Gitlab administered by the Tor sysadmin team (https://gitlab.torproject.org). We're hoping Gitlab will be a good fit because:
+
+- Gitlab will allow us to collect our different engineering tools into a single application: Git repository handling, Wiki, Issue tracking, Code reviews, and project management tooling.
+- Gitlab is well-maintained, while Trac plugins are not well maintained and Trac itself hasn't seen a release for over a year (since 2019).
+- Gitlab will allow us to build a more modern approach to handling Continuous Integration for our different projects.
+
+We spent several months fixing and testing problems on data migration, from formatting issues to addressing where the information that lived in Trac should live in Gitlab. We tested the Gitlab instance with a few projects until we jumped into migrating all data from Trac. You can read more about this migration process on our blog: https://blog.torproject.org/node/1957
+
+### Watch PrivChat #3 with Edward Snowden
+https://torproject.org/privchat
+
+For our third edition of PrivChat on December 11, we brought together some real-life Tor users who shared how Tor has been important for them and their work to defend human rights and freedoms around the world.
+
+Hosted by Edward Snowden, PrivChat featured technologist and privacy researcher Ramy Raoof, librarian and founder of Library Freedom Project, Alison Macrina, and Africa Policy Manager and Global Internet Shutdowns Lead at Access Now, Berhan Taye.
+
+Watch the full PrivChat: Advancing Human Rights with Tor (https://www.youtube.com/watch?v=S2N3GoewgC8), and be on the lookout for our next PrivChat in 2021.
+
+### Anti-censorship team report: November 2020
+https://blog.torproject.org/anti-censorship-november-2020
+
+Tor's anti-censorship team writes monthly reports to keep the world updated on its progress. This blog post summarizes the anti-censorship work we got done in November 2020. Let us know if you have any questions or feedback!
+
+### New Releases
+
+* Tor Browser 10.5a6
+https://blog.torproject.org/new-release-tor-browser-105a6
+This release updates Firefox to 78.6.0esr for desktop and Firefox for Android to 84.1.0. Additionally, we update Tor to 0.4.5.2-alpha for desktop users (Android users got that already with 10.5a5) and OpenSSL to 1.1.1i for everyone. 
+
+* Tor Browser 10.0.7
+https://blog.torproject.org/new-release-tor-browser-1007
+This release updates Firefox for desktops to 78.6.0esr and Firefox for Android to 84.1.0. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android. 
+
+* Tor Browser 10.0.6
+https://blog.torproject.org/new-release-tor-browser-1006
+This version brings back a functioning meek bridge, and also allows users to automatically get bridges within Tor Browser again.
+
+* Tor Browser 10.5a5 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-105a5
+This release updates Fenix to 84.0.0-beta.2. Additionally, we update Tor to 0.4.5.2-alpha and HTTPS Everywhere to 2020.11.17.
+
+### Upcoming Events with Tor
+
+* (ICYMI) Anonymity loves Diversity: The Case of Tor (Foss-North), November 1st, 2020.
+https://youtu.be/lBjZOvA2kF4
+
+* (ICYMI) State of the Onion: Tor & Community Updates from 2020, November 16, 2020.
+https://www.youtube.com/watch?v=IyWyTypRGWQ
+
+* (ICYMI) PrivChat #3 hosted by Edward Snowden, December 11, 2020.
+https://www.youtube.com/watch?v=S2N3GoewgC8
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
