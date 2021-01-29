@@ -1,0 +1,167 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-01-29
+---
+title: 2020 Fundraising Results: Thank You!
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1><a href="https://blog.torproject.org/use-a-mask-use-tor-thank-you">2020 Fundraising Results: Thank You!</a></h1>
+
+									<p><a href="https://blog.torproject.org/use-a-mask-use-tor-thank-you"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/thank-you_2.png?itok=QgquEU_j" style="width: 640px; height: 320px;" /></a></p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<p>We are pleased to announce that in 2020, despite the cancellations of in-person events and the sharp decrease in individual donations we saw at the beginning of the pandemic, you helped us to raise $913,110 from individuals, more than any calendar year in the Tor Project&rsquo;s history. You contributed $376,315 of this figure during the end-of-year campaign&mdash;this includes the generous $100,000 match by the <a href="https://blog.torproject.org/friends-of-tor-match-2020">Friends of Tor</a>. (That&rsquo;s a 19% increase over last year&rsquo;s year-end campaign.)</p>
+
+									<p><strong>Thank you to everyone who made a donation in 2020! </strong>You make it possible to resist the surveillance pandemic. You&rsquo;ve made it possible for the Tor Project and the tools we support to survive a very difficult time, and to <a href="https://blog.torproject.org/tor-in-2021">prepare for 2021 with ambitious plans</a>.</p>
+
+									<p><a href="https://blog.torproject.org/use-a-mask-use-tor-thank-you#comment-form">Vist the blog for more details about the details of Tor&#39;s fundraising in 2020, and what we have prepared for 2021</a>.</p>
+									</div>
+
+									<hr />
+									<h1><a href="https://blog.torproject.org/state-of-ipv6-support-tor-network"><span class="quickedit-field" data-quickedit-field-id="node/1971/title/en/full" property="schema:name">The state of IPv6 support on the Tor network</span></a></h1>
+
+									<p><a href="https://blog.torproject.org/state-of-ipv6-support-tor-network"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/versions.png" style="width: 640px; height: 400px;" /></a></p>
+
+									<footer>
+									<p>In <a href="https://labs.ripe.net/Members/tor_grants/a-look-into-the-tor-network-work-on-supporting-ipv6">our last article</a>, published in <a href="https://labs.ripe.net/Members/tor_grants/a-look-into-the-tor-network-work-on-supporting-ipv6">RIPE&#39;s website</a>, we described the work that happened in 2020 related to giving <a href="https://blog.torproject.org/ipv6-future-i-hear">IPv6 support</a> to the Tor network.</p>
+									</footer>
+
+									<div class="node__content">
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1971/body/en/full" property="schema:text">
+									<p style="line-height:1.38"><a href="https://blog.torproject.org/node/1949">Tor 0.4.5.1-alpha</a> is the first release that includes all the work described in the RIPE article. Relays running 0.4.5.1-alpha are the first to report IPv6 bandwidth statistics.</p>
+
+									<p style="line-height:1.38">As of December 2, 2020, 54% of the relays on the network run a version of Tor that supports IPv6. Of the 6852 relays in the network, 3587 are running <a href="https://metrics.torproject.org/versions.html">version 0.4.4 </a>and 8 relays are running the <a href="https://blog.torproject.org/node/1958">latest Tor version 0.4.5</a>. From all those, 1588 are announcing an IPv6 address and port for the OR protocol. 1587 relays are reachable on IPv6 by the directory authorities. 626 permit exiting to <a href="https://metrics.torproject.org/relays-ipv6.html">IPv6 targets</a>.</p>
+
+									<p style="line-height:1.38">Read more about <a href="https://blog.torproject.org/state-of-ipv6-support-tor-network">the state of IPv6 on the Tor network on our blog</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/in-memoriam-of-karsten-loesing">In memoriam of Karsten Loesing </a></h1>
+
+									<p><a href="https://blog.torproject.org/in-memoriam-of-karsten-loesing"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/Karsten_Loesing.jpg.png?itok=xEzmw0N_" style="width: 640px; height: 426px;" /></a></p>
+
+									<p><em>Image credit: uni-bamberg.de press office</em>, <a href="https://www.uni-bamberg.de/forschung/profil/kulturgut/dossier/artikel/kein-haeuten-der-zwiebel/">Kein H&auml;uten der Zwiebel</a> (2007).</p>
+
+									<p class="ace-line">It&#39;s with deep sorrow that we share that our dear friend, colleague, and Tor core contributor <a href="https://blog.torproject.org/in-memoriam-of-karsten-loesing">Karsten Loesing</a> passed away on the afternoon of Friday, December 18, 2020. No one is prepared for such an unimaginable loss. Our deepest sympathies go to Karsten&#39;s family at this moment, his wife and his children.</p>
+
+									<p>We all loved him and his contribution to the Tor Project will always be remembered from the depth of our hearts. We will be dedicating our next release of core tor to Karsten&#39;s memory.&nbsp;</p>
+
+									<p>Rest in peace, Karsten.</p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1009"><span class="quickedit-field" data-quickedit-field-id="node/1988/title/en/teaser" property="schema:name">Tor Browser 10.0.9</span> </a></h2>
+
+									<p>This release updates Firefox to 78.7.0esr for desktop and Firefox for Android to 85.1.0. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android.&nbsp;<a href="https://blog.torproject.org/new-release-tor-browser-1009">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a8"><span class="quickedit-field" data-quickedit-field-id="node/1987/title/en/teaser" property="schema:name">Tor Browser 10.5a8</span></a><a href="https://blog.torproject.org/new-release-tor-browser-1007" rel="bookmark"> </a></h2>
+
+									<p>This release updates Firefox to 78.7.0esr for desktop and Firefox for Android to 85.1.0. Additionally, we update Tor to 0.4.5.4-rc. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android. <a href="https://blog.torproject.org/new-release-tor-browser-105a8">Full changelog</a><a href="https://blog.torproject.org/new-release-tor-browser-1007">.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1973"><span class="quickedit-field" data-quickedit-field-id="node/1973/title/en/teaser" property="schema:name">Tor 0.4.5.4-rc</span> </a></h2>
+
+									<p>Tor 0.4.5.4-rc is the second release candidate in its series. It fixes several bugs present in previous releases. We expect that the stable release will be the same, or almost the same, as this release candidate, unless serious bugs are found.<a href="https://blog.torproject.org/node/1973"> Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a7" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1972/title/en/teaser" property="schema:name">Tor Browser 10.5a7</span></a></h2>
+
+									<p>This release updates Firefox to 78.6.1esr for desktop and Firefox for Android to 85.0.0-beta.7. Additionally, we update Tor to 0.4.5.3-rc. This versions also fixes a crash seen by macOS users on the new M1 processor. <a href="https://blog.torproject.org/new-release-tor-browser-105a7">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1008" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1970/title/en/teaser" property="schema:name">Tor Browser 10.0.8</span></a></h2>
+
+									<p>This release updates Firefox for desktops to 78.6.1esr and Firefox for Android to 84.1.4. This version resolves instability on Apple macOS devices with the new M1 processor. <a href="https://blog.torproject.org/new-release-tor-browser-1008">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1969" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/1969/title/en/teaser" property="schema:name">Tor 0.4.5.3-rc</span></a></h2>
+
+									<p>Tor 0.4.5.3-rc is the first release candidate in its series. It fixes several bugs, including one that broke onion services on certain older ARM CPUs, and another that made v3 onion services less reliable. <a href="https://blog.torproject.org/node/1969">Full changelog</a>.</p>
+
+									<hr />
+									<h1>Circumventing Social Media Censorship in Uganda</h1>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><a href="https://news.trust.org/item/20210120134502-2jnhz/">A recent internet blackout and continuing social media censorship in Uganda</a> is an attempt by the government to keep citizens and the rest of the world in the dark during an election period. </span></p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Using Tor Browser will circumvent this censorship as connections to Tor are still working, but it appears that </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" data-focusable="true" dir="ltr" href="https://t.co/Bfvw4mqWAV?amp=1" rel=" noopener noreferrer" role="link" target="_blank"><span aria-hidden="true" class="css-901oao css-16my406 r-poiln3 r-hiw28u r-bcqeeo r-qvutc0">http://</span>torproject.org</a><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> is blocked. You&#39;ll need to use one of the following methods to download Tor Browser:</span></p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">1. Use a trusted mirror (</span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" data-focusable="true" dir="ltr" href="https://t.co/sReB4ACljW?amp=1" rel=" noopener noreferrer" role="link" target="_blank"><span aria-hidden="true" class="css-901oao css-16my406 r-poiln3 r-hiw28u r-bcqeeo r-qvutc0">https://</span>tor.ccc.de</a><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">).</span></p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">2. Email GetTor@torproject.org with your operating system and it will reply with Tor Browser files.</span></p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">3. Download Tor Browser from<a href="https://guardianproject.info/fdroid/"> the Guardian Projects F-Droid repo</a>.</span></p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;Tor Project&rsquo;s crypto donations increased 23% in 2020,&quot; <a href="https://cointelegraph.com/news/tor-project-s-crypto-donations-increased-23-in-2020">Coin Telegraph</a>.</p>
+
+									<p>&quot;Encryption is vital for attorney-client privilege in the digital era, and lawyers should fight for it,&quot; <a href="https://www.accessnow.org/encryption-attorney-client-privilege/">Access Now</a>.</p>
+
+									<p>&quot;100 hours in the dark: How an election internet blackout hit poor Ugandans,&quot; <span class="article-container"><a href="https://news.trust.org/item/20210120134502-2jnhz/">Thomson Reuters Foundation</a>.</span></p>
+
+									<div>
+									<p data-qa="headline" id="main-content">&quot;You watch TV. Your TV watches back,&quot; <a href="https://www.washingtonpost.com/technology/2019/09/18/you-watch-tv-your-tv-watches-back/">The Washington Post</a>.</p>
+
+									<div>
+									<p>&quot;Leaked Location Data Shows Another Muslim Prayer App Tracking Users,&quot; <a href="https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first">VICE</a>.</p>
+
+									<p>&quot;DuckDuckGo surpasses 100 million daily search queries for the first time,&quot; <a href="https://www.zdnet.com/article/duckduckgo-surpasses-100-million-daily-search-queries-for-the-first-time/">ZDNet</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+									<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->

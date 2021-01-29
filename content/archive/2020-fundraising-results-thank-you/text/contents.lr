@@ -1,0 +1,111 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2020-01-29
+---
+title: 2020 Fundraising Results: Thank You!
+---
+body:
+
+##  2020 Fundraising Results: Thank You! ##
+
+https://blog.torproject.org/use-a-mask-use-tor-thank-you
+
+We are pleased to announce that in 2020, despite the cancellations of in-person events and the sharp decrease in individual donations we saw at the beginning of the pandemic, you helped us to raise $913,110 from individuals, more than any calendar year in the Tor Project’s history. You contributed $376,315 of this figure during the end-of-year campaign—this includes the generous $100,000 match by the Friends of Tor. (That’s a 19% increase over last year’s year-end campaign.)
+
+Thank you to everyone who made a donation in 2020! You make it possible to resist the surveillance pandemic. You’ve made it possible for the Tor Project and the tools we support to survive a very difficult time, and to prepare for 2021 with ambitious plans.
+
+Vist the blog for more details about the details of Tor's fundraising in 2020, and what we have prepared for 2021: https://blog.torproject.org/use-a-mask-use-tor-thank-you
+
+##  The state of IPv6 support on the Tor network ##
+
+https://blog.torproject.org/state-of-ipv6-support-tor-network
+
+In our last article, published in RIPE's website, (https://labs.ripe.net/Members/tor_grants/a-look-into-the-tor-network-work-on-supporting-ipv6) we described the work that happened in 2020 related to giving IPv6 support (https://blog.torproject.org/ipv6-future-i-hear) to the Tor network.
+
+Tor 0.4.5.1-alpha (https://blog.torproject.org/node/1949) is the first release that includes all the work described in the RIPE article. Relays running 0.4.5.1-alpha are the first to report IPv6 bandwidth statistics.
+
+As of December 2, 2020, 54% of the relays on the network run a version of Tor that supports IPv6. Of the 6852 relays in the network, 3587 are running version 0.4.4 (https://metrics.torproject.org/versions.html) and 8 relays are running the latest Tor version 0.4.5 (https://blog.torproject.org/node/1958). From all those, 1588 are announcing an IPv6 address and port for the OR protocol. 1587 relays are reachable on IPv6 by the directory authorities. 626 permit exiting to IPv6 targets (https://metrics.torproject.org/relays-ipv6.html).
+
+Read more about the state of IPv6 on the Tor network on our blog: https://blog.torproject.org/state-of-ipv6-support-tor-network
+
+##  In memoriam of Karsten Loesing ##
+
+blog.torproject.org/in-memoriam-of-karsten-loesing
+
+It's with deep sorrow that we share that our dear friend, colleague, and Tor core contributor Karsten Loesing passed away on the afternoon of Friday, December 18, 2020. No one is prepared for such an unimaginable loss. Our deepest sympathies go to Karsten's family at this moment, his wife and his children.
+
+We all loved him and his contribution to the Tor Project will always be remembered from the depth of our hearts. We will be dedicating our next release of core tor to Karsten's memory.
+
+Rest in peace, Karsten.
+
+##  New Releases ##
+
+Tor Browser 10.0.9
+
+https://blog.torproject.org/new-release-tor-browser-1009
+
+This release updates Firefox to 78.7.0esr for desktop and Firefox for Android to 85.1.0. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android.
+
+Tor Browser 10.5a8
+
+https://blog.torproject.org/new-release-tor-browser-105a8
+
+This release updates Firefox to 78.7.0esr for desktop and Firefox for Android to 85.1.0. Additionally, we update Tor to 0.4.5.4-rc. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android.
+
+Tor 0.4.5.4-rc
+
+https://blog.torproject.org/node/1973
+
+Tor 0.4.5.4-rc is the second release candidate in its series. It fixes several bugs present in previous releases. We expect that the stable release will be the same, or almost the same, as this release candidate, unless serious bugs are found.
+
+Tor Browser 10.5a7
+
+https://blog.torproject.org/new-release-tor-browser-105a7
+
+This release updates Firefox to 78.6.1esr for desktop and Firefox for Android to 85.0.0-beta.7. Additionally, we update Tor to 0.4.5.3-rc. This versions also fixes a crash seen by macOS users on the new M1 processor.
+
+Tor Browser 10.0.8
+
+https://blog.torproject.org/new-release-tor-browser-1008
+
+This release updates Firefox for desktops to 78.6.1esr and Firefox for Android to 84.1.4. This version resolves instability on Apple macOS devices with the new M1 processor.
+
+Tor 0.4.5.3-rc
+
+https://blog.torproject.org/node/1969
+
+Tor 0.4.5.3-rc is the first release candidate in its series. It fixes several bugs, including one that broke onion services on certain older ARM CPUs, and another that made v3 onion services less reliable.
+
+##  Upcoming Events with Tor ##
+
+No upcoming events.
+
+##  What We're Reading ##
+
+"Tor Project’s crypto donations increased 23% in 2020," Coin Telegraph. (https://cointelegraph.com/news/tor-project-s-crypto-donations-increased-23-in-2020)
+
+"Encryption is vital for attorney-client privilege in the digital era, and lawyers should fight for it," Access Now. (https://www.accessnow.org/encryption-attorney-client-privilege/)
+
+"100 hours in the dark: How an election internet blackout hit poor Ugandans," Thomson Reuters Foundation. (https://news.trust.org/item/20210120134502-2jnhz/)
+
+"You watch TV. Your TV watches back," The Washington Post. (https://www.washingtonpost.com/technology/2019/09/18/you-watch-tv-your-tv-watches-back/)
+
+"Leaked Location Data Shows Another Muslim Prayer App Tracking Users," VICE. (https://www.vice.com/en/article/xgz4n3/muslim-app-location-data-salaat-first)
+
+"DuckDuckGo surpasses 100 million daily search queries for the first
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject
