@@ -1,10 +1,6 @@
 # Newsletter
 
-Our newsletter is a means of gathering important bits of updates and opportunities from across the organization and community.
-
-The newsletter is scheduled on a monthly basis.   
-
-The newsletter is published [here](https://newsletter.torproject.org/), but a lot of readers prefer to get an email when a new edition is being published.
+Our newsletter is a means of gathering important bits of updates and opportunities from across the organization and community.The newsletter is scheduled on a monthly basis and is published [here](https://newsletter.torproject.org/), but a lot of readers prefer to get an email when a new edition is being published. 
 
 You can simply subscribe to the newsletter by providing your email and completing the verification on the [newsletter page](https://newsletter.torproject.org/).
 
@@ -12,4 +8,4 @@ You can simply subscribe to the newsletter by providing your email and completin
 
 # Archive
 
-If you're looking for past newsletters, you can browse the archive [here](https://newsletter.torproject.org/).
+If you're looking for past newsletters, you can browse the archive [here](https://newsletter.torproject.org/) (see under 'Archive').
