@@ -1,0 +1,145 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-02-28
+---
+title: Learning more about our users
+---
+body:
+
+## Learning more about our users with a Tor Browser User Survey ##
+
+https://blog.torproject.org/learning-more-about-tor-users
+
+At the Tor Project we practice user-centered design. This means we put our users at the heart of our development process, making a conscious effort to understand the contexts in which people use our tools and paying particular attention to the bumps they encounter along the way.
+
+Many digital product companies rely heavily on data gathered from invasive tracking scripts to better understand their users’ behavior, further fueling the surveillance economy. However that’s not how we do things at Tor – instead, we aim to conduct research that respects the basic principles of privacy and consent: https://blog.torproject.org/strength-numbers-usable-tools-dont-need-be-invasive.
+
+To learn more about our users, we launched a new Tor Browser User Survey: https://survey.torproject.org/index.php/217469?lang=en,  also available via onion service: http://bogdyardcfurxcle.onion/index.php/217469?lang=en. We'd love to get your feedback! You can learn more about this survey, how it came about, and other opportunities to get involved in UX at Tor on our blog: https://blog.torproject.org/learning-more-about-tor-users.
+
+## Anonymous GitLab Ticketing: An Exciting New Project at Tor ##
+
+https://blog.torproject.org/anonymous-gitlab
+
+Currently, before making a bug report to one of Tor’s repos, users must sign up for a GitLab account via the TicketLobby (https://gitlab.onionize.space/). Although this is the right approach for many users, it has its limitations.
+
+A new project, the anonymous ticketing portal, is designed to circumvent these limitations, resulting in more complete, private bug reporting, and includes the following features:
+
+* Lightning-fast, anonymous (and lazy) user interface
+* Tor-flavored, data-packed, familiar project and issue views
+* Super-powered SuperUsers
+
+A test instance of this project is currently live at https://anonticket.onionize.space/, or you can see the repo itself at https://gitlab.torproject.org/tpo/tpa/anon_ticket.
+
+Read more about the anonymous GitLab ticketing system on our blog: https://blog.torproject.org/anonymous-gitlab.
+
+##  Tor in the Media: 2020 ##
+
+https://blog.torproject.org/tor-media-2020
+
+This year, we’re continuing a new tradition of reviewing media and news stories that mentioned Tor and the Tor Project. Our goal is to highlight what is changing (or not) in the conversation about privacy and censorship, as well as identifying the ways the media discusses Tor in the context of these challenges.
+
+Read our review of Tor in the media in 2020 on our blog: https://blog.torproject.org/tor-media-2020.
+
+## Bug Smash Fund, Year 2: Progress So Far! ##
+
+https://blog.torproject.org/tor-bug-smash-fund-yr2-progress
+
+Last August, we asked you to help us fundraise during our second annual Bug Smash Fund campaign (https://blog.torproject.org/tor-bug-smash-fund-2020-106K-raised). This fund is designed to grow a healthy reserve earmarked for maintenance work, finding bugs, and smashing them—all tasks necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly.
+
+We want to share an update! Read about the work made possible with the Bug Smash Fund on our blog: https://blog.torproject.org/tor-bug-smash-fund-yr2-progress.
+
+## New Releases ##
+
+Tor Browser 10.5a11
+
+https://blog.torproject.org/new-release-tor-browser-105a11
+This release updates Firefox to 78.8.0esr for desktop and Firefox for Android to 86.1.0. Additionally, we update Tor to 0.4.5.6 and OpenSSL to 1.1.1j.
+
+Tor Browser 10.0.12
+
+https://blog.torproject.org/new-release-tor-browser-10012
+This version updates Desktop Firefox to 78.8.0esr and Android Firefox to 86.1.0. In addition, Tor Browser 10.0.12 updates NoScript to 11.2.2, Openssl to 1.1.1j, and Tor to 0.4.5.6.
+
+Tor 0.4.5.6
+
+https://blog.torproject.org/node/2000
+This release series introduces significant improvements in relay IPv6 address discovery, a new "MetricsPort" mechanism for relay operators to measure performance, LTTng support, build system improvements to help when using Tor as a static library, and significant bugfixes. The Tor 0.4.5.x release series is dedicated to the memory of Karsten Loesing (1979-2020), Tor developer, cypherpunk, husband, and father.
+
+Tor Browser 10.5a10 (Windows Only)
+
+https://blog.torproject.org/new-release-tor-browser-105a10
+This version updates Firefox to 78.7.1esr for Windows. This release includes important security updates to Firefox.
+
+Tor Browser 10.5a9 (Android Only)
+
+https://blog.torproject.org/new-release-tor-browser-105a9
+This release updates Fenix to 86.0.0-beta.2. Additionally, we update NoScript to 11.2 and HTTPS Everywhere to 2021.1.27.
+
+Tor Browser 10.0.11 (Windows Only)
+
+https://blog.torproject.org/new-release-tor-browser-10011
+This version updates Firefox to 78.7.1esr for Windows. This release includes important security updates to Firefox.
+
+Tor Browser 10.0.10
+
+https://blog.torproject.org/new-release-tor-browser-10010
+This version increases the availability of version 3 (v3) onion services. The fix is included in the recently released stable tor versions, as well.
+
+Tor 0.3.5.13, 0.4.3.8, and 0.4.4.7
+
+https://blog.torproject.org/node/1990
+
+Tor 0.4.4.7 backports numerous bugfixes from later releases, including one that made v3 onion services more susceptible to denial-of-service attacks, and a feature that makes some kinds of DoS attacks harder to perform.
+
+Tor 0.4.5.5-rc
+
+https://blog.torproject.org/node/1989
+
+Tor 0.4.5.5-rc is the third release candidate in its series. This release fixes an annoyance with address detection code, and somewhat mitigates an ongoing denial-of-service attack.
+
+## We're Hiring ##
+
+Metrics Data Architect
+The person in this position will work directly with helping us maintain existing systems, and design new systems for gathering and analyzing data. They will help the rest of the teams understand the data available to improve our tools as well as the Tor network's health. Read the full job description: https://www.torproject.org/about/jobs/metrics-data-architect/
+
+Anti-Censorship Software Developer
+This developer will be tasked with improving the user experience and process of finding alternate routes to the Tor network when global censorship events block access to the Tor network. A personal commitment to free and open source software and the application of advanced programming skills for the greater good is essential. Read the full job description. https://www.torproject.org/about/jobs/software-developer-anticensorship/
+
+## What We're Reading ##
+
+"Why you should care about data privacy even if you have “nothing to hide”," Vox. (https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism)
+
+"South Sudan: Rampant abusive surveillance by NSS instils climate of fear," Amnesty International. (https://www.amnesty.org/en/latest/news/2021/02/south-sudan-abusive-surveillance-by-national-security-service-climate-of-fear/)
+
+"Private dollars are seeding surveillance tech across the US," Smart Cities Dive. (https://www.smartcitiesdive.com/news/private-dollars-are-seeding-surveillance-tech-across-the-us/594615/)
+
+"There Are Spying Eyes Everywhere—and Now They Share a Brain," Wired. (https://www.wired.com/story/there-are-spying-eyes-everywhere-and-now-they-share-a-brain/)
+
+"Amazon says government demands for user data spiked by 800% in 2020," TechCrunch. (https://techcrunch.com/2021/02/01/amazon-government-demands-spiked/)
+
+"Spotify patents tech to recommend songs based on users' speech, emotion," Axios. (https://www.axios.com/spotify-patent-users-speech-recommend-music-6c5ce99d-ca0f-4457-9b87-9d27fcc35527.html)
+
+## Join Our Community ##
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+
+Facebook: https://facebook.com/torproject
+
+Instagram: https://instagram.com/torproject
+
+Mastodon: http://mastodon.social/@torproject

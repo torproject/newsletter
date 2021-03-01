@@ -1,0 +1,198 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-02-28
+---
+title: Learning more about our users
+---
+html_body:
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1>Learning more about our users with a Tor Browser User Survey</h1>
+
+									<p><a href="https://blog.torproject.org/learning-more-about-tor-users"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/survey-blog-banner.png?itok=2PfI_3SQ" style="width: 640px; height: 320px;" /></a></p>
+
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item" property="schema:text">
+									<p><strong>At the Tor Project we practice user-centered design.</strong> This means we put our users at the heart of our development process, making a conscious effort to understand the contexts in which people use our tools and paying particular attention to the bumps they encounter along the way.</p>
+
+									<p>Many digital product companies rely heavily on data gathered from invasive tracking scripts to better understand their users&rsquo; behavior, further fueling the surveillance economy. <strong>However that&rsquo;s not how we do things at Tor</strong> &ndash; instead, we aim to conduct research that <a href="https://blog.torproject.org/strength-numbers-usable-tools-dont-need-be-invasive">respects the basic principles of privacy and consent</a>.</p>
+
+									<p>To learn more about our users, we launched a new <strong><a href="https://survey.torproject.org/index.php/217469?lang=en">Tor Browser User Survey</a></strong> (also available via <a href="http://bogdyardcfurxcle.onion/index.php/217469?lang=en">onion service</a>). We&#39;d love to get your feedback! You can <a href="https://blog.torproject.org/learning-more-about-tor-users">learn more about this survey, how it came about, and other opportunities to get involved in UX at Tor</a> on our blog.</p>
+									</div>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1 class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" id="tweet-text" lang="en"><a href="https://rwc.iacr.org/LevchinPrize/winners.html#tor">The Tor Project wins the 2021 Levchin Prize for Real-World Cryptography</a></h1>
+
+									<p dir="auto"><a href="https://rwc.iacr.org/LevchinPrize/winners.html#tor"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/EreY00HVgAAGmx4.jpg" style="width: 600px; height: 238px;" /></a></p>
+
+									<p class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en"><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Thank you to the <a href="https://rwc.iacr.org/">Real World Crypto Symposium</a> and</span><span class="r-18u37iz"><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" data-focusable="true" dir="ltr" href="https://twitter.com/IACR_News" role="link"> </a></span><a href="http://iacr.org/">the International Association for Cryptologic Research</a><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> for recognizing the Tor Project with the 2021 <a href="https://rwc.iacr.org/LevchinPrize/winners.html#tor">Levchin Prize</a> for Real-World Cryptography. We are humbled by the honor of our work to use cryptography to bring online privacy to everybody.</span></p>
+
+									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
+									<hr />
+									<h1><a href="https://blog.torproject.org/anonymous-gitlab" rel="bookmark"><span property="schema:name">New! Anonymous GitLab Ticketing</span></a></h1>
+									</div>
+									</div>
+									</div>
+
+									<p><a href="https://blog.torproject.org/anonymous-gitlab"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/01%20-%20Index.png?itok=iLf23qvA" style="width: 640px; height: 206px;" /></a></p>
+
+									<footer>
+									<p>Currently, before making a bug report to one of Tor&rsquo;s repos, users must sign up for a GitLab account via the TicketLobby (<a href="https://gitlab.onionize.space/" rel="noreferrer noopener">https://gitlab.onionize.space/</a>). Although this is the right approach for many users, it has its limitations.</p>
+
+									<p>A new project, the anonymous ticketing portal, is designed to circumvent these limitations, resulting in more complete,&nbsp;<i>private</i>&nbsp;bug reporting, and includes the following features:</p>
+
+									<ul>
+										<li>
+										<p>Lightning-fast, anonymous (and lazy) user interface</p>
+										</li>
+										<li>
+										<p>Tor-flavored, data-packed, familiar project&nbsp;and issue views</p>
+										</li>
+										<li>
+										<p>Super-powered SuperUsers</p>
+										</li>
+									</ul>
+									</footer>
+
+									<div class="node__content">
+									<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item quickedit-field" data-quickedit-field-id="node/1971/body/en/full" property="schema:text">
+									<p>A test instance of this project is currently live at&nbsp;<a href="https://anonticket.onionize.space/" rel="noreferrer noopener">https://anonticket.onionize.space/</a>, or you can see the repo itself at&nbsp;<a href="https://gitlab.torproject.org/tpo/tpa/anon_ticket" rel="noreferrer noopener">https://gitlab.torproject.org/tpo/tpa/anon_ticket</a>.</p>
+
+									<p>Read more about the <a href="https://blog.torproject.org/anonymous-gitlab">anonymous GitLab ticketing system</a> on our blog.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/tor-media-2020">Tor in the Media: 2020</a></h1>
+
+									<p><a href="https://blog.torproject.org/tor-media-2020"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tor-media-2020.png?itok=TTwOaW_u" style="width: 640px; height: 320px;" /></a></p>
+
+									<p class="ace-line">This year, we&rsquo;re continuing <a href="https://blog.torproject.org/tor-media-2020">a new tradition of reviewing media and news stories that mentioned Tor and the Tor Project</a>. Our goal is to highlight what is changing (or not) in the conversation about privacy and censorship, as well as identifying the ways the media discusses Tor in the context of these challenges.</p>
+
+									<p class="ace-line">Read our <a href="https://blog.torproject.org/tor-media-2020">review of Tor in the media in 2020</a> on our blog.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/tor-bug-smash-fund-yr2-progress"><span property="schema:name">Bug Smash Fund, Year 2: Progress So Far!</span></a></h1>
+
+									<p class="ace-line"><a href="https://blog.torproject.org/tor-bug-smash-fund-yr2-progress"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/bug_smash_end.png?itok=5AJ_KB9m" style="width: 640px; height: 320px;" /></a></p>
+
+									<p class="ace-line"><span class="author-a-z86zz74zz87zz68zl1cz87zjhxen4z86zz77z">Last August, we asked you to help us fundraise during our second annual <a href="https://blog.torproject.org/tor-bug-smash-fund-2020-106K-raised">Bug Smash Fund campaign</a>. This fund is designed to grow a healthy reserve earmarked for maintenance work, finding bugs, and smashing them&mdash;all tasks necessary to keep Tor Browser, the Tor network, and the many tools that rely on Tor strong, safe, and running smoothly. </span></p>
+
+									<p class="ace-line"><span class="author-a-z86zz74zz87zz68zl1cz87zjhxen4z86zz77z">We want to share an update!</span><span class="author-a-z86zz74zz87zz68zl1cz87zjhxen4z86zz77z"> Read about the <a href="https://blog.torproject.org/tor-bug-smash-fund-yr2-progress">work made possible with the Bug Smash Fund</a> on our blog.</span></p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a11" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/2002/title/en/teaser" property="schema:name">Tor Browser 10.5a11</span></a></h2>
+
+									<p>This release updates Firefox to 78.8.0esr for desktop and Firefox for Android to 86.1.0. Additionally, we update Tor to 0.4.5.6 and OpenSSL to 1.1.1j. <a href="https://blog.torproject.org/new-release-tor-browser-105a11">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-10012" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/2001/title/en/teaser" property="schema:name">Tor Browser 10.0.12</span></a></h2>
+
+									<p>This version updates Desktop Firefox to 78.8.0esr and Android Firefox to 86.1.0. In addition, Tor Browser 10.0.12 updates NoScript to 11.2.2, Openssl to 1.1.1j, and Tor to 0.4.5.6. <a href="https://blog.torproject.org/new-release-tor-browser-10012">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/2000" rel="bookmark"><span property="schema:name">Tor 0.4.5.6</span> </a></h2>
+
+									<p>This release series introduces significant improvements in relay IPv6 address discovery, a new &quot;MetricsPort&quot; mechanism for relay operators to measure performance, LTTng support, build system improvements to help when using Tor as a static library, and significant bugfixes. The Tor 0.4.5.x release series is dedicated to the memory of <a href="https://blog.torproject.org/in-memoriam-of-karsten-loesing">Karsten Loesing</a> (1979-2020), Tor developer, cypherpunk, husband, and father. <a href="https://blog.torproject.org/node/2000">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a10" rel="bookmark"><span property="schema:name">Tor Browser 10.5a10 (Windows Only)</span></a></h2>
+
+									<p>This version updates Firefox to 78.7.1esr for Windows. This release includes important security updates to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-105a10">Full changelog</a><a href="https://blog.torproject.org/new-release-tor-browser-1007">.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a9" rel="bookmark"><span property="schema:name">Tor Browser 10.5a9 (Android Only)</span></a></h2>
+
+									<p>This release updates Fenix to 86.0.0-beta.2. Additionally, we update NoScript to 11.2 and HTTPS Everywhere to 2021.1.27.<a href="https://blog.torproject.org/new-release-tor-browser-105a9"> Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-10011" rel="bookmark"><span property="schema:name">Tor Browser 10.0.11 (Windows Only)</span></a></h2>
+
+									<p>This version updates Firefox to 78.7.1esr for Windows. This release includes important security updates to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-10011">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-10010" rel="bookmark"><span property="schema:name">Tor Browser 10.0.10</span></a></h2>
+
+									<p>This version increases the availability of version 3 (v3) onion services. The fix is included in the recently released stable tor versions, as well. <a href="https://blog.torproject.org/new-release-tor-browser-10010">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1990" rel="bookmark"><span property="schema:name">Tor 0.3.5.13, 0.4.3.8, and 0.4.4.7</span></a></h2>
+
+									<p>Tor 0.4.4.7 backports numerous bugfixes from later releases, including one that made v3 onion services more susceptible to denial-of-service attacks, and a feature that makes some kinds of DoS attacks harder to perform. <a href="https://blog.torproject.org/node/1990">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/1989"><span property="schema:name">Tor 0.4.5.5-rc</span></a></h2>
+
+									<p>Tor 0.4.5.5-rc is the third release candidate in its series. This release fixes an annoyance with address detection code, and somewhat mitigates an ongoing denial-of-service attack. <a href="https://blog.torproject.org/node/1989">Full changelog</a>.</p>
+
+									<hr />
+									<h1><a href="https://www.torproject.org/about/jobs/">We&#39;re Hiring</a></h1>
+
+									<p><a href="https://www.torproject.org/about/jobs/metrics-data-architect/"><strong>Metrics Data Architect</strong></a><br />
+									The person in this position will work directly with helping us maintain existing systems, and design new systems for gathering and analyzing data. They will help the rest of the teams understand the data available to improve our tools as well as the Tor network&#39;s health. <a href="https://www.torproject.org/about/jobs/metrics-data-architect/">Read the full job description</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;Why you should care about data privacy even if you have &ldquo;nothing to hide&rdquo;,&quot; <a href="https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism">Vox</a>.</p>
+
+									<p>&quot;South Sudan: Rampant abusive surveillance by NSS instils climate of fear,&quot; <a href="https://www.amnesty.org/en/latest/news/2021/02/south-sudan-abusive-surveillance-by-national-security-service-climate-of-fear/">Amnesty International</a>.</p>
+
+									<p>&quot;Private dollars are seeding surveillance tech across the US,&quot; <span class="article-container"><a href="https://www.smartcitiesdive.com/news/private-dollars-are-seeding-surveillance-tech-across-the-us/594615/">Smart Cities Dive</a>.</span></p>
+
+									<div>
+									<p data-qa="headline" id="main-content">&quot;There Are Spying Eyes Everywhere&mdash;and Now They Share a Brain,&quot; <a href="https://www.wired.com/story/there-are-spying-eyes-everywhere-and-now-they-share-a-brain/">Wired</a>.</p>
+
+									<div>
+									<p>&quot;Amazon says government demands for user data spiked by 800% in 2020,&quot; <a href="https://techcrunch.com/2021/02/01/amazon-government-demands-spiked/">TechCrunch</a>.</p>
+
+									<p>&quot;Spotify patents tech to recommend songs based on users&#39; speech, emotion,&quot; <a href="https://www.axios.com/spotify-patent-users-speech-recommend-music-6c5ce99d-ca0f-4457-9b87-9d27fcc35527.html">Axios</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#Teams">teams </a>and start collaborating.</p>
+
+									<p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
