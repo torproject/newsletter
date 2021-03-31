@@ -1,0 +1,100 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-03-31
+---
+title: "TLS certificates for onion sites, new Onion Guide, & petition to ban biometric surveillance"
+---
+body:
+
+## Get a TLS certificate for your onion site
+
+https://blog.torproject.org/tls-certificate-for-onion-site
+
+We are happy to share the news of another important milestone for .onion services! You can now get DV certificates for your v3 onion site using HARICA (https://www.harica.gr/Contact/GetHarica), a Root CA Operator founded by Academic Network (GUnet) (https://www.gunet.gr/en/), a civil society nonprofit from Greece.
+
+Previously, .onion site administrators who needed a TLS certificate had to either hack other solutions or spend a significant amount of money purchasing an EV certificate. Now with HARICA, acquiring a certificate has become more accessible, but we know that free certificates are ideal and are looking forward to that moment.
+
+We are happy to see people acquiring certificates for their onions (https://www.reddit.com/r/onions/comments/lwaccm/harica_ca_now_supports_issuance_of_dv_onion/). Remember to do it for a v3 onion address since v2 will be deprecated very soon (https://blog.torproject.org/v2-deprecation-timeline)! Read more about getting your own certificate for your onion on your blog (https://blog.torproject.org/tls-certificate-for-onion-site).
+
+## Sign now: European initiative for a ban on biometric mass surveillance
+
+https://blog.torproject.org/sign-to-reclaim-your-face
+
+The “Reclaim Your Face” coalition (https://reclaimyourface.eu) has launched a European Citizens’ Initiative for a ban on biometric mass surveillance. European Digital Rights (EDRi) and more than fifty organizations are calling to sign the petition. One million signatures must be collected in at least seven EU countries within one year. Read more and sign the petition. (https://blog.torproject.org/sign-to-reclaim-your-face)
+
+## Onionize your Workflow with the Onion Guide Fanzine
+
+https://blog.torproject.org/onionize-your-workflow
+
+One way we help human rights defenders and organizations take back their right to privacy online is by helping them to use and set up onion services.
+
+Last year, thanks to the support of Digital Defenders Partnership (https://www.digitaldefenders.org/), we wrote a series of Onion Guides intended to make it easier for our partners to correctly and safely set up their own onion services. To create these Onion Guides, we collected and improved existing disparate information about the benefits of onion services and how to set them up for a website. 
+
+You can learn more about the new Onion Guides on our blog (https://blog.torproject.org/onionize-your-workflow) and find the Onion Guide in our community portal (https://community.torproject.org/onion-services/), well as the section on Onion Services in English (https://community.torproject.org/static/images/outreach/print/onion-guide-fanzine-EN.pdf), Spanish (https://community.torproject.org/static/images/outreach/print/onion-guide-fanzine-ES.pdf) and Portuguese (https://community.torproject.org/static/images/outreach/print/onion-guide-fanzine-PT_BR.pdf). Feel free to use it to set up your own .onion site, and let us know how it works for you!
+
+## How to contribute to the Tor metrics timeline
+
+https://blog.torproject.org/contribute-to-tor-metrics-timeline
+
+The metrics timeline (https://gitlab.torproject.org/tpo/metrics/timeline) is a database of news and events that may affect Tor Metrics (https://metrics.torproject.org/) graphs. This post is about how you can contribute to the timeline and help keep it up to date.
+
+A timeline of events helps in interpreting graphs. For example, you may look at a graph and ask, "Why did the number of Tor users in Sri Lanka increase for a week in 2018?"
+
+Checking the timeline, we find that at that time in Sri Lanka there was a block of Facebook and other services. A likely explanation for the increase of users is that people were using Tor to access the blocked services.
+
+The metrics timeline is useful but incomplete—for example, it tends to only include events that make international news. Some past events have a start date but are missing an end date. And some events mark unusual graph features, but do not have an explanation. You can help the Tor Project and people trying to understand use of the Tor network by contributing your knowledge to the metrics timeline. Read more about contributing to the Tor metrics timeline (https://blog.torproject.org/contribute-to-tor-metrics-timeline).
+
+## New Releases
+
+### Tor Browser 10.0.14
+
+https://blog.torproject.org/new-release-tor-browser-10014
+(March 24) This version updates Desktop Firefox to 78.9.0esr. In addition, Tor Browser 10.0.14 updates NoScript to 11.2.3, and Tor to 0.4.5.7.
+
+### Tor Browser 10.5a12 (Android Only)
+
+https://blog.torproject.org/new-release-tor-browser-105a12
+(March 21) This release updates Fenix to 87.0.0-beta.2. Additionally, we update NoScript to 11.2.3 and Tor to 0.4.6.1-alpha.
+
+### Tor 0.4.6.1-alpha 
+
+https://blog.torproject.org/node/2011
+(March 18) Tor 0.4.6.1-alpha is the first alpha release in the 0.4.6.x series. It improves client circuit performance, adds missing features, and improves some of our DoS handling and statistics reporting. It also includes numerous smaller bugfixes.
+
+### Tor 0.3.5.14, 0.4.4.8, and 0.4.5.7
+
+https://blog.torproject.org/node/2009
+(March 16) These releases fix a pair of denial-of-service issues. We recommend that everybody upgrade to one of the releases that fixes these issues (0.3.5.14, 0.4.4.8, or 0.4.5.7) as they become available to you.
+
+### Tor Browser 10.0.13 (Linux Only)
+
+https://blog.torproject.org/new-release-tor-browser-10013
+(March 3) This version fixes instability on some Linux distributions.
+
+## What We're Reading
+
+"Amazon Delivery Drivers Forced to Sign ‘Biometric Consent’ Form or Lose Job," VICE. (https://www.vice.com/en/article/dy8n3j/amazon-delivery-drivers-forced-to-sign-biometric-consent-form-or-lose-job)
+
+"#KeepItOn: Internet shutdowns only cause harm," Business & Human Rights Resource Centre. (https://www.business-humanrights.org/en/blog/keepiton-internet-shutdowns-only-cause-harm/)
+
+"TikTok vs Douyin A Security and Privacy Analysis," Citizen Lab. (https://citizenlab.ca/2021/03/tiktok-vs-douyin-security-privacy-analysis/)
+
+"How to get affordable DV certificates for onion sites," Help Net Security. (https://www.helpnetsecurity.com/2021/03/26/how-to-get-affordable-dv-certificates-for-onion-sites/)
+
+"T-Mobile to Share Customers' Web Browsing Data With Advertisers Unless They Opt Out," PCMag. (https://uk.pcmag.com/networking/132169/t-mobile-to-share-customers-web-browsing-data-with-advertisers-unless-they-opt-out)
+
+"California bans ‘dark patterns’ that trick users into giving away their personal data," The Verge. (https://www.theverge.com/2021/3/16/22333506/california-bans-dark-patterns-opt-out-selling-data)
+
+## Join Our Community 
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
