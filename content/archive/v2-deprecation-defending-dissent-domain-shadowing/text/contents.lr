@@ -1,0 +1,103 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-04-30
+---
+title: v2 onion services deprecation, defending dissent, & domain shadowing
+---
+body:
+## Starting July 15, Tor will no longer support v2 onion services
+
+https://blog.torproject.org/v2-deprecation-timeline
+
+If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
+
+As we announced last year, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.
+
+When Tor Browser stable moves to Tor 0.4.6.x in October 2021, v2 onion addresses will be completely unreachable.
+
+Why are we deprecating v2 onion services? Safety. Technologies used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provides improved encryption and enhanced privacy for administrators and users.
+
+It's critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.
+
+Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
+
+## Defend Dissent with Tor
+
+https://blog.torproject.org/book-defend-dissent-with-tor
+
+This week, we're highlighting a guest blog post by Glencora Borradaile.
+
+After 4 years of giving digital security trainings to activists and teaching a course called "Communications Security and Social Movements", I've compiled all my materials into an open, digital book - Defend Dissent: Digital Suppression and Cryptographic Defense of Social Movements (https://open.oregonstate.education/defenddissent/) hosted by Oregon State University where I am an Associate Professor. The book is intended for an introductory, non-major college audience, and I hope it will find use outside the university setting.
+
+It should be no surprise that Tor is a star of Defend Dissent. The anonymity that the Tor technology enables turns the internet into what it should be: a place to communicate without everyone knowing your business. As a professor, I love teaching Tor. It is a delightful combination of encryption, key exchange, probability and threat modeling. Find out more about [Defend Dissent on our blog](https://blog.torproject.org/book-defend-dissent-with-tor).
+
+## Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications
+
+https://blog.torproject.org/anti-censorship-domain-shadowing
+
+What is Domain Shadowing?
+
+Domain shadowing is a new censorship circumvention technique that uses Content Distribution Networks (CDNs) as its leverage to achieve its goal, which is similar to domain fronting. However, domain shadowing works completely differently from domain fronting and is stronger in terms of blocking-resistance.
+
+Compared to domain fronting, one big difference among many is that the user in domain shadowing is in charge of the whole procedure. In other words, the complete system can be solely configured by the user without necessary assistance from neither the censored website nor an anti-censorship organization.
+
+Find out more about Domain Shadowing on our blog, in a [guest post from Mingkui Wei](https://blog.torproject.org/anti-censorship-domain-shadowing).
+
+## New Releases
+
+### Tor Browser 10.5a15
+https://blog.torproject.org/new-release-tor-browser-105a15
+
+(April 26) This version updates Firefox to 78.10esr and Fenix to 88.1.1. In addition, Tor Browser 10.5a15 updates Tor to 0.4.6.2-alpha. This version includes important security updates to Firefox for Desktop and security updates for Android. 
+
+### Tor Browser 10.0.16
+https://blog.torproject.org/new-release-tor-browser-10016
+(April 20) This version updates Firefox to 78.10esr. In addition, Tor Browser 10.0.16 updates NoScript to 11.2.4, and adds localization in Burmese. This version includes important security updates to Firefox for Desktop.
+
+### Tor 0.4.6.2-alpha
+https://blog.torproject.org/node/2018
+(April 15) Tor 0.4.6.2-alpha is the second alpha in its series. It fixes several small bugs in previous releases, and solves other issues that had enabled denial-of-service attacks and affected integration with other tools. 
+
+### Tor Browser 10.5a14
+https://blog.torproject.org/new-release-tor-browser-105a14
+(April 13) This release updates NoScript to 11.2.4 and updates the Snowflake pluggable transport. This release is the first version that is localized in Burmese, as well. 
+
+### Tor Browser 10.5a13
+https://blog.torproject.org/new-release-tor-browser-105a13
+(April 5) This release updates Firefox to 78.9.0esr for desktop and Firefox for Android to 87.0.0. Additionally, we update Tor to 0.4.6.1-alpha and OpenSSL to 1.1.1k and NoScript to 11.2.3. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android. 
+
+## What We're Reading
+
+* "MEPs call for European AI rules to ban biometric surveillance in public," Tech Crunch. (https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/)
+
+* "2021 World Press Freedom Index: Journalism, the vaccine against disinformation, blocked in more than 130 countries," Reporters Without Borders. (https://rsf.org/en/2021-world-press-freedom-index-journalism-vaccine-against-disinformation-blocked-more-130-countries)
+
+* "Data Brokers Are a Threat to Democracy," WIRED. (https://www.wired.com/story/opinion-data-brokers-are-a-threat-to-democracy/)
+
+* "After Cookies, Ad Tech Wants to Use Your Email to Track You Everywhere," EFF. (https://www.eff.org/deeplinks/2021/04/after-cookies-ad-tech-wants-use-your-email-track-you-everywhere)
+
+* "Why Democracy Needs Privacy," Boston Review. (https://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy)
+
+* "Myanmar’s Internet Shutdown Is an Act of ‘Vast Self-Harm’," WIRED. (https://www.wired.com/story/myanmar-internet-shutdown/)
+
+## Join Our Community 
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject

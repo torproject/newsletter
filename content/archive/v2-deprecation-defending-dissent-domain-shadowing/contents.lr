@@ -1,0 +1,153 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-04-30
+---
+title: v2 onion services deprecation, defending dissent, & domain shadowing
+---
+html_body:
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+<h1 class="title"><a href="https://blog.torproject.org/v2-deprecation-timeline">Starting July 15, Tor Browser will no longer support v2 onion services</a></h1>
+
+									<p><a href="https://blog.torproject.org/v2-deprecation-timeline"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/v2onions.png" style="width: 640px; height: 360px;" /></a></p>
+
+									<div property="schema:text">
+									<h2 id="magicdomid1091"><strong>If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.</strong></h2>
+
+									<p id="magicdomid1101"><a href="http://blog.torproject.org/v2-deprecation-timeline">As we announced last year</a>, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.</p>
+
+									<p class="ace-line" id="magicdomid1413"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">When Tor Browser stable moves to Tor 0.4.6.x in October 2021, </span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm u"><u>v2 onion addresses will be completely unreachable</u></span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">.</span></p>
+
+									<p class="ace-line" id="magicdomid1415"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">Why are we deprecating v2 onion services? Safety. Technolog</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">ies</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provide</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">s</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> improved encryption and enhanced privacy for administ</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">r</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">ators and users.</span></p>
+
+									<p class="ace-line" id="magicdomid1184"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">It&#39;s critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.</span></p>
+
+									<p class="ace-line" id="magicdomid1047"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"><a href="http://blog.torproject.org/v2-deprecation-timeline">Read more about the deprecation on our blog</a>.</span></p>
+									</div>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1 class="title"><a href="https://blog.torproject.org/book-defend-dissent-with-tor" rel="bookmark">Defend Dissent with Tor</a></h1>
+
+									<p dir="auto"><a href="https://blog.torproject.org/book-defend-dissent-with-tor"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/glencora-defenddissent.jpeg.png?itok=9HDRIJRj" style="width: 640px; height: 591px;" /></a></p>
+
+									<p><em>This week, we&#39;re highlighting a guest blog post by Glencora Borradaile.</em></p>
+
+									<p>After 4 years of giving digital security trainings to activists and teaching a course called &quot;Communications Security and Social Movements&quot;, I&#39;ve compiled all my materials into an open, digital book - <a href="https://open.oregonstate.education/defenddissent/">Defend Dissent: Digital Suppression and Cryptographic Defense of Social Movements</a> hosted by Oregon State University where I am an Associate Professor. The book is intended for an introductory, non-major college audience, and I hope it will find use outside the university setting.</p>
+
+									<p>It should be no surprise that Tor is a star of Defend Dissent. The anonymity that the Tor technology enables turns the internet into what it should be: a place to communicate without everyone knowing your business. As a professor, I love teaching Tor. It is a delightful combination of encryption, key exchange, probability and threat modeling. <a href="https://blog.torproject.org/book-defend-dissent-with-tor">Find out more about Defend Dissent on our blog</a>.</p>
+
+									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/anti-censorship-domain-shadowing">Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications</a></h1>
+									</div>
+									</div>
+									</div>
+
+									<p><a href="https://blog.torproject.org/anti-censorship-domain-shadowing"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/figure3.png?itok=NXXgwuEr" style="width: 640px; height: 356px;" /></a></p>
+
+									<footer>
+									<p><strong>What is Domain Shadowing?</strong><br />
+									Domain shadowing is a new censorship circumvention technique that uses Content Distribution Networks (CDNs) as its leverage to achieve its goal, which is similar to domain fronting. However, domain shadowing works completely differently from domain fronting and is stronger in terms of blocking-resistance.</p>
+
+									<p>Compared to domain fronting, one big difference among many is that the user in domain shadowing is in charge of the whole procedure. In other words, the complete system can be solely configured by the user without necessary assistance from neither the censored website nor an anti-censorship organization.</p>
+
+									<p><a href="https://blog.torproject.org/anti-censorship-domain-shadowing">Find out more about Domain Shadowing on our blog</a>, in a guest post from Mingkui Wei.</p>
+									</footer>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a15" rel="bookmark"><span property="schema:name">Tor Browser 10.5a15</span></a></h2>
+
+									<p>(April 26) This version updates Firefox to 78.10esr and Fenix to 88.1.1. In addition, Tor Browser 10.5a15 updates Tor to 0.4.6.2-alpha. This version includes important security updates to Firefox for Desktop and security updates for Android. <a href="https://blog.torproject.org/new-release-tor-browser-105a15">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-10016" rel="bookmark"><span property="schema:name">Tor Browser 10.0.16</span></a></h2>
+
+									<p>(April 20) This version updates Firefox to 78.10esr. In addition, Tor Browser 10.0.16 updates NoScript to 11.2.4, and adds localization in Burmese. This version includes important security updates to Firefox for Desktop. <a href="https://blog.torproject.org/new-release-tor-browser-10016">Full changelog</a>.</p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/2018" rel="bookmark"><span property="schema:name">Tor 0.4.6.2-alpha</span></a><a href="https://blog.torproject.org/node/2000" rel="bookmark"> </a></h2>
+
+									<p>(April 15) Tor 0.4.6.2-alpha is the second alpha in its series. It fixes several small bugs in previous releases, and solves other issues that had enabled denial-of-service attacks and affected integration with other tools. <a href="https://blog.torproject.org/node/2018">Full changelog.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a14" rel="bookmark"><span property="schema:name">Tor Browser 10.5a14</span></a></h2>
+
+									<p>(April 13) This release updates NoScript to 11.2.4 and updates the Snowflake pluggable transport. This release is the first version that is localized in Burmese, as well. <a href="https://blog.torproject.org/new-release-tor-browser-105a14">Full changelog</a><a href="https://blog.torproject.org/new-release-tor-browser-1007">.</a></p>
+
+									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a13" rel="bookmark"><span property="schema:name">Tor Browser 10.5a13</span></a></h2>
+
+									<p>(April 5) This release updates Firefox to 78.9.0esr for desktop and Firefox for Android to 87.0.0. Additionally, we update Tor to 0.4.6.1-alpha and OpenSSL to 1.1.1k and NoScript to 11.2.3. This release includes important security updates to Firefox for Desktop, and similar important security updates to Firefox for Android.<a href="https://blog.torproject.org/new-release-tor-browser-105a13"> Full changelog</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;MEPs call for European AI rules to ban biometric surveillance in public,&quot; <a href="https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/">Tech Crunch</a>.</p>
+
+									<p>&quot;2021 World Press Freedom Index: Journalism, the vaccine against disinformation, blocked in more than 130 countries,&quot; <span class="article-container"><a href="https://rsf.org/en/2021-world-press-freedom-index-journalism-vaccine-against-disinformation-blocked-more-130-countries">Reporters Without Borders</a></span>.</p>
+
+									<div>
+									<div>
+									<p>&quot;Data Brokers Are a Threat to Democracy,&quot; <a href="https://www.wired.com/story/opinion-data-brokers-are-a-threat-to-democracy/">WIRED</a>.</p>
+
+									<p>&quot;After Cookies, Ad Tech Wants to Use Your Email to Track You Everywhere,&quot; <a href="https://www.eff.org/deeplinks/2021/04/after-cookies-ad-tech-wants-use-your-email-track-you-everywhere">EFF</a>.</p>
+
+									<p>&quot;Why Democracy Needs Privacy,&quot; <a href="https://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy">Boston Review</a>.<br />
+									<br />
+									&quot;Myanmar&rsquo;s Internet Shutdown Is an Act of &lsquo;Vast Self-Harm&rsquo;,&quot; <a href="https://www.wired.com/story/myanmar-internet-shutdown/">WIRED</a>.</p>
+									</div>
+									</div>
+
+                  <hr />
+                  <h1>Join Our Community</h1>
+                  <p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+                  <p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+                  <p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+                  <div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 15px;">
+                  <p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+                  <hr />
+                  <p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+                  <p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->
