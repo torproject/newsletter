@@ -1,0 +1,180 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-05-31
+---
+title: v2 onion services deprecation, new Board members, NFT auction results
+---
+html_body:
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+
+<h1 class="title"><a href="https://blog.torproject.org/v2-deprecation-timeline">Starting July 15, Tor Browser will no longer support v2 onion services</a></h1>
+
+									<p><a href="https://blog.torproject.org/v2-deprecation-timeline"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/v2-deprecation-banner.png" style="width: 640px; height: 360px;" /></a></p>
+
+									<div property="schema:text">
+									<h2 id="magicdomid1091"><strong>If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.</strong></h2>
+
+									<p id="magicdomid1101"><a href="http://blog.torproject.org/v2-deprecation-timeline">As we announced last year</a>, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.</p>
+
+									<p class="ace-line" id="magicdomid1413"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">When Tor Browser stable moves to Tor 0.4.6.x in October 2021, </span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm u"><u>v2 onion addresses will be completely unreachable</u></span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">.</span></p>
+
+									<p class="ace-line" id="magicdomid1415"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">Why are we deprecating v2 onion services? Safety. Technolog</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">ies</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provide</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">s</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> improved encryption and enhanced privacy for administ</span><span class="author-a-niz68zz122zz65zmfsjpz76zz67zz81zz73zz70zz78z">r</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">ators and users.</span></p>
+
+									<p class="ace-line" id="magicdomid1184"><strong><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm">It&#39;s critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.</span></strong></p>
+
+									<p class="ace-line" id="magicdomid1047"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"><a href="http://blog.torproject.org/v2-deprecation-timeline">Read more about the deprecation on our blog</a>.</span></p>
+									</div>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1 class="title"><a href="https://blog.torproject.org/announcing-board-alissa-desigan-kendra" rel="bookmark"><span property="schema:name">Announcing new Board members</span></a></h1>
+
+									<p dir="auto"><a href="https://blog.torproject.org/announcing-board-alissa-desigan-kendra"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/new-board-banner.jpg.png?itok=iQ0RmSef" style="width: 640px; height: 320px;" /></a></p>
+
+									<p>We are excited to announce that three new members are joining the Tor Project&rsquo;s Board of Directors: Alissa Cooper, Desigan (Dees) Chinniah, and Kendra Albert! Each new member comes to Tor with a different set of expertise that will help the organization and our community.</p>
+
+									<p><strong>Alissa Cooper</strong> is a Chief Technology Officer and Fellow at Cisco Systems and served in a variety of leadership roles in the Internet Engineering Task Force (IETF). We are excited that Alissa is joining the Board, her expertise will help Tor continue to mature as an organization.&nbsp;</p>
+
+									<p><strong>Desigan Chinniah</strong> is a long time supporter of Tor. He is a creative technologist with a strong background in the Free Software movement as well as in the industry with his experience as an investor and on product. We are looking forward to his contribution to the Board and to Tor.&nbsp;</p>
+
+									<p><strong>Kendra Albert</strong> is a public interest technology lawyer with a special interest in computer security and in protecting marginalized speakers and users. They serve as a clinical instructor at the Cyberlaw Clinic at Harvard Law School, where they teach students to practice law by working with pro bono clients. We are also honored to have Kendra with us and their legal expertise will be a big bonus to Tor.</p>
+
+									<p>Please join us in welcoming Alissa, Dees, and Kendra to the Board! <a href="https://blog.torproject.org/announcing-board-alissa-desigan-kendra">Read more about them on our blog</a>.</p>
+
+									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
+									<hr />
+									<h1 class="title"><a href="https://www.youtube.com/watch?v=-wbivkG8TcU">PrivChat #4 | 25th Anniversary of Onion Routing</a></h1>
+									</div>
+									</div>
+									</div>
+
+									<p><a href="https://www.youtube.com/watch?v=-wbivkG8TcU"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/25-anniversary-banner.jpg.png?itok=YRRU6yUS" style="width: 640px; height: 360px;" /></a></p>
+
+									<footer>
+									<p><span class="style-scope yt-formatted-string" dir="auto">Celebrate 25 years of onion routing with Tor! </span></p>
+
+									<p><span class="style-scope yt-formatted-string" dir="auto">May 31, 2021 marks the 25th anniversary of the first public presentation of onion routing in Cambridge, UK at Isaac Newton Institute&#39;s first Information Hiding Workshop. </span></p>
+
+									<p><span class="style-scope yt-formatted-string" dir="auto">In the latest edition of <a href="https://youtu.be/-wbivkG8TcU">PrivChat</a>, we celebrated this special moment by talking about beginnings of onion routing, and how this idea became Tor, and how the Tor Project eventually came to be with Paul Syverson, one of the authors of the first onion routing paper, the Tor Project co-founders Roger Dingledine and Nick Mathewson, and Tor Board member Gabriella Coleman.</span></p>
+
+									<p><a href="https://youtu.be/-wbivkG8TcU">Watch the</a><span class="style-scope yt-formatted-string" dir="auto"><a href="https://youtu.be/-wbivkG8TcU"> celebratory edition of PrivChat to commemorate the 25th anniversary of onion routing on our YouTube channel</a>. </span></p>
+									</footer>
+
+									<hr />
+									<h1 class="title"><span class="quickedit-field" data-quickedit-field-id="node/2037/title/en/full" property="schema:name">Dreaming at Dusk: the Tor Project&rsquo;s NFT Auction &amp; What&rsquo;s Next</span></h1>
+
+									<p><span class="quickedit-field" data-quickedit-field-id="node/2037/title/en/full" property="schema:name"><a href="https://blog.torproject.org/nft-auction-and-whats-next"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/02-nft-overview-banner.jpg.png?itok=x09HwjKL" style="width: 640px; height: 360px;" /></a></span></p>
+
+									<p>In mid-May, the Tor Project held a <a href="https://en.wikipedia.org/wiki/Non-fungible_token">nonfungible token</a> (NFT) <a href="https://foundation.app/torproject/dreaming-at-dusk-35855">auction of a generative art piece we called Dreaming at Dusk</a>, created by artist Itzel Yard (<a href="https://foundation.app/ixshells">ixshells</a>) and derived from the private key of the first onion service, Dusk.</p>
+
+									<p>This action was held on <a href="https://foundation.app">Foundation</a> and resulted in a final bid of 500 Ethereum (ETH), roughly $2M USD at the time of the auction, with the proceeds going towards the Tor Project and our work to improve and promote Tor.</p>
+
+									<p>Raising roughly $2M USD in one day breaks all records of individual giving we could possibly imagine, and we are extremely humbled and grateful for the success of this auction and what this means for the Tor Project nonprofit organization. <a href="https://blog.torproject.org/nft-auction-and-whats-next">Learn more about why we held this auction, the artist ixshells, and what happens next with the money raised on our blog</a>.</p>
+
+									<hr />
+									<h1><span class="quickedit-field" data-quickedit-field-id="node/2028/title/en/full" property="schema:name">Check the status of Tor services with status.torproject.org</span></h1>
+
+									<p><a href="https://blog.torproject.org/check-status-of-tor-services"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/status-blog-post.png?itok=O0_jXTW5" style="width: 640px; height: 360px;" /></a></p>
+
+									<p>The Tor Project now has a <a href="https://status.torproject.org/">status page</a> which shows the state of our major services.</p>
+
+									<p>You can check <a href="https://status.torproject.org">status.torproject</a> for news about major outages in Tor services, including v3 and v2 onion services, directory authorities, our website (<a href="https://torproject.org">torproject.org</a>), and the <a href="https://check.torproject.org/">check.torproject.org</a> tool. The status page also displays outages related to Tor internal services, like our GitLab instance.</p>
+
+									<p><a href="https://blog.torproject.org/check-status-of-tor-services">Read more on our blog</a> about why we launched <a href="https://status.torproject.org">status.torproject.org</a>, how the service was built, and how it works.</p>
+
+									<hr />
+									<h1><span class="views-field views-field-title"><span class="field-content">Upcoming Events with Tor</span></span></h1>
+
+									<p><span class="quickedit-field" data-quickedit-field-id="node/2023/title/en/full"><a href="https://blog.torproject.org/node/2023">RightsCon Tor Panel: Building strategies to diversify funds</a> | TBD, between June 7 - 11, 2021</span><br />
+									<br />
+									<span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/zcon2lite-network-privacy" hreflang="en">Zcon2 Lite - &quot;Network Privacy&quot;</a></span></span> | June 9, 2021 @ 8:35-19:20 UTC<br />
+									<br />
+									<span class="quickedit-field" data-quickedit-field-id="node/2022/title/en/full"><a href="https://blog.torproject.org/node/2022">Privacy Enhancing Technologies Symposium (PETS) </a>| </span><time datetime="2021-07-12T12:00:00Z">July 12</time> -<time datetime="2021-07-16T12:00:00Z"> 16, 2021</time></p>
+
+									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/node/2024" hreflang="en">Free and Open Communications on the Internet (FOCI) workshop</a></span></span><a href="https://blog.torproject.org/node/2024" hreflang="en"> </a>| August 27, 2021</p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<h2 class="title"><a href="https://blog.torproject.org/node/2031" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/2031/title/en/teaser" property="schema:name">Tor 0.4.5.8</span></a></h2>
+
+									<p>(May 10) Tor 0.4.5.8 fixes several bugs in earlier version, backporting fixes from the 0.4.6.x series. <a href="https://blog.torproject.org/node/2031">Full changelog</a>.</p>
+
+									<h2 class="title"><span class="quickedit-field" data-quickedit-field-id="node/2030/title/en/teaser" property="schema:name">T</span><a href="https://blog.torproject.org/node/2030" rel="bookmark"><span class="quickedit-field" data-quickedit-field-id="node/2030/title/en/teaser" property="schema:name">or 0.4.6.3-rc</span></a></h2>
+
+									<p>(May 10) Tor 0.4.6.3-rc is the first release candidate in its series. It fixes a few small bugs from previous versions, and adds a better error message when trying to use (no longer supported) v2 onion services. <a href="https://blog.torproject.org/node/2030">Full changelog</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>&quot;GCHQ&rsquo;s mass data interception violated right to privacy, court rules,&quot; <a href="https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules">The Guardian</a>.</p>
+
+									<p>&quot;Americans Actually Want Privacy. Shocking.,&quot; <a href="https://www.nytimes.com/2021/05/20/opinion/apple-facebook-ios-privacy.html"><span class="article-container">The New York Times</span></a>.</p>
+
+									<div>
+									<div>
+									<p>&quot;Tor Sells NFT of First .onion URL For $2 Million in ETH to PleasrDAO,&quot; <a href="https://decrypt.co/71017/tor-sells-nft-of-first-onion-url-for-2-million-in-eth-to-pleasrdao">Decrypt</a>.</p>
+
+									<p>&quot;<span data-article-description="A Motherboard investigation found the algorithmic surveillance tools allow racist groups like the KKK while flagging LGBTQ health sites as 'porn'." data-article-id="60885fdfd96cff009b92824a" data-article-locale="en_us" data-article-title="Schools Use Software That Blocks LGBTQ+ Content, But Not White Supremacists" data-article-url="/en/article/v7em39/schools-use-software-that-blocks-lgbtq-content-but-not-white-supremacists" data-direction="down">Schools Use Software That Blocks LGBTQ+ Content, But Not White Supremacists,</span>&quot; <a href="https://www.vice.com/en/article/v7em39/schools-use-software-that-blocks-lgbtq-content-but-not-white-supremacists">VICE</a>.</p>
+
+									<p>&quot;Censorship, Surveillance and Profits: A Hard Bargain for Apple in China,&quot; <a href="https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html">The New York Times</a>.<br />
+									<br />
+									&quot;Facebook Allows Drug Ads to Target Teens, Activists Say,&quot; <a href="https://www.wired.com/story/activists-facebook-allows-drug-ads-target-teens/">WIRED</a>.</p>
+</div>
+</div>
+
+                  <hr />
+                  <h1>Join Our Community</h1>
+                  <p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+                  <p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+                  <p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+                  <div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 15px;">
+                  <p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+                  <hr />
+                  <p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+                  <p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->

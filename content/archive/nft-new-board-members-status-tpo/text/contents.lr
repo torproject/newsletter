@@ -1,0 +1,126 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-05-31
+---
+title: v2 onion services deprecation, new Board members, NFT auction results
+---
+body:
+
+## Starting July 15, Tor will no longer support v2 onion services
+https://blog.torproject.org/v2-deprecation-timeline
+
+If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
+
+As we announced last year, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.
+
+When Tor Browser stable moves to Tor 0.4.6.x in October 2021, v2 onion addresses will be completely unreachable.
+
+Why are we deprecating v2 onion services? Safety. Technologies used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provides improved encryption and enhanced privacy for administrators and users.
+
+It's critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.
+
+Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
+
+## Announcing new Board members
+https://blog.torproject.org/announcing-board-alissa-desigan-kendra
+
+We are excited to announce that three new members are joining the Tor Project’s Board of Directors: Alissa Cooper, Desigan (Dees) Chinniah, and Kendra Albert! Each new member comes to Tor with a different set of expertise that will help the organization and our community.
+
+Alissa Cooper is a Chief Technology Officer and Fellow at Cisco Systems and served in a variety of leadership roles in the Internet Engineering Task Force (IETF). We are excited that Alissa is joining the Board, her expertise will help Tor continue to mature as an organization. 
+
+Desigan Chinniah is a long time supporter of Tor. He is a creative technologist with a strong background in the Free Software movement as well as in the industry with his experience as an investor and on product. We are looking forward to his contribution to the Board and to Tor. 
+
+Kendra Albert is a public interest technology lawyer with a special interest in computer security and in protecting marginalized speakers and users. They serve as a clinical instructor at the Cyberlaw Clinic at Harvard Law School, where they teach students to practice law by working with pro bono clients. We are also honored to have Kendra with us and their legal expertise will be a big bonus to Tor.
+
+Please join us in welcoming Alissa, Dees, and Kendra to the Board! Read more about them on our blog: https://blog.torproject.org/announcing-board-alissa-desigan-kendra
+
+## PrivChat #4 | 25th Anniversary of Onion Routing
+
+https://www.youtube.com/watch?v=-wbivkG8TcU
+
+Celebrate 25 years of onion routing with Tor!
+
+May 31, 2021 marks the 25th anniversary of the first public presentation of onion routing in Cambridge, UK at Isaac Newton Institute's first Information Hiding Workshop.
+
+In the latest edition of PrivChat, we celebrated this special moment by talking about beginnings of onion routing, and how this idea became Tor, and how the Tor Project eventually came to be with Paul Syverson, one of the authors of the first onion routing paper, the Tor Project co-founders Roger Dingledine and Nick Mathewson, and Tor Board member Gabriella Coleman.
+
+Watch the celebratory edition of PrivChat to commemorate the 25th anniversary of onion routing on our YouTube channel: https://youtu.be/-wbivkG8TcU 
+
+## Dreaming at Dusk: the Tor Project’s NFT Auction & What's Next
+https://blog.torproject.org/nft-auction-and-whats-next
+
+In mid-May, the Tor Project held a nonfungible token (NFT, https://en.wikipedia.org/wiki/Non-fungible_token) auction of a generative art piece we called Dreaming at Dusk (https://foundation.app/torproject/dreaming-at-dusk-35855), created by artist Itzel Yard (ixshells, https://foundation.app/ixshells) and derived from the private key of the first onion service, Dusk.
+
+This action was held on Foundation (https://foundation.app/) and resulted in a final bid of 500 Ethereum (ETH), roughly $2M USD at the time of the auction, with the proceeds going towards the Tor Project and our work to improve and promote Tor.
+
+Raising roughly $2M USD in one day breaks all records of individual giving we could possibly imagine, and we are extremely humbled and grateful for the success of this auction and what this means for the Tor Project nonprofit organization. Learn more about why we held this auction, the artist ixshells, and what happens next with the money raised on our blog: https://blog.torproject.org/nft-auction-and-whats-next
+
+## Check the status of Tor services with status.torproject.org
+
+https://blog.torproject.org/check-status-of-tor-services
+
+The Tor Project now has a status page which shows the state of our major services: https://status.torproject.org
+
+You can check status.torproject for news about major outages in Tor services, including v3 and v2 onion services, directory authorities, our website (torproject.org), and the check.torproject.org tool. The status page also displays outages related to Tor internal services, like our GitLab instance.
+
+Read more on our blog about why we launched status.torproject.org, how the service was built, and how it works: https://blog.torproject.org/check-status-of-tor-services
+
+## Upcoming Events with Tor
+
+* RightsCon Tor Panel: Building strategies to diversify funds | TBD, between June 7 - 11, 2021
+https://blog.torproject.org/node/2023
+
+* Zcon2 Lite - "Network Privacy" | June 9, 2021 @ 8:35-19:20 UTC
+https://blog.torproject.org/zcon2lite-network-privacy
+
+* Privacy Enhancing Technologies Symposium (PETS) | July 12 - 16, 2021
+https://blog.torproject.org/node/2022
+
+* Free and Open Communications on the Internet (FOCI) workshop | August 27, 2021
+https://blog.torproject.org/node/2024
+
+## New Releases
+
+Tor 0.4.5.8
+https://blog.torproject.org/node/2031
+(May 10) Tor 0.4.5.8 fixes several bugs in earlier version, backporting fixes from the 0.4.6.x series. Full changelog.
+
+Tor 0.4.6.3-rc
+https://blog.torproject.org/node/2030
+(May 10) Tor 0.4.6.3-rc is the first release candidate in its series. It fixes a few small bugs from previous versions, and adds a better error message when trying to use (no longer supported) v2 onion services. Full changelog.
+
+## What We're Reading
+
+* "GCHQ’s mass data interception violated right to privacy, court rules," The Guardian. (https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules)
+
+* "Americans Actually Want Privacy. Shocking.," The New York Times. (https://www.nytimes.com/2021/05/20/opinion/apple-facebook-ios-privacy.html)
+
+* "Tor Sells NFT of First .onion URL For $2 Million in ETH to PleasrDAO," Decrypt. (https://decrypt.co/71017/tor-sells-nft-of-first-onion-url-for-2-million-in-eth-to-pleasrdao)
+
+* "Schools Use Software That Blocks LGBTQ+ Content, But Not White Supremacists," VICE. (https://www.vice.com/en/article/v7em39/schools-use-software-that-blocks-lgbtq-content-but-not-white-supremacists)
+
+* "Censorship, Surveillance and Profits: A Hard Bargain for Apple in China," The New York Times. (https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html)
+
+* "Facebook Allows Drug Ads to Target Teens, Activists Say," WIRED. (https://www.wired.com/story/activists-facebook-allows-drug-ads-target-teens/)
+
+## Join Our Community 
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+----
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+[Twitter @torproject](https://twitter.com/torproject) |  [Facebook torproject](https://facebook.com/torproject) |
+[Instagram @torproject](https://instagram.com/torproject) | [Mastodon](http://mastodon.social/@torproject)
+| [YouTube](https://www.youtube.com/user/TheTorProject)
