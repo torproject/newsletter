@@ -1,0 +1,112 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-07-29
+---
+title: v2 onion services deprecation, Bug Smash  2021, Announcing Arti
+---
+body:
+## Onion service admins must upgrade to v3 onion services as soon as possible
+https://blog.torproject.org/v2-deprecation-timeline
+
+If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
+
+As we announced last year, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.
+
+When Tor Browser stable moves to Tor 0.4.6.x in October 2021, v2 onion addresses will be completely unreachable.
+
+Why are we deprecating v2 onion services? Safety. Technologies used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provides improved encryption and enhanced privacy for administrators and users.
+
+It's critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.
+
+Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
+
+## Snowflake moving to stable in Tor Browser 10.5
+https://blog.torproject.org/snowflake-in-tor-browser-stable
+
+We're excited to announce that Snowflake (https://snowflake.torproject.org) will be shipped as one of the default bridge options with stable versions of Tor Browser later this month.
+
+What is Snowflake? Snowflake is a pluggable transport that uses a combination of domain fronting and peer-to-peer WebRTC connections between clients and volunteers to circumvent Internet censorship. Snowflake is highly censorship resistant, and used only for the initial bootstrapping of the connection. As such, it requires much lower bandwidth and shorter connections than existing domain fronting pluggable transports like meek (https://gitweb.torproject.org/pluggable-transports/meek.git/), making it a more scalable alternative.
+
+For more about Snowflake, its design, and how it works for users, visit our blog: https://blog.torproject.org/snowflake-in-tor-browser-stable
+
+## Improving the user experience of connecting to Tor in Tor Browser 10.5
+https://blog.torproject.org/improving-ux-connecting-to-tor-105
+
+Say goodbye to Tor Launcher.
+
+During the past few years, the UX team has been working on qualitatively improving the entire Tor Browser user journey: from discovering to finding, downloading, installing, starting, and browsing; we released a seamless and familiar experience for our largest user base.
+
+Users have specifically reported that they find Tor Launcher confusing. Research exposed these pain points and has demonstrated how confusion caused by cognitive overload delays the user’s decision-making flow. Known issues with Tor Launcher, like the time gap between Tor Launcher and the main browser window opening after first-time installation, has left some users disappointed.
+
+Learn more about what's coming to next in Tor Browser, including improving the user experience of launching Tor on our blog: https://blog.torproject.org/improving-ux-connecting-to-tor-105
+
+## Upcoming Events with Tor
+
+Privacy Enhancing Technologies Symposium (PETS) | July 12 - 16, 2021
+https://blog.torproject.org/node/2022
+
+Free and Open Communications on the Internet (FOCI) workshop | August 27, 2021
+https://blog.torproject.org/node/2024
+
+## New Releases
+
+* Tor Browser 10.5a17
+https://blog.torproject.org/new-release-tor-browser-105a17
+(June 28) This version updates Tor to 0.4.6.5. This version is the last planned version before Tor Browser 10.5 is considered stable.
+
+* Tor 0.4.6.6
+https://blog.torproject.org/node/2046
+(June 30) Tor 0.4.6.6 makes several small fixes on 0.4.6.5, including one that allows Tor to build correctly on older versions of GCC. You should upgrade to this version if you were having trouble building Tor 0.4.6.5; otherwise, there is probably no need. 
+
+* Tor Browser 10.0.18
+https://blog.torproject.org/new-release-tor-browser-10018
+(June 21) This version updates Tor to 0.4.5.9, including important security fixes. In addition, on Android, this version updates Firefox to 89.1.1, and NoScript to 11.2.8. 
+
+* Tor 0.3.5.15, 0.4.4.9, 0.4.5.9, 0.4.6.5
+https://blog.torproject.org/node/2041
+(June 14) After months of work, we have a new stable release series! Because this release includes security fixes, we are also releasing updates for our other supported releases. 
+
+* Tor Browser 10.5a16
+https://blog.torproject.org/new-release-tor-browser-105a16
+(June 11) This version updates Firefox to 78.11esr and Fenix to 89.0. In addition, Tor Browser 10.5a16 updates Tor to 0.4.6.4-rc. This version includes important security updates to Firefox for Desktop and security updates for Android. 
+
+* Tor Browser 10.0.17
+blog.torproject.org/new-release-tor-browser-10017
+(June 2) This version updates Firefox to 78.11esr. In addition, Tor Browser 10.0.17 updates NoScript to 11.2.8, HTTPS Everywhere to 2021.4.15, and Tor to 0.4.5.8. This version includes important security updates to Firefox for Desktop. 
+
+## What We're Reading
+
+* "Tell Apple: Stop enabling censorship of LGBTQ+ apps," Fight for the Future. (https://actionnetwork.org/petitions/tell-apple-stop-enabling-censorship-of-lgbtq-apps)
+
+* "Privacy in Action: Isabela Bagueros, Executive Director at Tor," Startpage. (https://www.startpage.com/privacy-please/privacy-advocate-articles/privacy-in-action-isabela-bagueros-executive-director-at-tor)
+
+* "Protection from hackers: How Tor is tightening security," Deutsche Welle. (https://www.dw.com/en/tor-hacker-protection-internet-security-free-media/a-57992003)
+
+* "Who is shutting down the internet in 2021?," AccessNow. (https://www.accessnow.org/who-is-shutting-down-the-internet-in-2021/)
+
+* "EU court rules in Telenet copyright case: ISPs can be forced to hand over some customer data use details," The Register. (www.theregister.com/2021/06/21/court_of_justice_telenet_bittorrent_ruling/)
+
+* "22 Rights Groups Tell PayPal and Venmo to Shape Up Policies on Account Closures," EFF. (https://www.eff.org/press/releases/22-rights-groups-tell-paypal-and-venmo-shape-account-freezes-and-closures)
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject
+YouTube: https://www.youtube.com/c/TorProjectInc
