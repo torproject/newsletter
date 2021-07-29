@@ -9,7 +9,8 @@ pub_date: 2021-07-29
 title: v2 onion services deprecation, Bug Smash  2021, Announcing Arti
 ---
 body:
-## Onion service admins must upgrade to v3 onion services as soon as possible
+
+## Onion service admins must upgrade to v3 onion services as soon as possible //
 https://blog.torproject.org/v2-deprecation-timeline
 
 If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
@@ -24,73 +25,99 @@ It's critical that onion service administrators migrate to v3 onion services and
 
 Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
 
-## Snowflake moving to stable in Tor Browser 10.5
-https://blog.torproject.org/snowflake-in-tor-browser-stable
+## Help Tor Smash Bugs: August 1-31!
+https://blog.torproject.org/tors-bug-smash-fund-2021
 
-We're excited to announce that Snowflake (https://snowflake.torproject.org) will be shipped as one of the default bridge options with stable versions of Tor Browser later this month.
+The Bug Smash Fund is back for its third year!
 
-What is Snowflake? Snowflake is a pluggable transport that uses a combination of domain fronting and peer-to-peer WebRTC connections between clients and volunteers to circumvent Internet censorship. Snowflake is highly censorship resistant, and used only for the initial bootstrapping of the connection. As such, it requires much lower bandwidth and shorter connections than existing domain fronting pluggable transports like meek (https://gitweb.torproject.org/pluggable-transports/meek.git/), making it a more scalable alternative.
+In 2019, we launched Tor’s Bug Smash Fund to raise money that would support our developers finding and fixing bugs in our software and to conduct routine maintenance. Maintenance isn’t a flashy new feature, and that makes it less interesting to many traditional funders, but it’s what keeps the reliable stuff working--and with your support, we’ve closed 370 Bug Smash Fund tickets.
 
-For more about Snowflake, its design, and how it works for users, visit our blog: https://blog.torproject.org/snowflake-in-tor-browser-stable
+For more on how you can contribute to the Bug Smash Fund, visit our blog: https://blog.torproject.org/tors-bug-smash-fund-2021
 
-## Improving the user experience of connecting to Tor in Tor Browser 10.5
-https://blog.torproject.org/improving-ux-connecting-to-tor-105
+## New Release: Tor Browser 10.5
+https://blog.torproject.org/new-release-tor-browser-105
 
-Say goodbye to Tor Launcher.
+Tor Browser 10.5 is now available from the Tor Browser download page and also from our distribution directory.
 
-During the past few years, the UX team has been working on qualitatively improving the entire Tor Browser user journey: from discovering to finding, downloading, installing, starting, and browsing; we released a seamless and familiar experience for our largest user base.
+This new Tor Browser release is focused on improving the internet access of users connecting through Tor in censored contexts.
 
-Users have specifically reported that they find Tor Launcher confusing. Research exposed these pain points and has demonstrated how confusion caused by cognitive overload delays the user’s decision-making flow. Known issues with Tor Launcher, like the time gap between Tor Launcher and the main browser window opening after first-time installation, has left some users disappointed.
+What's New?
+- V2 Onion Services Deprecation
+- Snowflake is now available as a bridge
+- Improving the user experience of connecting to Tor
 
-Learn more about what's coming to next in Tor Browser, including improving the user experience of launching Tor on our blog: https://blog.torproject.org/improving-ux-connecting-to-tor-105
+Read more here: https://blog.torproject.org/new-release-tor-browser-105
+
+## Announcing Arti, a pure-Rust Tor implementation
+https://blog.torproject.org/announcing-arti
+
+Over the past year or so, we've been working on "Arti", a project to rewrite Tor in Rust. Thanks to funding from Zcash Open Major Grants (ZOMG), we can finally put the Arti project up in our priorities list, and devote more time to it.
+
+Read more about why we're doing this project, what it means for Tor users and operators, where it's going in the future, and how people can help: https://blog.torproject.org/announcing-arti
+
+
+## Transparency, Openness, and Our 2020 Financials
+https://blog.torproject.org/transparency-openness-and-our-2019-and-2020-financials
+
+Every year, the Tor Project completes a Form 990 and independent audit of our financial statements. After completing standard audits for 2019-2020, our federal tax filings and audit are both available. We upload all of our tax documents and publish a blog post about these documents in order to be transparent.
+
+Read full 2020 financial report at our blog: https://blog.torproject.org/transparency-openness-and-our-2019-and-2020-financials
+
 
 ## Upcoming Events with Tor
 
-Privacy Enhancing Technologies Symposium (PETS) | July 12 - 16, 2021
-https://blog.torproject.org/node/2022
+II Seminário Criptografia, Política e Direitos Fundamentais | August 5, 2021
+https://blog.torproject.org/node/2058
 
 Free and Open Communications on the Internet (FOCI) workshop | August 27, 2021
 https://blog.torproject.org/node/2024
 
 ## New Releases
 
-* Tor Browser 10.5a17
-https://blog.torproject.org/new-release-tor-browser-105a17
-(June 28) This version updates Tor to 0.4.6.5. This version is the last planned version before Tor Browser 10.5 is considered stable.
+* Tor Browser 11.0a2
+https://blog.torproject.org/new-release-tor-browser-110a2
+(July 20) This version updates Firefox to version 78.12.0esr on Windows, macOS, and Linux, and Firefox to version 90.1.1 on Android. This version includes important security updates to Firefox on Windows, macOS, and Linux, and Android.
 
-* Tor 0.4.6.6
-https://blog.torproject.org/node/2046
-(June 30) Tor 0.4.6.6 makes several small fixes on 0.4.6.5, including one that allows Tor to build correctly on older versions of GCC. You should upgrade to this version if you were having trouble building Tor 0.4.6.5; otherwise, there is probably no need. 
+* Tor Browser 10.5.3 (Android)
+https://blog.torproject.org/new-release-tor-browser-1053
+(July 20) This version updates Firefox to 90.1.1. This version includes important security updates to Firefox.
 
-* Tor Browser 10.0.18
-https://blog.torproject.org/new-release-tor-browser-10018
-(June 21) This version updates Tor to 0.4.5.9, including important security fixes. In addition, on Android, this version updates Firefox to 89.1.1, and NoScript to 11.2.8. 
+* Tor Browser 10.5.2 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1052
+(July 13) This version updates Firefox to 78.12.0esr. This version includes important security updates to Firefox.
 
-* Tor 0.3.5.15, 0.4.4.9, 0.4.5.9, 0.4.6.5
-https://blog.torproject.org/node/2041
-(June 14) After months of work, we have a new stable release series! Because this release includes security fixes, we are also releasing updates for our other supported releases. 
+* Tails 4.20
+https://blog.torproject.org/new-release-tails-420
+(July 13) What's new: After connecting to a local network, a Tor Connection assistant helps you connect to the Tor network. This new assistant is most useful for users who are at high risk of physical surveillance, under heavy network censorship, or on a poor Internet connection.
 
-* Tor Browser 10.5a16
-https://blog.torproject.org/new-release-tor-browser-105a16
-(June 11) This version updates Firefox to 78.11esr and Fenix to 89.0. In addition, Tor Browser 10.5a16 updates Tor to 0.4.6.4-rc. This version includes important security updates to Firefox for Desktop and security updates for Android. 
+* Tor Browser 11.0a1 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-110a1
+(July 12) This is an alpha release, an experimental version for users who want to help us test new features.
 
-* Tor Browser 10.0.17
-blog.torproject.org/new-release-tor-browser-10017
-(June 2) This version updates Firefox to 78.11esr. In addition, Tor Browser 10.0.17 updates NoScript to 11.2.8, HTTPS Everywhere to 2021.4.15, and Tor to 0.4.5.8. This version includes important security updates to Firefox for Desktop. 
+* Tor Browser 10.5.1 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-1051
+(July 7) This version is a bugfix for Android Tor Browser 10.5.
 
 ## What We're Reading
 
-* "Tell Apple: Stop enabling censorship of LGBTQ+ apps," Fight for the Future. (https://actionnetwork.org/petitions/tell-apple-stop-enabling-censorship-of-lgbtq-apps)
+* "Pegasus Project Shows the Need for Real Device Security, Accountability, and Redress for Those Facing State-Sponsored Malware," EFF. (https://www.eff.org/deeplinks/2021/07/nso-group-leak-shows-need-real-device-security-accountability-and-redress-those)
 
-* "Privacy in Action: Isabela Bagueros, Executive Director at Tor," Startpage. (https://www.startpage.com/privacy-please/privacy-advocate-articles/privacy-in-action-isabela-bagueros-executive-director-at-tor)
+* "Tor browser gets a range of privacy-enhancing improvements," Techradar. (https://www.techradar.com/news/tor-browser-gets-a-range-of-privacy-enhancing-improvements)
 
-* "Protection from hackers: How Tor is tightening security," Deutsche Welle. (https://www.dw.com/en/tor-hacker-protection-internet-security-free-media/a-57992003)
+* "The Rise of Mass Surveillance and Violence in Colombia: Human Rights and Digital Rights Under Attack," Team Community. (https://www.digitalrights.community/blog/digital-rights-in-colombia)
 
-* "Who is shutting down the internet in 2021?," AccessNow. (https://www.accessnow.org/who-is-shutting-down-the-internet-in-2021/)
+* "Access Now to ECOWAS Court: overturn Nigeria’s Twitter ban," AccessNow. (https://www.accessnow.org/nigeria-twitter-ban-ecowas-court/)
 
-* "EU court rules in Telenet copyright case: ISPs can be forced to hand over some customer data use details," The Register. (www.theregister.com/2021/06/21/court_of_justice_telenet_bittorrent_ruling/)
+## We're hiring
 
-* "22 Rights Groups Tell PayPal and Venmo to Shape Up Policies on Account Closures," EFF. (https://www.eff.org/press/releases/22-rights-groups-tell-paypal-and-venmo-shape-account-freezes-and-closures)
+One Software Developer for Anti-Censorship Team.
+https://www.torproject.org/about/jobs/software-developer-anticensorship-2/
+
+Two Software Developers, Rust.
+https://www.torproject.org/about/jobs/rust-dev/
+
+Two Software Engineers for Application Team (Browser, Android App)
+https://www.torproject.org/about/jobs/software-engineer-applications-team/
 
 ## Join Our Community
 
@@ -103,6 +130,7 @@ Learn about more opportunities to start collaborating: https://community.torproj
 Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
 
 --
+
 The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
 
 Twitter: https://twitter.com/torproject

@@ -46,102 +46,118 @@ html_body:
 									<hr />
 									<div class="css-1dbjc4n">
 									<div class="css-1dbjc4n r-1s2bzr4">
-									<h1 class="title"><a href="https://blog.torproject.org/snowflake-in-tor-browser-stable" rel="bookmark"><span property="schema:name">Snowflake moving to stable in Tor Browser 10.5</span> </a></h1>
+									<h1 class="title"><a href="http://blog.torproject.org/tors-bug-smash-fund-2021">Help Tor Smash Bugs:&nbsp; August 1-31!</a></h1>
 
-									<p dir="auto"><a href="https://blog.torproject.org/snowflake-in-tor-browser-stable"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/cover-snowflake.png?itok=VPLmK4vL" style="width: 640px; height: 320px;" /></a></p>
+									<p><a href="blog.torproject.org/tors-bug-smash-fund-2021"><img alt="bug smash" src="https://blog.torproject.org/sites/default/files/styles/full_width_retina/public/image/2x1_title_2.png" style="width: 640px; height: 320px;" /></a></p>
 
-									<p>We&#39;re excited to announce that <a href="https://snowflake.torproject.org">Snowflake</a> will be shipped as one of the default bridge options with stable versions of Tor Browser later this month.</p>
+									<p>The Bug Smash Fund is back for its third year!</p>
 
-									<p>What is Snowflake? Snowflake is a pluggable transport that uses a combination of domain fronting and peer-to-peer WebRTC connections between clients and volunteers to circumvent Internet censorship. Snowflake is highly censorship resistant, and used only for the initial bootstrapping of the connection. As such, it requires much lower bandwidth and shorter connections than existing domain fronting pluggable transports like <a href="https://gitweb.torproject.org/pluggable-transports/meek.git/">meek</a>, making it a more scalable alternative.</p>
+									<p>In 2019, we launched Tor&rsquo;s Bug Smash Fund to raise money that would support our developers finding and fixing bugs in our software and to conduct routine maintenance. Maintenance isn&rsquo;t a flashy new feature, and that makes it less interesting to many traditional funders, but it&rsquo;s what keeps the reliable stuff working--and with your support, <strong>we&rsquo;ve closed 370 Bug Smash Fund tickets</strong>.</p>
 
-									<p><a href="https://blog.torproject.org/snowflake-in-tor-browser-stable">For more about Snowflake, its design, and how it works for users, visit our blog</a>.</p>
+									<p><a href="https://blog.torproject.org/tors-bug-smash-fund-2021">For more on how you can contribute to the Bug Smash Fund, visit our blog.</a></p>
 
 									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
 									<hr />
-									<h1 class="title"><a href="https://blog.torproject.org/improving-ux-connecting-to-tor-105" rel="bookmark"><span property="schema:name">Improving the user experience of connecting to Tor in Tor Browser 10.5</span></a></h1>
+									<h1 class="title"><a href="http://blog.torproject.org/new-release-tor-browser-105">New Release: Tor Browser 10.5</a></h1>
 									</div>
 									</div>
 									</div>
 
-									<p><a href="https://blog.torproject.org/improving-ux-connecting-to-tor-105"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/cover_1.png?itok=tKmew6Ii" style="width: 640px; height: 312px;" /></a></p>
+									<p><a href="blog.torproject.org/new-release-tor-browser-105"><img align-="" alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tb105-6.gif" style="width: 380px; float: right; height: 316px;" /></a>Tor Browser 10.5 is now available from the Tor Browser download page and also from our distribution directory.</p>
 
 									<footer>
-									<p>Say goodbye to Tor Launcher.</p>
+									<p>This new Tor Browser release is focused on improving the internet access of users connecting through Tor in censored contexts.</p>
 
-									<p>During the past few years,<a href="https://community.torproject.org/user-research/reports/"> the UX team has been working on qualitatively improving the entire Tor Browser user journey:</a> from discovering to finding, downloading, installing, starting, and browsing; we released a seamless and familiar experience for our largest user base.</p>
+									<p><strong>What&#39;s New?</strong><br />
+									- V2 Onion Services Deprecation<br />
+									- Snowflake is now available as a bridge<br />
+									- Improving the user experience of connecting to Tor</p>
 
-									<p>Users have specifically reported that they find <a href="https://support.torproject.org/glossary/tor-launcher/">Tor Launcher</a> confusing. Research exposed these pain points and has demonstrated how confusion caused by cognitive overload delays the user&rsquo;s decision-making flow. Known issues with Tor Launcher, like the time gap between Tor Launcher and the main browser window opening after first-time installation, has left some users disappointed.</p>
-
-									<p><a href="https://blog.torproject.org/improving-ux-connecting-to-tor-105">Learn more about what&#39;s coming to next in Tor Browser, including improving the user experience of launching Tor on our blog</a>.</p>
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-105">Read more here.</a></p>
 									</footer>
 
 									<hr />
-									<h1 class="title"><a href="https://blog.torproject.org/privacy-lgbtqia-human-rights" rel="bookmark"><span property="schema:name">Internet Freedom, Privacy, &amp; LGBTQIA+ Human Rights</span></a></h1>
+									<h1 class="title"><a href="http://blog.torproject.org/announcing-arti">Announcing Arti, a pure-Rust Tor implementation</a></h1>
 
-									<p><span class="quickedit-field" data-quickedit-field-id="node/2037/title/en/full" property="schema:name"><a href="https://blog.torproject.org/privacy-lgbtqia-human-rights"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/pride-2021-blog.png?itok=giv_ZoWX" style="width: 640px; height: 360px;" /></a></span></p>
+									<p><span class="quickedit-field" data-quickedit-field-id="node/2037/title/en/full" property="schema:name"><a href="blog.torproject.org/announcing-arti"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/ferris-and-onions_0.jpg.png" style="width: 640px; height: 360px;" /></a></span></p>
 
 									<div property="schema:text">
-									<p>Every June, we recognize Pride month because internet freedom and the human rights of LGBTQIA+ people go hand in hand.</p>
+									<p>Over the past year or so, we&#39;ve been working on &quot;Arti&quot;, a project to rewrite Tor in Rust. Thanks to funding from Zcash Open Major Grants (ZOMG), we can finally put the Arti project up in our priorities list, and devote more time to it.</p>
 
-									<p>LGBTQIA+ people have the right to access information, resources, and community relevant to their identities without being tracked, surveilled, censored, or persecuted&mdash;but in many parts of the world, governments block LGBTQIA+ content and punish people who engage with it. As a result, LGBTQIA+ people need privacy and censorship circumvention tools like Tor to communicate with their peers, find important resources, or fight for their rights without facing violence.</p>
+									<p><a href="https://blog.torproject.org/announcing-arti">Read more about why we&#39;re doing this project, what it means for Tor users and operators, where it&#39;s going in the future, and how people can help.</a></p>
+
+									<hr />
+									<h1 class="title"><a href="http://blog.torproject.org/transparency-openness-and-our-2019-and-2020-financials">Transparency, Openness, and Our 2020 Financials</a></h1>
+
+									<p><span class="quickedit-field" data-quickedit-field-id="node/2037/title/en/full" property="schema:name"><a href="blog.torproject.org/transparency-openness-and-our-2019-and-2020-financials"><img alt="" src="https://blog.torproject.org/sites/default/files/styles/full_width/public/image/tpo-donut-chart.png" style="width: 640px; height: 360px;" /></a></span></p>
+
+									<div property="schema:text">
+									<p>Every year, the Tor Project completes a Form 990 and independent audit of our financial statements. After completing standard audits for 2019-2020, our federal tax filings and audit are both available. We upload all of our tax documents and publish a blog post about these documents in order to be transparent.</p>
+
+									<p><a href="https://blog.torproject.org/transparency-openness-and-our-2019-and-2020-financials">Read&nbsp;full 2020 financial report at our blog.</a></p>
 									</div>
-
-									<p><a href="https://blog.torproject.org/privacy-lgbtqia-human-rights">This June and year round, the Tor Project stands in solidarity with the LGBTQIA+ community</a>. Happy Pride!&nbsp;</p>
+									</div>
 
 									<hr />
 									<h1><span class="views-field views-field-title"><span class="field-content">Upcoming Events with Tor</span></span></h1>
 
-									<p><span class="quickedit-field" data-quickedit-field-id="node/2022/title/en/full"><a href="https://blog.torproject.org/node/2022">Privacy Enhancing Technologies Symposium (PETS) </a>| </span><time datetime="2021-07-12T12:00:00Z">July 12</time> -<time datetime="2021-07-16T12:00:00Z"> 16, 2021</time></p>
+									<p><a href="https://blog.torproject.org/node/2058"><span class="quickedit-field" data-quickedit-field-id="node/2022/title/en/full">II Semin&aacute;rio Criptografia, Pol&iacute;tica e Direitos Fundamentais</span></a>&nbsp;<span class="quickedit-field" data-quickedit-field-id="node/2022/title/en/full">| </span><time datetime="2021-07-12T12:00:00Z">August 5</time><time datetime="2021-07-16T12:00:00Z">, 2021</time></p>
 
 									<p><span class="views-field views-field-title"><span class="field-content"><a href="https://blog.torproject.org/node/2024" hreflang="en">Free and Open Communications on the Internet (FOCI) workshop</a></span></span><a href="https://blog.torproject.org/node/2024" hreflang="en"> </a>| August 27, 2021</p>
 
 									<hr />
 									<h1>New Releases</h1>
 
-									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a17" rel="bookmark"><span property="schema:name">Tor Browser 10.5a17</span></a></h2>
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-110a2" rel="bookmark"><span property="schema:name">Tor Browser 11.0a2</span></a></p>
 
-									<p>(June 28) This version updates Tor to 0.4.6.5. This version is the last planned version before Tor Browser 10.5 is considered stable. <a href="https://blog.torproject.org/new-release-tor-browser-105a17">Full changelog</a>.</p>
+									<p>(July&nbsp;20) This version updates Firefox to version 78.12.0esr on Windows, macOS, and Linux, and Firefox to version 90.1.1 on Android. This version includes important security updates to Firefox on Windows, macOS, and Linux, and Android. <a href="https://blog.torproject.org/new-release-tor-browser-110a2">Full changelog</a>.</p>
 
-									<h2 class="title"><a href="https://blog.torproject.org/node/2046" rel="bookmark"><span property="schema:name">Tor 0.4.6.6</span></a></h2>
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1053" rel="bookmark"><span property="schema:name">Tor Browser 10.5.3 (Android)</span></a></p>
 
-									<p>(June 30) Tor 0.4.6.6 makes several small fixes on 0.4.6.5, including one that allows Tor to build correctly on older versions of GCC. You should upgrade to this version if you were having trouble building Tor 0.4.6.5; otherwise, there is probably no need. <a href="https://blog.torproject.org/node/2046">Full changelog</a>.</p>
+									<p>(July 20) This version updates Firefox to 90.1.1. This version includes important security updates to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-1053">Full changelog</a>.</p>
 
-									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-10018" rel="bookmark"><span property="schema:name">Tor Browser 10.0.18</span></a></h2>
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1052" rel="bookmark"><span property="schema:name">Tor Browser 10.5.2 (Windows, macOS, Linux)</span></a></p>
 
-									<p><span property="schema:name">(June 21) </span>This version updates Tor to 0.4.5.9, including important security fixes. In addition, on Android, this version updates Firefox to 89.1.1, and NoScript to 11.2.8. <a href="https://blog.torproject.org/new-release-tor-browser-10018">Full changelog</a>.</p>
+									<p><span property="schema:name">(July 13) </span>This version updates Firefox to 78.12.0esr. This version includes important security updates to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-1052">Full changelog</a>.</p>
 
-									<h2>Tor <a href="https://blog.torproject.org/node/2041" rel="bookmark"><span property="schema:name">0.3.5.15, 0.4.4.9, 0.4.5.9, 0.4.6.5</span></a></h2>
+									<p><a href="https://blog.torproject.org/new-release-tails-420">Tails 4.20</a></p>
 
-									<p>(June 14) After months of work, we have a new stable release series! Because this release includes security fixes, we are also releasing updates for our other supported releases. <a href="https://blog.torproject.org/node/2041">Full changelog</a>.</p>
+									<p>(July 13) What&#39;s new: After connecting to a local network, a <em>Tor Connection</em> assistant helps you connect to the Tor network. This new assistant is most useful for users who are at high risk of physical surveillance, under heavy network censorship, or on a poor Internet connection. <a href="https://blog.torproject.org/new-release-tails-420">Full changelog</a>.</p>
 
-									<h2 class="title"><a href="https://blog.torproject.org/new-release-tor-browser-105a16" rel="bookmark"><span property="schema:name">Tor Browser 10.5a16</span></a></h2>
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-110a1" rel="bookmark"><span property="schema:name">Tor Browser 11.0a1 (Android Only)</span></a></p>
 
-									<p>(June 11) This version updates Firefox to 78.11esr and Fenix to 89.0. In addition, Tor Browser 10.5a16 updates Tor to 0.4.6.4-rc. This version includes important security updates to Firefox for Desktop and security updates for Android. <a href="https://blog.torproject.org/new-release-tor-browser-105a16">Full changelog</a>.</p>
+									<p>(July 12) This is an alpha release, an experimental version for users who want to help us test new features. <a href="https://blog.torproject.org/new-release-tor-browser-110a1">Full changelog</a>.</p>
 
-									<h2 class="title"><a href="http://blog.torproject.org/new-release-tor-browser-10017"><span property="schema:name">Tor Browser 10.0.17</span></a></h2>
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1051"><span property="schema:name">Tor Browser 10.5.1 (Android Only)</span></a></p>
 
-									<p>(June 2) This version updates Firefox to 78.11esr. In addition, Tor Browser 10.0.17 updates NoScript to 11.2.8, HTTPS Everywhere to 2021.4.15, and Tor to 0.4.5.8. This version includes important security updates to Firefox for Desktop. <a href="https://blog.torproject.org/new-release-tor-browser-10017">Full changelog</a>.</p>
+									<p>(July 7) This version is a bugfix for Android Tor Browser 10.5. <a href="https://blog.torproject.org/new-release-tor-browser-1051">Full changelog</a>.</p>
 
 									<hr />
 									<h1>What We&#39;re Reading</h1>
 
-									<p>&quot;Tell Apple: Stop enabling censorship of LGBTQ+ apps,&quot; <a href="https://actionnetwork.org/petitions/tell-apple-stop-enabling-censorship-of-lgbtq-apps">Fight for the Future</a>.</p>
+									<p>&quot;Pegasus Project Shows the Need for Real Device Security, Accountability, and Redress for Those Facing State-Sponsored Malware,&quot; <a href="https://actionnetwork.org/petitions/tell-apple-stop-enabling-censorship-of-lgbtq-apps">E</a><a href="https://www.eff.org/deeplinks/2021/07/nso-group-leak-shows-need-real-device-security-accountability-and-redress-those">FF</a>.</p>
 
-									<p>&quot;Privacy in Action: Isabela Bagueros, Executive Director at Tor,&quot; <span class="article-container"><a href="https://www.startpage.com/privacy-please/privacy-advocate-articles/privacy-in-action-isabela-bagueros-executive-director-at-tor">Startpage</a>. </span></p>
+									<p>&quot;Tor browser gets a range of privacy-enhancing improvements,&quot; <a href="https://www.techradar.com/news/tor-browser-gets-a-range-of-privacy-enhancing-improvements">Techradar</a><span class="article-container">. </span></p>
 
 									<div>
+									<p>&quot;The Rise of Mass Surveillance and Violence in Colombia: Human Rights and Digital Rights Under Attack,&quot; <a href="https://www.dw.com/en/tor-hacker-protection-internet-security-free-media/a-57992003">T</a><a href="https://www.digitalrights.community/blog/digital-rights-in-colombia">eam Community</a>.</p>
+
+									<p>&quot;Access Now to ECOWAS Court: overturn Nigeria&rsquo;s Twitter ban<span data-article-description="A Motherboard investigation found the algorithmic surveillance tools allow racist groups like the KKK while flagging LGBTQ health sites as 'porn'." data-article-id="60885fdfd96cff009b92824a" data-article-locale="en_us" data-article-title="Schools Use Software That Blocks LGBTQ+ Content, But Not White Supremacists" data-article-url="/en/article/v7em39/schools-use-software-that-blocks-lgbtq-content-but-not-white-supremacists" data-direction="down">,</span>&quot; <a href="https://www.accessnow.org/nigeria-twitter-ban-ecowas-court/">AccessNow</a>.</p>
+
+									<hr />
+									<h1>We&#39;re hiring</h1>
+
+									<p><a href="http://www.torproject.org/about/jobs/software-developer-anticensorship-2/">One&nbsp;Software Developer for Anti-Censorship Team.</a></p>
+
+									<p><a href="http://www.torproject.org/about/jobs/rust-dev/">Two&nbsp;Software Developers, Rust.</a></p>
+
 									<div>
-									<p>&quot;Protection from hackers: How Tor is tightening security,&quot; <a href="https://www.dw.com/en/tor-hacker-protection-internet-security-free-media/a-57992003">Deutsche Welle</a>.</p>
-
-									<p>&quot;Who is shutting down the internet in 2021?<span data-article-description="A Motherboard investigation found the algorithmic surveillance tools allow racist groups like the KKK while flagging LGBTQ health sites as 'porn'." data-article-id="60885fdfd96cff009b92824a" data-article-locale="en_us" data-article-title="Schools Use Software That Blocks LGBTQ+ Content, But Not White Supremacists" data-article-url="/en/article/v7em39/schools-use-software-that-blocks-lgbtq-content-but-not-white-supremacists" data-direction="down">,</span>&quot; <a href="https://www.accessnow.org/who-is-shutting-down-the-internet-in-2021/">AccessNow</a>.</p>
-
-									<p>&quot;EU court rules in Telenet copyright case: ISPs can be forced to hand over some customer data use details,&quot; <a href="https://www.theregister.com/2021/06/21/court_of_justice_telenet_bittorrent_ruling/">The Register</a>.<br />
-									<br />
-									&quot;22 Rights Groups Tell PayPal and Venmo to Shape Up Policies on Account Closures,&quot; <a href="https://www.eff.org/press/releases/22-rights-groups-tell-paypal-and-venmo-shape-account-freezes-and-closures">EFF</a>.</p>
+									<p><a href="https://www.torproject.org/about/jobs/software-engineer-applications-team/">&nbsp;Two Software Engineers for Application Team (Browser, Android App)</a></p>
 									</div>
 									</div>
 
 									<hr />
+
                   <h1>Join Our Community</h1>
                   <p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
 
