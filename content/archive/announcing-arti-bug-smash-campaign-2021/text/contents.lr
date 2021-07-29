@@ -10,7 +10,7 @@ title: v2 onion services deprecation, Bug Smash  2021, Announcing Arti
 ---
 body:
 
-## Onion service admins must upgrade to v3 onion services as soon as possible //
+## Onion service admins must upgrade to v3 onion services as soon as possible
 https://blog.torproject.org/v2-deprecation-timeline
 
 If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
