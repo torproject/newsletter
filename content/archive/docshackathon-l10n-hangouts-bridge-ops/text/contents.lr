@@ -1,0 +1,117 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-09-02
+---
+title: v2 onion services deprecation, new Board members, NFT auction results
+---
+body:
+
+## Onion service admins must upgrade to v3 onion services as soon as possible
+https://blog.torproject.org/v2-deprecation-timeline
+
+If you are an onion site administrator, you must upgrade to v3 onion services as soon as possible.
+
+As we announced last year, v2 onion services will be deprecated and obsolete in Tor 0.4.6.x. As of April 2021, Tor Browser Alpha uses this version of Tor and v2 addresses no longer work in this and future versions of Tor Browser Alpha.
+
+When Tor Browser stable moves to Tor 0.4.6.x in October 2021, v2 onion addresses will be completely unreachable.
+
+Why are we deprecating v2 onion services? Safety. Technologies used in v2 onion services are vulnerable to different kinds of attacks, and v2 onion services are no longer being developed or maintained. The new version of onion services provides improved encryption and enhanced privacy for administrators and users.
+
+It's critical that onion service administrators migrate to v3 onion services and work to inform users about this change as soon as possible.
+
+Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
+
+## This Week: Documentation Hackathon, August 30 - September 3 
+https://blog.torproject.org/docshackathon-2021
+
+Between August 30 and September 3, the Tor Project will host the third edition of our user documentation hackathon, the DocsHackathon.
+
+If you've never volunteered with us before, this is a great opportunity for you to become involved in the community, get closer to our work, and make meaningful contributions. The DocsHackathon is a totally remote and online event.
+
+Find out how to join the event on our blog! https://blog.torproject.org/docshackathon-2021
+
+## Join Monthly Tor Localization Hangouts
+https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localization-Hangouts
+
+Every third Friday of the month, the Tor Localization team meets for our Monthly Localization Hangout. We use this time to translate together, share tricks, have fun while translating, meet fellow translators, and find out about the l10n priorities for the Tor Project.
+
+NEXT HANGOUT: September 17, 2021 @ 12:00 UTC (see other timezones: https://www.timeanddate.com/worldclock/fixedtime.html?msg=L10n+Hangout+Friday&iso=20210820T12&p1=141&ah=8)
+
+If you are not a translator yet, you still have time to become one! https://community.torproject.org/localization/becoming-tor-translator/
+
+Find out more about Localization Hangouts and how to join us: https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localization-Hangouts
+
+##Get Involved with Arti Development
+https://blog.torproject.org/announcing-arti
+
+Over the past year or so, we've been working on "Arti", a project to rewrite Tor in Rust (https://blog.torproject.org/announcing-arti). Thanks to funding from Zcash Open Major Grants (ZOMG), we can finally put the Arti project up in our priorities list!
+
+We meet every two weeks to discuss development progress, and all meetings are open to the public, plus recordings are uploaded to our YouTube channel: https://www.youtube.com/playlist?list=PLwyU2dZ3LJErozq7cTtImuWkSn_34pEpq.
+
+If you're interested in contributing to Arti, get started here: https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CONTRIBUTING.md.
+
+## ISO: Tor Bridge Operators
+
+[Bridge relays](https://support.torproject.org/#censorship-7) are Tor relays that are not listed in the public Tor directory. Bridges are useful for Tor users under oppressive regimes that have blocked access to the regular Tor network, because they help those users circumvent that censorship.
+
+We need your help to run more bridges! Bridges are relatively easy and low bandwidth to operate, but they have a big impact on people impacted by internet censorship. By running a Tor bridge, you help people bypass censorship to browse freely and privately.
+
+Learn how to set up a bridge today with our easy step-by-step guide: https://community.torproject.org/relay/setup/bridge/.
+
+## New Releases
+
+* Tor Browser 11.0a5
+https://blog.torproject.org/new-release-tor-browser-110a5
+(August 24) This version updates Tor to 0.4.6.7 that includes a fix for a security issue. On Android, this version updates Firefox to 91.2.0. 
+
+* Tor Browser 10.5.5
+https://blog.torproject.org/new-release-tor-browser-1055
+(August 20) This version updates Tor to 0.4.5.10 that includes a fix for a security issue. On Android, this version updates Firefox to 91.2.0 and includes important security updates. 
+
+* Tor Browser 11.0a4
+https://blog.torproject.org/new-release-tor-browser-110a4
+(August 16) This version updates Firefox to version 78.13.0esr on Windows, macOS, and Linux, and Firefox to version 91.1.0 on Android. This version includes important security updates to Firefox on Windows, macOS, and Linux, and Android. 
+
+* Tor 0.3.5.16, 0.4.5.10 and 0.4.6.7
+https://blog.torproject.org/node/2062
+(August 16) Tor 0.4.6.7 fixes several bugs from earlier versions of Tor, including one that could lead to a denial-of-service attack. Everyone running an earlier version, whether as a client, a relay, or an onion service, should upgrade to Tor 0.3.5.16, 0.4.5.10, or 0.4.6.7. Full changelog.
+
+* Tor Browser 10.5.4 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1054
+(August 10) This version updates Firefox to 78.13.0esr. This version includes important security updates to Firefox. Full changelog.
+
+* Tor Browser 11.0a3 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-110a3
+(August 5) This version updates Fenix to 91.0.0-beta.5. 
+
+## What We're Reading
+
+* "This fall, tech companies will try to push private browsing into the mainstream," DigiDay. (https://digiday.com/marketing/this-fall-tech-companies-will-try-to-push-private-browsing-into-the-mainstream/)
+
+* "No Access: LGBTIQ Website Censorship in Six Countries," Citizen Lab, OONI, & OutRight Action International. (https://ooni.org/post/2021-no-access-lgbtiq-website-censorship-six-countries/)
+
+* "Policy groups ask Apple to drop plans to inspect iMessages, scan for abuse images," Reuters. (https://www.reuters.com/technology/exclusive-policy-groups-ask-apple-drop-plans-inspect-imessages-scan-abuse-images-2021-08-19/)
+
+* "The All-Seeing "i": Apple Just Declared War on Your Privacy," Edward Snowden. (https://edwardsnowden.substack.com/p/all-seeing-i)
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject
