@@ -1,0 +1,158 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-10-01
+---
+title: The state of onion services & PrivChat #5
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+<h1 class="title">Support for v2 onion services ending soon</h1>
+
+									<p><a href="https://blog.torproject.org/v2-deprecation-timeline"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/v2-deprecation-banner.png" style="width: 640px; height: 360px;" /></a></p>
+
+									<div property="schema:text">
+									<p class="ace-line" id="magicdomid1413"><a href="http://blog.torproject.org/v2-deprecation-timeline">As we announced last year</a>,<span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> </span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm u">v2 onion addresses will be completely unreachable</span><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"> in an eminent Tor Browser release.</span></p>
+
+									<p class="ace-line"><strong>If you are a Tor Browser user, you do not need to take any action, download any new software, or otherwise make changes to how you use Tor Browser.</strong> Once this upgrade happens, when you attempt to visit an onion site with a v2 onion address, you will see an error message. It is the responsibility of onion site administrators to upgrade their sites to the correct version of onion services.</p>
+
+									<p class="ace-line"><span class="author-a-9z85zz89zz71zz80zq1ez69z9z79zjydz68zm"><a href="http://blog.torproject.org/v2-deprecation-timeline">Read more about the deprecation on our blog</a>.</span></p>
+									</div>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1 class="title">On the state of v3 onion services usage</h1>
+
+									<p><a href="https://blog.torproject.org/v3-onion-services-usage"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-consensus.png" style="width: 600px; height: 450px;" /></a></p>
+
+									<p><em>Guest post by Tobias H&ouml;ller</em></p>
+
+									<p>With the <a href="https://blog.torproject.org/v2-deprecation-timeline" rel="noopener" target="_blank">deprecation</a> of v2 onion services right around the corner, it is a good time to talk about v3 onion services and their current adoption. Thanks to the privacy improvements of v3 onion services, they leak much less sensitive information when compared to v2 onion services. However, these changes do not completely stop the hidden service directory from revealing interesting metadata about their usage so far.</p>
+
+									<p>The results&nbsp;<a href="https://doi.org/10.1145/3473604.3474565" rel="noopener" target="_blank"><em>On the state of V3 onion services</em> (by T. Hoeller, M. Roland, R. Mayrhofer)</a> give a first good estimate on the total number of v3 onion services, and show that the number of deployed v3 onion services has been on the rise throughout 2021. So if you still operate only a v2 onion service, now would be a great time to get on board and upgrade to v3.</p>
+
+									<p><a href="https://blog.torproject.org/v3-onion-services-usage">Read more the state of v3 onion services on our blog.</a></p>
+
+									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
+									<hr />
+									<h1 class="title">PrivChat #5: Protection against Pegasus</h1>
+									</div>
+									</div>
+									</div>
+
+									<p data-sourcepos="1:1-1:203" dir="auto"><a href="https://torproject.org/privchat"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/privchat-5-social-announcement.png" style="width: 640px; height: 360px;" /></a></p>
+
+									<div>
+									<p class="font-family-serif">Every year, governments, law enforcement agencies, militaries, and corporations invest billions of dollars into building and buying malicious spyware--software designed to silently infiltrate a user&#39;s device and allow attackers to view the contents without detection.</p>
+
+									<p class="font-family-serif">This year, the Pegasus Project revealed that users of this kind of spyware, known as Pegasus and built by the NSO group, had targeted the phones that belong to thousands of people in more than 50 countries, including business executives, politicians, journalists, and human rights activists.</p>
+
+									<p class="font-family-serif">In the latest edition of PrivChat, <strong>Likhita</strong> and <strong>Etienne Maynier</strong> of Amnesty International and <strong>John Scott-Railton</strong> of Citizen Lab to discuss these issues with <strong>Roger Dingledine</strong> of the Tor Project.</p>
+
+									<p class="font-family-serif"><a href="https://www.youtube.com/watch?v=4ovmcZtaacY">Watch the recording of PrivChat 5: Protection against Pegasus on our YouTube channel.</a></p>
+									</div>
+
+									<hr />
+									<h1>Upcoming Events</h1>
+
+									<p><a href="https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localization-Hangouts">Monthly Tor Localization Hangout</a>, October 15, 2021 @ 12:00 UTC onward.</p>
+
+									<p><a href="https://blog.torproject.org/events/day/20211021">Global Encryption Day</a>, October 21, 2021.</p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-110a7" rel="bookmark"><span property="schema:name">Tor Browser 11.0a7</span></a></p>
+
+									<p>(Sept. 25) This version updates Firefox to version 78.14.0esr on Windows, macOS, and Linux, and this version updates Firefox&#39;s GeckoView component to 92.0 on Android. <a href="https://blog.torproject.org/new-release-tor-browser-110a7">Full changelog</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/tor-0.4.7.1-alpha-released" rel="bookmark"><span property="schema:name">Tor 0.4.7.1-alpha</span></a></p>
+
+									<p>(Sept. 17) This version is the first alpha release of the 0.4.7.x series. One major feature is Vanguards Lite, from proposal 333, to help mitigate guard discovery attacks against onion services. <a href="https://blog.torproject.org/tor-0.4.7.1-alpha-released">Full changelog</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1056" rel="bookmark"><span property="schema:name">Tor Browser 10.5.6 (Windows, macOS, Linux)</span></a></p>
+
+									<p><span property="schema:name">(Sept. 8) </span>This version updates Firefox to 78.14.0esr. This version includes important security updates to Firefox. <a href="https://blog.torproject.org/new-release-tor-browser-1056">Full changelog</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tails-422" rel="bookmark"><span property="schema:name">Tails 4.22</span></a></p>
+
+									<p>(Sept. 7) In Tails 4.22, we focused on solving the most important issues in the <em>Tor Connection</em> assistant to make it more robust and easier to use. <a href="https://blog.torproject.org/new-release-tails-422">Full changelog</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-110a6" rel="bookmark"><span property="schema:name">Tor Browser 11.0a6 (Android Only)</span></a></p>
+
+									<p>(Sept. 2) This version updates Fenix&#39;s Geckoview component to 92.0b9. <a href="https://blog.torproject.org/new-release-tor-browser-110a6">Full changelog</a>.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>The spy tech that followed kids home for remote learning&mdash;and won&rsquo;t leave - <a href="https://www.fastcompany.com/90677509/the-spy-tech-that-followed-kids-home-for-remote-learning-and-wont-leave">Fast Company</a>.</p>
+
+									<p class="left"><span class="article-container">How 9/11 shaped U.S. mass surveillance and stifled digital rights - <a href="https://news.trust.org/item/20210910172408-lkgfd/">Thomson Reuters Foundation</a>.</span></p>
+
+									<p class="article-title">No Access: LGBTIQ Website Censorship in Six Countries - <a href="https://ooni.org/post/2021-no-access-lgbtiq-website-censorship-six-countries/">OutRight Action International, The Citizen Lab, OONI</a>.</p>
+
+									<div class="dcr-1nupfq9">
+									<div class="dcr-krkkhw">
+									<div class="dcr-13a2edo">
+									<p class="dcr-125vfar">Study finds growing government use of sensitive data to &lsquo;nudge&rsquo; behaviour - <a href="https://www.theguardian.com/technology/2021/sep/08/study-finds-growing-government-use-of-sensitive-data-to-nudge-behaviour">The Guardian</a>.</p>
+
+									<p class="article__title">Apple delays plans to roll out CSAM detection in iOS 15 after privacy backlash - <a href="https://techcrunch.com/2021/09/03/apple-csam-detection-delayed/">TechCrunch</a>.</p>
+									</div>
+									</div>
+									</div>
+
+									<hr />
+<h1>Join Our Community</h1>
+                  <p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+                  <p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+                  <p><a href="https://donate.torproject.org">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+                  <div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 15px;">
+                  <p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+                  <hr />
+                  <p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/tor-facebook.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/tor-twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram-tor-icon_0.jpg" style="width: 25px; height: 25px; margin: 3px;" /></a></p>
+
+                  <p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->

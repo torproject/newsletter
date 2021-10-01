@@ -1,0 +1,94 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-10-01
+---
+title: The state of onion services & PrivChat #5
+---
+body:
+
+## Tor Browser 11 will end support for v2 onion services
+https://blog.torproject.org/v2-deprecation-timeline
+
+As we announced last year, when Tor Browser 11 stable moves to Tor 0.4.6.x in October 2021, v2 onion addresses will be completely unreachable via Tor Browser.
+
+If you are a Tor Browser user, you do not need to take any action, download any new software, or otherwise make changes to how you use Tor Browser. Once you upgrade to Tor Browser 11 stable, when you attempt to visit an onion site with a v2 onion address, you will see an error message. It is the responsibility of onion site administrators to upgrade their sites to the correct version of onion services.
+
+Read more about the deprecation on our blog: https://blog.torproject.org/v2-deprecation-timeline
+
+## On the state of v3 onion services usage
+https://blog.torproject.org/v3-onion-services-usage
+
+Guest post by Tobias Höller
+
+With the deprecation of v2 onion services right around the corner, it is a good time to talk about v3 onion services and their current adoption. Thanks to the privacy improvements of v3 onion services, they leak much less sensitive information when compared to v2 onion services. However, these changes do not completely stop the hidden service directory from revealing interesting metadata about their usage so far.
+
+The results On the state of V3 onion services (by T. Hoeller, M. Roland, R. Mayrhofer) give a first good estimate on the total number of v3 onion services, and show that the number of deployed v3 onion services has been on the rise throughout 2021. So if you still operate only a v2 onion service, now would be a great time to get on board and upgrade to v3.
+
+Read more the state of v3 onion services on our blog: https://blog.torproject.org/v3-onion-services-usage.
+
+## PrivChat #5: Protection against Pegasus
+https://torproject.org/privchat
+
+Every year, governments, law enforcement agencies, militaries, and corporations invest billions of dollars into building and buying malicious spyware--software designed to silently infiltrate a user's device and allow attackers to view the contents without detection.
+
+This year, the Pegasus Project revealed that users of this kind of spyware, known as Pegasus and built by the NSO group, had targeted the phones that belong to thousands of people in more than 50 countries, including business executives, politicians, journalists, and human rights activists.
+
+In the latest edition of PrivChat, Likhita and Etienne Maynier of Amnesty International and John Scott-Railton of Citizen Lab to discuss these issues with Roger Dingledine of the Tor Project.
+
+Watch the recording of PrivChat 5: Protection against Pegasus on our YouTube channel: www.youtube.com/watch?v=4ovmcZtaacY.
+
+## Upcoming Events
+
+* Monthly Tor Localization Hangout, October 15, 2021 @ 12:00 UTC onward.
+https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localization-Hangouts
+
+* Global Encryption Day, October 21, 2021.
+https://blog.torproject.org/events/day/20211021
+
+## New Releases
+
+* Tor Browser 11.0a7
+https://blog.torproject.org/new-release-tor-browser-110a7
+(Sept. 25) This version updates Firefox to version 78.14.0esr on Windows, macOS, and Linux, and this version updates Firefox's GeckoView component to 92.0 on Android. 
+
+* Tor 0.4.7.1-alpha
+https://blog.torproject.org/tor-0.4.7.1-alpha-released
+(Sept. 17) This version is the first alpha release of the 0.4.7.x series. One major feature is Vanguards Lite, from proposal 333, to help mitigate guard discovery attacks against onion services. 
+
+* Tor Browser 10.5.6 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1056
+(Sept. 8) This version updates Firefox to 78.14.0esr. This version includes important security updates to Firefox. 
+
+* Tails 4.22
+https://blog.torproject.org/new-release-tails-422
+(Sept. 7) In Tails 4.22, we focused on solving the most important issues in the Tor Connection assistant to make it more robust and easier to use. 
+
+* Tor Browser 11.0a6 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-110a6
+(Sept. 2) This version updates Fenix's Geckoview component to 92.0b9. 
+
+## What We're Reading
+
+* The spy tech that followed kids home for remote learning—and won’t leave - Fast Company. https://www.fastcompany.com/90677509/the-spy-tech-that-followed-kids-home-for-remote-learning-and-wont-leave
+
+* How 9/11 shaped U.S. mass surveillance and stifled digital rights - Thomson Reuters Foundation. https://news.trust.org/item/20210910172408-lkgfd/
+
+* No Access: LGBTIQ Website Censorship in Six Countries - OutRight Action International, The Citizen Lab, OONI. https://ooni.org/post/2021-no-access-lgbtiq-website-censorship-six-countries/
+
+* Study finds growing government use of sensitive data to ‘nudge’ behaviour - The Guardian. https://www.theguardian.com/technology/2021/sep/08/study-finds-growing-government-use-of-sensitive-data-to-nudge-behaviour
+
+* Apple delays plans to roll out CSAM detection in iOS 15 after privacy backlash - TechCrunch. https://techcrunch.com/2021/09/03/apple-csam-detection-delayed/
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
