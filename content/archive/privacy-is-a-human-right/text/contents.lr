@@ -1,0 +1,105 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-11-01
+---
+title: Privacy is a human right, the Tor Forum, Tor + Matrix
+---
+body:
+
+## [Stand up for the human right to privacy](https://torproject.org/donate/donate-phr-tn1)
+
+Every year, the 501(c)(3) nonprofit that builds and distributes the technology behind the Tor network and Tor Browser holds a fundraiser and we ask for your support. And every year, we unveil new gifts and a slogan that highlight our values and the importance of Tor.
+
+This year, our message is simple: Privacy is a human right. Privacy is about protecting what makes us humans: our day-to-day behavior, our personality, our fears, our relationships, and our vulnerabilities. Everyone deserves privacy.
+
+However, governments, corporations, and other powerful entities block us from exercising our right to privacy in many different ways. And that's why Tor is here—to help you exercise your human right to privacy even when it’s not easy.
+
+Stand up for the human right to privacy by supporting Tor. Your donations will be matched, 1:1, by Friends of Tor now through the end of the year: https://torproject.org/donate/donate-phr-tn1.
+
+## [Tor Forum: a new discussion platform for the Tor Community](https://blog.torproject.org/tor-forum-a-new-discussion-platform)
+
+Communicating and finding help online is crucial to building a solid community. After many years of using emails, mailing lists, blog comments, and IRC to help Tor users, we believe that time has come to improve our discussion channels.
+
+Today, we're happy to announce a new discussion and user support platform: the Tor Forum. The new forum is powered by Discourse: a modern, friendly, and free and open source software.
+
+We invite the Tor community to join the Tor Forum and contribute with us! https://blog.torproject.org/tor-forum-a-new-discussion-platform
+
+## [Celebrating the first Global Encryption Day](https://blog.torproject.org/first-global-encryption-day)
+
+This month we celebrated the very first Global Encryption Day, organized by the Global Encryption Coalition, where we are a member. Global Encryption Day is an opportunity for businesses, civil society organizations, technologists, and millions of Internet users worldwide to show our communities why encryption matters. It’s also a day for all of us to pledge to Make the Switch to encrypted services (like Tor!) and prioritize our privacy and security online.
+
+On our blog, learn more about Global Encryption Day and the Global Encryption Day Statement, which the Tor Project and more than 140 other organizations signed this year: https://blog.torproject.org/first-global-encryption-day.
+
+## [Tor entering the Matrix](https://blog.torproject.org/entering-the-matrix)
+
+For a long time, the Tor community has been running many day-to-day activities using the IRC network known as OFTC. IRC has worked out well for us, and our community on IRC has been evolving over the years with new people joining in and new channels appearing for specific needs in the organization.
+
+Now, we are happy to announce an expansion of the Tor community's day-to-day conversations by bridging our IRC community the Matrix platform. For regular Tor users, it means that you can chat with us using a friendly App like Element. We are looking forward to seeing new community members in our new Matrix bridged community!
+
+Learn more about Tor + Matrix on our blog: https://blog.torproject.org/entering-the-matrix.
+
+## Upcoming Events
+
+* State of the Onion, November 17, 2021 @ 17:00 UTC.
+https://blog.torproject.org/node/2088
+
+* Monthly Tor Localization Hangout, November 19, 2021 @ 12:00 UTC onward.
+https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localization-Hangouts
+
+## New Releases
+
+* Arti 0.0.1
+https://forum.torproject.net/t/arti-0-0-1-is-released-an-embeddable-tor-client-in-rust/
+(Oct. 29) An embeddable Tor client in Rust. Our main goal for the 0.0.1 release has been to have no critical missing security features. There are probably still a lot of bugs, though, so you shouldn’t use this in production yet.
+
+* Tor Browser 10.5.10
+https://blog.torproject.org/new-release-tor-browser-10510
+(Oct. 25) This version launches the Privacy is a Human Right fundraiser. 
+
+* Release 0.3.5.17, 0.4.5.11, 0.4.6.8 and 0.4.7.2-alpha
+https://forum.torproject.net/t/release-0-3-5-17-0-4-5-11-0-4-6-8-and-0-4-7-2-alpha/148
+(Oct. 25)  This Tor stable release completely removes v2 onion services. Onion operators must upgrade to v3. Alpha release: testing Congestion Control proposal and MiddleOnly Relay Flag.
+
+* Tor Browser 11.0a9 (Windows/macOS/Linux)
+https://blog.torproject.org/new-release-tor-browser-110a9
+(Oct. 16) This version updates Firefox to version 91.2.0esr on Windows, macOS, and Linux. This version includes important security updates to Firefox on Windows, macOS, and Linux.
+
+* Tor Browser 11.0a8 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-110a8
+(Oct. 11) This version is a bugfix for Android.
+
+* Tor Browser 10.5.9 (Android Only)
+https://blog.torproject.org/new-release-tor-browser-1059
+(Oct. 10) This version is a bugfix for Android.
+
+* Tor Browser 10.5.8
+https://blog.torproject.org/new-release-tor-browser-1058
+(Oct. 6) This version updates Firefox on Windows, macOS, and Linux to 78.15.0esr. This version includes important security updates to Firefox.
+
+## What We're Reading
+
+* Beyond the VPN: Ultimate online privacy, with The Tor Project’s Isabela Bagueros, Fast Company. https://blog.malwarebytes.com/podcast/2021/10/beyond-the-vpn-ultimate-online-privacy-with-the-tor-projects-isabella-bagueros-lock-and-code-s02e20/
+
+* Will the Right to Protest survive its migration online?, Access Now. https://www.accessnow.org/right-to-protest-migration-online/
+
+* Edward Snowden: 'If you weaken encryption, people will die,' TNW. https://thenextweb.com/news/edward-snowden-warns-encryption-is-under-attack
+
+* Todo acerca de Tor (Español), The Guardian Project. https://guardianproject.info/podcast/2021/allabouttor.html
+
+* Which browsers are best for privacy? https://privacytests.org
+
+* Bugs in our Pockets: The Risks of Client-Side Scanning, Hal Abelson and Ross Anderson and Steven M. Bellovin and Josh Benaloh and Matt Blaze and Jon Callas and Whitfield Diffie and Susan Landau and Peter G. Neumann and Ronald L. Rivest and Jeffrey I. Schiller and Bruce Schneier and Vanessa Teague and Carmela Troncoso. https://arxiv.org/abs/2110.07450
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
