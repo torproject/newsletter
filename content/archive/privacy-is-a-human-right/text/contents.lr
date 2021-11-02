@@ -16,7 +16,7 @@ Every year, the 501(c)(3) nonprofit that builds and distributes the technology b
 
 This year, our message is simple: Privacy is a human right. Privacy is about protecting what makes us humans: our day-to-day behavior, our personality, our fears, our relationships, and our vulnerabilities. Everyone deserves privacy.
 
-However, governments, corporations, and other powerful entities block us from exercising our right to privacy in many different ways. And that's why Tor is here—to help you exercise your human right to privacy even when it’s not easy.
+However, governments, corporations, and other powerful entities block us from exercising our right to privacy in many different ways. And that's why Tor is here—to help you exercise your human right to privacy even when it's not easy.
 
 Stand up for the human right to privacy by supporting Tor. Your donations will be matched, 1:1, by Friends of Tor now through the end of the year: https://torproject.org/donate/donate-phr-tn1.
 
@@ -30,7 +30,7 @@ We invite the Tor community to join the Tor Forum and contribute with us! https:
 
 ## [Celebrating the first Global Encryption Day](https://blog.torproject.org/first-global-encryption-day)
 
-This month we celebrated the very first Global Encryption Day, organized by the Global Encryption Coalition, where we are a member. Global Encryption Day is an opportunity for businesses, civil society organizations, technologists, and millions of Internet users worldwide to show our communities why encryption matters. It’s also a day for all of us to pledge to Make the Switch to encrypted services (like Tor!) and prioritize our privacy and security online.
+This month we celebrated the very first Global Encryption Day, organized by the Global Encryption Coalition, where we are a member. Global Encryption Day is an opportunity for businesses, civil society organizations, technologists, and millions of Internet users worldwide to show our communities why encryption matters. It's also a day for all of us to pledge to Make the Switch to encrypted services (like Tor!) and prioritize our privacy and security online.
 
 On our blog, learn more about Global Encryption Day and the Global Encryption Day Statement, which the Tor Project and more than 140 other organizations signed this year: https://blog.torproject.org/first-global-encryption-day.
 
@@ -54,7 +54,7 @@ https://gitlab.torproject.org/tpo/community/l10n/-/wikis/Monthly-Tor-Localizatio
 
 * Arti 0.0.1
 https://forum.torproject.net/t/arti-0-0-1-is-released-an-embeddable-tor-client-in-rust/
-(Oct. 29) An embeddable Tor client in Rust. Our main goal for the 0.0.1 release has been to have no critical missing security features. There are probably still a lot of bugs, though, so you shouldn’t use this in production yet.
+(Oct. 29) An embeddable Tor client in Rust. Our main goal for the 0.0.1 release has been to have no critical missing security features. There are probably still a lot of bugs, though, so you shouldn't use this in production yet.
 
 * Tor Browser 10.5.10
 https://blog.torproject.org/new-release-tor-browser-10510
@@ -82,7 +82,7 @@ https://blog.torproject.org/new-release-tor-browser-1058
 
 ## What We're Reading
 
-* Beyond the VPN: Ultimate online privacy, with The Tor Project’s Isabela Bagueros, Fast Company. https://blog.malwarebytes.com/podcast/2021/10/beyond-the-vpn-ultimate-online-privacy-with-the-tor-projects-isabella-bagueros-lock-and-code-s02e20/
+* Beyond the VPN: Ultimate online privacy, with The Tor Project's Isabela Bagueros, Fast Company. https://blog.malwarebytes.com/podcast/2021/10/beyond-the-vpn-ultimate-online-privacy-with-the-tor-projects-isabella-bagueros-lock-and-code-s02e20/
 
 * Will the Right to Protest survive its migration online?, Access Now. https://www.accessnow.org/right-to-protest-migration-online/
 
