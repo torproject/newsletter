@@ -1,0 +1,81 @@
+image: ubuntu:latest
+
+# This template should be usable on any system that's based on apt.
+# taken from tor gitlabci
+
+include:
+  project: tpo/tpa/ci-templates
+  file: static-shim-deploy.yml
+
+.apt-template: &apt-template |
+      export LC_ALL=C.UTF-8
+      echo Etc/UTC > /etc/timezone
+      mkdir -p apt-cache
+      export APT_CACHE_DIR="$(pwd)/apt-cache"
+      echo 'quiet "1";' \
+           'APT::Install-Recommends "0";' \
+           'APT::Install-Suggests "0";' \
+           'APT::Acquire::Retries "20";' \
+           'APT::Get::Assume-Yes "true";' \
+           'Dpkg::Use-Pty "0";' \
+           "Dir::Cache::Archives \"${APT_CACHE_DIR}\"; " \
+        >> /etc/apt/apt.conf.d/99gitlab
+      apt-get update -qq
+      apt-get upgrade -qy
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  SITE_URL: newsletter.torproject.org
+  SUBDIR: public/
+
+stages:
+    - build
+    - deploy
+    - pages
+
+build:
+  cache:
+    key: $CI_PROJECT_PATH_SLUG.${CI_COMMIT_REF_SLUG}
+    paths:
+      - packages
+      - lego
+      - apt-cache
+      - venv
+      - .cache/pip
+      - .cache/lektor/builds/
+  stage: build
+  script:
+    - *apt-template
+    - DEBIAN_FRONTEND=noninteractive apt-get install gettext python3-babel python3-pip git python3-inifile python3-dev python3-setuptools python3-openssl python3-cryptography i18nspector apt-utils ca-certificates lektor -y
+    - echo 'reinstall lektor plugins'
+    - lektor project-info --output-path
+    - lektor plugins reinstall
+    - echo 'building lektor 3 more times to get translations in place'
+    - for i in {1..3}; do lektor build --output-path public -f npm; done
+  artifacts:
+    paths:
+      - public
+  rules:
+    - when: always
+
+pages:
+  cache:
+    key: $CI_PROJECT_PATH_SLUG.${CI_COMMIT_REF_SLUG}
+    paths:
+      - packages
+      - lego
+      - apt-cache
+      - venv
+      - .cache/pip
+      - .cache/lektor/builds/
+  stage: pages
+  dependencies:
+      - build
+  script:
+      - rm -r public/.lektor
+  artifacts:
+    paths:
+      - public
+  rules:
+    - when: always
