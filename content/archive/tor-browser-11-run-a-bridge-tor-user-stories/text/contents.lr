@@ -1,0 +1,130 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-12-02
+---
+title: Tor Browser 11, run a Tor bridge, & Tor user stories
+---
+body:
+## Help censored users, run a Tor bridge
+
+https://blog.torproject.org/run-a-bridge-campaign/
+
+Bridges are private Tor relays that serve as stepping stones into the network. When the Tor network is blocked, users can get a bridge to circumvent censorship. Thanks to our community of bridge operators, users in China, Belarus, Iran, and Kazakhstan can connect to the Tor network and access the free and open Internet.
+
+We currently have approximately 1,200 bridges, 900 of which support the obfs4 obfuscation protocol. Unfortunately, these numbers have been decreasing since the beginning of this year. This is where we need your help. We need you to run a Tor bridge!
+
+To show our appreciation for your volunteer work, we're offering unique and exclusive Tor reward kits. For example, if you run 10 obfs4 bridges for one year, you can get the Golden Gate bridge kit, including 1 Tor hoodie, 2 Tor T-shirts, and a sticker pack. Find out about running a bridge, helping censored users, and winning Tor swag! https://blog.torproject.org/run-a-bridge-campaign/
+
+## Tor and the humans who use it: the impact of your donation
+https://blog.torproject.org/tor-and-the-humans-who-use-it/
+
+We're in the middle of our annual fundraising campaign (https://torproject.org/donate/donate-phr-tn2) with the theme Privacy is a Human Right. The best way to demonstrate what you're making possible with your donation is to share the stories of people who use our tools and how Tor makes it possible for these people to exercise their human right to privacy. We went through the many excellent anonymous submissions to our Tor Stories survey and picked out some stories that demonstrate clearly what Tor makes possible for millions of every day.
+
+What do you make possible with your donation to Tor?
+
+**Privacy.**
+- "I use Tor as [my] everyday browser. Especially when I research doctors and other very personal stuff, it feels better, 'cause hopefully there won't be data for sale, telling the world about my assumed medical condition."
+
+**Censorship circumvention.**
+- "I'm Chinese. In China, Google and Wikipedia are blocked. I can't stand [it]. Sometimes I use Tor to [get] across the GFW... Tor has provided me with a lot of help."
+
+And more. Read more stories about using Tor for safety, dissent, and freedom from real Tor users on our blog: https://blog.torproject.org/run-a-bridge-campaign/.
+
+## Celebrating the first Global Encryption Day
+https://blog.torproject.org/first-global-encryption-day
+
+This month we celebrated the very first Global Encryption Day, organized by the Global Encryption Coalition, where we are a member. Global Encryption Day is an opportunity for businesses, civil society organizations, technologists, and millions of Internet users worldwide to show our communities why encryption matters. It's also a day for all of us to pledge to Make the Switch to encrypted services (like Tor!) and prioritize our privacy and security online.
+
+On our blog, learn more about Global Encryption Day and the Global Encryption Day Statement, which the Tor Project and more than 140 other organizations signed this year: https://blog.torproject.org/first-global-encryption-day.
+
+## What's new in Tor Browser 11?
+https://blog.torproject.org/new-release-tor-browser-11-0/
+
+This month we released Tor Browser 11, which brought a new look to Tor Browser. Earlier this year, Firefox's user interface underwent a significant redesign aimed at simplifying the browser chrome, streamlining menus and featuring an all-new tab design. The redesign came to Tor Browser in this release.
+
+To ensure it lives up to the new experience, each piece of custom UI in Tor Browser has been modernized to match Firefox's new look and feel. That includes everything from updating the fundamentals like color, typography and buttons to redrawing each of our icons to match the new thinner icon style.
+
+We also rolled out the the final deprecation of v2 onion services. In Tor Browser 11, v2 onion services are no longer reachable, and users receive an "Invalid Onion Site Address" error instead. Read more about all things Tor Browser 11 on our blog: https://blog.torproject.org/new-release-tor-browser-11-0/.
+
+## ICYMI: State of the Onion 2021
+
+This year, we held our second virtual State of the Onion, a compilation of updates from the Tor Project's different teams discussing highlights of their work during the year and what we are excited about in the upcoming year. Watch the full recording of the State of the Onion event: https://www.youtube.com/watch?v=mNhIjtXuVzk.
+
+## Upcoming Events
+
+- PrivChat #6: Privacy is a Human Right, December 15, 2021 @ 19:00 UTC.
+https://forum.torproject.net/t/privchat-6-privacy-is-a-human-right/950
+
+- Monthly Tor Localization Hangout, December 17, 2021 @ 12:00 UTC onward.
+https://forum.torproject.net/c/events/20
+
+## New Releases
+
+- Tor Browser 11.0.1
+https://blog.torproject.org/new-release-tor-browser-1101/
+(Nov. 15) This version provides important bug fixes on Windows, MacOS, and Linux, and includes blockchain explorer Blockchair as a search option. 
+
+- Tor Browser 11.0
+https://blog.torproject.org/new-release-tor-browser-11-0/
+(Nov. 8) This is the first stable release based on Firefox ESR 91, and includes an important update to Tor 0.4.6.8. 
+
+- Tor Browser 11.0a10 (Windows/macOS/Linux)
+https://blog.torproject.org/new-release-tor-browser-110a10/
+(Nov. 5) This is an alpha release. This version updates Firefox to version 91.3.0esr on Windows, macOS, and Linux and includes important security updates to Firefox on Windows, macOS, and Linux. 
+
+## What We're Reading
+
+- Twenty Three International Rights Organizations and Supporters of Internet Freedom Condemn the Internet shutdown in Iran, the Miaan Group.
+https://www.miaan.org/publication/nineteen-international-rights-organizations-and-supporters-of-internet-freedom-condemn-the-internet-shutdown-in-iran/
+
+- Police Aerial Surveillance Endangers Our Ability to Protest, EFF.
+https://www.eff.org/deeplinks/2021/11/police-aerial-surveillance-endangers-our-ability-protest
+
+- Facebook accused of continuing to surveil teens for ad targeting, TechCrunch.
+https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/
+
+- Why Online Anonymity Matters, Harvard Kennedy School Belfer Center for Science & International Affairs.
+https://www.belfercenter.org/publication/why-online-anonymity-matters
+
+- AI surveillance takes U.S. prisons by storm, Thomas Reuters Foundation News.
+https://news.trust.org/item/20211115095808-kq7gx/
+
+- Remote Test Proctoring Apps Are a Form of Mass Surveillance, Teen Vogue.
+https://www.teenvogue.com/story/remote-proctoring-apps-tests
+
+## We're Hiring
+
+- Bookkeeper - Payroll Specialist
+https://www.torproject.org/about/jobs/bookkeeper-payroll/
+
+- Brand Designer
+https://www.torproject.org/about/jobs/brand-designer/
+
+- Education & Communities Coordinator
+https://www.torproject.org/about/jobs/education-communities-coordinator/
+
+- Onion Services Site Reliability Engineer
+https://www.torproject.org/about/jobs/onion-services-site-engineer/
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-a-bridge-campaign/
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject
+YouTube: https://www.youtube.com/c/TorProjectInc
