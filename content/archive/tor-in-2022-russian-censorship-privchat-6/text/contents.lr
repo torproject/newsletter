@@ -1,0 +1,103 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2021-12-21
+---
+title: Tor in 2022, Russian Censorship, PrivChat #6
+---
+body:
+
+## Tor in 2022, from the Tor Project's Executive Director
+
+It has become a tradition for me to write a blog post at the end of each year, sharing my vision for the Tor Project for the upcoming year. Before talking about what I see for us in 2022, I want to reflect on 2021 and how this has been a year of resilience for Tor.
+
+I'm very proud of every single person who contributed to Tor in 2021: the Tor Project staff, our core contributors, our community, and our supporters. 2020 was a year of sacrifice, but none of the stones thrown in our way stopped us from looking ahead and dreaming of a greater future. And in 2021, we bounced back to continue to shape this greater future.
+
+My vision for 2022 is to keep Tor on this track, and our users are our priority when building this strategy. Visit our blog to read more about what you've help accomplish in 2021, and where I see our organization and community headed in the next year.
+
+## Responding to Tor censorship in Russia
+https://blog.torproject.org/tor-censorship-in-russia/
+
+Since December 1st, Internet providers in Russia have started to block access to Tor (https://meduza.io/news/2021/12/03/zhiteli-rossii-pozhalovalis-na-blokirovku-tor). As of Dec. 6, the Federal Service for Supervision of Communications, Information Technology and Mass Media (Roskomnadzor), a Russian government bureaucratic entity, also began to censor our website and subdomains (https://gitlab.torproject.org/tpo/community/support/-/issues/40050#note_2764565).
+
+Russia is the country with the second largest number of Tor users, with more than 300,000 daily users or 15% of all Tor users (https://metrics.torproject.org/userstats-relay-table.html).
+
+As it seems this situation may escalate to a country-wide Tor block, it's urgent that we respond to this censorship. Find out about how you can help users in Russia stay connected: blog.torproject.org/tor-censorship-in-russia/.
+
+> At the moment, Bridges bundled directly into Tor Browser are blocked for some users in Russia. You will need to get a working obfs4 bridge. Here's how, with instructions in Russian: https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982.
+
+> В настоящее время мосты, встроенные непосредственно в Tor Browser, в России заблокированы. Вам нужно получить работающий мост obfs4. О том, как использовать мосты Tor, можно прочесть здесь (на русском языке): https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982.
+
+## Privacy-Preserving and Incrementally-Deployable Support for Certificate Transparency in Tor
+
+https://blog.torproject.org/tor-certificate-transparency/
+
+In case you are not familiar with TLS certificates, websites present them to visitors in an attempt to prove their identities. For example, "I'm www.torproject.org and not some imposter". The problem is that certificates can be issued by many different central authorities. If one of these authorities gets the issuance process wrong, e.g. due to mistakes, coercion, or compromise, there may be a mis-issued certificate for some domain name.
+
+The goal of Certificate Transparency is to ensure that certificate mis-issuance does not go unnoticed. The idea is that before a browser accepts a certificate as valid, it must be visible in a public Certificate Transparency log. The second issue of PETS 2021 featured a paper that brings Certificate Transparency to Tor. The authors of the paper--Rasmus Dahlberg, Tobias Pulls, Tom Ritter, and Paul Syverson--shared a summary of this work on the Tor blog: https://blog.torproject.org/tor-certificate-transparency/.
+
+## ICYMI: PrivChat #6 - Privacy is a Human Right
+https://www.torproject.org/privchat/
+
+In this edition of PrivChat, we're brought together a group of panelists with direct experience as activists or working with activist groups to talk about privacy and why it is so important to the fight for human rights.
+
+Hear from panelist Ali Gharavi, Senior Programme Specialist, Swedish International Development Agency; Nadya Tolokonnika, artist, activist, and founding member of Pussy Riot; and Nicholas Merrill, founder and Executive Director, the Calyx Institute; and Cindy Cohn, Executive Director of EFF as host. Watch the recorded event on the Tor Project's YouTube channel: https://www.youtube.com/watch?v=ttQiA_GfI6s.
+
+## New Releases
+
+* Tor 0.4.6.9 and 0.4.7.3-alpha
+https://forum.torproject.net/t/release-0-4-6-9-and-0-4-7-3-alpha/1265
+(Dec. 16) The DNS timeout was removed from the relay general overload signal. The rest is mostly minor bugfixes and documentation. 
+
+* Tor Browser 11.5a1 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-115a1/
+(Dec. 14) This is the first alpha version in the 11.5 series and updates Firefox to 91.4.0esr. This release should fix the crashes on Windows introduced in Tor Browser 11.
+
+* Tor Browser 11.0.2
+https://blog.torproject.org/new-release-tor-browser-1102/
+(Dec. 8) This version updates Firefox on Windows, macOS, and Linux to 91.4.0esr. This version includes important security updates to Firefox.
+
+* Arti 0.2.0
+https://forum.torproject.net/t/arti-0-0-2-is-released-api-groundwork-refactoring-config-and-optimism/939
+(Dec. 1) This Arti release has a major refactor of the backend network code that implements circuits and channels, to better use the reactor architectural pattern and reduce the need for locks.
+
+## What We're Reading
+
+* Russia started blocking Tor, Open Observatory of Network Interference: https://ooni.org/post/2021-russia-blocks-tor/.
+
+* Russia's Internet Censorship Machine Is Going After Tor, WIRED: https://www.wired.co.uk/article/russia-block-tor-censorship.
+
+* The Popular Family Safety App Life360 Is Selling Precise Location Data on Its Tens of Millions of Users, The Markup: https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user.
+
+* Data Privacy Issues Are The Root Of Our Big Tech Monopoly Dilemma, Forbes: https://www.forbes.com/sites/joetoscano1/2021/12/01/data-privacy-issues-are-the-root-of-our-big-tech-monopoly-dilemma/.
+
+## We're Hiring
+
+* Bookkeeper - Payroll Specialist
+https://www.torproject.org/about/jobs/bookkeeper-payroll/
+
+* Our friends at LEAP Encryption Access Project are also hiring Go, Android, and iOS developers (https://leap.se/post/2021_11_28_work_to_do/), and our friends at Tails are hiring a Project Manager (https://tails.boum.org/jobs/project_manager/).
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
