@@ -1,0 +1,166 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-02-01
+---
+title: Tor Browser's legacy in privacy, 2021 fundraising results, new Arti release
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><a href="https://blog.torproject.org/tor-browser-advancing-privacy-innovation/">Tor Browser: a legacy of advancing private browsing innovation</a></h1>
+
+									<p><a href="https://blog.torproject.org/tor-browser-advancing-privacy-innovation/"><img alt="" src="https://newsletter.torproject.org/gallery/tor-browser-innovation.jpg" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>You probably know that our user-facing product for providing privacy, safety, and security online is Tor Browser. Tor Browser allows millions of people to easily exercise their human right to privacy, within the framework of a familiar web browser.</p>
+
+									<p>For many years, Tor Browser was the only web browser available that provided anything like its level of anti-tracking, anti-fingerprinting, and holistic privacy protections.</p>
+
+									<p>Today, we want to share a little bit of Tor Browser history with you--the origins of our features and designs, and how many of our innovative privacy and security features have been adopted by other browsers. <a href="https://blog.torproject.org/tor-browser-advancing-privacy-innovation/">Read about the history of Tor Browser, and what&#39;s still left to do, on our blog</a>.</p>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1 class="title"><a href="https://blog.torproject.org/new-foundations-tor-network-experimentation/">2021 Fundraising results: thank you!</a></h1>
+
+									<p><a href="https://blog.torproject.org/fundraising-2021-results/"><img alt="" src="https://newsletter.torproject.org/gallery/yec-2022-thank-you.png" style="width: 675px; height: 375px;" /></a></p>
+
+									<p>During the last months of each year, the Tor Project (a 501(c)(3) nonprofit) holds a fundraiser to ask for your support. Let&rsquo;s start with the basics&mdash;first being THANK YOU to everyone who contributed to this campaign! We want to share some of the results of this effort.</p>
+
+									<p><a href="https://blog.torproject.org/use-a-mask-use-tor-thank-you/">Last year during the same fundraising period</a>, you contributed $376,315. This year, you contributed $940,361 towards helping people exercise their human right to privacy. Year over year, that&rsquo;s a 150% increase! This includes a generous match from our Friends of Tor&mdash;<a href="https://aspirationtech.org/">Aspiration</a>, <a href="https://twitter.com/joncallas">Jon Callas</a>, <a href="https://twitter.com/craignewmark">Craig Newmark</a>, <a href="https://twitter.com/jespow">Jesse Powell</a>, <a href="https://twitter.com/wseltzer">Wendy Seltzer</a>, and several anonymous supporters.</p>
+
+									<p>Last year, you donated $58,296 in cryptocurrency. This year, about 58% of the total amount you contributed came to us in the form of cryptocurrencies, for a total of $548,647&mdash;that&rsquo;s an 841% increase. Wow! <a href="https://blog.torproject.org/fundraising-2021-results/">Find out more about fundraising in 2021 at the Tor Project on our blog</a>.</p>
+
+									<hr />
+									<h1 class="title">New Foundations for Tor Network Experimentation</h1>
+
+									<p><a href="https://blog.torproject.org/new-foundations-tor-network-experimentation/"><img alt="" src="https://newsletter.torproject.org/gallery/shadow-logo.png" style="width: 675px; height: 352px;" /></a></p>
+
+									<p>Network experimentation is of vital importance to the Tor Project&#39;s research, development, and deployment processes. Experiments help us understand and estimate the viability of new research ideas, to test out newly written code, and to measure the real world effects of new features. Measurements taken during experiments help us gain confidence that Tor is working how we expect it should be.</p>
+
+									<p>Justin Tracey, Ian Goldberg, and <a href="https://www.robgjansen.com">Rob Jansen</a> recently published work--<em>Once is Never Enough: Foundations for Sound Statistical Inference in Tor Network Experimentation</em>--that makes it easier to run Tor network experiments under simulation and helps us do a better job of quantifying confidence in simulation results. The <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/jansen">research article, video presentation, and slides are available online</a>.</p>
+
+									<p><a href="https://blog.torproject.org/new-foundations-tor-network-experimentation/">To learn more about this research, read a summary of the article on our blog</a>.</p>
+
+									<div class="css-901oao r-1fmj7o5 r-1qd0xha r-1blvdjr r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0" dir="auto" lang="en">
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/arti_003_released/">Arti 0.0.3 is released: Configuration, predictive circuits, and more!</a></h1>
+									</div>
+									</div>
+									</div>
+
+									<p data-sourcepos="1:1-1:203" dir="auto"><a href="https://blog.torproject.org/arti_003_released/"><img alt="" src="https://newsletter.torproject.org/gallery/arti-logo.png" style="width: 675px; height: 221px;" /></a></p>
+
+									<div>
+									<p class="font-family-serif">Arti is our ongoing project to create a working embeddable Tor client in Rust. It&rsquo;s nowhere near ready to replace the main Tor implementation in C, but we believe that it&rsquo;s the future.</p>
+
+									<p class="font-family-serif">We&#39;re working towards our 0.1.0 milestone in early March, where our main current priorities are stabilizing our APIs, and resolving issues that prevent integration. We&#39;re planning to do releases every month or so until we get to that milestone.</p>
+
+									<p class="font-family-serif"><strong>We need your help! We need feedback on our APIs. </strong>Sure, <em>we</em> think we&#39;re making them more complete and ergonomic&hellip; but it&#39;s the users&#39; opinion that matters! <a href="https://blog.torproject.org/arti_003_released/">Check out how to give feedback on Arti, and find out what&#39;s new in the latest release, on our blog</a>.</p>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p><a href="https://blog.torproject.org/arti_004_released/">Arti 0.0.4</a><br />
+									(Feb. 1) Refactoring, rustls, and more!</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-115a3/">Tor Browser 11.5a3 (Android)</a><br />
+									(Jan. 27) Tor Browser 11.5a3 updates Firefox to 94.1.1 and includes bugfixes and stability improvements.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-115a2/">Tor Browser 11.5a2 (Windows, macOS, Linux)</a><br />
+									(Jan. 26) Tor Browser 11.5a2 updates Firefox to 91.5.0esr and includes bugfixes and stability improvements. Additionally, the browser landing page gets the usual Tor Browser look and feel back, removing the parts of our year end donation campaign.</p>
+
+									<p><a href="https://forum.torproject.net/t/release-0-3-5-18/1871">Tor Release 0.3.5.18</a><br />
+									(Jan. 24) This is the very last release of the 0.3.5.x series as it is end-of-life on February 1st, 2022. We strongly recommend anyone still on 0.3.5.x to update to our latest stable which is currently 0.4.6.9.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/arti_003_released/">Arti 0.0.3</a><br />
+									(Jan. 14) Configuration, predictive circuits, and more!</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1104/">Tor Browser 11.0.4</a><br />
+									(Jan. 11) This version includes important security updates to Firefox. Tor Browser 11.0.4 updates Firefox to 91.5.0esr and gives our landing page the usual Tor Browser look and feel back, removing the parts of our year end donation campaign.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.zdnet.com/article/tor-project-battles-russian-censorship-through-the-courts/">Tor Project battles Russian censorship through the courts</a>, ZDNet.</p>
+
+									<p class="panel-pane pane-page-title"><a href="https://www.coindesk.com/layer2/privacyweek/2022/01/24/chelsea-manning-on-the-sad-state-of-online-privacy/">Chelsea Manning on the Sad State of Online Privacy</a>, Coindesk.</p>
+
+									<p><a href="https://www.eff.org/deeplinks/2022/01/uk-paid-724000-creepy-campaign-convince-people-encryption-bad-it-wont-work">The U.K. Paid $724,000 For A Creepy Campaign To Convince People That Encryption is Bad. It Won&rsquo;t Work</a>, EFF.</p>
+
+									<p><a href="https://epic.org/preserving-community-control-of-police-surveillance-is-essential-to-protect-privacy/">Preserving Community Control of Police Surveillance is Essential to Protect Privacy</a>, EPIC.</p>
+
+									<p><a href="https://www.hrw.org/news/2022/01/26/human-rights-watch-among-pegasus-spyware-targets">Human Rights Watch Among Pegasus Spyware Targets</a>, HRW.</p>
+
+									<div>
+									<p class="hc hd he cg hf hg hh hi hj hk hl hm hn ho hp hq hr hs ht hu hv hw hx hy hz ia fq" data-selectable-paragraph="" id="2aa2"><a href="https://medium.com/@calyxinsta/we-can-work-together-as-one-we-have-the-power-to-push-back-an-interview-with-alison-macrina-of-baf10a09ecaa">&ldquo;We Can Work Together as One, We Have the Power to Push Back&rdquo;: An Interview with Alison Macrina of Library Freedom Project</a>, the Calyx Institute.</p>
+									</div>
+
+									<hr />
+									<h1>We&#39;re Hiring</h1>
+
+									<p><a href="https://www.torproject.org/about/jobs/bookkeeper-payroll/">Bookkeeper - Payroll Specialist</a></p>
+
+									<p class="mb-0"><a href="https://www.torproject.org/about/jobs/director-of-engineering/">Director of Engineering</a></p>
+
+									<hr />
+									
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://torproject.org/donate/donate-phr-tn1" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" /></a></p>
+
+
+<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->
