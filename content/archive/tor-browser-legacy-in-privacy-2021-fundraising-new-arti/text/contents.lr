@@ -1,0 +1,123 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-02-01
+---
+title: Tor Browser's legacy in privacy, 2021 fundraising results, new Arti release
+---
+body:
+
+## Tor Browser: a legacy of advancing private browsing innovation
+https://blog.torproject.org/tor-browser-advancing-privacy-innovation/
+
+You probably know that our user-facing product for providing privacy, safety, and security online is Tor Browser. Tor Browser allows millions of people to easily exercise their human right to privacy, within the framework of a familiar web browser.
+
+For many years, Tor Browser was the only web browser available that provided anything like its level of anti-tracking, anti-fingerprinting, and holistic privacy protections.
+
+Today, we want to share a little bit of Tor Browser history with you--the origins of our features and designs, and how many of our innovative privacy and security features have been adopted by other browsers. Read about the history of Tor Browser, and what's still left to do, on our blog: https://blog.torproject.org/tor-browser-advancing-privacy-innovation/.
+
+## 2021 Fundraising results: thank you!
+https://blog.torproject.org/fundraising-2021-results/
+
+During the last months of each year, the Tor Project (a 501(c)(3) nonprofit) holds a fundraiser to ask for your support. Let’s start with the basics—first being THANK YOU to everyone who contributed to this campaign! We want to share some of the results of this effort.
+
+Last year during the same fundraising period, you contributed $376,315. This year, you contributed $940,361 towards helping people exercise their human right to privacy. Year over year, that’s a 150% increase! This includes a generous match from our Friends of Tor—Aspiration, Jon Callas, Craig Newmark, Jesse Powell, Wendy Seltzer, and several anonymous supporters.
+
+Last year, you donated $58,296 in cryptocurrency. This year, about 58% of the total amount you contributed came to us in the form of cryptocurrencies, for a total of $548,647—that’s an 841% increase. Wow! Find out more about fundraising in 2021 at the Tor Project on our blog: https://blog.torproject.org/fundraising-2021-results/.
+
+## New Foundations for Tor Network Experimentation
+https://blog.torproject.org/new-foundations-tor-network-experimentation/
+
+Network experimentation is of vital importance to the Tor Project's research, development, and deployment processes. Experiments help us understand and estimate the viability of new research ideas, to test out newly written code, and to measure the real world effects of new features. Measurements taken during experiments help us gain confidence that Tor is working how we expect it should be.
+
+Justin Tracey, Ian Goldberg, and Rob Jansen recently published work--Once is Never Enough: Foundations for Sound Statistical Inference in Tor Network Experimentation--that makes it easier to run Tor network experiments under simulation and helps us do a better job of quantifying confidence in simulation results. The research article, video presentation, and slides are available online.
+
+To learn more about this research, read a summary of the article on our blog: https://blog.torproject.org/new-foundations-tor-network-experimentation/.
+
+## Arti 0.0.3 is released: Configuration, predictive circuits, and more!
+https://blog.torproject.org/arti_003_released/
+
+Arti is our ongoing project to create a working embeddable Tor client in Rust. It’s nowhere near ready to replace the main Tor implementation in C, but we believe that it’s the future.
+
+We're working towards our 0.1.0 milestone in early March, where our main current priorities are stabilizing our APIs, and resolving issues that prevent integration. We're planning to do releases every month or so until we get to that milestone.
+
+We need your help! We need feedback on our APIs. Sure, we think we're making them more complete and ergonomic… but it's the users' opinion that matters! Check out how to give feedback on Arti, and find out what's new in the latest release, on our blog.
+
+## New Releases
+
+* Arti 0.0.4
+https://blog.torproject.org/arti_004_released/
+(Feb. 1) Refactoring, rustls, and more!
+
+* Tor Browser 11.5a3 (Android)
+https://blog.torproject.org/new-release-tor-browser-115a3/
+(Jan. 27) Tor Browser 11.5a3 updates Firefox to 94.1.1 and includes bugfixes and stability improvements.
+
+* Tor Browser 11.5a2 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-115a2/
+(Jan. 26) Tor Browser 11.5a2 updates Firefox to 91.5.0esr and includes bugfixes and stability improvements. Additionally, the browser landing page gets the usual Tor Browser look and feel back, removing the parts of our year end donation campaign.
+
+* Tor Release 0.3.5.18
+https://forum.torproject.net/t/release-0-3-5-18/1871
+(Jan. 24) This is the very last release of the 0.3.5.x series as it is end-of-life on February 1st, 2022. We strongly recommend anyone still on 0.3.5.x to update to our latest stable which is currently 0.4.6.9.
+
+* Arti 0.0.3
+https://blog.torproject.org/arti_003_released/
+(Jan. 14) Configuration, predictive circuits, and more!
+
+* Tor Browser 11.0.4
+https://blog.torproject.org/new-release-tor-browser-1104/
+(Jan. 11) This version includes important security updates to Firefox. Tor Browser 11.0.4 updates Firefox to 91.5.0esr and gives our landing page the usual Tor Browser look and feel back, removing the parts of our year end donation campaign.
+
+## What We're Reading
+
+* Tor Project battles Russian censorship through the courts, ZDNet.
+https://www.zdnet.com/article/tor-project-battles-russian-censorship-through-the-courts/
+
+* Chelsea Manning on the Sad State of Online Privacy, Coindesk.
+https://www.coindesk.com/layer2/privacyweek/2022/01/24/chelsea-manning-on-the-sad-state-of-online-privacy/
+
+* The U.K. Paid $724,000 For A Creepy Campaign To Convince People That Encryption is Bad. It Won’t Work, EFF.
+https://www.eff.org/deeplinks/2022/01/uk-paid-724000-creepy-campaign-convince-people-encryption-bad-it-wont-work
+
+* Preserving Community Control of Police Surveillance is Essential to Protect Privacy, EPIC.
+https://epic.org/preserving-community-control-of-police-surveillance-is-essential-to-protect-privacy/
+
+* Human Rights Watch Among Pegasus Spyware Targets, HRW.
+https://www.hrw.org/news/2022/01/26/human-rights-watch-among-pegasus-spyware-targets
+
+* "We Can Work Together as One, We Have the Power to Push Back": An Interview with Alison Macrina of Library Freedom Project, the Calyx Institute.
+https://medium.com/@calyxinsta/we-can-work-together-as-one-we-have-the-power-to-push-back-an-interview-with-alison-macrina-of-baf10a09ecaa
+
+## We're Hiring
+
+* Bookkeeper - Payroll Specialist
+https://www.torproject.org/about/jobs/bookkeeper-payroll/
+
+* Director of Engineering
+https://www.torproject.org/about/jobs/director-of-engineering/
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
