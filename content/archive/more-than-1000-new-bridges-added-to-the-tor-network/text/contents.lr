@@ -1,0 +1,137 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-03-07
+---
+title: Thousands of new Tor bridges, supporting our community, fighting Russian censorship
+---
+body:
+
+# More than 1,000 new bridges added to the Tor network
+https://blog.torproject.org/wrapping-up-bridges-campaign/
+
+Last November, the Tor Project launched a campaign to get more bridges (https://blog.torproject.org/run-a-bridge-campaign/). The campaign goal was to increase the Tor network size and get 200 new obfs4 bridges. Not only did we achieve our modest goal, but we also reverted the trend of declining bridges in the network. The Tor network now has 2470 running bridges—meaning the number of Tor bridges has almost doubled!
+
+The campaign was such a success for a couple of reasons. First, if you check the number of relays, you can see that in 10 days after the campaign began, we had already achieved the goal of 200 new bridges (https://metrics.torproject.org/networksize.csv?start=2021-10-30&end=2022-01-28). The community was really engaged and very excited to help other Tor users. Plus, it's nice to get Tor swag.
+
+Second, following the relay metrics graph, you can see that after December 7th, the bridges graph increased considerably. This spike happened after we called everyone to fight against the emergent Tor censorship in Russia (https://blog.torproject.org/tor-censorship-in-russia/). Russia has the second largest number of Tor users, just after the United States. As censors are blocking Tor bridges, adding new bridges will help users connect to the Tor network. Read more about the results of the bridge campaign on our blog (https://blog.torproject.org/wrapping-up-bridges-campaign/).
+
+# Supporting the Tor community
+https://blog.torproject.org/tor-community-partners/
+
+The goal to help internet users privately access an uncensored web has united lots of different people from different places. Fostering this community is very important to us. Because of htis, over the last several years, we've invested in fundraising and operations staff who work together on something we affectionately call the “money machine.” This cross-organizational group handles the behind-the-scenes details of identifying, securing, and managing the resources that make Tor, and the Tor Project, possible.
+
+We envisioned that this infrastructure would benefit more than just the organization, that it would allow us to give back to our community as well. We can be more successful if we could fight for human rights and privacy online in an interconnected, interdependent way–as a community, together.
+
+Over the last year, part of this vision has come to life!
+
+We are happy to share that now the Tor Project has been able to earn grants that include partners, or “subgrantees,” that are paid to help Tor complete a project. We would like to take the opportunity to highlight our partners, the work we’re doing together, and invite you to support them too (https://blog.torproject.org/tor-community-partners/).
+
+# Arti 0.1.0 is released: Your somewhat-stable API is here!
+https://blog.torproject.org/arti_010_released/
+
+Arti is our ongoing project to create a working embeddable Tor client in Rust. This month, we've reached our 0.1.0 milestone: this means that we now consider Arti's high-level APIs to be "mostly stable", and ready for experimental embedding in other projects.
+
+We rely on users and volunteers to find problems in our software and suggest directions for its improvement. Although Arti isn't yet ready for production use, you can test it as a SOCKS proxy (if you're willing to compile from source) and as an embeddable library (if you don't mind a little API instability).
+
+Whether you're a user or a developer, please give Arti a try, and let us know what you think. The sooner we learn what you need, the better our chances of getting it into an early milestone! Learn about Arti 0.1.0 and how to give it a try on our blog (https://blog.torproject.org/arti_010_released/).
+
+# Fighting back against Russia's censorship of Tor
+https://tor.roskomsvoboda.org/en
+
+In December 2021, the Russian government began blocking access to https://torproject.org. The Russian digital rights nonprofit Roskomsvoboda (Роскомсвобода, https://twitter.com/RuBlackListNET) and their legal team, representing the interests of The Tor Project and the entire Tor user community in Russia, has submitted a request for annulment of a judicial decision that led to the blocking of Tor.
+
+Roskomsvoboda and the Tor Project believe that the decision of the court is unlawful and a subject to discharge due to the following circumstances:
+
+* The case was heard without the attendance of representatives of the Tor party, which violated their procedural rights and breached of the adversarial proceeding;
+* The decision violates the constitutional right to freely provide, receive and disseminate information and protect privacy;
+
+Roskomsvoboda is representing Tor and fighting for privacy in Russia pro bono. Please consider making a donation to support their work (https://tor.roskomsvoboda.org/en).
+
+# New Release
+
+Tor Browser 11.5a5 (Android)
+https://blog.torproject.org/new-release-tor-browser-115a5/
+(March 3) Tor Browser 11.5a5 updates Firefox to 96.3.0 and includes bugfixes and stability improvements. Notably: we fixed a bug that was preventing users of Android Q and later from downloading files.
+
+Arti 0.1.0
+https://blog.torproject.org/arti_010_released/
+(March 1) Primary new features are our builder API for constructing TorClient instances, and the ability to create unbootstrapped and bootstrap-on-demand TorClient instances.
+
+Tor Browser 11.5a4 (Windows/macOS/Linux)
+https://blog.torproject.org/new-release-tor-browser-115a4/
+(Feb. 18) This version includes important security updates to Firefox.
+
+Tor Browser 11.0.6 (Windows, macOS, Linux, Android)
+https://blog.torproject.org/new-release-tor-browser-1106/
+(Feb. 9) This version includes important security updates to Firefox. Tor Browser 11.0.6 updates Firefox on Windows, macOS, and Linux to 91.6.0esr.
+
+Tor Browser 11.0.5 (Android)
+https://blog.torproject.org/new-release-tor-browser-1105/
+(Feb. 7) This version includes important security updates to Firefox. Tor Browser 11.0.5 updates Firefox to 94.1.1 and includes bugfixes and stability improvements.
+
+Arti 0.0.4
+https://blog.torproject.org/arti_004_released/
+(Feb. 1) There are features in our API for developers who need to isolate all circuits from one another, and for setting per-stream preferences across all streams opened through a client handle. The interfaces for creating and using the main TorClient type are also improved. 
+
+# Upcoming Events
+
+Tor Localization Hangout, March 18, 2022
+https://blog.torproject.org/event/localization_hangout/
+
+RightsCon, June 6, 2022 – June 10, 2022
+https://blog.torproject.org/event/rightscon-2022/
+
+Privacy Enhancing Technologies Symposium (PETS), July 11, 2022 – July 15, 2022
+https://blog.torproject.org/event/pets-2022/
+
+May Contain Hackers (MCH2022) - NL, July 22, 2022 – July 26, 2022
+https://blog.torproject.org/event/mch2022/
+
+Usenix Security, August 10, 2022 – August 12, 2022
+https://blog.torproject.org/event/usenix-security-2022/
+
+DEF CON (Las Vegas), August 11, 2022 – August 14, 2022
+https://blog.torproject.org/event/defcon-2022/
+
+# What We're Reading
+
+Tor users surge in Russia and Ukraine to access news and circumvent restrictions, Finbold.
+https://finbold.com/tor-users-surge-in-russia-and-ukraine-to-access-news-and-circumvent-restrictions/
+
+How to use Tor and Snowflake to circumvent censorship, TNW.
+https://thenextweb.com/news/tor-snowflake-to-circumvent-censorship-guide
+
+Behind the stalkerware network spilling the private phone data of hundreds of thousands, TechCrunch.
+https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/
+
+We Need Answers About the CIA’s Mass Surveillance, EFF.
+https://www.eff.org/deeplinks/2022/02/we-need-answers-about-cias-mass-surveillance
+
+IRS will end use of facial recognition after widespread privacy concerns, The Verge.
+https://www.theverge.com/2022/2/7/22922212/irs-id-me-facial-recognition-end-privacy-concerns
+
+Experts Challenge Govt's Anti-Encryption Campaign, Open Rights Group.
+https://www.openrightsgroup.org/publications/experts-challenge-govts-anti-encryption-campaign/
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject
+Tor Forum: https://forum.torproject.net/
