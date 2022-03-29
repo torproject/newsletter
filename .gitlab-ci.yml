@@ -1,6 +1,7 @@
 ---
 variables:
   SITE_URL: newsletter.torproject.org
+  STAGING_URL: newsletter.staging.torproject.net
 
 include:
   project: tpo/tpa/ci-templates
