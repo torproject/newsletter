@@ -1,0 +1,112 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-05-01
+---
+title: Health of the Tor network, Tor in the news, Arti 0.2.0
+---
+body:
+
+## Malicious relays and the health of the Tor network
+https://blog.torproject.org/malicious-relays-health-tor-network/
+
+Running relays is a significant contribution to our project and we've designed that process so that the barrier of entry is low, making it possible for a variety of people with different backgrounds to participate. This openness is important as it makes our network (and the privacy guarantees it offers) more robust and resilient to attacks. However, that low threshold of contributing to our network also makes it easier for malicious operators to attack our users, e.g. via Man-in-the-Middle (MitM) attacks at exit nodes.
+
+Our latest blog post explains what we're doing to detect malicious actors (and remove their relays), how we developed these strategies, and what we're working on to make it harder for bad operators to run attacks. Additionally, we want to shine some light on this part of our day-to-day work at Tor. Because this is an arms race, we have to balance being transparent with effective detection of malicious actors. In this post we hope to offer more transparency about our approach without compromising the methods we use to keep our users safe.
+
+## Tor in the news
+https://blog.torproject.org/tor-media-2021/
+
+For the past few years, we’ve shared a post summarizing media related to Tor that was published during the previous year. On our blog (https://blog.torproject.org/tor-media-2021/), take a look at the moments Tor landed in the headlines in 2021, including coverage of onion service advancements, cryptocurrency donation records, our advocacy work, and changes in the censorship arms race.
+
+## Arti 0.2.0 is released: Your somewhat-stable API is here!
+https://blog.torproject.org/arti_010_released/
+
+Arti is our ongoing project to create a working embeddable Tor client in Rust. With version 0.2.0, our focus is on making Arti production-quality, by stress-testing the code, hunting for likely bugs and adding missing features that we know from experience that users will need.
+
+From a user's point of view, most of the changes in Arti 0.2.0 are for improved performance and reliability. For developers, the most important change to be aware of is the new configuration code.
+
+Whether you're a user or a developer, please give Arti a try, and let us know what you think. The sooner we learn what you need, the better our chances of getting it into an early milestone! Learn about Arti 0.2.0 and how to give it a try on our blog: https://blog.torproject.org/arti_020_released/.
+
+## New Releases
+
+* Tor stable release 0.4.7.7
+https://forum.torproject.net/t/stable-release-0-4-7-7/3108
+(April 27) This is the first stable version of the 0.4.7.x series including several major bugfixes, several major features and, finally, after years of work, congestion con
+
+* Tor Browser 11.5a9 (Windows/macOS/Linux) 
+https://blog.torproject.org/new-release-tor-browser-115a9/
+(April 26) Tor Browser 11.5a9 updates Firefox on Windows, macOS, and Linux to 91.8.0esr.
+
+* Tor Browser 11.0.10 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-11010/
+(April 7) This version includes important security updates to Firefox and updates Firefox on Windows, macOS, and Linux to 91.8.0esr.
+
+* Arti 0.2.0
+https://blog.torproject.org/arti_020_released/
+(April 3) For users, most of the changes in this version of Arti are for improved performance and reliability. For developers, the most important change to be aware of is the new configuration code.
+
+## Upcoming Events
+
+* AI and Human Rights Forum: Censorship Dialogues, April 29, 2022 @ 18:00 UTC
+https://blog.torproject.org/event/AI-Human-Rights-Forum-Censorship/
+
+* RightsCon, June 6, 2022 - June 10, 2022
+https://blog.torproject.org/event/rightscon-2022/
+
+* Privacy Enhancing Technologies Symposium (PETS), July 11, 2022 - July 15, 2022
+https://blog.torproject.org/event/pets-2022/
+
+* May Contain Hackers (MCH2022) - NL, July 22, 2022 - July 26, 2022
+https://blog.torproject.org/event/mch2022/
+
+* Usenix Security, August 10, 2022 - August 12, 2022
+https://blog.torproject.org/event/usenix-security-2022/
+
+* DEF CON (Las Vegas), August 11, 2022 - August 14, 2022
+https://blog.torproject.org/event/defcon-2022/
+
+## What We're Reading
+
+* Top VPN joins forces with the Tor Project for a more secure internet, TechRadar.
+https://www.techradar.com/news/top-vpn-joins-forces-with-the-tor-project-for-a-more-secure-internet
+
+* How independent and international news orgs are circumventing censorship in Russia, Freedom of the Press Foundation.
+https://freedom.press/news/how-independent-and-international-news-orgs-are-circumventing-censorship-in-russia/
+
+* Come Tor sta aiutando i russi che vogliono navigare in internet senza censura, Wired Italy.
+https://www.wired.it/article/tor-russia-internet-libero/
+
+* Ask Help Desk: Your private messenger may not be so secure after all, the Washington Post.
+https://www.washingtonpost.com/technology/2022/03/18/private-messaging-apps-browsers/
+
+* Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document, VICE.
+https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes
+
+* What the antitrust proposals would actually mean for tech, Protocol.
+https://www.protocol.com/antitrust-proposals-big-tech
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
