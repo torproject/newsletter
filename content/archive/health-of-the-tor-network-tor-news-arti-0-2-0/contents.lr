@@ -1,0 +1,169 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-05-01
+---
+title: Health of the Tor network, Tor in the news, Arti 0.2.0
+---
+html_body:
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><a href="https://blog.torproject.org/malicious-relays-health-tor-network/">Malicious relays and the health of the Tor network</a></h1>
+
+
+									<p><a href="https://blog.torproject.org/malicious-relays-health-tor-network/"><img alt="" src="https://newsletter.torproject.org/gallery/network-health.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Running relays is a significant contribution to our project and we&#39;ve designed that process so that the barrier of entry is low, making it possible for a variety of people with different backgrounds to participate. This openness is important as it makes our network (and the privacy guarantees it offers) more robust and resilient to attacks. However, that low threshold of contributing to our network also makes it easier for malicious operators to attack our users, e.g. via Man-in-the-Middle (MitM) attacks at exit nodes.</p>
+
+									<p><a href="https://blog.torproject.org/malicious-relays-health-tor-network/">Our latest blog post</a> explains what we&#39;re doing to detect malicious actors (and remove their relays), how we developed these strategies, and what we&#39;re working on to make it harder for bad operators to run attacks. Additionally, <strong>we want to shine some light on this part of our day-to-day work at Tor</strong>. Because this is an arms race, we have to balance being transparent with effective detection of malicious actors. In this post we hope to offer more transparency about our approach without compromising the methods we use to keep our users safe.</p>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1><a href="https://blog.torproject.org/tor-media-2021/">Tor in the news</a></h1>
+
+									<p><a href="https://blog.torproject.org/tor-media-2021/"><img alt="" src="https://newsletter.torproject.org/gallery/tor-in-the-news.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>For the past few years, we&rsquo;ve shared a post summarizing media related to Tor that was published during the previous year. On our blog, <a href="https://blog.torproject.org/tor-media-2021/">take a look at the moments Tor landed in the headlines in 2021</a>, including coverage of onion service advancements, cryptocurrency donation records, our advocacy work, and changes in the censorship arms race.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/arti_020_released/">Arti 0.2.0 is released: Your somewhat-stable API is here!</a></h1>
+
+									<p><a href="https://blog.torproject.org/arti_010_released/"><img alt="" src="https://blog.torproject.org/arti_010_released/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Arti is our ongoing project to create a working embeddable Tor client in Rust. With version 0.2.0, our focus is on making Arti production-quality, by stress-testing the code, hunting for likely bugs and adding missing features that we know from experience that users will need.</p>
+
+									<p>From a user&#39;s point of view, most of the changes in Arti 0.2.0 are for improved performance and reliability. For developers, the most important change to be aware of is the new <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/285">configuration</a> code.</p>
+
+									<p><strong>Whether you&#39;re a user or a developer, please give Arti a try, and let us know what you think.</strong> The sooner we learn what you need, the better our chances of getting it into an early milestone! <a href="https://blog.torproject.org/arti_020_released/">Learn about Arti 0.2.0 and how to give it a try on our blog</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p data-topic-id="3108"><a href="https://forum.torproject.net/t/stable-release-0-4-7-7/3108">Tor stable release 0.4.7.7</a><br />
+									(April 27) This is the first stable version of the 0.4.7.x series including several major bugfixes, several major features and, finally, after years of work, congestion con</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-115a9/">Tor Browser 11.5a9 (Windows/macOS/Linux)</a><br />
+									(April 26) Tor Browser 11.5a9 updates Firefox on Windows, macOS, and Linux to 91.8.0esr.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-11010/">Tor Browser 11.0.10 (Windows, macOS, Linux)</a><br />
+									(April 7) This version includes important security updates to Firefox and updates Firefox on Windows, macOS, and Linux to 91.8.0esr.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/arti_020_released/">Arti 0.2.0</a><br />
+									(April 3) For users, most of the changes in this version of Arti are for improved performance and reliability. For developers, the most important change to be aware of is the new configuration code.</p>
+
+									<hr />
+									<h1>Upcoming Events</h1>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/AI-Human-Rights-Forum-Censorship/">AI and Human Rights Forum: Censorship Dialogues</a>, April 29, 2022 @ 18:00 UTC</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/rightscon-2022/">RightsCon</a>, June 6, 2022 &ndash; June 10, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/pets-2022/">Privacy Enhancing Technologies Symposium (PETS)</a>, July 11, 2022 &ndash; July 15, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/mch2022/">May Contain Hackers (MCH2022) - NL</a>, July 22, 2022 &ndash; July 26, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/usenix-security-2022/">Usenix Security</a>, August 10, 2022 &ndash; August 12, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/defcon-2022/">DEF CON (Las Vegas)</a>, August 11, 2022 &ndash; August 14, 2022</p>
+									</article>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.techradar.com/news/top-vpn-joins-forces-with-the-tor-project-for-a-more-secure-internet">Top VPN joins forces with the Tor Project for a more secure internet</a>,
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									TechRadar.</p>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://freedom.press/news/how-independent-and-international-news-orgs-are-circumventing-censorship-in-russia/">How independent and international news orgs are circumventing censorship in Russia</a>, Freedom of the Press Foundation.</p>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.wired.it/article/tor-russia-internet-libero/">Come Tor sta aiutando i russi che vogliono navigare in internet senza censura</a>, Wired Italy.</p>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.washingtonpost.com/technology/2022/03/18/private-messaging-apps-browsers/">Ask Help Desk: Your private messenger may not be so secure after all</a>, the Washington Post.</p>
+
+									<div class="smart-header smart-header--light article__header__title">
+									<p class="smart-header__hed smart-header__hed--size-2"><a href="https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes">Facebook Doesn&rsquo;t Know What It Does With Your Data, Or Where It Goes: Leaked Document</a>, VICE.</p>
+
+									<div class="headline-container">
+									<p class="headline h1" data-type="text"><a href="https://www.protocol.com/antitrust-proposals-big-tech">What the antitrust proposals would actually mean for tech</a>, Protocol.</p>
+									</div>
+									</div>
+
+									
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://torproject.org/donate/donate-phr-tn1" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" /></a></p>
+
+
+<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+             		</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Spacing -->
