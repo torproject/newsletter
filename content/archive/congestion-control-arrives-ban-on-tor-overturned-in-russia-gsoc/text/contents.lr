@@ -1,0 +1,152 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-06-03
+---
+title: Congestion control arrives, ban on Tor overturned in Russia, GSoC
+---
+body:
+
+## Congestion Control Arrives in Tor 0.4.7-stable!
+https://blog.torproject.org/congestion-contrl-047/
+
+We've released [Tor 0.4.7.7](https://forum.torproject.net/t/stable-release-0-4-7-7/3108), the first stable Tor release with support for congestion control. Congestion control eliminates the speed limit of current Tor, as well as reduces latency by minimizing queue lengths at relays. This results in significant performance improvements in Tor, as well as increased utilization of our network capacity. That means: faster Tor!
+
+Tor Browser users: Upgrade to the [latest version of Tor Browser](https://blog.torproject.org/new-release-tor-browser-11013/), and you'll get the speed improvement benefits made possible with congestion control.
+
+Exit relay operators: In order for users to see the benefits of congestion control improvements, we need our Exit relay operators to upgrade to the new Tor 0.4.7 stable series, asap! Packages  for Debian, Ubuntu, and Fedora/CentOS/RHEL are already available.
+
+All relay operators: Non-exit relay operators do not need to upgrade for congestion control to work, but this also means you may be surprised by the network effects of congestion control traffic running through your relays. You may need to set bandwidth limits.
+
+## Ban on Tor's website overturned in Russian court
+
+With the help of digital rights group [Roskomsvoboda](https://roskomsvoboda.org), we successfully overturned a ban on the [Tor Project's website](https://www.torproject.org) in Russia! This means that the Russian governmental agency responsible for censorship will have to remove Tor from its block list.
+
+While this is a huge victory for Tor and internet freedom, the fight is not over.
+
+We will be returning to court for more hearings and litigation, and this time, Google is included as a third party in the case, as the Russian authorities are demanding that Tor Browser for Android be removed from the Play Store. We will keep you updated on new developments as they happen. Today, we celebrate the victory! Read more about the case on Roskomsvoboda's blog [in Russian](https://roskomsvoboda.org/post/google-v-dele-tor/).
+
+## The Tor Project + OONI + Google Summer of Code
+
+We are happy that the Tor Project is again participating in Google Summer of Code. Mentorship programs are very important for open source projects as they help us have one more way of bringing new contributors to our projects. Starting in June this year we will have three contributors working with mentors and their projects through Google Summer of Code:
+
+* Tor Weather: Improving the Tor network by Sarthik Gupta: https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#1-tor-weather
+
+* OONI Probe Network Experiments: Detecting TLS Middleboxes and Port-based Blocking: https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#2-ooni-probe-network-experiments
+
+* OONI Explorer & Design System Improvements https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#4-ooni-explorer-improvements
+
+## Arti 0.4.0 is released: Robustness and API improvements
+https://blog.torproject.org/arti_040_released/
+
+Arti is our ongoing project to create a working embeddable Tor client in Rust. Arti 0.4.0 wraps up our changes to the configuration logic (https://gitlab.torproject.org/tpo/core/arti/-/issues/285), detects several kinds of unsafe filesystem configuration (https://docs.rs/fs-mistrust/latest/fs_mistrust/), and has a refactored directory manager to help us tolerate far more kinds of bootstrap failures (https://gitlab.torproject.org/tpo/core/arti/-/issues/329).
+
+Next, we're working for feature-parity with Tor in [netflow resistance](https://gitlab.torproject.org/tpo/core/arti/-/issues/62) and [congestion control](https://gitlab.torproject.org/tpo/core/arti/-/issues/88). We hope to have some progress by our next release, but we might not be finished by then.
+
+We need your help to test Arti, find bugs, and suggest improvements! Visit our blog for more details about Arti 0.4.0 and how to [get involved](https://blog.torproject.org/arti_040_released/).
+
+## New Releases
+
+- Arti 0.4.0
+https://blog.torproject.org/arti_040_released/
+(May 31) This release wraps up our changes to the configuration logic, detects several kinds of unsafe filesystem configuration, and has a refactored directory manager to help us tolerate far more kinds of bootstrap failures.
+
+- Tor Browser 11.5a12 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-115a12/
+(May 30) This version includes important security updates to Firefox.
+
+- Tor Browser 11.5a10 (Android)
+https://blog.torproject.org/new-release-tor-browser-115a10/
+(May 26) Tor Browser 11.5a10 updates Firefox to 99.0b3 and includes bugfixes and stability improvements.
+
+- Torsocks 2.4.0
+https://forum.torproject.net/t/torsocks-release-2-4-0/3425
+(May 25) This release has several bugfixes, fixing a number of compatibility issues and crashes, as well as several significant behavior changes.
+
+- Tor Browser 11.0.13
+https://blog.torproject.org/new-release-tor-browser-11013/
+(May 23) This version includes important security updates to Firefox. We also updated Tor to 0.4.7.7. The first stable Tor release with support for congestion control.
+
+- Tor Browser 11.5a11 (Windows/macOS/Linux)
+https://blog.torproject.org/new-release-tor-browser-115a11/
+(May 20) This version includes important security updates to Firefox. Tor Browser 11.5a11 updates Firefox on Windows, macOS, and Linux to 91.9.0esr.
+
+- Tor Browser 11.0.12 (Android)
+https://blog.torproject.org/new-release-tor-browser-11012/
+(May 12) This version solves the startup crash that many users reported and updates GeckoView to 96.0.3.
+
+- Arti 0.3.0
+https://blog.torproject.org/arti_030_released/
+(May 6) This release has bugfixes for many robustness issues affecting failures to bootstrap and many smaller bugfixes, features, and infrastructure improvements.
+
+- Tails 5.0
+https://blog.torproject.org/new-release-tails-50/
+(May 3) Tails 5.0 is the first based on Debian 11 (Bullseye). It brings new versions of a lot of the software included in Tails and new OpenPGP tools.
+
+- Tor Browser 11.0.11 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-11011/
+(May 3) This version includes important security updates to Firefox and updates Firefox on Windows, macOS, and Linux to 91.9.0esr.
+
+## Upcoming Events
+
+- [Sysadmin 101: for New Relay Operators](https://forum.torproject.net/t/workshop-sysadmin-101-for-new-relay-operators-june-4th-2022-19-utc/3400/), June 4, 2022 @ 19:00 UTC
+
+- [RightsCon, June 6, 2022 - June 10, 2022](https://twitter.com/torproject/status/1532780724973031424)
+
+- [Digital Rights Job Fair, June 16](https://twitter.com/torproject/status/1526578292119244802)
+
+- Tor Localization Hangout, June 17 @ 12:00 UTC
+
+- Privacy Enhancing Technologies Symposium (PETS), July 11, 2022 - July 15, 2022
+
+- May Contain Hackers (MCH2022) - NL, July 22, 2022 - July 26, 2022
+
+- Tor Localization Hangout, July 15 @ 12:00 UTC
+
+- Usenix Security, August 10, 2022 - August 12, 2022
+
+- DEF CON (Las Vegas), August 11, 2022 - August 14, 2022
+
+## What We're Reading
+
+- Top VPN joins forces with the Tor Project for a more secure internet, TechRadar.
+https://www.techradar.com/news/top-vpn-joins-forces-with-the-tor-project-for-a-more-secure-internet
+
+- How independent and international news orgs are circumventing censorship in Russia, Freedom of the Press Foundation.
+https://freedom.press/news/how-independent-and-international-news-orgs-are-circumventing-censorship-in-russia/
+
+- Come Tor sta aiutando i russi che vogliono navigare in internet senza censura, Wired Italy.
+https://www.wired.it/article/tor-russia-internet-libero/
+
+- Ask Help Desk: Your private messenger may not be so secure after all, the Washington Post.
+https://www.washingtonpost.com/technology/2022/03/18/private-messaging-apps-browsers/
+
+- Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document, VICE.
+https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes
+
+- What the antitrust proposals would actually mean for tech, Protocol.
+https://www.protocol.com/antitrust-proposals-big-tech
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
