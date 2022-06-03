@@ -1,0 +1,217 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-06-03
+---
+title: Congestion control arrives, ban on Tor overturned in Russia, GSoC
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/congestion-contrl-047/">Congestion Control Arrives in Tor 0.4.7-stable!</a></h1>
+
+									<p><a href="https://blog.torproject.org/congestion-contrl-047/"><img alt="" src="https://newsletter.torproject.org/gallery/congestion-control.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>We&#39;ve <a href="https://forum.torproject.net/t/stable-release-0-4-7-7/3108">released Tor 0.4.7.7</a>, the first stable Tor release with support for <a href="https://blog.torproject.org/congestion-contrl-047/">congestion control</a>. Congestion control eliminates the speed limit of current Tor, as well as reduces latency by minimizing queue lengths at relays. This results in significant performance improvements in Tor, as well as increased utilization of our network capacity. That means: faster Tor!</p>
+
+									<p><strong>Tor Browser users: </strong><a href="https://blog.torproject.org/new-release-tor-browser-11013/">Upgrade to the latest version of Tor Browser</a>, and you&#39;ll get the speed improvement benefits made possible with congestion control.</p>
+
+									<p><strong>Exit relay operators:</strong> In order for users to see the benefits of congestion control improvements, we need our Exit relay operators to upgrade to the new Tor 0.4.7 stable series, asap! Packages&nbsp; for <a href="https://support.torproject.org/apt/tor-deb-repo/">Debian</a>, <a href="https://support.torproject.org/relay-operators/operators-4/">Ubuntu</a>, and <a href="https://support.torproject.org/rpm/tor-rpm-install/">Fedora/CentOS/RHEL</a> are already available.</p>
+
+									<p><strong>All relay operators:</strong> Non-exit relay operators do not need to upgrade for congestion control to work, but this also means you may be surprised by the network effects of congestion control traffic running through your relays. <a href="https://blog.torproject.org/congestion-contrl-047/">You may need to set bandwidth limits</a>.</p>
+
+									<hr />
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<h1>🎊 Ban on Tor&#39;s website overturned in Russian court 🎊</h1>
+
+									<p>With the help of digital rights group <a href="https://roskomsvoboda.org">Roskomsvoboda</a>, <strong>we successfully overturned a ban on the Tor Project&#39;s website (torproject.org) in Russia!</strong> This means that the Russian governmental agency responsible for censorship&nbsp; will have to remove Tor from its block list.</p>
+
+									<p>While this is a huge victory for Tor and internet freedom, the fight is not over.</p>
+
+									<p>We will be returning to court for more hearings and litigation, and this time, Google is included as a third party in the case, as the Russian authorities are demanding that Tor Browser for Android be removed from the Play Store. We will keep you updated on new developments as they happen. Today, we celebrate the victory! <a href="https://roskomsvoboda.org/post/google-v-dele-tor/">Read more about the case on Roskomsvoboda&#39;s blog (in Russian)</a>.</p>
+
+									<hr />
+									<h1><a href="https://blog.torproject.org/2022-google-summer-of-code-projects/">The Tor Project + OONI + Google Summer of Code</a></h1>
+
+									<p><a href="https://blog.torproject.org/2022-google-summer-of-code-projects/"><img alt="" src="https://newsletter.torproject.org/gallery/GSoC2022.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>We are happy that the Tor Project is again participating in <a href="https://opensource.googleblog.com/2022/05/GSoC-2022-Accepted-Contributor-Announced.html">Google Summer of Code</a>. Mentorship programs are very important for open source projects as they help us have one more way of bringing new contributors to our projects. Starting in June this year we will have three contributors working with mentors and their projects through Google Summer of Code:</p>
+
+									<ul>
+										<li>
+										<p><a href="https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#1-tor-weather">Tor Weather: Improving the Tor network</a> by Sarthik Gupta</p>
+										</li>
+										<li>
+										<p><a href="https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#2-ooni-probe-network-experiments">OONI Probe Network Experiments: Detecting TLS Middleboxes and Port-based Blocking</a></p>
+										</li>
+										<li>
+										<p><a href="https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#4-ooni-explorer-improvements">OONI Explorer &amp; Design System Improvements</a></p>
+										</li>
+									</ul>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/arti_040_released/">Arti 0.4.0 is released: Robustness and API improvements</a></h1>
+
+									<p><a href="https://blog.torproject.org/arti_040_released/"><img alt="" src="https://blog.torproject.org/arti_010_released/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Arti is our ongoing project to create a working embeddable Tor client in Rust. <a href="https://blog.torproject.org/arti_040_released/">Arti 0.4.0</a> wraps up our changes to the <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/285">configuration</a> logic, detects several kinds of <a href="https://docs.rs/fs-mistrust/latest/fs_mistrust/">unsafe filesystem configuration</a>, and has a refactored directory manager to help us tolerate far more kinds of <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/329">bootstrap failures</a>.</p>
+
+									<p>Next, we&#39;re working for feature-parity with Tor in <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/62">netflow resistance</a> and <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/88">congestion control</a>. We hope to have some progress by our next release, but we might not be finished by then.</p>
+
+									<p>We need your help to test Arti, find bugs, and suggest improvements! <a href="https://blog.torproject.org/arti_040_released/">Visit our blog for more details about Arti 0.4.0 and how to get involved</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p><a href="https://blog.torproject.org/arti_040_released/">Arti 0.4.0</a><br />
+									(May 31) This release wraps up our changes to the configuration logic, detects several kinds of unsafe filesystem configuration, and has a refactored directory manager to help us tolerate far more kinds of bootstrap failures.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-115a12/">Tor Browser 11.5a12 (Android, Windows, macOS, Linux)</a><br />
+									(May 30) This version includes important security updates to Firefox.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-115a10/">Tor Browser 11.5a10 (Android)</a><br />
+									(May 26) Tor Browser 11.5a10 updates Firefox to 99.0b3 and includes bugfixes and stability improvements.</p>
+
+									<p><a href="https://forum.torproject.net/t/torsocks-release-2-4-0/3425">Torsocks 2.4.0</a><br />
+									(May 25) This release has several bugfixes, fixing a number of compatibility issues and crashes, as well as several significant behavior changes.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-11013/">Tor Browser 11.0.13</a><br />
+									(May 23) This version includes important <a href="https://www.mozilla.org/en-US/security/advisories/mfsa2022-19/">security updates</a> to Firefox. We also updated Tor to 0.4.7.7. The first stable Tor release with support for <a href="https://blog.torproject.org/congestion-contrl-047/">congestion control</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-115a11/">Tor Browser 11.5a11 (Windows/macOS/Linux)</a><br />
+									(May 20) This version includes important security updates to Firefox. Tor Browser 11.5a11 updates Firefox on Windows, macOS, and Linux to 91.9.0esr.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-11012/">Tor Browser 11.0.12 (Android)</a><br />
+									(May 12) This version solves the <a href="https://gitlab.torproject.org/tpo/applications/fenix/-/issues/40212">startup crash that many users reported</a> and updates GeckoView to 96.0.3.</p>
+
+									<p><a href="https://blog.torproject.org/arti_030_released/">Arti 0.3.0</a><br />
+									(May 6) This release has bugfixes for many robustness issues affecting failures to bootstrap and many smaller bugfixes, features, and infrastructure improvements.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tails-50/">Tails 5.0</a><br />
+									(May 3) Tails 5.0 is the first based on Debian&nbsp;11 (Bullseye). It brings new versions of a lot of the software included in Tails and new OpenPGP tools.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-11011/">Tor Browser 11.0.11 (Windows, macOS, Linux)</a><br />
+									(May 3) This version includes important security updates to Firefox and updates Firefox on Windows, macOS, and Linux to 91.9.0esr.</p>
+
+									<hr />
+									<h1>Upcoming Events</h1>
+
+									<article class="event">
+									<p data-topic-id="3400"><a class="fancy-title" data-ember-action="" data-ember-action-335="335" href="https://forum.torproject.net/t/workshop-sysadmin-101-for-new-relay-operators-june-4th-2022-19-utc/3400">Sysadmin 101: for New Relay Operators,</a> June 4, 2022 @ 19:00 UTC</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/rightscon-2022/">RightsCon</a>, June 6, 2022 &ndash; June 10, 2022</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/2022-digital-rights-job-fair/">Digital Rights Job Fair</a>, June 16</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/localization_hangout/">Tor Localization Hangout</a>, June 17 @ 12:00 UTC</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/pets-2022/">Privacy Enhancing Technologies Symposium (PETS)</a>, July 11, 2022 &ndash; July 15, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/mch2022/">May Contain Hackers (MCH2022) - NL</a>, July 22, 2022 &ndash; July 26, 2022</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/localization_hangout/">Tor Localization Hangout</a>, July 15 @ 12:00 UTC</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/usenix-security-2022/">Usenix Security</a>, August 10, 2022 &ndash; August 12, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/defcon-2022/">DEF CON (Las Vegas)</a>, August 11, 2022 &ndash; August 14, 2022</p>
+									</article>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.vice.com/en/article/3ab33v/russia-reverses-decision-on-blocking-tor-projects-website"><span data-article-description="It doesn't mean the site or anonymity network itself will necessarily get an easier time in Russia, but a new trial has been set with the Tor Project now involved." data-article-id="628ba397e00d0400942c0383" data-article-locale="en_us" data-article-title="Russia Reverses Decision on Blocking Tor Project's Website" data-article-url="/en/article/3ab33v/russia-reverses-decision-on-blocking-tor-projects-website" data-direction="down">Russia Reverses Decision on Blocking Tor Project&#39;s Website</span></a>,
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									Motherboard.</p>
+
+									<p>
+									<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+									</style>
+									<a href="https://www.reuters.com/legal/litigation/google-private-browsing-mode-not-really-private-texas-lawsuit-says-2022-05-19/">Google &#39;private browsing&#39; mode not really private, Texas lawsuit says</a>, Reuters.</p>
+
+									<article class="news-article " data-id="3wCFchEYohSUrHzbutwFna">
+									<header>
+									<p><a href="https://www.laptopmag.com/features/heres-what-your-isp-knows-about-you-and-what-you-can-do-about-it">Here&#39;s what your ISP knows about you and what you can do about it</a>, Laptop Mag.</p>
+
+									<p class="style-scope ytd-watch-metadata"><a href="https://www.youtube.com/watch?v=1cNE5DN_I60">An Introduction to Tor: Digital Security for Journalists and Sources</a>, Society of Professional Journalists.</p>
+
+									<p><a href="https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/">Tor project upgrades network speed performance with new system</a>, Bleeping Computer.</p>
+
+									<p class="dcr-29zico"><a href="https://www.theguardian.com/world/2022/may/06/abortion-laws-surveillance-privacy-phone-data">Abortion surveillance: in a post-Roe world, could an internet search lead to an arrest?</a>, The Guardian.</p>
+									</header>
+									</article>
+
+
+
+
+
+									<hr />
+<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://torproject.org/donate/donate-phr-tn1" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" /></a></p>
+
+
+<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->
+
