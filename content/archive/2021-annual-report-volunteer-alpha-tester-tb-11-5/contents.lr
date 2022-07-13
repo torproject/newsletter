@@ -1,0 +1,173 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-07-12
+---
+title: 2021 Annual Report, Volunteer as an alpha tester, Tor Browser 11.5
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									
+																	<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><br />
+									<a href="https://blog.torproject.org/2020-2021-annual-report/">What you made possible in internet freedom: 2021 Annual Report</a></h1>
+
+									<p><a href="https://blog.torproject.org/2020-2021-annual-report/"><img alt="Cover of the 2020-2021 Annual Report for the Tor Project" src="https://newsletter.torproject.org/gallery/annual-report-2022.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>We&#39;re thrilled to share <a href="https://blog.torproject.org/2020-2021-annual-report/">the Tor Project&#39;s latest Annual Report</a> with you.</p>
+
+									<p>In the last year, the Tor community has mobilized against increasing global censorship, more than doubled the number of bridges on the Tor network, and responded to tens of thousands of user support requests. We&#39;ve also worked hard to make Tor faster, improve the health of our network, and connect with our community through training and events.</p>
+
+									<p>Take a moment to <a href="https://www.torproject.org/static/findoc/2020-2021-TorProject-Annual-Report.pdf">read more about mobilizing against internet censorship in this year&#39;s annual report</a> (page 4), alongside other achievements this year. <strong>Thank you for making Tor and the freedom it provides online possible.</strong></p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1><a href="https://blog.torproject.org/vounteer-as-an-alpha-tester/">Help Tor users everywhere&mdash;volunteer as an alpha tester</a></h1>
+
+									<p><a href="https://blog.torproject.org/vounteer-as-an-alpha-tester/"><img alt="Illustration of Tor Browser with the text &quot;Volunteer as an alpha tester. Help at-risk and censored users safely access Tor.&quot;" src="https://newsletter.torproject.org/gallery/volunteer-as-alpha-tester.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Tor Browser receives hundreds of changes a year: from updates to Firefox &ndash; the underlying browser on which Tor Browser is based &ndash; to entirely new features designed to help protect at-risk and censored users. However, each change made to Tor Browser has the potential to introduce new and sometimes elusive bugs.</p>
+
+									<p>In order to find and fix these bugs before they reach the majority of our users, we apply updates to an early version of Tor Browser known as Tor Browser Alpha before releasing them more widely. Then, as a small nonprofit, we rely on a community of volunteer testers to try out our alphas before their general release in order to keep Tor Browser available on so many platforms.</p>
+
+									<p><strong>Volunteering to become an alpha tester is one of the most accessible and effective ways you can help at-risk users stay connected to Tor. </strong></p>
+
+									<p>By spending a few minutes testing each new alpha release and reporting bugs back to our developers, you&#39;ll help provide a more stable Tor Browser for millions of users around the world. <a href="https://blog.torproject.org/vounteer-as-an-alpha-tester/">Join our community as an alpha tester and help users everywhere safely access Tor</a>.</p>
+
+									<hr />
+									<h1 class="title">Update on slow speed and overload on the Tor network</h1>
+
+									<p>Over the past several weeks, a DDoS attack has targeted the Tor network. You may have noticed an impact on Tor performance. We&#39;ve deployed improvements to help mitigate this attack, which have helped user experience, along with waning overload. As the ongoing DDoS attack strategy changes, we continue to investigate and implement mitigations. For more details, <a href="https://lists.torproject.org/pipermail/tor-relays/2022-July/020686.html">see our </a><a href="https://forum.torproject.net/t/tor-relays-were-trying-out-guard-n-primary-guards-to-use-2/3790/3">thread on the Tor Forum</a> and feel free to join the discussion.</p>
+
+									<hr />
+									<h1 class="title">Coming soon: Tor Browser 11.5 👀</h1>
+
+									<p><img alt="" src="https://newsletter.torproject.org/gallery/tb11.5-preview.png" style="width: 675px; height: 380px;" /></p>
+
+									<p>Big changes to routing around censorship against Tor are coming to Tor Browser 11.5, slated for release at the end of July. Keep your eyes open for the reveal of <strong>Connection Assist</strong>, a brand-new feature that makes discovering censorship against Tor Browser, and understanding what to do about it, much easier.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/arti_040_released/">Arti 0.5.0 is released: Robustness and API improvements</a></h1>
+
+									<p><a href="https://blog.torproject.org/arti_050_released/"><img alt="" src="https://blog.torproject.org/arti_010_released/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Arti is our ongoing project to create a working embeddable Tor client in Rust. <a href="https://blog.torproject.org/arti_050_released/">Arti 0.5.0</a> adds <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/441">cryptographic</a> <a href="https://gitlab.torproject.org/tpo/core/arti/-/merge_requests/550">acceleration</a>, a useful set of toplevel <a href="https://gitlab.torproject.org/tpo/core/arti/-/merge_requests/584">build features</a>, <a href="https://gitlab.torproject.org/tpo/core/arti/-/merge_requests/583">reachable-address</a> filtering, <a href="https://gitlab.torproject.org/tpo/core/arti/-/merge_requests/587">detection for failed directory downloads</a>, and numerous cleanups.</p>
+
+									<p>What&#39;s next? In the short term, we&#39;re working for feature-parity with Tor in <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/62">netflow resistance</a> and <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/88">congestion control</a>. We already have some backend code, but a complete implementation will take a while. Beyond that, between now and our 1.0.0 milestone in September, we&#39;re aiming to make Arti a production-quality Tor client for direct internet access.</p>
+
+									<p>We need your help to test Arti, find bugs, and suggest improvements! <a href="https://blog.torproject.org/arti_050_released/">Visit our blog for more details about Arti 0.5.0 and how to get involved</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-115a13/">Tor Browser 11.5a13 (Android, Windows, macOS, Linux)<br />
+									(</a>July 2) Tor Browser 11.5a13 updates Firefox on Windows, macOS, and Linux to 91.10.0esr.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-11015/">Tor Browser 11.0.15 (Android, Windows, macOS, Linux)</a><br />
+									(July 2) Updates Tor to 0.4.7.8.</p>
+
+									<p><a href="https://blog.torproject.org/arti_050_released/">Arti 0.5.0</a><br />
+									(June 24) This release adds cryptographic acceleration, a useful set of toplevel build features, reachable-address filtering, detection for failed directory downloads, and numerous cleanups.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-11014/">Tor Browser 11.0.14 (Android, Windows, macOS, Linux)</a><br />
+									(June 7) Tor Browser 11.0.14 updates Firefox on Windows, macOS, and Linux to 91.10.0esr.</p>
+
+									<hr />
+									<h1>Upcoming Events</h1>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/pets-2022/">Privacy Enhancing Technologies Symposium (PETS)</a>, July 11, 2022 &ndash; July 15, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/mch2022/">May Contain Hackers (MCH2022) - NL</a>, July 22, 2022 &ndash; July 26, 2022</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/localization_hangout/">Tor Localization Hangout</a>, July 15 @ 12:00 UTC</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/usenix-security-2022/">Usenix Security</a>, August 10, 2022 &ndash; August 12, 2022</p>
+									</article>
+
+									<article class="event">
+									<p class="title"><a href="https://blog.torproject.org/event/defcon-2022/">DEF CON (Las Vegas)</a>, August 11, 2022 &ndash; August 14, 2022</p>
+
+									<p class="title"><a href="https://blog.torproject.org/event/localization_hangout-august/">Tor Localization Hangout</a>, August 19 @ 12:00 UTC</p>
+									</article>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>
+									<style type="text/css">
+									</style>
+									<a href="https://www.eleconomista.com.mx/tecnologia/Mexico-es-el-pais-con-el-mayor-ancho-de-banda-en-la-red-Tor-en-America-Latina-20220705-0082.html">M&eacute;xico es el pa&iacute;s con el mayor ancho de banda en la red Tor en Am&eacute;rica Latina</a>, El Economista.</p>
+
+									<p><a href="https://medium.com/@Kendra_Serra/fear-uncertainty-and-period-trackers-340ab8fdff74">Fear, Uncertainty, and Period Trackers</a>, by Kendra Albert, Maggie Delano, and Emma Weil.</p>
+
+									<p><a href="http://https://te-st.ru/2022/06/17/meskio-tor-interview/">Мескио из команды Tor: &laquo;Наша задача &mdash; помочь активистским сообществам безопасно работать в онлайне&raquo;,</a> Teplitsa ST.</p>
+
+									<p><a href="http://https://digitaldefensefund.org/ddf-guides/abortion-privacy/#history">Keep Your Abortion Private &amp; Secure</a>, Digital Defense Fund.</p>
+
+									<p><a href="http://https://www.theguardian.com/world/2022/jun/05/britain-must-end-its-silence-on-egyptian-hunger-striker-alaa-abd-el-fattah-family-demand">Britain must end its silence on Egyptian hunger striker Alaa Abd El Fattah, family demand</a>, The Guardian.</p>
+
+									<p><a href="https://www.politico.com/newsletters/digital-future-daily/2022/06/08/the-genesis-of-privacy-by-design-00038186">The genesis of &#39;privacy by design&#39;</a>, Politico.</p>
+
+									<hr />
+																		<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
