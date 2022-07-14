@@ -1,0 +1,125 @@
+_model: post
+---
+_template: post.html
+---
+author: steph@torproject.org
+---
+pub_date: 2022-07-12
+---
+title: 2021 Annual Report, Volunteer as an alpha tester, Tor Browser 11.5
+---
+body:
+
+## What you made possible in internet freedom: 2021 Annual Report
+https://blog.torproject.org/2020-2021-annual-report/
+
+We're thrilled to share the Tor Project's latest Annual Report with you.
+
+In the last year, the Tor community has mobilized against increasing global censorship, more than doubled the number of bridges on the Tor network, and responded to tens of thousands of user support requests. We've also worked hard to make Tor faster, improve the health of our network, and connect with our community through training and events.
+
+Take a moment to read more about mobilizing against internet censorship in this year's annual report (page 4), alongside other achievements this year. Thank you for making Tor and the freedom it provides online possible.
+
+## Help Tor users everywhere—volunteer as an alpha tester
+https://blog.torproject.org/vounteer-as-an-alpha-tester/
+
+Tor Browser receives hundreds of changes a year: from updates to Firefox – the underlying browser on which Tor Browser is based – to entirely new features designed to help protect at-risk and censored users. However, each change made to Tor Browser has the potential to introduce new and sometimes elusive bugs.
+
+In order to find and fix these bugs before they reach the majority of our users, we apply updates to an early version of Tor Browser known as Tor Browser Alpha before releasing them more widely. Then, as a small nonprofit, we rely on a community of volunteer testers to try out our alphas before their general release in order to keep Tor Browser available on so many platforms.
+
+Volunteering to become an alpha tester is one of the most accessible and effective ways you can help at-risk users stay connected to Tor.
+
+By spending a few minutes testing each new alpha release and reporting bugs back to our developers, you'll help provide a more stable Tor Browser for millions of users around the world. Join our community as an alpha tester and help users everywhere safely access Tor.
+
+## Update on slow speed and overload on the Tor network
+
+Over the past several weeks, a DDoS attack has targeted the Tor network. You may have noticed an impact on Tor performance. We've deployed improvements to help mitigate this attack, which have helped user experience, along with waning overload. As the ongoing DDoS attack strategy changes, we continue to investigate and implement mitigations. For more details, see our thread on the Tor Forum and feel free to join the discussion.
+
+## Coming soon: Tor Browser 11.5 👀 
+
+Big changes to routing around censorship against Tor are coming to Tor Browser 11.5, slated for release at the end of July. Keep your eyes open for the reveal of Connection Assist, a brand-new feature that makes discovering censorship against Tor Browser, and understanding what to do about it, much easier.
+
+## Arti 0.5.0 is released: Robustness and API improvements
+https://blog.torproject.org/arti_050_released/
+
+Arti is our ongoing project to create a working embeddable Tor client in Rust. Arti 0.5.0 adds cryptographic acceleration, a useful set of toplevel build features, reachable-address filtering, detection for failed directory downloads, and numerous cleanups.
+
+What's next? In the short term, we're working for feature-parity with Tor in netflow resistance and congestion control. We already have some backend code, but a complete implementation will take a while. Beyond that, between now and our 1.0.0 milestone in September, we're aiming to make Arti a production-quality Tor client for direct internet access.
+
+We need your help to test Arti, find bugs, and suggest improvements! Visit our blog for more details about Arti 0.5.0 and how to get involved.
+
+## New Releases
+
+* Tor Browser 11.5a13 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-115a13/
+(July 2) Tor Browser 11.5a13 updates Firefox on Windows, macOS, and Linux to 91.10.0esr.
+
+* Tor Browser 11.0.15 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-11015/
+(July 2) Updates Tor to 0.4.7.8.
+
+* Arti 0.5.0
+https://blog.torproject.org/arti_050_released/
+(June 24) This release adds cryptographic acceleration, a useful set of toplevel build features, reachable-address filtering, detection for failed directory downloads, and numerous cleanups.
+
+* Tor Browser 11.0.14 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-11014/
+(June 7) Tor Browser 11.0.14 updates Firefox on Windows, macOS, and Linux to 91.10.0esr.
+
+## Upcoming Events
+
+* Privacy Enhancing Technologies Symposium (PETS), July 11, 2022 – July 15, 2022
+https://blog.torproject.org/event/pets-2022/
+
+* May Contain Hackers (MCH2022) - NL, July 22, 2022 – July 26, 2022
+https://blog.torproject.org/event/mch2022/
+
+* Tor Localization Hangout, July 15 @ 12:00 UTC
+https://blog.torproject.org/event/localization_hangout/
+
+* Usenix Security, August 10, 2022 – August 12, 2022
+https://blog.torproject.org/event/usenix-security-2022/
+
+* DEF CON (Las Vegas), August 11, 2022 – August 14, 2022
+https://blog.torproject.org/event/defcon-2022/
+
+* Tor Localization Hangout, August 19 @ 12:00 UTC
+https://blog.torproject.org/event/localization_hangout-august/
+
+## What We're Reading
+
+México es el país con el mayor ancho de banda en la red Tor en América Latina, El Economista.
+https://www.eleconomista.com.mx/tecnologia/Mexico-es-el-pais-con-el-mayor-ancho-de-banda-en-la-red-Tor-en-America-Latina-20220705-0082.html
+
+Fear, Uncertainty, and Period Trackers, by Kendra Albert, Maggie Delano, and Emma Weil.
+https://medium.com/@Kendra_Serra/fear-uncertainty-and-period-trackers-340ab8fdff74
+
+Мескио из команды Tor: «Наша задача — помочь активистским сообществам безопасно работать в онлайне», Teplitsa ST.
+https://te-st.ru/2022/06/17/meskio-tor-interview/
+
+Keep Your Abortion Private & Secure, Digital Defense Fund.
+https://digitaldefensefund.org/ddf-guides/abortion-privacy/#history
+
+Britain must end its silence on Egyptian hunger striker Alaa Abd El Fattah, family demand, The Guardian.
+https://www.theguardian.com/world/2022/jun/05/britain-must-end-its-silence-on-egyptian-hunger-striker-alaa-abd-el-fattah-family-demand
+
+The genesis of 'privacy by design', Politico.
+https://www.politico.com/newsletters/digital-future-daily/2022/06/08/the-genesis-of-privacy-by-design-00038186
+
+## Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay/
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org/
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-phr-tn1
+
+--
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Twitter: https://twitter.com/torproject
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+Mastodon: http://mastodon.social/@torproject
+Tor Forum: https://forum.torproject.net/
