@@ -1,0 +1,158 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-09-07
+---
+title: Tor on Telegram, become a Board member, Arti 1.0.0
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1 class="title"><br />
+									Supporting Tor users via Telegram</h1>
+
+									<p><img alt="Three white cards showing three Telegram profiles on a light purple background." src="https://newsletter.torproject.org/gallery/2022-08/telegram-launch.jpg" style="width: 675px; height: 380px;" /></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid4">When the Russian government blocked Tor in December 2021, the Tor Project Anti-censorship Team launched a new Telegram bot to share bridges and help users to circumvent censorship.</p>
+
+									<p aria-live="assertive" class="ace-line">Because we&#39;ve seen our initial Telegram bot help thousands of users, and because Telegram is a very popular messaging platform in the Russian-speaking community, we&#39;re launching more services on Telegram:</p>
+
+									<ul>
+										<li aria-live="assertive" class="ace-line" id="magicdomid6">
+										<p><strong><a href="https://t.me/torproject">TorProject</a>: </strong>Our official news channel on Telegram. We will deliver essential updates from the Tor Project.</p>
+										</li>
+										<li aria-live="assertive" class="ace-line">
+										<p><strong><a href="https://t.me/GetTor_bot">GetTor_bot</a>: </strong>If you can&#39;t download Tor Browser through our website, you can get a copy of Tor Browser delivered to you via GetTor. GetTor is a service that automatically responds to messages with links to the latest version of Tor Browser.</p>
+										</li>
+										<li aria-live="assertive" class="ace-line">
+										<p><strong><a href="https://t.me/GetBridgesbot">GetBridgesBot</a>:</strong> If you can&#39;t access Tor because the network is censored in your region, you can request a Tor bridge using this Telegram bot and use this bridge to circumvent censorship.</p>
+										</li>
+										<li aria-live="assertive" class="ace-line">
+										<p><strong><a href="https://t.me/TorProjectSupportBot">TorProjectSupportBot</a>:</strong> If you can&#39;t connect to Tor or you need help setting up Tor Browser, a live Tor user support specialist will help you. The help desk is available in English and Russian, and it&#39;s open for all users living in censored regions.</p>
+										</li>
+									</ul>
+
+									<p>Join us on Telegram and help spread the word that these resources are available!</p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1><a href="https://blog.torproject.org/vounteer-as-an-alpha-tester/">Open call for </a>Tor Board candidates</h1>
+
+									<p><a href="https://blog.torproject.org/open-call-tor-board-candidates/"><img alt="The Tor Project logo in purple on a light grey background." src="https://newsletter.torproject.org/gallery/2022-08/board-member-open-call.png" style="width: 675px; height: 338px;" /></a></p>
+
+									<p>We are happy to announce that for the first time the Tor Project Board has published an <a href="https://www.torproject.org/about/jobs/board-of-directors/"><strong>open call for candidates to become new members of the Board</strong></a>. The goal of this open call is to provide a way for the whole community to participate in this process.</p>
+
+									<p>We believe that this new process will not only help us find great new members for our Board but will also generate new relationships and get us closer to the communities that Tor serves.</p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">If you are interested in giving back to Tor in a governance role, we encourage you to <strong><a href="https://www.torproject.org/about/jobs/board-of-directors/">submit an application</a></strong> before Sept. 30.</span></p>
+
+									<hr />
+									<h1 class="title">Arti 1.0.0 is released and ready for production use 🎉</h1>
+
+									<p><a href="https://blog.torproject.org/arti_100_released/"><img alt="" src="https://blog.torproject.org/arti_010_released/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Back in 2020, we started work on a new implementation of the Tor protocols in the Rust programming language. With <strong><a href="https://blog.torproject.org/arti_100_released/">Arti 1.0.0</a></strong>, we believe it&#39;s ready for wider use.</p>
+
+									<p>This means that you should be able to use Arti in the real world to get a similar degree of privacy, usability, and stability to what you would with a C client Tor. The APIs should be (more or less) stable for embedders. You can now use <code>arti proxy</code> to connect to the Tor network to anonymize your network connections.</p>
+
+									<p>To achieve this, we we&#39;ve made many improvements to Arti. <strong><a href="https://blog.torproject.org/arti_100_released/">For a complete list of changes, and to learn more about Arti 1.0.0, visit our blog</a></strong>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1153/">Arti 1.0.0</a><br />
+									(Sept. 2) Arti is now ready for production use. You should be able to use it in the real world, to get a similar degree of privacy, usability, and stability to what you would with a C client Tor.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-1153/">Tor Browser 11.5.3 (Android)</a><br />
+									(August 30) Tor Browser 11.5.3 (Android) fixes bugs with bundled extensions and user add-ons.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1152/">Tor Browser 11.5.2 (Android, Windows, macOS, Linux)</a><br />
+									(August 29) Tor Browser 11.5.2 updates Firefox on Windows, macOS, and Linux to 91.13.0esr. Updates Tor to 0.4.7.10 and NoScript to 11.4.9.</p>
+
+									<p><a class="fancy-title" data-ember-action="" data-ember-action-26="26" href="https://forum.torproject.net/t/urgent-stable-release-0-4-5-14-0-4-6-12-and-0-4-7-10/4270"><strong>Urgent: </strong>Stable Release 0.4.5.14, 0.4.6.12 and 0.4.7.10</a><br />
+									(August 12) <strong>Relays should upgrade to these latest stables as soon as possible.</strong> On August 12, we were contacted by IPFire that the database starting from August 10 is missing ARIN networks. This release reverts to a database from August 9. Not upgrading can badly affect circuit path selection if country codes are used in your <code>torrc</code> file.</p>
+
+									<p><a href="https://forum.torproject.net/t/stable-release-0-4-5-13-0-4-6-11-and-0-4-7-9/4259">Stable Release 0.4.5.13, 0.4.6.11 and 0.4.7.9</a><br />
+									(August 11) These releases have multiple minor fixes that were backported for 0.4.5.x and 0.4.6.x. The rest of the fixes aim to help with the ongoing DDoS on the network mainly to reduce memory pressure on the relays and improve our DoS mitigation measures.</p>
+
+									<p><a href="https://blog.torproject.org/new-alpha-release-tor-browser-120a1/">Tor Browser 12.0a1 (Windows, macOS, Linux)</a><br />
+									(August 9) Tor Browser 12.0a1 updates Firefox on Windows, macOS, and Linux to 91.12.0esr. Updates Tor Launcher to 0.2.38, OpenSSL to 1.1.1q, and Go to 1.17.13.</p>
+
+									<p><a href="https://blog.torproject.org/arti_060_released/">Arti 0.6.0</a><br />
+									(August 3) Arti 0.6.0 reworks a large number of internal APIs, provides better error messages, and provides more of Tor&#39;s cryptographic handshakes. Fixes major compatibility issues on Windows and iOS.</p>
+
+									<hr />
+									<h1>What We&#39;re Reading</h1>
+
+									<p>
+									<style type="text/css">
+									</style>
+									<a href="https://guardianproject.info/2022/08/29/serving-websites-privately-over-tor-onion-services-from-your-laptop/">Serving Websites Privately Over Tor Onion Services (From Your Laptop!)</a>, Guardian Project.</p>
+
+									<p><a href="https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation">Google&rsquo;s Manifest V3 Still Hurts Privacy, Security, and Innovation</a>, EFF.</p>
+
+									<p><a href="https://whistleblowingnetwork.org/Our-Work/Spotlight/Stories/The-Pitfalls-of-Closed-Source-Whistleblowing-Softw">The Pitfalls of Closed-Source Whistleblowing Software</a>, Whistleblowing Network International.</p>
+
+									<p class="BaseWrap-sc-UABmB BaseText-fETRLB ContentHeaderHed-kqaZKy hkSZSE HRupV kNDMGj" data-testid="ContentHeaderHed"><a href="https://www.wired.com/story/tor-browser-russia-blocks/">How Tor Is Fighting&mdash;and Beating&mdash;Russian Censorship</a>, WIRED.</p>
+
+									<p class="interactive-heading css-1l8buln e1h9rw200" data-testid="headline" id="interactive-heading"><a href="https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html">How Russia Took Over Ukraine&rsquo;s Internet in Occupied Territories</a>, The New York Times.</p>
+
+									<hr />
+									
+<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://torproject.org/donate/donate-phr-tn1" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 15px;">
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" /></a></p>
+
+
+<p><small><a href="{action.unsubscribeUrl}">I no longer want to receive Tor News</a> | <a href="{action.optOutUrl}">Please remove this email address from all communications from the Tor Project</a><br />
+                  {domain.address}<br />
+                  <a href="https://torproject.org">torproject.org</a></small></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Spacing -->

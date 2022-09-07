@@ -1,0 +1,114 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-09-07
+---
+title: Tor on Telegram, become a Board member, Arti 1.0.0
+---
+body:
+
+## Supporting Tor users via Telegram
+
+When the Russian government blocked Tor in December 2021, the Tor Project Anti-censorship Team launched a new Telegram bot to share bridges and help users to circumvent censorship.
+
+Because we've see our initial Telegram bot help thousands of users, and because Telegram is a very popular messaging platform in the Russian-speaking community, we're launching more services on Telegram:
+
+ - TorProject: Our official news channel on Telegram. We will deliver essential updates from the Tor Project.
+
+ - GetTor_bot (https://t.me/GetTor_bot): If you can't download Tor Browser through our website, you can get a copy of Tor Browser delivered to you via GetTor. GetTor is a service that automatically responds to messages with links to the latest version of Tor Browser.
+ 
+- GetBridgesBot (https://t.me/GetBridgesbot): If you can't access Tor because the network is censored in your region, you can request a Tor bridge using this Telegram bot and use this bridge to circumvent censorship.
+
+- TorProjectSupportBot (https://t.me/TorProjectSupportBot): If you can't connect to Tor or you need help setting up Tor Browser, a live Tor user support specialist will help you. The help desk is available in English and Russian, and it's open for all users living in censored regions.
+
+Join us on Telegram and help spread the word that these resources are available!
+
+## Open call for Tor Board members
+https://www.torproject.org/about/jobs/board-of-directors
+
+We are happy to announce that for the first time the Tor Project Board has published an open call for candidates to become new members of the Board: https://www.torproject.org/about/jobs/board-of-directors/. The goal of this open call is to provide a way for the whole community to participate in this process.
+
+We believe that this new process will not only help us find great new members for our Board but will also generate new relationships and get us closer to the communities that Tor serves.
+
+If you are interested in giving back to Tor in a governance role, we encourage you to submit an application before Sept. 30.
+
+## Arti 1.0.0 is released and ready for production use 🎉 
+https://blog.torproject.org/arti_100_released
+
+Back in 2020, we started work on a new implementation of the Tor protocols in the Rust programming language. With Arti 1.0.0, we believe it's ready for wider use.
+
+This means that you should be able to use Arti in the real world to get a similar degree of privacy, usability, and stability to what you would with a C client Tor. The APIs should be (more or less) stable for embedders. You can now use arti proxy to connect to the Tor network to anonymize your network connections.
+
+To achieve this, we we've made many improvements to Arti. For a complete list of changes, and to learn more about Arti 1.0.0, visit our blog: https://blog.torproject.org/arti_100_released.
+
+## New Releases
+
+* Arti 1.0.0
+(Sept. 2) Arti is now ready for production use. You should be able to use it in the real world, to get a similar degree of privacy, usability, and stability to what you would with a C client Tor. 
+
+* Tor Browser 11.5.3 (Android)
+https://blog.torproject.org/new-release-tor-browser-1153
+(August 30) Tor Browser 11.5.3 (Android) fixes bugs with bundled extensions and user add-ons.
+
+* Tor Browser 11.5.2 (Android,Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1152
+(August 29) Tor Browser 11.5.2 updates Firefox on Windows, macOS, and Linux to 91.13.0esr. Updates Tor to 0.4.7.10 and NoScript to 11.4.9.
+
+* Urgent: Stable Release 0.4.5.14, 0.4.6.12 and 0.4.7.10
+https://forum.torproject.net/t/urgent-stable-release-0-4-5-14-0-4-6-12-and-0-4-7-10/4270
+(August 12) Relays should these latest stables as soon as possible. On August 12, we were contacted by IPFire that the database starting from August 10 is missing ARIN networks. This release reverts to a database from August 9. Not upgrading can badly affect circuit path selection if country code are used in your torrc file.
+
+* Stable Release 0.4.5.13, 0.4.6.11 and 0.4.7.9
+https://forum.torproject.net/t/stable-release-0-4-5-13-0-4-6-11-and-0-4-7-9/4259
+(August 11) These releases have multiple minor fixes that were backported for 0.4.5.x and 0.4.6.x. The rest of the fixes aim to help with the ongoing DDoS on the network mainly to reduce memory pressure on the relays and improve our DoS mitigation measures.
+
+* Tor Browser 12.0a1 (Windows, macOS, Linux)
+https://blog.torproject.org/new-alpha-release-tor-browser-120a1
+(August 9) Tor Browser 12.0a1 updates Firefox on Windows, macOS, and Linux to 91.12.0esr. Updates Tor Launcher to 0.2.38, OpenSSL to 1.1.1q, and Go to 1.17.13.
+
+* Arti 0.6.0
+https://blog.torproject.org/arti_060_released
+(August 3) Arti 0.6.0 reworks a large number of internal APIs, provides better error messages, and provides more of Tor's cryptographic handshakes. Fixes major compatibility issues on Windows and iOS.
+
+### What We're Reading
+
+Serving Websites Privately Over Tor Onion Services (From Your Laptop!), Guardian Project.
+https://guardianproject.info/2022/08/29/serving-websites-privately-over-tor-onion-services-from-your-laptop
+
+Google’s Manifest V3 Still Hurts Privacy, Security, and Innovation, EFF.
+https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation
+
+The Pitfalls of Closed-Source Whistleblowing Software, Whistleblowing Network International.
+https://whistleblowingnetwork.org/Our-Work/Spotlight/Stories/The-Pitfalls-of-Closed-Source-Whistleblowing-Softw
+
+How Tor Is Fighting—and Beating—Russian Censorship, WIRED.
+https://www.wired.com/story/tor-browser-russia-blocks
+
+How Russia Took Over Ukraine’s Internet in Occupied Territories, The New York Times.
+https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html
+
+### Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+---
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
+* Telegram: https://t.me/torproject
