@@ -1,0 +1,115 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-10-01
+---
+title: Tor News | State of the Onion '22, donations matched, & alpha testers needed
+---
+body:
+
+# You're Invited: State of the Onion 2022
+
+We're happy to announce that the State of the Onion, a livestream event highlighting updates from onion-world over the last year, is returning this month! This year, we'll State of the Onion will be a two-part event:
+
+- Wednesday, Nov 9, State of the Onion: the Tor Project @ 17:00-18:30 UTC: https://www.youtube.com/watch?v=uSyBZ7GIzJY
+
+- Wednesday, Nov 16, State of the Onion: the Tor community @ 17:00-18:30 UTC: https://www.youtube.com/watch?v=O-7k0PjnBbk
+
+Everyone is invited to hear news, accomplishments, challenges, and next steps of all the Tor Project's teams + Tor community projects during these live events. Remember to click on the YouTube links above and set a reminder for each event. We look forward to sharing the event programs on the blog and forum soon.
+
+# Donations to the Tor Project matched 1:1 now through December
+https://blog.torproject.org/powered-by-privacy/
+
+Every year, the Tor Project (a 501(c)(3) nonprofit) holds a fundraiser where we ask for your support. As part of this fundraiser, now through December, your donation to the Tor Project today will be matched, 1:1.
+
+That means that every donation, up to $100,000, will be doubled. Now is an excellent time to give because your donation counts twice. Be sure to check out https://donate.torproject.org for this year’s new t-shirt, and a brand-new offering: a sturdy canvas tote bag.
+
+# Global Encryption Day: Demand End-to-End Encryption in DMs
+https://blog.torproject.org/global-encryption-day-2022/
+
+October 21, 2022 was the second Global Encryption Day, organized by the Global Encryption Coalition (https://www.globalencryption.org/2022/06/global-encryption-day-2022/), of which the Tor Project is a member. Global Encryption Day to highlight why encryption matters and to advocate for its advancement and protection.
+
+Global Encryption Day was also a day for all of us to highlight services that should be encrypted—but are not yet. That's why we've called on platforms to do what’s right: make DMs safe. We’re demanding that Big Tech finally bring the protection of end-to-end encryption to DMs in their products—not as a hidden “added feature”—but as the default setting.
+
+Join us to demand that Facebook, Twitter, Google, and Apple protect our private messages and implement default end-to-end encryption immediately: https://www.makedmssafe.com.
+
+# Alpha testers needed for Tor Browser 12.0a4
+https://blog.torproject.org/new-alpha-release-tor-browser-120a4/
+
+Your help is needed to test a number of new changes in Tor Browser 12.0a4, including the following features:
+
+- Multi-locale bundles (Desktop)
+
+- tor-launcher migration (Desktop)
+
+- Onion Auth fixes (Desktop)
+
+- Always prioritize .onion sites (Android)
+
+- Unified Español locale (Desktop and Android)
+
+What to test, how to report any discoveries, and more details about all of these features is on our blog now. Please consider volunteering as an alpha tester and making sure important features work before they come to the stable release!
+
+# New Releases
+
+Tor Browser 12.0a4 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-alpha-release-tor-browser-120a4/
+(Oct. 31) Tor Browser 12.0a4 updates Firefox on Android, Windows, macOS, and Linux to 102.4.0esr. This version includes important security updates to Firefox and GeckoView. There were no Android-specific security updates to backport from the Firefox 106 release.
+
+Tor Browser 11.5.6 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1156/
+(Oct. 27) This is an emergency release resolving an issue with Tor Browser 11.5.5's integration of the Snowflake pluggable transport. Users of 11.5.5 will be unable to connect to the Tor Network via the built-in Snowflake bridge until they update to 11.5.6.
+
+Tor Browser 11.5.5 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1155/
+(Oct. 25) Tor Browser 11.5.5 backports the security updates from Firefox ESR 102.4 to to Firefox ESR 91.13 on Windows, macOS and Linux and updates GeckoView on Android to 102.4.0esr and includes important security updates. There were no Android-specific security updates to backport from the Firefox 106 release.
+
+Tor Browser 11.5.4 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1154/
+(Oct. 14) Tor Browser 11.5.4 backports the security updates from Firefox ESR 102.3 to to Firefox ESR 91.13 on Windows, macOS and Linux and backports the Android-specific security updates from Firefox 104 and 105. It also updates GeckoView on Android to 102.3.0esr.
+
+Arti 1.0.1
+https://blog.torproject.org/arti_101_released/
+(Oct. 4) This release fixes bugs (including one that would cause a busy-loop), tightens log security, exposes an API for building circuits manually, and contains some preparatory work for anticensorship support.
+
+# Upcoming Events
+
+State of the Onion: the Tor Project, November 9 @ 17:00 UTC
+https://www.youtube.com/watch?v=uSyBZ7GIzJY
+
+Tor at Bread&Net 2022, November 15
+https://blog.torproject.org/event/2022-bread-and-net/
+
+Roger Dingledine at DARPA Forward, November 15-16
+https://blog.torproject.org/event/roger-darpa-forward/
+
+State of the Onion: the Tor community, November 16 @ 17:00 UTC
+https://www.youtube.com/watch?v=O-7k0PjnBbk
+
+Tor Localization Hangout, November 18 @ 12:00 UTC
+https://blog.torproject.org/event/2022-11-18-l10n-hangout/
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+--
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+* Forum: https://forum.torproject.net
+* Twitter: https://twitter.com/torproject
+* Facebook: https://facebook.com/torproject
+* Instagram: https://instagram.com/torproject
+* Mastodon: http://mastodon.social/@torproject
+* YouTube: https://www.youtube.com/c/TorProjectInc
+* Tor Forum: https://forum.torproject.net/
