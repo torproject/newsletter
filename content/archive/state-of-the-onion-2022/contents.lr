@@ -1,0 +1,163 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-10-01
+---
+title: Tor News | State of the Onion '22, donations matched, & alpha testers needed
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title">You&#39;re Invited: State of the Onion 2022</h1>
+
+									<p><img alt="An orange-pink-purple gradiant background with the text 2022 State of the Onion" src="https://newsletter.torproject.org/gallery/2022-10/soto-social-blog-newsletter.png" style="width: 675px; height: 380px;" /></p>
+
+									<p>We&#39;re happy to announce that the <strong>State of the Onion</strong>, a livestream event highlighting updates from onion-world over the last year, is returning this month! This year, we&#39;ll State of the Onion will be a two-part event:</p>
+
+									<ul>
+										<li>
+										<p><strong>Wednesday, Nov 9, <a href="https://www.youtube.com/watch?v=uSyBZ7GIzJY">State of the Onion: the Tor Project</a></strong> <strong>@ 17:00-18:30 UTC</strong></p>
+										</li>
+										<li>
+										<p><strong>Wednesday, Nov 16, <a href="https://www.youtube.com/watch?v=O-7k0PjnBbk">State of the Onion: the Tor community</a> @ 17:00-18:30 UTC</strong></p>
+										</li>
+									</ul>
+
+									<p>Everyone is invited to hear news, accomplishments, challenges, and next steps of all the Tor Project&#39;s teams + Tor community projects during these live events. Remember to click on the YouTube links above and set a reminder for each event. We look forward to sharing the event programs on the blog and forum soon.</p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Donations to the Tor Project matched 1:1 now through December</h1>
+
+									<p><a href="https://blog.torproject.org/powered-by-privacy/"><img alt="The text &quot;Powered by Privacy: Freedom, Resistance, Change&quot; on a dark blue background." src="https://blog.torproject.org/powered-by-privacy/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Every year, the Tor Project (a 501(c)(3) nonprofit) holds a <a href="https://blog.torproject.org/powered-by-privacy/">fundraiser</a> where we ask for your support. As part of this fundraiser, <strong><a href="https://torproject.org/donate/donate-tn1-pbp">now through December, your donation to the Tor Project today will</a><a href="https://torproject.org/donate/donate-bp1-pbp"> be matched</a><a href="https://torproject.org/donate/donate-bp1-pbp">, 1:1</a></strong>.</p>
+
+									<p>That means that every donation, up to $100,000, will be doubled. Now is an excellent time to give because your donation counts twice. Be sure to check out <a href="https://donate.torproject.org">https://donate.torproject.org</a> for this year&rsquo;s new t-shirt, and a brand-new offering: a sturdy canvas tote bag.</p>
+
+									<p><img alt="Black background with a black t-shirt and black totebag outlined in a thick white line: each item says &quot;Powered by Privacy: Freedom, Resistance, Change&quot;" src="https://blog.torproject.org/powered-by-privacy/yec-combo-dark-newsletter.png" style="width: 675px; height: 281px;" /></p>
+
+									<hr />
+									<h1 class="title">Global Encryption Day: Demand End-to-End Encryption in DMs</h1>
+
+									<p><a href="https://blog.torproject.org/global-encryption-day-2022/"><img alt="Digital collage image on a dark blue background of a person lying down across a bed in a home. A window is open and a large eye is outside, watching the person. Text above the collage says, &quot;Home would be a nightmare without encryption.&quot;" src="https://blog.torproject.org/global-encryption-day-2022/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>October 21, 2022 was the second <a href="https://www.globalencryption.org/2022/06/global-encryption-day-2022/">Global Encryption Day</a>, organized by the Global Encryption Coalition, of which the Tor Project is a member. Global Encryption Day to highlight why encryption matters and to advocate for its advancement and protection.</p>
+
+									<p>Global Encryption Day was also a day for all of us to highlight services that <em>should</em> be encrypted&mdash;but are not yet.<strong> </strong><strong>That&#39;s why we&#39;ve called on platforms to do what&rsquo;s right: make DMs safe. </strong>We&rsquo;re demanding that Big Tech <em>finally</em> bring the protection of end-to-end encryption to DMs in their products&mdash;not as a hidden &ldquo;added feature&rdquo;&mdash;but as the default setting.</p>
+
+									<p>Join us to <a href="https://www.makedmssafe.com/">demand that Facebook, Twitter, Google, and Apple protect our private messages and implement default end-to-end encryption immediately</a>.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Alpha testers needed for Tor Browser <span class="author-a-v1z73zxhz87zz77zz90zz80zz68zdz73zz73zttz79z b">12.0a4</span></h1>
+
+									<p><a href="blog.torproject.org/new-alpha-release-tor-browser-120a4/index.html"><img alt="Illustration of a computer screen that says, &quot;Volunteer as an alpha tester, help at-risk and censored users safely access Tor&quot;" src="https://newsletter.torproject.org/gallery/2022-10/volunteer-as-alpha-tester.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Your help is needed to test a number of new changes in <a href="https://blog.torproject.org/new-alpha-release-tor-browser-120a4/index.html">Tor Browser 12.0a4</a>, including the following features:</p>
+
+									<ul>
+										<li>
+										<p>Multi-locale bundles (Desktop)</p>
+										</li>
+										<li>
+										<p>tor-launcher migration (Desktop)</p>
+										</li>
+										<li>
+										<p>Onion Auth fixes (Desktop)</p>
+										</li>
+										<li>
+										<p>Always prioritize .onion sites (Android)</p>
+										</li>
+										<li>
+										<p>Unified Espa&ntilde;ol locale (Desktop and Android)</p>
+										</li>
+									</ul>
+
+									<p><a href="https://blog.torproject.org/new-alpha-release-tor-browser-120a4/index.html">What to test, how to report any discoveries, and more details about all of these features is on our blog now</a>. Please consider volunteering as an alpha tester and making sure important features work before they come to the stable release!</p>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p><a href="https://blog.torproject.org/new-alpha-release-tor-browser-120a4/">Tor Browser 12.0a4 (Android, Windows, macOS, Linux)</a><br />
+									(Oct. 31) Tor Browser 12.0a4 updates Firefox on Android, Windows, macOS, and Linux to 102.4.0esr. This version includes important security updates to Firefox and GeckoView. There were no Android-specific security updates to backport from the Firefox 106 release.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1156/">Tor Browser 11.5.6 (Android, Windows, macOS, Linux)</a><br />
+									(Oct. 27) This is an emergency release resolving an issue with Tor Browser 11.5.5&#39;s integration of the Snowflake pluggable transport. Users of 11.5.5 will be unable to connect to the Tor Network via the built-in Snowflake bridge until they update to 11.5.6.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1155/">Tor Browser 11.5.5 (Android, Windows, macOS, Linux)</a><br />
+									(Oct. 25) Tor Browser 11.5.5 backports the security updates from Firefox ESR 102.4 to to Firefox ESR 91.13 on Windows, macOS and Linux and updates GeckoView on Android to 102.4.0esr and includes important security updates. There were no Android-specific security updates to backport from the Firefox 106 release.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-1154/">Tor Browser 11.5.4 (Android, Windows, macOS, Linux)</a><br />
+									(Oct. 14) Tor Browser 11.5.4 backports the security updates from Firefox ESR 102.3 to to Firefox ESR 91.13 on Windows, macOS and Linux and backports the Android-specific security updates from Firefox 104 and 105. It also updates GeckoView on Android to 102.3.0esr.</p>
+
+									<p><a href="https://blog.torproject.org/arti_101_released/">Arti 1.0.1</a><br />
+									(Oct. 4) This release fixes bugs (including one that would cause a busy-loop), tightens log security, exposes an API for building circuits manually, and contains some <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/543">preparatory work</a> for anticensorship support.</p>
+
+									<hr />
+									<h1>Upcoming Events</h1>
+
+									<p><a href="http://www.youtube.com/watch?v=uSyBZ7GIzJY">State of the Onion: the Tor Project</a>, November 9 @ 17:00 UTC</p>
+
+									<p><a href="https://blog.torproject.org/event/2022-bread-and-net/">Tor at Bread&amp;Net 2022</a>, November 15</p>
+
+									<p><a href="https://blog.torproject.org/event/roger-darpa-forward/">Roger Dingledine at DARPA Forward</a>, November 15-16</p>
+
+									<p><a href="http://www.youtube.com/watch?v=O-7k0PjnBbk">State of the Onion: the Tor community</a>, November 16 @ 17:00 UTC</p>
+
+									<p><a href="https://blog.torproject.org/event/2022-11-18-l10n-hangout/">Tor Localization Hangout</a>, November 18 @ 12:00 UTC</p>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
