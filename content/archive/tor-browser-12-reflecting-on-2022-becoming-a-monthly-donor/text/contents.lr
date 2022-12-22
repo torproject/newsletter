@@ -1,0 +1,102 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-12-22
+---
+title: 🚀 Tor Browser 12.0, Reflecting on 2022, Becoming a Monthly Donor
+---
+body:
+
+# 🚀 Tor Browser 12.0 has landed! 
+https://blog.torproject.org/new-release-tor-browser-120/
+
+We're happy to bring Tor Browser 12.0, the first in the latest series, with many exciting improvements:
+
+🦊 Tor Browser has been upgraded to Firefox Extended Support Release 102. We've carefully reviewed ESR 102's release notes to ensure each change adheres to Tor Browser's strict privacy and security principles.
+
+💬 Tor Browser for desktop is now truly multi-locale, meaning all supported languages are included in a single bundle. You can switch display language without any additional downloads via the Language menu in General settings.
+
+🍎 Tor Browser now provides native support for Apple Silicon. We've opted for a Universal Binary too – meaning both x86-64 (for Intel) and ARM64 (for Apple Silicon) builds are bundled together and the correct version chosen automatically.
+
+🔒 HTTPS-Only Mode is now enabled by default in Tor Browser for Android. This change will help provide the same level of protection against SSL stripping attacks by malicious exit relays that we introduced to desktop in Tor Browser 11.5.
+
+🧅 12.0 for Android also includes the option to "prioritize .onion sites". When enabled, you will be redirected automatically to the matching .onion site for any web site that has Onion-Location configured.
+
+Check out the many changes in the 12.0 series (https://blog.torproject.org/new-release-tor-browser-120/), and if you find a bug or have a suggestion for how we could improve this release, please let us know. Thanks to all of the teams across Tor, and the many volunteers, who contributed to this release.
+
+# Resistance, Change, & Freedom: Reflecting on 2022
+https://blog.torproject.org/reflecting-on-2022
+
+Every end of year calls for reflection. This year at the Tor Project we’ve seen setbacks in the world’s fight for human rights coming from all directions and how privacy and freedom online have been critical lifelines for many.
+
+In the midst of these setbacks, 2022 has also been a year of resistance. This year we’ve fought censorship with the incredible help of our community. You've helped build a chain of resistance, from sharing information about Snowflake on social media, to helping others learn how to bypass government censorship, to running a
+proxy and donating your bandwidth for censored users, to offering legal support against censorship in the courts.
+
+Read more reflections on Tor in 2020 from Isabela Fernandes, the Tor Project's Executive Director: https://blog.torproject.org/reflecting-on-2022.
+
+# Ensure Tor is strong for years to come: become a monthly donor
+https://blog.torproject.org/become-a-monthly-donor/
+
+Tor is powered by community. Just as the privacy the Tor network provides is made possible by a decentralized network of volunteers running relays—the Tor Project is made possible by a wide variety of supporters.
+
+As a 501(c)(3) nonprofit, the Tor Project relies on external support to fight for your privacy online. We will always build and offer free software. It’s part of our mission and our vision of a better internet. We don’t harvest or sell your data. We don’t charge you to use what we build. That means that everyone in the world can use Tor. It also means that if you have the ability, making a monthly donation to Tor ensures its availability for others.
+
+By becoming a Defender of Privacy with a monthly donation, you make it possible for Tor to plan for the years ahead with confidence. Consistent support ensures that the Tor Project is sustainable and stable—and every donation, no matter the amount, helps: https://blog.torproject.org/become-a-monthly-donor/.
+
+# New Releases
+
+Tails 5.8
+https://blog.torproject.org/new-release-tails-58/
+(Dec. 20) Tails 5.8 is the most important release of Tails in years. It includes both major redesign of existing features, important usability improvements, and hardened security.
+
+Tor Browser 12.0.1
+https://blog.torproject.org/new-release-tor-browser-1201/
+(Dec. 15) Tor Browser 12.0.1 updates Firefox to 102.6, including bug fixes, stability improvements and important security updates. It fixes a regression in drag and drop protection, which disrupted some interface interactions.
+
+Tor Browser 12.0
+https://blog.torproject.org/new-release-tor-browser-120/
+(Dec. 7) Tor Browser 12.0 brings many significant improvements and updates Tor Browser to Firefox Extended Support Release 102.
+
+Arti 1.1.0
+https://blog.torproject.org/arti_110_released/
+(Nov. 30) Arti is our ongoing project to create a next-generation Tor client in Rust. Arti 1.1.0 introduces support for Tor's anti-censorship features: bridges and pluggable transports.
+
+Tor Browser 11.5.10 (Android)
+https://blog.torproject.org/new-release-tor-browser-11510/
+(Nov. 29) This is an Android-only release which fixes crashes on Android 12+ devices caused by the targetSdkVersion update in 11.5.9.
+
+Tor Browser 11.5.9 (Android)
+https://blog.torproject.org/new-release-tor-browser-1159/
+(Nov. 23) This is an Android-only release which updates the Android Target API level to 31 to meet Google Play requirements.
+
+Tor Browser 11.5.8 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1158/
+(Nov. 22) Tor Browser 11.5.8 backports security updates from Firefox ESR 102.5 to Firefox ESR 91.13 on Windows, macOS and Linux.
+
+Tor Browser 11.5.7 (Windows, macOS, Linux)
+https://blog.torproject.org/new-release-tor-browser-1157/
+(Nov. 3) This is a minor release for desktop platforms intended to facilitate the single-locale to multi-locale bundle upgrade coming with the 12.0 series later this month.
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
+
+***
+
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+ * Twitter: https://twitter.com/torproject
+ * Facebook: https://facebook.com/torproject
+ * Instagram: https://instagram.com/torproject
+ * Mastodon: http://mastodon.social/@torproject
+ * Tor Forum: https://forum.torproject.net/
+ * Telegram: https://t.me/TorProject

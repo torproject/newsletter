@@ -1,0 +1,134 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: smith@torproject.org
+---
+pub_date: 2022-12-22
+---
+title: 🚀 Tor Browser 12.0, Reflecting on 2022, Becoming a Monthly Donor
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<hr />
+									<h1 class="title">🚀<span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">&nbsp;Tor Browser 12.0 has landed! </span></h1>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-120/"><img alt="&quot;12.0&quot; on a purple background" src="https://blog.torproject.org/new-release-tor-browser-120/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">We&#39;re happy to bring Tor Browser 12.0, the first in the latest series, with many exciting improvements:</span><br />
+									<br />
+									🦊 <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Tor Browser has been upgraded to Firefox Extended Support Release 102. We&#39;ve carefully reviewed ESR 102&#39;s release notes to ensure each change adheres to Tor Browser&#39;s strict privacy and security principles.</span></p>
+
+									<p>💬 <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Tor Browser for desktop is now truly multi-locale, meaning all supported languages are included in a single bundle. You can switch display language without any additional downloads via the Language menu in General settings.</span></p>
+
+									<p>🍎 <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Tor Browser now provides native support for Apple Silicon. We&#39;ve opted for a Universal Binary too &ndash; meaning both x86-64 (for Intel) and ARM64 (for Apple Silicon) builds are bundled together and the correct version chosen automatically.</span></p>
+
+									<p>🔒 <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">HTTPS-Only Mode is now enabled by default in Tor Browser for Android. This change will help provide the same level of protection against SSL stripping attacks by malicious exit relays that we introduced to desktop in Tor Browser 11.5.</span></p>
+
+									<p>🧅 <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">12.0 for Android also includes the option to &quot;prioritize .onion sites&quot;. When enabled, you will be redirected automatically to the matching .onion site for any web site that has Onion-Location configured.</span></p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-120/">Check out the many changes in the 12.0 series</a>, and if you find a bug or have a suggestion for how we could improve this release, <a href="https://support.torproject.org/misc/bug-or-feedback/">please let us know</a>. Thanks to all of the teams across Tor, and the many volunteers, who contributed to this release.</p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Resistance, Change, &amp; Freedom: Reflecting on 2022</h1>
+
+									<p><a href="https://blog.torproject.org/reflecting-on-2022"><img alt="" src="https://newsletter.torproject.org/gallery/2022-12/all-staff-ireland-2022.png" style="width: 675px; height: 323px;" /></a></p>
+
+									<p>Every end of year calls for reflection. This year at the Tor Project we&rsquo;ve seen setbacks in the world&rsquo;s fight for human rights coming from all directions and how privacy and freedom online have been critical lifelines for many.</p>
+
+									<p>In the midst of these setbacks, 2022 has also been a year of resistance. <strong>This year we&rsquo;ve fought censorship with the incredible help of our community. </strong>You&#39;ve helped build a chain of resistance, from <a href="https://twitter.com/0xggus/status/1574506323093381152">sharing information </a>about Snowflake on social media, to <a href="https://twitter.com/dw_persian/status/1577347148177444864">helping others learn how to bypass government censorship</a>, to running a<a href="https://snowflake.torproject.org/"> proxy</a> and donating your bandwidth for censored users, to offering <a href="https://twitter.com/torproject/status/1603328010983178240">legal support</a> against censorship in the courts.</p>
+
+									<p>Read more reflections on Tor in 2020 from Isabela Fernandes, the Tor Project&#39;s Executive Director.</p>
+
+									<hr />
+									<h1 class="title"><a href="https://blog.torproject.org/become-a-monthly-donor/">Ensure Tor is strong for years to come: become a monthly donor</a></h1>
+
+									<p><a href="https://blog.torproject.org/become-a-monthly-donor/"><img alt="The text &quot;Powered by Privacy: Freedom, Resistance, Change&quot; on a dark blue background." src="https://blog.torproject.org/powered-by-privacy/lead.webp" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Tor is powered by community. Just as the privacy the Tor network provides is made possible by a decentralized network of volunteers running relays&mdash;the Tor Project is made possible by a wide variety of supporters.</p>
+
+									<p>As a 501(c)(3) nonprofit, the Tor Project relies on external support to fight for your privacy online. We will always build and offer free software. It&rsquo;s part of our mission and our vision of a better internet. We don&rsquo;t harvest or sell your data. We don&rsquo;t charge you to use what we build. That means that everyone in the world can use Tor. It also means that if you have the ability, <a href="https://torproject.org/donate/donate-bp2-pbp">making a monthly donation</a> to Tor ensures its availability for others.</p>
+
+									<p>By becoming a <a href="https://torproject.org/donate/donate-bp2-pbp">Defender of Privacy with a monthly donation</a>, you make it possible for Tor to plan for the years ahead with confidence. Consistent support ensures that the Tor Project is sustainable and stable&mdash;and every donation, no matter the amount, helps.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tails-58/">Tails 5.8</a><br />
+									(Dec. 20) Tails 5.8 is the most important release of Tails in years. It includes both major redesign of existing features, important usability improvements, and hardened security.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1201/">Tor Browser 12.0.1</a><br />
+									(Dec. 15) Tor Browser 12.0.1 updates Firefox to 102.6, including bug fixes, stability improvements and important security updates. It fixes a regression in drag and drop protection, which disrupted some interface interactions.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-120/">Tor Browser 12.0</a><br />
+									(Dec. 7) Tor Browser 12.0 brings many significant improvements and updates Tor Browser to Firefox Extended Support Release 102.</p>
+
+									<p><a href="https://blog.torproject.org/arti_110_released/">Arti 1.1.0</a><br />
+									(Nov. 30) Arti is our ongoing project to create a next-generation Tor client in Rust. Arti 1.1.0 introduces support for Tor&#39;s anti-censorship features: bridges and pluggable transports.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-11510/">Tor Browser 11.5.10 (Android)</a><br />
+									(Nov. 29) This is an Android-only release which fixes crashes on Android 12+ devices caused by the targetSdkVersion update in 11.5.9.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-1159/">Tor Browser 11.5.9 (Android)</a><br />
+									(Nov. 23) This is an Android-only release which updates the Android Target API level to 31 to meet Google Play requirements.</p>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1158/">Tor Browser 11.5.8 (Android, Windows, macOS, Linux)</a><br />
+									(Nov. 22) Tor Browser 11.5.8 backports security updates from Firefox ESR 102.5 to Firefox ESR 91.13 on Windows, macOS and Linux.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1157/">Tor Browser 11.5.7 (Windows, macOS, Linux)</a><br />
+									(Nov. 3) This is a minor release for desktop platforms intended to facilitate the single-locale to multi-locale bundle upgrade coming with the 12.0 series later this month.</p>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
