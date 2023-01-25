@@ -1,5 +1,6 @@
 ---
 variables:
+  LEKTOR_BUILD_FLAGS: scss
   SITE_URL: newsletter.torproject.org
   STAGING_URL: newsletter.staging.torproject.net
 
