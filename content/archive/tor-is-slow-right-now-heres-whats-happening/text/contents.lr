@@ -1,0 +1,93 @@
+_model: post
+---
+_template: post.html
+---
+author: smith@torproject.org
+---
+pub_date: 2023-03-16
+---
+title: Tor is slow right now. Here is what is happening.
+---
+body:
+
+# Tor is slow right now. Here is what is happening.
+
+For at least 7 months, several different types of ongoing denial of service (DoS) attacks have affected the Tor network. At some points, the attacks impacted the network severely enough that users could not load pages or access onion services.
+
+We have been working hard to mitigate the impacts and defend the network from these attacks and we will continue to increase and tweak defenses to combat this problem. We've also added two new members to our Network team who will be solely focused on .onion services development.
+
+You can help too! We are 70% towards our goal of fully funding two years worth of onion service development to mitigate the impacts of these attacks and we need your help to get there. Here's how: https://blog.torproject.org/tor-network-ddos-attack/.
+
+# New: WhatsApp user support for Tor users
+
+Providing support and necessary tools for those who find themselves in places where Tor access is restricted has become one of our top priorities. As our community continues to grow, we need to make it easier and safer to connect with us. Which is why we have been adding additional support channels for the last two years: from IRC bridges to messaging apps like Telegram, Signal and—most recently—WhatsApp.
+
+To ensure that you receive the best and safest support from us, we encourage you to verify that you're connecting with us through our official Tor Project channels. You can find the full list of legitimate links, email-addresses and numbers on our [official support page](https://tb-manual.torproject.org/support/). And to learn more about the best ways to connect with us across channels [check out our recent blog post](link to: https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/)
+
+# What others are saying: Tor in the media
+On March 6, the Twitter onion service certificate expired, effectively taking the onion site offline. We took to the media to voice our concerns about this development. Seeing the onion service, which was dubbed ["Twitter’s Most Important Anti-Censorship Tool"](https://www.vice.com/en/article/3ak8v8/twitters-most-important-anti-censorship-tool-is-currently-dead), go offline on the eve of Twitter's new leadership speaking publicly about building a "strong foundation of free speech" at a Morgan Stanley conference, is particularly ironic.
+
+Let’s be clear, the need for onion services, the use of privacy-focused browsers that protect people's anonymity, and other forms of encryption still persists. We will continue to spread this message and advocate for widespread acceptance and adoption of our services.
+
+# Welcoming new board members to the Tor Project
+
+We are excited to announce the result of our open call for board members - three new members are joining the Tor Project’s Board of Directors: Esra'a Al Shafei, Sarah Gran and Christian Kaufman!  Each new member comes to Tor with a different set of expertise that will help the organization and our community. At the end of this post, you can read each of their bios.
+
+Please join us in welcoming Esra’a, Sarah, and Christian to the board, and learn more about the valuable expeirence they bring to the board on our blog. (link to https://blog.torproject.org/announcing-new-board-members/)
+
+# Latest Releases
+Arti 1.1.2
+https://blog.torproject.org/arti_112_released/
+(Feb. 28) While preparing for the next stages of onion service work,  we've refactored that code significantly to make it more efficient and correct.
+
+Tor Browser 12.5a3 (Android, Windows, macOS, Linux)
+https://blog.torproject.org/new-alpha-release-tor-browser-125a3/
+(Feb. 20) Updates Firefox on Android, Windows, macOS, and Linux to 102.8.0esr. It includes important security updates to Firefox and GeckoView. There were no Android-specific security updates to backport from the Firefox 110 release.
+
+Tails 5.10
+https://blog.torproject.org/new-release-tails-510/
+(Feb. 16) Updates Tor Browser to 12.0.3. Asks for confirmation when starting without unlocking the Persistent Storage. Updates our documentation on the Persistent Storage.
+
+Tor Browser 12.0.3
+https://blog.torproject.org/new-release-tor-browser-1203/
+(Feb. 15) This release updates Firefox to 102.8, including bug fixes, stability improvements and important security updates. There were no Android-specific security updates to backport from the Firefox 110 release.
+
+Arti 1.1.1
+https://blog.torproject.org/arti_111_released/
+(Feb. 1) Since our last release, our primary focus has been preparation for onion service support in Arti. To that end, we've broken the work down into a bunch of tickets, designed our major internal APIs, and started to work on the lower-level features. 
+
+# Job Opportunities
+
+We're hiring a Product Designer. (link to https://www.torproject.org/about/jobs/) This position will be an integral part of a small, "full stack" design team, encompassing the disciplines of UX design, ethical use This is a one-year, remote, full-time (40 hour/week) position with the possibility of extension. This position could be performed from most places in the world.
+
+# Upcoming Events
+
+Join the Tor Project at the following in-person and online events:
+
+European Digital Rights' 20th anniversary, March 21, 2023, Brussels
+https://blog.torproject.org/event/edri-20th-anniversary/
+
+Stockholm Internet Forum, May 30 - May 31, 2023, Sweden
+https://blog.torproject.org/event/stockholm-internet-forum-2023/
+
+RightsCon, June 5, 2023 – June 8, 2023, Costa Rica
+https://blog.torproject.org/event/rightscon-2023/
+
+Privacy Enhancing Technologies Symposium, July 10 - July 15, 2023, Switzerland
+https://blog.torproject.org/event/privacy-enhancing-technologies-symposium-2023/
+
+USENIX Security Symposium, August 9 - August 11, 2023, USA
+https://blog.torproject.org/event/usenix-2023/
+
+DEFCON31, August 10 - August 13, 2023, USA
+https://blog.torproject.org/event/usenix-2023/
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
