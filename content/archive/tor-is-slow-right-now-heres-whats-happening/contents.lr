@@ -1,0 +1,141 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: steph@torproject.org
+---
+pub_date: 2023-03-16
+---
+title: Tor is slow right now. Here is what is happening.
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">Tor is slow right now. Here is what is happening</span></h1>
+
+									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="an abstract image featuring onions, a stethoscope, and lines connecting them" src="https://newsletter.torproject.org/gallery/2023-03/tor-network-status.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid12"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">For at least 7 months, several different types of ongoing denial of service (DoS) attacks have affected the Tor network. At some points, the attacks impacted the network severely enough that users could not load pages or access onion services.</span></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid14"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">We have been working hard to mitigate the impacts and defend the network from these attacks and we will continue to increase and tweak defenses to combat this problem. We&#39;ve also added two new members to our Network team who will be solely focused on .onion services development.</span></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid16"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">You can help too! </span></p>
+
+									<p aria-live="assertive" class="ace-line"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx"><strong>We are 70% towards our goal</strong> of fully funding two years worth of onion service development to mitigate the impacts of these attacks<span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b"><b> </b></span><strong>and we need your help to get there</strong>. </span>👉<span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx"> <a href="https://blog.torproject.org/tor-network-ddos-attack/">Here&#39;s how</a>.</span></p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b"><strong>New: </strong>Official Tor user support channel now on WhatsApp, joining Signal &amp; Telegram channels</span></h1>
+
+									<p><a href="https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/"><img alt="" src="https://newsletter.torproject.org/gallery/2023-03/tor-whatsapp.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid20"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">Providing support and necessary tools for those who find themselves in places where Tor access is restricted has become one of our top priorities</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">. </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">A</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">s </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">our community continues to grow, we </span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">need to make </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">it easier and safer to connect with us</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">. Which is why we have been adding additional support channels for the last two years: from IRC bridges to messaging apps like Telegram, Signal and</span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">&mdash;</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">most recently</span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">&mdash;</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">WhatsApp.</span></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid22"><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">To ensure that you receive the best and safest support from us, we encourage you to verify that you&#39;re connecting with us through our official Tor Projet channels. You can find the full list of legitimate links, email-addresses and numbers on our <a href="https://tb-manual.torproject.org/support/">official support page</a>. To learn more about the best ways to connect with us across channels, <a href="https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/">check out our recent blog post</a>.</span></p>
+
+									<hr />
+									<h1 class="title"><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk b">What others are saying</span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">:</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk b"> Tor in the </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">m</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk b">edia</span></h1>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid25"><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">On March 6, the Twitter </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">o</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">nion </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">s</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">ervice </span>certificate<span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk"> expired</span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">, effectively taking the onion site offline</span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">. We took to the media to voice our concerns about this development. Seeing the onion service, which was dubbed <a href="https://www.vice.com/en/article/3ak8v8/twitters-most-important-anti-censorship-tool-is-currently-dead">Twitter&rsquo;s Most Important Anti-Censorship Tool</a></span><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">, go offline on the eve of Twitter&#39;s new leadership speaking publicly about building a &quot;strong foundation of free speech&quot; at a Morgan Stanley conference, is particularly ironic.</span></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid27"><span class="author-a-9z90zz76zz71zwdz82zz82zz73zk2z74zlz89znk">Let&rsquo;s be clear, the need for onion services, the use of privacy-focused browsers that protect people&#39;s anonymity, and other forms of encryption still persists. <strong>We will continue to spread this message and advocate for widespread acceptance and adoption of our services</strong>.</span></p>
+
+									<hr />
+									<h1 class="title"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">Welcoming new board members to the Tor Project</span></h1>
+
+									<p><a href="https://blog.torproject.org/announcing-new-board-members/"><img alt="Three photos of the new Tor board members; the image on the left is a photo of a white woman with brown hair and a small smile. The middle image is black and white illustration of a woman looking upwards with a slightly frustrated brow-furrow. The third image is a white man with chin-length wavy hair. " src="https://newsletter.torproject.org/gallery/2023-03/tor-board-members.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid31"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">We are excited to announce the result of our open call for board members - three new members are joining the Tor Project&rsquo;s Board of Directors: </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b"><b>Esra&#39;a Al Shafei</b></span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">, </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b"><b>Sarah Gran</b></span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx"> and </span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b"><b>Christian Kaufman</b></span><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">!&nbsp; Each new member comes to Tor with a different set of expertise that will help the organization and our community. At the end of this post, you can read each of their bios.</span></p>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid33"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">Please join us in welcoming Esra&rsquo;a, Sarah, and Christian to the board, and <a href="https://blog.torproject.org/announcing-new-board-members/">learn more about the valuable expeirence they bring to the board on our blog</a>.</span></p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>New Releases</h1>
+
+									<p class="title"><a href="https://blog.torproject.org/arti_112_released/">Arti 1.1.2</a><br />
+									(Feb. 28) While preparing for the next stages of onion service work,&nbsp; we&#39;ve refactored that code significantly to make it more <a href="https://gitlab.torproject.org/tpo/core/arti/-/commit/ca3b33a1afc58b84cc7a39ea3845a82f17cee0da">efficient</a> and <a href="https://gitlab.torproject.org/tpo/core/arti/-/issues/774">correct</a>.</p>
+
+									<p><a href="http://blog.torproject.org/new-alpha-release-tor-browser-125a3/">Tor Browser 12.5a3 (Android, Windows, macOS, Linux)</a><br />
+									(Feb. 20) Updates Firefox on Android, Windows, macOS, and Linux to 102.8.0esr. It includes important security updates to Firefox and GeckoView. There were no Android-specific security updates to backport from the Firefox 110 release.<br />
+									<br />
+									<a href="https://blog.torproject.org/new-release-tails-510/">Tails 5.10</a><br />
+									(Feb. 16) Updates Tor Browser to 12.0.3. Asks for confirmation when starting without unlocking the Persistent Storage. Updates our <a href="https://tails.boum.org/doc/persistent_storage/">documentation on the Persistent Storage</a>.</p>
+
+									<p class="title"><a href="https://blog.torproject.org/new-release-tor-browser-1203/">Tor Browser 12.0.3</a><br />
+									(Feb. 15) This release updates Firefox to 102.8, including bug fixes, stability improvements and important security updates. There were no Android-specific security updates to backport from the Firefox 110 release.<br />
+									<br />
+									<a href="https://blog.torproject.org/arti_111_released/">Arti 1.1.1</a><br />
+									(Feb. 1) Since our last release, our primary focus has been preparation for onion service support in Arti. To that end, we&#39;ve broken the work down into a bunch of tickets, designed our major internal APIs, and started to work on the lower-level features.</p>
+
+									<hr />
+									<h1>Job Opportunities</h1>
+
+									<p class="title"><strong>We&#39;re hiring a <a href="https://www.torproject.org/about/jobs/">Product Designer</a>. </strong>This position will be an integral part of a small, &quot;full stack&quot; design team, encompassing the disciplines of UX design, ethical use This is a one-year, remote, full-time (40 hour/week) position with the possibility of extension. This position could be performed from most places in the world.</p>
+
+									<hr />
+									<h1 class="title">Upcoming Events</h1>
+
+									<p><a href="https://blog.torproject.org/event/edri-20th-anniversary/">European Digital Rights&#39; 20th anniversary</a>, March 21, 2023, Brussels</p>
+
+									<p><a href="https://blog.torproject.org/event/stockholm-internet-forum-2023/">Stockholm Internet Forum</a>, May 30 - May 31, 2023, Sweden</p>
+
+									<p><a href="https://blog.torproject.org/event/rightscon-2023/">RightsCon</a>, June 5, 2023 &ndash; June 8, 2023, Costa Rica</p>
+
+									<p><a href="https://blog.torproject.org/event/privacy-enhancing-technologies-symposium-2023/">Privacy Enhancing Technologies Symposium</a>, July 10 - July 15, 2023, Switzerland</p>
+
+									<p><a href="https://blog.torproject.org/event/usenix-2023/">USENIX Security Symposium</a>, August 9 - August 11, 2023, USA</p>
+
+									<p><a href="https://blog.torproject.org/event/defcon-2023/">DEFCON31</a>, August 10 - August 13, 2023, USA</p>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
