@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-05-29
+---
+title: Tor Browser without Tor: We've teamed up with Mullvad VPN to launch Mullvad Browser
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="711">
+							<tbody>
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">Tor Browser without Tor: We&#39;ve teamed up with Mullvad VPN to launch Mullvad Browser</span></h1>
+
+									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="an image displaying the Mullvad Browser window on a laptop screen" src="https://newsletter.torproject.org/gallery/2023-05/Mullvad-Browser-is-here.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>When the Mullvad VPN team approached us to develop a privacy-focused web browser built on the principles of the Tor Browser-- we knew we had to take the opportunity to spread good browser privacy to more users! The result of this partnership is the Mullvad Browser which we launched last month to <a href="https://www.wired.com/story/mullvad-browser-vpn-tor-project/">critical acclaim</a> and <a href="https://www.youtube.com/watch?v=MW4YUkrsa2g">support from the community</a>.</p>
+
+									<p>The Mullvad Browser offers similar privacy features to Tor Browser but works independently of the Tor network. Tor Browser will continue to exist as a powerful option for anonymity online, while the Mullvad Browser provides an alternative privacy browser. This partnership has allowed us to make necessary improvements to Tor Browser and address vulnerabilities, benefiting both browsers--and the larger privacy tech ecosystem.</p>
+
+									<p>&quot;We hope to inspire other tech builders and organizations to take a page out of our playbook<span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">&mdash;</span>and think of privacy as a &#39;feature&#39; that can enhance user experience<span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx">&mdash;</span>and not as an afterthought. This collaboration with Mullvad illustrates that it is possible to build privacy-preserving technology that protects users like ours does together, rather than in competition with each other,&quot; says Isabela Fernandes, Tor Project&#39;s Executive Director.</p>
+
+									<p>For more thoughts from Isabela, take a look at her <a href="https://blog.torproject.org/releasing-mullvad-browser/">blog post announcing the Browser release</a>.</p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Tor&#39;s Global Impact</h1>
+
+									<p><a href="https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/"><img alt="An upside down map of the globe emphasizing the global south" src="https://newsletter.torproject.org/gallery/2023-05/Tor-Global-Impact.png" style="width: 676px; height: 380px;" /></a></p>
+
+									<p>As we continue to think of how we can better reach people in the Global South where access to the unrestricted internet is facing increasingly more challenges, we are looking into how we can expand our outreach to strengthen ties with at-risk and underserved communities to address barriers to the adoption of our services and grow our community.</p>
+
+									<p>An instrumental part in that process is our Global South Strategy, a project that was launched in 2017 and recently assessed by Firetail, a strategy consultancy working to achieve social progress. To learn more about some of their key findings on our achievements, you can find a<a href="https://blog.torproject.org/furthering-our-mission-in-the-global-south/"> quick overview on our blog</a> or access <a href="https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf">the full report</a>.</p>
+
+									<h2 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;"><strong>A border-less country-agnostic space</strong></h2>
+
+									<p>The Tor Project advocates for Onion Services as a censorship-resistant technology that ensures end-to-end encryption and contributes to a decentralized web. We see onion services as a border-less, country-agnostic space that offers more protections for vulnerable users than regular websites. We realized onion services were not used to their fullest extent, so we launched support initiatives and resources to provide education, information and increase adoption. The Onion Support group was created by the Tor Project to promote the adoption of onion services among civil society groups, human rights organizations, and news media outlets.</p>
+
+									<p>With the support of the Open Technology Fund, we have assisted organizations in setting up their own onion services and provided high-level support and training. We have also developed open-source tools like Onionprobe, Onion Launchpad, and Onionmine to facilitate onion service development. Read more about how we think about &quot;<a href="https://blog.torproject.org/how-we-plant-and-grow-new-onions/">Planting and Growing Onions</a>&quot;.</p>
+
+									<p>If you or your organization is interested in learning more about our technology, onions and onion support, <a href="https://nc.torproject.net/apps/forms/s/bGswKTbTj8ikYb4oPen9W9ig">please contact us through this form</a>. You can also ask questions and start a discussion on the <a href="https://forum.torproject.net">Tor Project Forum</a>.</p>
+
+									<p><img alt="stylized image of the .onion available icon used in Tor Browser to indicate the availability of onion sites" src="https://newsletter.torproject.org/gallery/2023-05/onion-services.png" style="width: 675px; height: 380px;" /></p>
+
+									<hr />
+									<h1 class="title">New: Tax-Deductible Donations to the Tor Project in Euros</h1>
+
+									<p aria-live="assertive" class="ace-line" id="magicdomid25">Want to make a tax-deductible donation to the Tor Project in Euros (&euro;)? Now it&#39;s simple to <a href="https://opencollective.com/thetorproject-europe">make a one-time or monthly donation in EUR</a> through our Open Collective hosted by Open Collective Europe. If you previously made donations to Tor via Renewable Freedom Foundation in order to do it in Euros and receive tax benefits in your country, please transition your donations to <a href="https://opencollective.com/thetorproject-europe">Open Collective</a>! Switching your donation will ensure you receive immediate receipts for your gifts and enable you to receive swag from the Tor Project.</p>
+
+									<p>&nbsp;</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Keeping up with the Latest Releases</h1>
+
+									<h2 class="title">Tor Browser</h2>
+
+									<h3 class="title"><strong>May 12 - Tor Browser 12.0.6</strong></h3>
+
+									<p>It updates Firefox to 102.11esr, including bug fixes, stability improvements and important security updates. Build-Signing Infrastructure Updates: We are in the process of updating our build signing infrastructure, and unfortunately are unable to ship code-signed 12.0.6 installers for Windows systems currently. Therefore we will not be providing full Window installers for this release. However, automatic build-to-build upgrades from 12.0.4 and 12.0.5 should continue to work as expected. To view the full changelog, take a look here: <a href="https://blog.torproject.org/new-release-tor-browser-1206/">https://blog.torproject.org/new-release-tor-browser-1206</a></p>
+
+									<h3><strong>April 21 - Tor Browser 12.5a5 (Android, Windows, macOS, Linux)</strong></h3>
+
+									<p>This release updates Firefox 102.9.0esr, including bug fixes, stability improvements and important security updates. We also backported the Android-specific security updates from Firefox 112. We use this opportunity to update various other components of Tor Browser as well: NoScript 11.4.21</p>
+
+									<h3><strong>March 22 - Tor Browser 12.5a4 (Android, Windows, macOS, Linux)</strong></h3>
+
+									<p>Tor Browser 12.5a4 also adds support for the Finnish language on all platforms. We would like to thank volunteer olavinto for making this possible! View the full changelog here: <a href="https://blog.torproject.org/new-alpha-release-tor-browser-125a4/">https://blog.torproject.org/new-alpha-release-tor-browser-125a4</a></p>
+
+									<h3><strong>March 18 - New Release: Tor Browser 12.0.4</strong></h3>
+
+									<p>This release updates Firefox to 102.9.0esr, including bug fixes, stability improvements and important security updates. We also backported the Android-specific security updates from Firefox 111. We also used this opportunity to update various components of Tor Browser as well such as NoScript 11.4.18. The full changelog can be found here: <a href="https://blog.torproject.org/new-release-tor-browser-1204/">https://blog.torproject.org/new-release-tor-browser-1204</a></p>
+
+									<h2>Arti</h2>
+
+									<h3><strong>May 3 - Arti 1.1.4 is released: Development on Onion Services and RPC</strong></h3>
+
+									<p>For this month and the next, our efforts are divided between onion services and work on a new RPC API (a successor to C Tor&#39;s &quot;control port&quot;) that will give applications a safe and powerful way to work with Arti without having to write their code in Rust or link Arti as a library (unless they want to).</p>
+
+									<p>Our RPC code is still in an &quot;infrastructure-only&quot; state: the backend is mostly built, but as of yet it supports no useful functionality. For information on the general shape of our design, see the work-in-progress specification document. This release also solves a bug that prevented directories from updating under some circumstances.</p>
+
+									<p>The many smaller changes can be viewed in the changelog: <a href="https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-114-3-may-2023">https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-114-3-may-2023</a>.</p>
+
+									<h3><strong>April 3 - Arti 1.1.3 is released: More onion service development</strong></h3>
+
+									<p>Our primary focus remains: preparation for onion service support in Arti. We can now parse all of the relevant message types, build circuits as needed to target relays, build and sign onion service descriptors, and deliver onion service requests to our hsclient code.We&#39;ve also solved a few annoying bugs, made our CI more bulletproof against certain programming mistakes, and exposed a few missing APIs in our code.<br />
+									<br />
+									For the many smaller changes, take a look at the changelog: <a href="https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-113-31-march-2023">https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-113-31-march-2023</a>.</p>
+
+									<hr />
+									<h2>Building With Purpose: Puppet in Debian</h2>
+
+									<p>As we continue to iterate on our Browser and network improvements, we&#39;re always on the lookout for opportunities to contribute back to the communities around the platforms and tools we depend on to keep the lights on. Puppet and Debian are two such projects that have allowed us to improve security and reliability while ensuring adherence to user-centric policies and allowing for greater system integration.</p>
+
+									<p>The decision to use Debian packages was made due to their secure build process and user-focused policies, such as disabling analytics and update checks by default. We collaborated with the Debian Puppet Team to fix bugs and implement tests, aiming to bring their Puppet infrastructure up to date. This effort will benefit privacy-minded individuals and organizations relying on Puppet in Debian. Be sure to check out <a href="https://blog.torproject.org/built-with-purpose-puppet-debian/">our blog post to get the full picture</a>.</p>
+
+									<hr />
+									<h1 class="title">Upcoming Events</h1>
+
+									<h2>SIF, Stockholm Internet Forum, May 30, 2023 - May 31, 2023</h2>
+
+									<p>The theme for the Stockholm Internet Forum 2023 (SIF23) is the Role of the Internet and ICT during Crises, Conflicts and Disasters. <a href="https://stockholminternetforum.se/">https://stockholminternetforum.se</a></p>
+
+									<h2>RightsCon, Costa Rica, June 5, 2023 - June 8, 2023</h2>
+
+									<p>RightsCon is the world&#39;s leading summit on human rights in the digital age. The Tor Project will host a Community Village booth on Thursday, June 8 from 9:00am to 12:00pm. <a href="https://www.rightscon.org/">https://www.rightscon.org</a></p>
+
+									<h2>BTC Prague, June 8, 2023 - June 10, 2023</h2>
+
+									<p>The Tor Project&#39;s Director of Engineering, Micah Anderson, will be speaking at the biggest, most influential bitcoin event in Europe. In his talk Privacy &amp; Anonymity: Securing the Digital Economy&#39;s Most Valuable Assets, Micah will explore popular use cases of Tor technologies and the value alignment with Bitcoin: how chain-anonymity and zero-knowledge solutions rely on the Tor network, how we mitigate risks, and what&#39;s next for free, open-source, decentralized anonymizing tech. <a href="https://www.btcprague.com">https://www.btcprague.com</a></p>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
