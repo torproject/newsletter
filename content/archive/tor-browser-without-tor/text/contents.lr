@@ -1,0 +1,114 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-05-29
+---
+title: Tor Browser without Tor: We've teamed up with Mullvad VPN to launch Mullvad Browser
+---
+body:
+
+# Tor Browser without Tor: We've teamed up with Mullvad VPN to launch Mullvad Browser
+
+When the Mullvad VPN team approached us to develop a privacy-focused web browser built on the principles of the Tor Browser-- we knew we had to take the opportunity to spread good browser privacy to more users! The result of this partnership is the Mullvad Browser which we launched last month to [critical acclaim](https://www.wired.com/story/mullvad-browser-vpn-tor-project/) and [support from the community](https://www.youtube.com/watch?v=MW4YUkrsa2g).
+
+The Mullvad Browser offers similar privacy features to Tor Browser but works independently of the Tor network. Tor Browser will continue to exist as a powerful option for anonymity online, while the Mullvad Browser provides an alternative privacy browser. This partnership has allowed us to make necessary improvements to Tor Browser and address vulnerabilities, benefiting both browsers--and the larger privacy tech ecosystem.
+
+"We hope to inspire other tech builders and organizations to take a page out of our playbook --and think of privacy as a 'feature' that can enhance user experience-- and not as an afterthought. This collaboration with Mullvad illustrates that it is possible to build privacy-preserving technology that protects users like ours does together, rather than in competition with each other," says Isabela Fernandes, Tor Project's Executive Director.
+
+For more thoughts from Isabela, take a look at her [blog post announcing the Browser release](https://blog.torproject.org/releasing-mullvad-browser/).
+
+# Tor's Global Impact
+
+As we continue to think of how we can better reach people in the Global South where access to the unrestricted internet is facing increasingly more challenges, we are looking into how we can expand our outreach to strengthen ties with at-risk and underserved communities to address barriers to the adoption of our services and grow our community.
+
+An instrumental part in that process is our Global South Strategy, a project that was launched in 2017 and recently assessed by Firetail, a strategy consultancy working to achieve social progress. To learn more about some of their key findings on our achievements, you can find a[ quick overview on our blog](https://blog.torproject.org/furthering-our-mission-in-the-global-south/) or access [the full report](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf).
+
+## A border-less country-agnostic space
+
+The Tor Project advocates for Onion Services as a censorship-resistant technology that ensures end-to-end encryption and contributes to a decentralized web. We see onion services as a border-less, country-agnostic space that offers more protections for vulnerable users than regular websites. We realized onion services were not used to their fullest extent, so we launched support initiatives and resources to provide education, information and increase adoption. The Onion Support group was created by the Tor Project to promote the adoption of onion services among civil society groups, human rights organizations, and news media outlets. With the support of the Open Technology Fund, we have assisted organizations in setting up their own onion services and provided high-level support and training. We have also developed open-source tools like Onionprobe, Onion Launchpad, and Onionmine to facilitate onion service development.
+
+Read more about how we think about "[Planting and Growing Onions](https://blog.torproject.org/how-we-plant-and-grow-new-onions/)".
+
+If you or your organization is interested in learning more about our technology, onions and onion support, [please contact us through this form](https://nc.torproject.net/apps/forms/s/bGswKTbTj8ikYb4oPen9W9ig). You can also ask questions and start a discussion on the [Tor Project Forum](https://forum.torproject.net).
+
+# New: Tax-Deductible Donations to the Tor Project in Euros
+
+Want to make a tax-deductible donation to the Tor Project in Euros (€)? Now it's simple to [make a one-time or monthly donation in EUR](https://opencollective.com/thetorproject-europe) through our Open Collective hosted by Open Collective Europe. If you previously made donations to Tor via Renewable Freedom Foundation in order to do it in Euros and receive tax benefits in your country, please transition your donations to [Open Collective](https://opencollective.com/thetorproject-europe)! Switching your donation will ensure you receive immediate receipts for your gifts and enable you to receive swag from the Tor Project.
+
+# Keeping up with the latest releases
+
+## Tor Browser
+
+### May 12: Tor Browser 12.0.6
+
+It updates Firefox to 102.11esr, including bug fixes, stability improvements and important security updates.
+
+Build-Signing Infrastructure Updates: We are in the process of updating our build signing infrastructure, and unfortunately are unable to ship code-signed 12.0.6 installers for Windows systems currently. Therefore we will not be providing full Window installers for this release. However, automatic build-to-build upgrades from 12.0.4 and 12.0.5 should continue to work as expected.
+
+To view the full changelog, take a look here: <https://blog.torproject.org/new-release-tor-browser-1206/>
+
+### April 21: Tor Browser 12.5a5 (Android, Windows, macOS, Linux)
+
+This release updates Firefox 102.9.0esr, including bug fixes, stability improvements and important security updates. We also backported the Android-specific security updates from Firefox 112. We use this opportunity to update various other components of Tor Browser as well: NoScript 11.4.21
+
+### March 22: Tor Browser 12.5a4 (Android, Windows, macOS, Linux)
+
+Tor Browser 12.5a4 also adds support for the Finnish language on all platforms. We would like to thank volunteer olavinto for making this possible! View the full changelog here: <https://blog.torproject.org/new-alpha-release-tor-browser-125a4/>
+
+### March 18: New Release: Tor Browser 12.0.4
+
+This release updates Firefox to 102.9.0esr, including bug fixes, stability improvements and important security updates. We also backported the Android-specific security updates from Firefox 111. We also used this opportunity to update various components of Tor Browser as well such as NoScript 11.4.18.
+
+The full changelog can be found here: <https://blog.torproject.org/new-release-tor-browser-1204/>
+
+## Arti
+
+### May 3: Arti 1.1.4 is released: Development on Onion Services and RPC
+
+For this month and the next, our efforts are divided between onion services and work on a new RPC API (a successor to C Tor's "control port") that will give applications a safe and powerful way to work with Arti without having to write their code in Rust or link Arti as a library (unless they want to).
+
+Our RPC code is still in an "infrastructure-only" state: the backend is mostly built, but as of yet it supports no useful functionality. For information on the general shape of our design, see the work-in-progress specification document. This release also solves a bug that prevented directories from updating under some circumstances.
+
+The many smaller changes can be viewed in the [changelog](https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-114-3-may-2023).
+
+### April 3: Arti 1.1.3 is released: More onion service development
+
+Our primary focus remains: preparation for onion service support in Arti. We can now parse all of the relevant message types, build circuits as needed to target relays, build and sign onion service descriptors, and deliver onion service requests to our hsclient code.We've also solved a few annoying bugs, made our CI more bulletproof against certain programming mistakes, and exposed a few missing APIs in our code.\
+For the many smaller changes, take a look at the [changelog](https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-113-31-march-2023).
+
+## Building With Purpose: Puppet in Debian
+
+As we continue to iterate on our Browser and network improvements, we're always on the lookout for opportunities to contribute back to the communities around the platforms and tools we depend on to keep the lights on. Puppet and Debian are two such projects that have allowed us to improve security and reliability while ensuring adherence to user-centric policies and allowing for greater system integration. The decision to use Debian packages was made due to their secure build process and user-focused policies, such as disabling analytics and update checks by default. We collaborated with the Debian Puppet Team to fix bugs and implement tests, aiming to bring their Puppet infrastructure up to date. This effort will benefit privacy-minded individuals and organizations relying on Puppet in Debian. Be sure to check out [our blog post to get the full picture](https://blog.torproject.org/built-with-purpose-puppet-debian/).
+
+# Upcoming Events
+
+### SIF, Stockholm Internet Forum, May 30, 2023 -- May 31, 2023
+
+The theme for the Stockholm Internet Forum 2023 (SIF23) is the Role of the Internet and ICT during Crises, Conflicts and Disasters.
+
+<https://stockholminternetforum.se/>
+
+### RightsCon, Costa Rica, June 5, 2023 -- June 8, 2023
+
+RightsCon is the world's leading summit on human rights in the digital age. The Tor Project will host a Community Village booth on Thursday, June 8 from 9:00am to 12:00pm.
+
+<https://www.rightscon.org/>
+
+### BTC Prague, June 8, 2023 -- June 10, 2023
+
+The Tor Project's Director of Engineering, Micah Anderson, will be speaking at the biggest, most influential bitcoin event in Europe. In his talk Privacy & Anonymity: Securing the Digital Economy's Most Valuable Assets, Micah will explore popular use cases of Tor technologies and the value alignment with Bitcoin: how chain-anonymity and zero-knowledge solutions rely on the Tor network, how we mitigate risks, and what's next for free, open-source, decentralized anonymizing tech.
+
+<https://www.btcprague.com/>
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
