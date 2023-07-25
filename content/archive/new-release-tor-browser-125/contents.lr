@@ -1,0 +1,141 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-07-25
+---
+title: Tor Browser without Tor: We've teamed up with Mullvad VPN to launch Mullvad Browser
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="4882" width="711">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">Update Tor Browser with our latest major release</span></h1>
+
+									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="a lineup of the updated browser icons against an abstract background" src="https://newsletter.torproject.org/gallery/2023-07/Tor-Browser-12.5.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>Many of the features in this 12.5 release were made possible thanks to two projects, our work with journalists and human rights defenders in the Global South and the launch of the Mullvad Browser. Both those projects have allowed us to address legacy issues, implement efficiencies to the build release, and increase accessibility.</p>
+
+									<p>The result is a standalone, cohesive, and mature user experience that is pushing Tor Browser even more towards the mainstream in terms of quality and UI. This version features an updated circuit display, new icons for .onion sites, improvements to the connection experience and accessibility, Finnish language support and more. For a complete overview, you can learn more on <a href="https://blog.torproject.org/new-release-tor-browser-125/">our blog</a>.</p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Self-hosting the Tor Project user forum</h1>
+
+									<p><a href="https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/"><img alt="A screenshot of our user forum prominently displaying the new URL" src="https://newsletter.torproject.org/gallery/2023-07/Self-hosting-Tor-Project-User-Forum.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p>We launched the Tor Project users forum to continue to grow the Tor community and experiment with new ways to gather feedback and provide support. After a year and a half of utilizing free cloud hosting graciously provided by the team behind Discourse, in early June we moved our forum to the Tor Project&#39;s own server infrastructure.</p>
+
+									<p>Apart from giving us more control over the forum&#39;s configuration, we can now provide an experimental onion service for our users accessing the platform via the Tor network. Be sure to bookmark the new address: forum.torproject.org. (For the time being, the old address will automatically redirect visitors to the new one.)</p>
+
+									<p>If you ran into any issues following the migration or want to learn more about 2FA, check out our <a href="https://blog.torproject.org/tor-project-forum-migration">detailed account and full report</a>.</p>
+
+									<hr />
+									<h1>Call for Testers - WebTunnel, a new pluggable transport for bridges, now available for deployment</h1>
+
+									<p>We&#39;re excited to announce WebTunnel, a new bridge pluggable transport (PT) for the Tor ecosystem. It is a censor resistant proxy that try to imitate HTTPS traffic, based on HTTPT 23 research. We are currently operating a trial soft launch for WebTunnel, and encourage bridge operators to set up WebTunnel bridges to discover issues within the implementation of this new pluggable transport.</p>
+
+									<p><a href="https://forum.torproject.org/t/tor-relays-announcement-webtunnel-a-new-pluggable-transport-for-bridges-now-available-for-deployment/8180">Check out our forum post</a> with more info on how it works, the technical requirements and how to report issues.</p>
+
+									<hr />
+									<p>Empowering human rights defenders in Brazil, Ecuador &amp; Mexico</p>
+
+									<p><img alt="A collage of snapshots taken during our trainings showing people presenting slides or interacting with participants" src="https://newsletter.torproject.org/gallery/2023-07/Empowering-human-rights-defenders-in-Brazil-Ecuador-Mexico.png" style="width: 675px; height: 380px;" /></p>
+
+									<p>When we established our <a href="https://blog.torproject.org/furthering-our-mission-in-the-global-south/">Global South Strategy</a> in 2017, we created a user feedback program to improve the user experience of our products involving ethical usability research with at-risk communities alongside digital security training. In 2021 we expanded this program to Brazil, Ecuador and Mexico based on the increasing threats and violence against marginalized groups, activists, journalists, and human rights defenders. We also partnered with the <a href="https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/">Guardian Project</a> and <a href="https://tails.boum.org/news/improving_in_latam/">Tails</a> - two other organizations who are equally committed to defending human rights and internet freedom with privacy preserving technology.</p>
+
+									<p>During the past two years we have collaborated closely to combat internet censorship and surveillance to provide digital security training workshops in the three countries, reaching 47 human rights organizations and training 674 journalists and defenders. The program focused on applications such as Onion Browser, Orbot, Tails, and Tor Browser, with improvements made based on user feedback and pain points identified during the sessions. The workshops highlighted challenges faced by participants, such as expensive and unreliable internet access, browsing data monetization, and difficulty distinguishing between censorship and connectivity issues. The training aimed to provide participants with self-defense measures, knowledge of tools, and the ability to identify censorship and use circumvention techniques.</p>
+
+									<p>In June we shared our <a href="https://blog.torproject.org/empowering-human-rights-defenders/">findings</a> which were used to develop improvements for the applications, including a new circuit display and refined connection settings for Tor Browser, simplified usage steps and improved user experience for Orbot, and restructuring of documentation and validation of features for Tails.</p>
+
+									<hr />
+									<h1>Tor Relay Operators - Proposal for New Policies and Proposals</h1>
+
+									<p>In the past, our approach to organizing the Tor relay operator community was highly informal and relied heavily on discussions and interactions in meetups and similar events between operators, Directory Authorities, and The Tor Project staff. However, as the Tor Community expands and its members become less interconnected, there is now a necessity to establish a well-defined process for presenting and evaluating proposals and policies to the relay operator community.</p>
+
+									<p>Find out more about <a href="https://forum.torproject.org/t/tor-relays-process-for-new-policies-and-proposals-for-the-tor-relay-operator-community-001-community-relay-operator-process-md/8155">how we have revised the process</a> for submitting policies to the Tor relay operator community, how proposals are approved, and the relationship between Tor Community proposals and the Tor Project.</p>
+									</div>
+									</div>
+
+									<hr />
+									<h1>Keeping up with the Latest Releases</h1>
+
+									<h2><a href="https://blog.torproject.org/new-release-tails-514/">Tails 5.14 - June 13, 2023</a></h2>
+
+									<p>It&#39;s a major version with a new backup feature in Tails Installer, automatic upgrade of the Persistent Storage to LUKS2, and captive portal detection.</p>
+
+									<h2><a href="https://blog.torproject.org/new-alpha-release-tor-browser-125a7/">New Alpha Release: Tor Browser 12.5a7 (Android, Windows, macOS, Linux) - June 9, 2023</a></h2>
+
+									<h2><a href="https://blog.torproject.org/arti_115_released/">Arti 1.1.5 is released: Onion Services, RPC, and a security patch -&nbsp; June 1, 2023</a></h2>
+
+									<p>For onion services this month, we have continued work on our protocol infrastructure to support the cryptographic handshakes and protocols used for onion services, and begun design work on a key management system for onion services.</p>
+
+									<hr />
+									<h1 class="title">Upcoming Events</h1>
+
+									<h2>Usenix Security, California, August 9, 2023 - August 11, 2023</h2>
+
+									<p>The USENIX Security Symposium brings together researchers, practitioners, system administrators, system programmers, and others interested in the latest advances in the security and privacy of computer systems and networks. <a href="https://www.usenix.org/conference/usenixsecurity23/">https://www.usenix.org/conference/usenixsecurity23/</a></p>
+
+									<h2>Defcon, Las Vegas, August 10, 2023 - August 13, 2023</h2>
+
+									<p>DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest. Members of the Tor Project will be speaking on Saturday, August 12th at 12.00pm, and you can come visit us at our booth. For more information on our talk, you can visit: <a href="https://defcon.org/html/defcon-31/dc-31-schedule.html#saturday">https://defcon.org/html/defcon-31/dc-31-schedule.html#saturday</a></p>
+
+									<h2>Chaos Communication Camp, August 15, 2023 - August 19, 2023</h2>
+
+									<p>The Chaos Communication Camp is an international, five-day open-air event for hackers and associated life-forms. It provides a relaxed atmosphere for free exchange of technical, social, and political ideas.</p>
+
+									<p>Check out the program here: <a href="https://events.ccc.de/camp/">https://events.ccc.de/camp/</a></p>
+
+									<h2>The Global Gathering by Team Community, September 15, 2023 - September 17, 2023</h2>
+
+									<p>This year&#39;s gathering will have a much more decentralized format and approach to previous instances. If you are not able to participate this year, do not worry, this is just the beginning. Keep up to date with the latest event info and how to participate here: <a href="https://www.digitalrights.community/blog/announcing-team-communitys-global-gathering">https://www.digitalrights.community/blog/announcing-team-communitys-global-gathering</a></p>
+
+									<hr />
+									<h1>Join Our Community</h1>
+
+									<p>Getting involved with Tor is easy. <a href="https://community.torproject.org/relay/">Run a relay</a> to make the network faster and more decentralized. <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">Run a bridge</a> to help censored users access Tor.</p>
+
+									<p>Learn about each of our <a href="https://gitlab.torproject.org/tpo/team/-/wikis/home">teams </a>and start collaborating.</p>
+
+									<p><a href="https://torproject.org/donate/donate-phr-tn1">Donate</a> to help keep Tor fast, strong, and secure.</p>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<p>&nbsp;</p>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
