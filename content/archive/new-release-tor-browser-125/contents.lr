@@ -27,7 +27,7 @@ html_body:
 									<td style="padding:0 15px 15px 15px;">
 									<h1 class="title"><span class="author-a-z74zz67zrz84z0z87zbz68zduz83zz86zz86zgtx b">Update Tor Browser with our latest major release</span></h1>
 
-									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="a lineup of the updated browser icons against an abstract background" src="https://newsletter.torproject.org/gallery/2023-07/Tor-Browser-12.5.png" style="width: 675px; height: 380px;" /></a></p>
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-125/"><img alt="a lineup of the updated browser icons against an abstract background" src="https://newsletter.torproject.org/gallery/2023-07/Tor-Browser-12.5.png" style="width: 675px; height: 380px;" /></a></p>
 
 									<p>Many of the features in this 12.5 release were made possible thanks to two projects, our work with journalists and human rights defenders in the Global South and the launch of the Mullvad Browser. Both those projects have allowed us to address legacy issues, implement efficiencies to the build release, and increase accessibility.</p>
 
@@ -38,13 +38,13 @@ html_body:
 									<hr />
 									<h1>Self-hosting the Tor Project user forum</h1>
 
-									<p><a href="https://blog.torproject.org/meeting-you-where-you-are-we-added-whatsapp-user-support/"><img alt="A screenshot of our user forum prominently displaying the new URL" src="https://newsletter.torproject.org/gallery/2023-07/Self-hosting-Tor-Project-User-Forum.png" style="width: 675px; height: 380px;" /></a></p>
+									<p><a href="https://blog.torproject.org/tor-project-forum-migration/"><img alt="A screenshot of our user forum prominently displaying the new URL" src="https://newsletter.torproject.org/gallery/2023-07/Self-hosting-Tor-Project-User-Forum.png" style="width: 675px; height: 380px;" /></a></p>
 
 									<p>We launched the Tor Project users forum to continue to grow the Tor community and experiment with new ways to gather feedback and provide support. After a year and a half of utilizing free cloud hosting graciously provided by the team behind Discourse, in early June we moved our forum to the Tor Project&#39;s own server infrastructure.</p>
 
 									<p>Apart from giving us more control over the forum&#39;s configuration, we can now provide an experimental onion service for our users accessing the platform via the Tor network. Be sure to bookmark the new address: forum.torproject.org. (For the time being, the old address will automatically redirect visitors to the new one.)</p>
 
-									<p>If you ran into any issues following the migration or want to learn more about 2FA, check out our <a href="https://blog.torproject.org/tor-project-forum-migration">detailed account and full report</a>.</p>
+									<p>If you ran into any issues following the migration or want to learn more about 2FA, check out our <a href="https://blog.torproject.org/tor-project-forum-migration">blog post</a>.</p>
 
 									<hr />
 									<h1>Call for Testers - WebTunnel, a new pluggable transport for bridges, now available for deployment</h1>

@@ -28,7 +28,7 @@ If you ran into any issues following the migration or want to learn more about 2
 
 We're excited to announce WebTunnel, a new bridge pluggable transport (PT) for the Tor ecosystem. It is a censor resistant proxy that try to imitate HTTPS traffic, based on HTTPT 23 research. We are currently operating a trial soft launch for WebTunnel, and encourage bridge operators to set up WebTunnel bridges to discover issues within the implementation of this new pluggable transport.
 
-Check out our [forum post](https://forum.torproject.org/t/tor-relays-announcement-webtunnel-a-new-pluggable-transport-for-bridges-now-available-for-deployment/8180) with more info on how it works, the technical requirements and how to report issues.
+[Check out our forum post](https://forum.torproject.org/t/tor-relays-announcement-webtunnel-a-new-pluggable-transport-for-bridges-now-available-for-deployment/8180) with more info on how it works, the technical requirements and how to report issues.
 
 # Empowering human rights defenders in Brazil, Ecuador & Mexico
 
