@@ -1,0 +1,95 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-07-25
+---
+title: Update Tor Browser with our latest major release
+---
+body:
+
+# Update Tor Browser with our latest major release
+
+Many of the features in this 12.5 release were made possible thanks to two projects, our work with journalists and human rights defenders in the Global South and the launch of the Mullvad Browser. Both those projects have allowed us to address legacy issues, implement efficiencies to the build release, and increase accessibility.
+
+The result is a standalone, cohesive, and mature user experience that is pushing Tor Browser even more towards the mainstream in terms of quality and UI. This version features an updated circuit display, new icons for .onion sites, improvements to the connection experience and accessibility, Finnish language support and more. For a complete overview, you can learn more in our [blog post](https://blog.torproject.org/new-release-tor-browser-125/).
+
+# Self-hosting the Tor Project users forum
+
+We launched the Tor Project users forum to continue to grow the Tor community and experiment with new ways to gather feedback and provide support. After a year and a half of utilizing free cloud hosting graciously provided by the team behind Discourse, in early June we moved our forum to the Tor Project's own server infrastructure.
+
+Apart from giving us more control over the forum's configuration, we can now provide an experimental onion service for our users accessing the platform via the Tor network. Be sure to bookmark the new address: [forum.torproject.org](https://forum.torproject.org/). (For the time being, the old address will automatically redirect visitors to the new one.)
+
+If you ran into any issues following the migration or want to learn more about 2FA, check out our [blog post](https://blog.torproject.org/tor-project-forum-migration/).
+
+# Call for Testers - WebTunnel, a new pluggable transport for bridges, now available for deployment
+
+We're excited to announce WebTunnel, a new bridge pluggable transport (PT) for the Tor ecosystem. It is a censor resistant proxy that try to imitate HTTPS traffic, based on HTTPT 23 research. We are currently operating a trial soft launch for WebTunnel, and encourage bridge operators to set up WebTunnel bridges to discover issues within the implementation of this new pluggable transport.
+
+[Check out our forum post](https://forum.torproject.org/t/tor-relays-announcement-webtunnel-a-new-pluggable-transport-for-bridges-now-available-for-deployment/8180) with more info on how it works, the technical requirements and how to report issues.
+
+# Empowering human rights defenders in Brazil, Ecuador & Mexico
+
+When we established our [Global South Strategy](https://blog.torproject.org/furthering-our-mission-in-the-global-south/) in 2017, we created a user feedback program to improve the user experience of our products involving ethical usability research with at-risk communities alongside digital security training. In 2021 we expanded this program to Brazil, Ecuador and Mexico based on the increasing threats and violence against marginalized groups, activists, journalists, and human rights defenders. We also partnered with the [Guardian Project](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/) and [Tails](https://tails.boum.org/news/improving_in_latam/) - two other organizations who are equally committed to defending human rights and internet freedom with privacy preserving technology.
+
+During the past two years we have collaborated closely to combat internet censorship and surveillance to provide digital security training workshops in the three countries, reaching 47 human rights organizations and training 674 journalists and defenders. The program focused on applications such as Onion Browser, Orbot, Tails, and Tor Browser, with improvements made based on user feedback and pain points identified during the sessions. The workshops highlighted challenges faced by participants, such as expensive and unreliable internet access, browsing data monetization, and difficulty distinguishing between censorship and connectivity issues. The training aimed to provide participants with self-defense measures, knowledge of tools, and the ability to identify censorship and use circumvention techniques.
+
+In June we shared our [findings](https://blog.torproject.org/empowering-human-rights-defenders/) which were used to develop improvements for the applications, including a new circuit display and refined connection settings for Tor Browser, simplified usage steps and improved user experience for Orbot, and restructuring of documentation and validation of features for Tails.
+
+# Tor Relay Operators - Proposal for New Policies and Proposals
+
+In the past, our approach to organizing the Tor relay operator community was highly informal and relied heavily on discussions and interactions in meetups and similar events between operators, Directory Authorities, and The Tor Project staff. However, as the Tor Community expands and its members become less interconnected, there is now a necessity to establish a well-defined process for presenting and evaluating proposals and policies to the relay operator community.
+
+[Find out more](https://forum.torproject.org/t/tor-relays-process-for-new-policies-and-proposals-for-the-tor-relay-operator-community-001-community-relay-operator-process-md/8155) about how we have revised the process for submitting policies to the Tor relay operator community, how proposals are approved, and the relationship between Tor Community proposals and the Tor Project.
+
+# Keeping up with the latest releases
+
+## Tails 5.14 - June 13, 2023
+
+It's a major version with a new backup feature in Tails Installer, automatic upgrade of the Persistent Storage to LUKS2, and captive portal detection.
+
+https://blog.torproject.org/new-release-tails-514/
+
+## New Alpha Release: Tor Browser 12.5a7 (Android, Windows, macOS, Linux) - June 9, 2023
+
+https://blog.torproject.org/new-alpha-release-tor-browser-125a7/
+
+## Arti 1.1.5 is released: Onion Services, RPC, and a security patch -    June 1, 2023
+
+For onion services this month, we have continued work on our protocol infrastructure to support the cryptographic handshakes and protocols used for onion services, and begun design work on a key management system for onion services.
+
+https://blog.torproject.org/arti_115_released/
+
+# Upcoming Events
+
+## Usenix Security, California, August 9, 2023 - August 11, 2023
+
+The USENIX Security Symposium brings together researchers, practitioners, system administrators, system programmers, and others interested in the latest advances in the security and privacy of computer systems and networks.
+
+https://www.usenix.org/conference/usenixsecurity23/
+
+## Defcon, Las Vegas, August 10, 2023 - August 13, 2023
+
+DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest. Members of the Tor Project will be speaking on Saturday, August 12th at 12.00pm, and you can come visit us at our booth. For more information on our talk, you can visit: https://defcon.org/html/defcon-31/dc-31-schedule.html#saturday
+
+## Chaos Communication Camp, August 15, 2023 - August 19, 2023
+
+The Chaos Communication Camp is an international, five-day open-air event for hackers and associated life-forms. It provides a relaxed atmosphere for free exchange of technical, social, and political ideas.
+
+Check out the program: https://events.ccc.de/camp/
+
+## The Global Gathering by Team Community, September 15, 2023 - September 17, 2023
+
+This year's gathering will have a much more decentralized format and approach to previous instances. If you are not able to participate this year, do not worry, this is just the beginning. Keep up to date with the latest event info and how to participate here: https://www.digitalrights.community/blog/announcing-team-communitys-global-gathering
+
+# Join Our Community
+
+Getting involved with Tor is easy. Run a relay to make the network faster and more decentralized: https://community.torproject.org/relay
+
+Run a bridge to help censored users access Tor: https://blog.torproject.org/run-tor-bridges-defend-open-internet
+
+Learn about more opportunities to start collaborating: https://community.torproject.org
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
