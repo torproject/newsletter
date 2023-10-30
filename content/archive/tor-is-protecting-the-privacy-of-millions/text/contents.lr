@@ -1,0 +1,79 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-10-30
+---
+title: Right now, Tor is protecting the privacy of millions of people like you!
+---
+body:
+
+# Right now, Tor is protecting the privacy of millions of people like you!
+
+Dear Tor Community,
+
+Your support has been instrumental in enabling us to protect the digital rights and privacy of millions around the world. As we launch our [annual fundraising campaign](https://blog.torproject.org/2023-fundraiser-make-a-donation-to-Tor/), we want to acknowledge the unprecedented challenges, including continued geo-political unrest, the far-reaching effects of tech-sector layoffs, and a significant decrease in charitable giving across the board.
+
+Despite these hurdles, we remain steadfast in our dedication to making Tor's technology accessible to everyone: from accessibility and UI improvements in the latest [Tor Browser release](https://blog.torproject.org/new-release-tor-browser-130/), [important security fixes](https://blog.torproject.org/security-audit-report-tor-browser-ooni/) to [outreach and education efforts](https://blog.torproject.org/tor-tutorials/) as well as our [advocacy work](https://www.eff.org/press/releases/eff-launches-tor-university-challenge).
+
+Like so many of you have demonstrated throughout the years, there are many ways to contribute. Whether it is in the form of [monetary donations](https://torproject.org/donate/donate-tn1-2023) or by [donating bandwidth](https://snowflake.torproject.org), by [running a relay](https://community.torproject.org/relay) or [bridge to help censored users access Tor](https://blog.torproject.org/run-tor-bridges-defend-open-internet), if you are in a position to help, please do. Even if it is just by [spreading the word](https://twitter.com/torproject/status/1716918579571105798).
+
+ - Thank you for being an essential part of the Tor Project's community.
+
+# Tor News
+
+## Introducing proof-of-work defense for onion services
+
+Over the past year, we have put a lot of work into mitigating attacks on the Tor network and enhancing its defenses for onion services which culminated in the introduction of a proof-of-work (PoW) defense in the release of Tor 0.4.8. This dynamic PoW mechanism prioritizes real users while deterring attackers, making large-scale DoS attacks impractical. Find out how it works and why it matters: https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/
+
+## A closer look at online privacy with new Tor tutorials
+
+As part of a recently completed project, we've made Tor Browser, Tor circumvention tools, Tor documentation and training materials, and OnionShare available in Arabic, Chinese, and Swahili. We've used the occasion to develop short, localized explainer videos to demystify Tor's usage, from bypassing censorship to secure file sharing. These resources are designed to help everyone easily utilize Tor tools in their daily lives: https://blog.torproject.org/tor-tutorials/
+
+## Encryption's critical role in safeguarding human Rights
+
+The Tor Project's mission is to advance human rights. For us that means not only by building and deploying technology, but also by advocating for the protection and unrestricted availability of privacy-preserving technologies like encryption. Over this past year, we have initiated or contributed to a variety of  advocacy efforts to ensure access to encryption and push back against government efforts that seek to undermine it -- from signing letters and supporting ally organizations on a number of advocacy and awareness campaigns to expanding our outreach and training efforts.
+
+Most recently, we co-organized and co-hosted a workshop at the Internet Governance Forum (IGF) -- an annual meeting established by the United Nations in 2005 as a forum for multi-stakeholder dialogue concerning public policy issues relating to the internet. The panel entitled [Encryption's Critical Role in Safeguarding Human Rights](https://blog.torproject.org/global-encryption-day-2023/) brought together professionals from the technology, non-profit, policy, human rights and advocacy spaces to discuss balancing the demands of national security with the protection of individual privacy, adherence to international human rights laws and seeking a global approach. The panelists discussed a number of measures that could help shape a human-rights-centric regulatory framework for encryption, all of which are outlined in our [session report](https://www.intgovforum.org/en/content/igf-2023-ws-356-encryptions-critical-role-in-safeguarding-human-rights).
+
+# Tor Browser 13.0 has arrived -- and the Torbutton has retired
+
+Over time, Tor Browser has come a long way and undergone several transformations to simplify its user interface and improve functionality. The recent Tor Browser 13.0 release features notable accessibility improvements, refreshed application icons, homepage features, and bigger new windows. This release also marks the removal of legacy code associated with the Torbutton -- a step toward better integration and a seamless transition to the new Arti implementation written in Rust.
+
+User experience remains a top priority, and feedback is encouraged. Further refinements, like migrating to Fluent for translation files, are in the pipeline. Share your thoughts and report any issues in the Tor forum or bug tracker. Thanks to all of the teams across Tor, and the wider community, who contributed their expertise, labor, and time to this release.
+
+Read all about the recent update here https://blog.torproject.org/new-release-tor-browser-130/ and bid farewell to the Torbutton here https://blog.torproject.org/torbutton-retired/.
+
+# Keeping up with the latest releases
+
+## New Release: Tor Browser 13.0.2 (Android) - October 27, 2023
+
+https://blog.torproject.org/new-release-tor-browser-1302
+
+## Arti 1.1.9 is released: Assembling the onions -  October 3, 2023
+
+Arti 1.1.9 continues work on support for onion services in arti. We now have the code needed to publish onion service descriptors; keep them up-to-date with changes and our introduction points; receive, decrypt, process, and answer introduction requests; and respond to them by delivering traffic to local ports. The pieces are now (mostly) connected; the next month of development will see extensive testing, bugfixing, and refinement.
+
+https://blog.torproject.org/arti_119_released/
+
+# Upcoming Events
+
+## State of the Onion 2023 -- November 29, 2023
+
+SAVE THE DATE for this year's State of the Onion. This is our annual virtual event where we share updates from Tor Project's teams and community, highlighting their work and the impact it has made across the globe during the year.
+
+# Ways to contribute
+
+- **Can you make a recurring donation?** [Set up a monthly donation](https://torproject.org/donate/donate-tn1-2023). This is the best, most impactful way to help the Tor Project budget during uncertain times.
+
+- **Can you make a one-time gift?** Make a [donation through our website by credit card or PayPal](https://torproject.org/donate/donate-tn1-2023); through the mail by cash, check, or money order; through a stock donation or bank transfer; and [many more options listed in our FAQ](https://donate.torproject.org/donor-faq/).
+
+- **Do you have a company or organization that uses Tor or believes in Tor?** [Become a member](https://torproject.org/about/membership).
+
+- **Does your company match donations made by employees?** Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!
+
+- **Do you have cryptocurrency to give?** [We can accept donations in ten different coins](https://donate.torproject.org/cryptocurrency).
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
