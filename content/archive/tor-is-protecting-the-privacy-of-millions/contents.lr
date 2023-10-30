@@ -1,0 +1,130 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-10-30
+---
+title: Right now, Tor is protecting the privacy of millions of people like you!
+---
+html_body:
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="3874" width="711">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title">Right now, Tor is protecting the privacy of millions of people like you!</h1>
+
+									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="stylized Tor wordmark with onions growing out on top of it on black background" src="https://newsletter.torproject.org/gallery/2023-10/annual-fundraiser-2023.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<p><strong>Dear Tor Community,</strong></p>
+
+									<p>Your support has been instrumental in enabling us to protect the digital rights and privacy of millions around the world. As we launch our <a href="https://blog.torproject.org/2023-fundraiser-make-a-donation-to-Tor/">annual fundraising campaign</a>, we want to acknowledge the unprecedented challenges, including continued geo-political unrest, the far-reaching effects of tech-sector layoffs, and a significant decrease in charitable giving across the board.</p>
+
+									<p>Despite these hurdles, we remain steadfast in our dedication to making Tor&#39;s technology accessible to everyone: from accessibility and UI improvements in the latest <a href="https://blog.torproject.org/new-release-tor-browser-130/">Tor Browser release</a>, <a href="https://blog.torproject.org/security-audit-report-tor-browser-ooni/">important security fixes</a> to <a href="https://blog.torproject.org/tor-tutorials/">outreach and education efforts</a> as well as our <a href="https://www.eff.org/press/releases/eff-launches-tor-university-challenge">advocacy work</a>.</p>
+
+									<p>Like so many of you have demonstrated throughout the years, there are many ways to contribute. Whether it is in the form of <a href="https://torproject.org/donate/donate-tn1-2023">monetary donations</a> or by <a href="https://snowflake.torproject.org">donating bandwidth</a>, by <a href="https://community.torproject.org/relay">running a relay</a> or <a href="https://blog.torproject.org/run-tor-bridges-defend-open-internet">bridge to help censored users access Tor</a>, if you are in a position to help, please do. Even if it is just by <a href="https://twitter.com/torproject/status/1716918579571105798">spreading the word</a>.</p>
+
+									<p><em>&nbsp; - Thank you for being an essential part of the Tor Project&#39;s community.</em></p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Tor News</h1>
+
+									<h2><strong>Introducing proof-of-work defense for onion services</strong></h2>
+
+									<p>Over the past year, we have put a lot of work into mitigating attacks on the Tor network and enhancing its defenses for onion services which culminated in the introduction of a proof-of-work (PoW) defense in the release of Tor 0.4.8. This dynamic PoW mechanism prioritizes real users while deterring attackers, making large-scale DoS attacks impractical. Find out <a href="https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/">how it works and why it matters</a>.</p>
+
+									<h2><strong>A closer look at online privacy with new Tor tutorials</strong></h2>
+
+									<p>As part of a recently completed project, we&#39;ve made Tor Browser, Tor circumvention tools, Tor documentation and training materials, and OnionShare available in Arabic, Chinese, and Swahili. We&#39;ve used the occasion to develop short, localized explainer videos to demystify Tor&#39;s usage, from bypassing censorship to secure file sharing. These resources are designed to help everyone <a href="https://blog.torproject.org/tor-tutorials/">easily utilize Tor tools</a> in their daily lives.<br />
+									&nbsp;</p>
+
+									<h2><strong>Encryption&#39;s critical role in safeguarding human Rights</strong></h2>
+
+									<p>The Tor Project&#39;s mission is to advance human rights. For us that means not only by building and deploying technology, but also by advocating for the protection and unrestricted availability of privacy-preserving technologies like encryption. Over this past year, we have initiated or contributed to a variety of&nbsp; advocacy efforts to ensure access to encryption and push back against government efforts that seek to undermine it &ndash; from signing letters and supporting ally organizations on a number of advocacy and awareness campaigns to expanding our outreach and training efforts.</p>
+
+									<p>Most recently, we co-organized and co-hosted a workshop at the Internet Governance Forum (IGF) &ndash; an annual meeting established by the United Nations in 2005 as a forum for multi-stakeholder dialogue concerning public policy issues relating to the internet. The panel entitled <a href="https://blog.torproject.org/global-encryption-day-2023/">Encryption&#39;s Critical Role in Safeguarding Human Rights</a> brought together professionals from the technology, non-profit, policy, human rights and advocacy spaces to discuss balancing the demands of national security with the protection of individual privacy, adherence to international human rights laws and seeking a global approach. The panelists discussed a number of measures that could help shape a human-rights-centric regulatory framework for encryption, all of which are outlined in our <a href="https://www.intgovforum.org/en/content/igf-2023-ws-356-encryptions-critical-role-in-safeguarding-human-rights">session report</a>.</p>
+
+									<hr />
+									<h1>Tor Browser 13.0 has arrived &ndash; and the Torbutton has retired</h1>
+
+									<p><img alt="white digits 13.0 on a lavendar to purple abstract background" src="https://newsletter.torproject.org/gallery/2023-10/tor-browser-130.png" style="width: 675px; height: 380px;" /></p>
+
+									<p>Over time, Tor Browser has come a long way and undergone several transformations to simplify its user interface and improve functionality. The recent Tor Browser 13.0 release features notable accessibility improvements, refreshed application icons, homepage features, and bigger new windows. This release also marks the removal of legacy code associated with the Torbutton &ndash; a step toward better integration and a seamless transition to the new Arti implementation written in Rust.</p>
+
+									<p>User experience remains a top priority, and feedback is encouraged. Further refinements, like migrating to Fluent for translation files, are in the pipeline. Share your thoughts and report any issues in the Tor forum or bug tracker. Thanks to all of the teams across Tor, and the wider community, who contributed their expertise, labor, and time to this release.</p>
+
+									<p>Read all about the <a href="https://blog.torproject.org/new-release-tor-browser-130/">recent update here</a> and <a href="https://blog.torproject.org/torbutton-retired/">bid farewell to the Torbutton</a> here.</p>
+
+									<hr />
+									<h1>Keeping up with the Latest Releases</h1>
+									</div>
+									</div>
+
+									<h2><a href="https://blog.torproject.org/new-release-tor-browser-1302/">New Release: Tor Browser 13.0.2 (Android) - October 27</a>, 2023</h2>
+
+									<h2><a href="https://blog.torproject.org/arti_119_released/">Arti 1.1.9 is released: Assembling the onions -&nbsp; October 3, 2023</a></h2>
+
+									<p>Arti 1.1.9 continues work on support for onion services in arti. We now have the code needed to publish onion service descriptors; keep them up-to-date with changes and our introduction points; receive, decrypt, process, and answer introduction requests; and respond to them by delivering traffic to local ports. The pieces are now (mostly) connected; the next month of development will see extensive testing, bugfixing, and refinement.</p>
+
+									<h1 class="title">Upcoming Events</h1>
+
+									<h2>State of the Onion 2023 &ndash; November 29, 2023</h2>
+
+									<p>SAVE THE DATE for this year&#39;s State of the Onion. This is our annual virtual event where we share updates from Tor Project&rsquo;s teams and community, highlighting their work and the impact it has made across the globe during the year.</p>
+
+									<hr />
+									<h1>Ways to contribute</h1>
+
+									<ul>
+										<li>
+										<p><strong>Can you make a recurring donation?</strong> <a href="https://torproject.org/donate/donate-tn1-2023">Set up a monthly donation</a>. This is the best, most impactful way to help the Tor Project budget during uncertain times.</p>
+										</li>
+										<li>
+										<p><strong>Can you make a one-time gift?</strong> Make a <a href="https://torproject.org/donate/donate-tn1-2023">donation through our website by credit card or PayPal</a>; through the mail by cash, check, or money order; through a stock donation or bank transfer; and <a href="https://donate.torproject.org/donor-faq/">many more options listed in our FAQ</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have a company or organization that uses Tor or believes in Tor?</strong> <a href="https://torproject.org/about/membership">Become a member</a>.</p>
+										</li>
+										<li>
+										<p><strong>Does your company match donations made by employees?</strong> Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!</p>
+										</li>
+										<li>
+										<p><strong>Do you have cryptocurrency to give?</strong> <a href="https://donate.torproject.org/cryptocurrency">We can accept donations in ten different coins</a>.</p>
+										</li>
+									</ul>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
