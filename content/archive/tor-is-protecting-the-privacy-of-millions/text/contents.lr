@@ -1,6 +1,6 @@
 _model: post
 ---
-_template: newsletter.html
+_template: post.html
 ---
 author: pavel@torproject.org
 ---
