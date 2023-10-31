@@ -17,7 +17,7 @@ html_body:
 					</tr>
 					<tr>
 						<td>
-						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="3874" width="711">
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="711">
 							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
 								<tr>
 									<td style="padding:0 15px 15px 15px;">
@@ -112,10 +112,6 @@ html_body:
 
 									<hr />
 									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
-
-									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
-									{domain.address}<br />
-									<a href="https://torproject.org">torproject.org</a></small></p>
 									</td>
 								</tr>
 							</tbody>

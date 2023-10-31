@@ -1,6 +1,6 @@
 _model: post
 ---
-_template: newsletter.html
+_template: post.html
 ---
 author: pavel@torproject.org
 ---
@@ -20,7 +20,7 @@ Despite these hurdles, we remain steadfast in our dedication to making Tor's tec
 
 Like so many of you have demonstrated throughout the years, there are many ways to contribute. Whether it is in the form of [monetary donations](https://torproject.org/donate/donate-tn1-2023) or by [donating bandwidth](https://snowflake.torproject.org), by [running a relay](https://community.torproject.org/relay) or [bridge to help censored users access Tor](https://blog.torproject.org/run-tor-bridges-defend-open-internet), if you are in a position to help, please do. Even if it is just by [spreading the word](https://twitter.com/torproject/status/1716918579571105798).
 
- - Thank you for being an essential part of the Tor Project's community.
+&ndash; Thank you for being an essential part of the Tor Project's community.
 
 # Tor News
 
@@ -44,7 +44,7 @@ Over time, Tor Browser has come a long way and undergone several transformations
 
 User experience remains a top priority, and feedback is encouraged. Further refinements, like migrating to Fluent for translation files, are in the pipeline. Share your thoughts and report any issues in the Tor forum or bug tracker. Thanks to all of the teams across Tor, and the wider community, who contributed their expertise, labor, and time to this release.
 
-Read all about the recent update here https://blog.torproject.org/new-release-tor-browser-130/ and bid farewell to the Torbutton here https://blog.torproject.org/torbutton-retired/.
+Read all about the [recent update here](https://blog.torproject.org/new-release-tor-browser-130/) and [bid farewell to the Torbutton here](https://blog.torproject.org/torbutton-retired/).
 
 # Keeping up with the latest releases
 
