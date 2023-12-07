@@ -1,0 +1,144 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-12-07
+---
+title: December 2023 Tor News
+---
+html_body:
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="711">
+							<tbody><!-- /Spacing --><!-- Spacing --><!-- /Spacing --><!-- content -->
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<h1 class="title"><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="Text on black background: Your donation will be matched by Friends of Tor, up to $75k" src="https://newsletter.torproject.org/gallery/2023-12/Friends-of-Tor-match.png" style="width: 675px; height: 380px;" /></a></h1>
+
+									<p><strong>Dear Tor Community,</strong></p>
+
+									<p>From welcoming Amnesty International as our <a href="https://blog.torproject.org/amnesty-international-launches-onion-service/">latest member in the onion services community </a>to <a href="https://blog.torproject.org/tor-network-community-health-update/">shoring up the Tor network</a> and hosting our <a href="https://blog.torproject.org/state-of-the-onion-2023/">annual State of the Onion</a>, the Tor Project&#39;s teams remain focused on <a href="https://blog.torproject.org/support-tor-project-share-your-story/">making an impact in people&#39;s lives</a>. We want to give special thanks to everyone who has shared their story and participated in our recent survey about the <a href="https://survey.torproject.org/index.php/615919">importance of encryption</a>&ndash;the response rate has been incredible&ndash;and on top of being insightful, your contributions will go a long way to improving our advocacy and outreach efforts.</p>
+
+									<p>Remember, from now on through December 31st, <a href="https://blog.torproject.org/friends-of-tor-match-2023/">your donation will be matched</a> by our Friends of Tor&ndash;which means that a $25 donation will automatically become $50 until the end of this year.</p>
+
+									<p><em>&nbsp; - Thank you for being an essential part of the Tor Project&#39;s community.</em></p>
+
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Tor News</h1>
+
+									<h2><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="Tor and Amnesty logo above a screenshot of the Amnesty.org website on a blue-purple gradient background" src="https://newsletter.torproject.org/gallery/2023-12/amnesty-onion-site-pill.png" style="width: 675px; height: 380px;" /></a></h2>
+
+									<h2><strong>Amnesty International now available as .onion</strong></h2>
+
+									<p>Amnesty International has launched their website as a .onion site to provide unrestricted access to their human rights resources, enabling more people to safely and securely engage with the vital work of speaking truth to power, and defending human rights. We couldn&#39;t be happier with Amnesty&#39;s choice to offer a .onion site on the Tor network. This underlines the critical role of our open source privacy technology as a vital tool in our shared work of advancing human rights.<br />
+									Read the <a href="https://blog.torproject.org/amnesty-international-launches-onion-service/">full story here</a>. And if you&#39;re a website operator, interested in following suit, <a href="https://nc.torproject.net/apps/forms/s/bGswKTbTj8ikYb4oPen9W9ig">connect with our onion support team</a>.</p>
+
+									<h2><strong>Safeguarding the Tor network: our commitment to network health and supporting relay operators</strong></h2>
+
+									<p>You may have noticed that we recently removed a large number of relays from the Tor network. We did this to protect network health and the safety and security of our community and users. This process has sparked larger discussions within our teams and community members about the state of Tor relay policies and the potential for incentivization models that can better support our relay operators and the growth of the Tor network. It has also encouraged us to reflect more deeply on our mission and the role of free, open-source technology.<br />
+									For these reasons, we published a blog post to highlight past research exploring incentivization models for relay operators, and to provide <a href="https://blog.torproject.org/tor-network-community-health-update/">insight into the rationale behind our recent actions to protect the network.</a></p>
+
+									<h2><strong>Transparency, openness, and our 2021-2022 financials</strong></h2>
+
+									<p>Did you know that almost a third of our annual revenue comes from individual donors? These gifts come in all different forms (including ten different cryptocurrencies, which are then converted to USD): Some people donate $5 to the Tor Project one time, some donate $100 every month, and some make large gifts annually. The common thread is that individual donations are unrestricted funds, and a very important kind of support. Unrestricted funds allow us to respond to censorship events, develop our tools in a more agile way, and ensure we have reserves to keep Tor strong in case of emergencies.</p>
+
+									<p>If you didn&#39;t know, make sure to check out <a href="https://blog.torproject.org/transparency-openness-and-our-2021-and-2022-financials/">our 2021-2022 fiscal report</a>.</p>
+
+									<p>And, if you want to maximize your donation this year, now is the time! From now on through December 31st, your donation will be matched by our Friends of Tor&ndash;which means that <a href="https://torproject.org/donate/donate-tn3-2023">a $25 donation will automatically become $50 until the end of this year.</a></p>
+
+									<p><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="Piechart outlining the Tor Project's revenue streams, inlcuding the 28.5% from individual donations" src="https://newsletter.torproject.org/gallery/2023-12/revenue-breakdown_your-donations-support-the-tor-project.png" style="width: 675px; height: 380px;" /></a></p>
+
+									<hr />
+									<h1>Keeping up with the Latest Releases</h1>
+									</div>
+									</div>
+
+									<h2><strong>New Release: Tor Browser 13.0.6 (Desktop)</strong></h2>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1306/">https://blog.torproject.org/new-release-tor-browser-1306/</a></p>
+
+									<h2><strong>Arti 1.1.11 is released: More onion progress</strong></h2>
+
+									<p><a href="https://blog.torproject.org/arti_1_1_11_released/">https://blog.torproject.org/arti_1_1_11_released/</a></p>
+
+									<h2><strong>New Alpha Release: Tor Browser 13.5a2</strong></h2>
+
+									<p><a href="https://blog.torproject.org/new-alpha-release-tor-browser-135a2/">https://blog.torproject.org/new-alpha-release-tor-browser-135a2/</a></p>
+
+									<h2><strong>New Release: Tor Browser 13.0.3 (Android)</strong></h2>
+
+									<p><a href="https://blog.torproject.org/new-release-tor-browser-1303/">https://blog.torproject.org/new-release-tor-browser-1303/</a></p>
+
+									<p>&nbsp;</p>
+
+									<h1 class="title">Recent events</h1>
+
+									<h2><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="State of the onion keyvisual, stylized onion, on black background with the State of the Onion dates, Nov 29th and Dec 6th" src="https://newsletter.torproject.org/gallery/2023-12/soto-combined.png" style="width: 675px; height: 380px;" /></a></h2>
+
+									<h2>State of the Onion 2023</h2>
+
+									<p>The end of the year is traditionally a great moment for reflection&ndash;which is exactly what we&#39;ve done during our annual State of the Onion: a virtual, two-day event highlighting the work of our teams and community to showcase the impact Tor technology has made across the globe during the year. If you&#39;ve missed the livestream, you can watch the recast here:</p>
+
+									<ul>
+										<li>
+										<p><strong>Day 1</strong> - <a href="https://www.youtube.com/watch?v=hdFL0kXu440">State of the Onion with the presentations from the Tor Project</a><a href="http://www.youtube.com/watch?v=hdFL0kXu440">&#39;s teams</a></p>
+										</li>
+										<li>
+										<p><strong>Day 2</strong> - <a href="https://www.youtube.com/watch?v=TtgTwho1wfQ">State of the Onion featuring presentations and projects from the Tor Community</a></p>
+										</li>
+									</ul>
+
+									<hr />
+									<h1>Ways to contribute</h1>
+
+									<ul>
+										<li>
+										<p><strong>Can you make a recurring donation?</strong> <a href="https://torproject.org/donate/donate-tn1-2023">Set up a monthly donation</a>. This is the best, most impactful way to help the Tor Project budget during uncertain times.</p>
+										</li>
+										<li>
+										<p><strong>Can you make a one-time gift?</strong> Make a <a href="https://torproject.org/donate/donate-tn1-2023">donation through our website by credit card or PayPal</a>; through the mail by cash, check, or money order; through a stock donation or bank transfer; and <a href="https://donate.torproject.org/donor-faq/">many more options listed in our FAQ</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have a company or organization that uses Tor or believes in Tor?</strong> <a href="https://torproject.org/about/membership">Become a member</a>.</p>
+										</li>
+										<li>
+										<p><strong>Does your company match donations made by employees?</strong> Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!</p>
+										</li>
+										<li>
+										<p><strong>Do you have cryptocurrency to give?</strong> <a href="https://donate.torproject.org/cryptocurrency">We can accept donations in ten different coins</a>.</p>
+										</li>
+                                        <li>
+                                        <p><strong>Do you have 7 minutes to participate in our survey?</strong> This is a priceless contribution to supporting our critical advocacy and outreach efforts. The <a href="https://survey.torproject.org/index.php/615919">survey is anonymous</a> and also <a href="http://eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919">available as a .onion</a> for an added layer of security.</p>
+                                        </li>
+									</ul>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
