@@ -1,0 +1,84 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2023-12-07
+---
+title: December 2023 Tor News
+---
+body:
+
+# December 2023 Tor News
+
+Dear Tor Community,
+
+From welcoming Amnesty International as our latest member in the onion services community to shoring up the Tor network and hosting our annual State of the Onion, the Tor Project's teams remain focused on making an impact in people's lives. We want to give special thanks to everyone who has shared their story and participated in our recent survey about the importance of encryption &ndash; the response rate has been incredible &ndash; and on top of being insightful, your contributions will go a long way to improving our advocacy and outreach efforts.
+
+Remember, from now on through December 31st, your donation will be matched by our Friends of Tor–which means that a $25 donation will automatically become $50 until the end of this year.
+
+&ndash; Thank you for being an essential part of the Tor Project's community.
+
+# Tor news
+
+## Amnesty International now available as .onion
+
+You may have noticed that we recently removed a large number of relays from the Tor network. We did this to protect network health and the safety and security of our community and users. This process has sparked larger discussions within our teams and community members about the state of Tor relay policies and the potential for incentivization models that can better support our relay operators and the growth of the Tor network. It has also encouraged us to reflect more deeply on our mission and the role of free, open-source technology.
+
+For these reasons, we published a blog post to highlight past research exploring incentivization models for relay operators, and to provide insight into the rationale behind our recent actions to protect the network from bad actors: https://blog.torproject.org/tor-network-community-health-update/
+
+## Safeguarding the Tor network: our commitment to network health and supporting relay operators
+
+As part of a recently completed project, we've made Tor Browser, Tor circumvention tools, Tor documentation and training materials, and OnionShare available in Arabic, Chinese, and Swahili. We've used the occasion to develop short, localized explainer videos to demystify Tor's usage, from bypassing censorship to secure file sharing. These resources are designed to help everyone easily utilize Tor tools in their daily lives: https://blog.torproject.org/tor-tutorials/
+
+## Transparency, openness, and our 2021-2022 financials
+
+Did you know that almost a third of our annual revenue comes from individual donors? These gifts come in all different forms (including ten different cryptocurrencies, which are then converted to USD): Some people donate $5 to the Tor Project one time, some donate $100 every month, and some make large gifts annually. The common thread is that individual donations are unrestricted funds, and a very important kind of support. Unrestricted funds allow us to respond to censorship events, develop our tools in a more agile way, and ensure we have reserves to keep Tor strong in case of emergencies.
+
+If you didn't know, make sure to check out our 2021-2022 fiscal report: https://blog.torproject.org/transparency-openness-and-our-2021-and-2022-financials/
+
+And, if you want to maximize your donation this year, now is the time! From now on through December 31st, your donation will be matched by our Friends of Tor–which means that [a $25 donation will automatically become $50 until the end of this year](https://torproject.org/donate/donate-tn3-2023).
+
+# Keeping up with the latest releases
+
+## New Release: Tor Browser 13.0.6 (Desktop)
+
+https://blog.torproject.org/new-release-tor-browser-1306/
+
+## Arti 1.1.11 is released: More onion progress
+
+https://blog.torproject.org/arti_1_1_11_released/
+
+## New Alpha Release: Tor Browser 13.5a2
+
+https://blog.torproject.org/new-alpha-release-tor-browser-135a2/
+
+## New Release: Tor Browser 13.0.3 (Android)
+
+https://blog.torproject.org/new-release-tor-browser-1303/
+
+# Recent events
+
+## State of the Onion 2023
+
+The end of the year is traditionally a great moment for reflection–which is exactly what we've done during our annual State of the Onion: a virtual, two-day event highlighting the work of our teams and community to showcase the impact Tor technology has made across the globe during the year. If you've missed the livestream, you can watch the recast here:
+
+- Day 1, [State of the Onion with the presenters from the Tor] Project](https://www.youtube.com/watch?v=hdFL0kXu440)
+- Day 2, [State of the Onion featuring presenters from the Tor Community](https://www.youtube.com/watch?v=TtgTwho1wfQ)
+
+# Ways to contribute
+
+- **Can you make a recurring donation?** [Set up a monthly donation](https://torproject.org/donate/donate-tn1-2023). This is the best, most impactful way to help the Tor Project budget during uncertain times.
+
+- **Can you make a one-time gift?** Make a [donation through our website by credit card or PayPal](https://torproject.org/donate/donate-tn1-2023); through the mail by cash, check, or money order; through a stock donation or bank transfer; and [many more options listed in our FAQ](https://donate.torproject.org/donor-faq/).
+
+- **Do you have a company or organization that uses Tor or believes in Tor?** [Become a member](https://torproject.org/about/membership).
+
+- **Does your company match donations made by employees?** Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!
+
+- **Do you have cryptocurrency to give?** [We can accept donations in ten different coins](https://donate.torproject.org/cryptocurrency).
+
+- **Do you have 7 minutes to participate in our survey?** This is a priceless contribution to supporting our critical advocacy and outreach efforts. The [survey is anonymous](https://survey.torproject.org/index.php/615919) and also [available as a .onion](eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919) for an added layer of security.
+
+Donate to help keep Tor fast, strong, and secure. https://donate.torproject.org
