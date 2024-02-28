@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-02-28
+---
+title: February 2024 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="711">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="3315" width="711">
+							<tbody>
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Latest blog posts</h1>
+
+									<h2><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="Illustration of a person holding their hand up to stop someone with protest signs in the back next to a block of text saying 'Fight censorship with Tor'" src="https://blog.torproject.org/2024-defend-internet-freedom-during-elections/lead.webp" style="width: 675px; height: 380px;" /></a></h2>
+
+									<h2><strong>Defending access to information during the Year of Democracy</strong></h2>
+
+									<p>2024 has been dubbed the &quot;Year of Democracy&quot; with over 65 elections taking place globally and roughly 2 billion people casting their votes this year. We have seen spikes of censorship events around elections. In this context, Tor and Tor-powered apps can protect and defend our right to freely access information.</p>
+
+									<p>We <a href="https://blog.torproject.org/2024-defend-internet-freedom-during-elections/">put together a guide on how at-risk users can prepare themselves</a> for upcoming elections by downloading Tor-powered applications like <a href="https://www.torproject.org/download/">Tor Browser</a>, <a href="http://orbot.app">Orbot</a>, <a href="https://tails.net/">Tails</a>, and <a href="https://onionshare.org/">OnionShare</a> before election censorship happens.</p>
+
+									<p>For these tools to work effectively, we all need to work together. Please consider volunteering by <a href="https://snowflake.torproject.org/">running a Snowflake proxy</a> or <a href="https://community.torproject.org/relay/setup/bridge/">Tor bridge</a>. But there are many more ways to get involved and expand global access to Tor: from organizing <a href="https://community.torproject.org/training/resources/">Tor trainings</a> to <a href="https://community.torproject.org/localization/">providing translations</a>, documenting online censorship or <a href="https://www.accessnow.org/campaign/keepiton/#coalition">advocating against internet shutdowns</a>.</p>
+
+									<p>Find out more here:&nbsp; <a href="https://blog.torproject.org/2024-defend-internet-freedom-during-elections">https://blog.torproject.org/2024-defend-internet-freedom-during-elections</a>.</p>
+
+									<p><img alt="Purple onion illustration on black background overlaid by text on green background saying 'Thank you'" src="https://blog.torproject.org/2023-fundraising-results-thank-you/lead.webp" style="width: 675px; height: 380px;" /></p>
+
+									<h2><strong>2023 year-end fundraising results 🎉</strong></h2>
+
+									<p>Another great way to support the Tor Project&#39;s efforts is by donating--and that&#39;s what so many of you have done. From October through December 2023, you answered the call for support by contributing $427,558 to power the Tor network, Tor Browser, onion services, Snowflake, and the ecosystem of tools and services built and maintained by the Tor Project.</p>
+
+									<p>Everyone in our community deserves a big THANK YOU for supporting the Tor Project during the campaign. Whether you made a donation, shared the campaign on social media, or spread the world about the importance of using Tor, your contributions are vital to achieving our mission. Your impact was then amplified by <a href="https://blog.torproject.org/friends-of-tor-match-2023/">the Friends of Tor</a> who provided the generous match during the campaign.</p>
+
+									<p>Learn more about what your contributions will make possible in 2024: <a href="https://blog.torproject.org/2023-fundraising-results-thank-you">https://blog.torproject.org/2023-fundraising-results-thank-you</a></p>
+
+									<h2><img alt="Book cover of &quot;Ada &amp; Zangemann&quot; depicting a young girl and an older man standing opposite each other in what seems to be a standoff." src="https://blog.torproject.org/i-love-free-software-day-interview-fsfe/lead.webp" style="width: 675px; height: 380px;" /></h2>
+
+									<h2><strong>Empowering young minds</strong></h2>
+
+									<p>Earlier this month, we sat down with <a href="https://fsfe.org/index.en.html">Matthias Kirschner, President of the FSFE (Free Software Foundation Europe)</a> to talk about a children&#39;s book he has authored exploring the themes of the internet, free and open source technology, and its vital role for democracy.<br />
+									In <a href="https://fsfe.org/activities/ada-zangemann/">Ada &amp; Zangemann</a>, the young hardware enthusiast, Ada, takes on Zangeman, an inventor who begins controlling all of the world&#39;s computerized devices to do exactly what he wants. As part of our conversation, we gained some valuable insights for parents, caretakers, and educators seeking ways to talk about technology in accessible and child-friendly ways.</p>
+
+									<p>You can read the full interview here: <a href="https://blog.torproject.org/i-love-free-software-day-interview-fsfe/">https://blog.torproject.org/i-love-free-software-day-interview-fsfe/</a></p>
+
+									<hr />
+									<h1>Job Openings</h1>
+
+									<p>We&#39;re always looking for great people to join our team. Be sure to check out our latest <a href="https://www.torproject.org/about/jobs/">open positions</a>. Work remotely from wherever you are to help us achieve our mission of making free, open-source, and privacy-preserving technology available to everyone.</p>
+
+									<p>&nbsp; 🦀&nbsp; <a href="https://www.torproject.org/about/jobs/rust-developer-network-team/">Rust Developer</a> (Network Team)</p>
+
+									<p>&nbsp; 💻&nbsp; <a href="https://www.torproject.org/about/jobs/browser-software-engineer/">Browser Software Engineer</a> (Applications Team)</p>
+
+									<hr />
+									<h1>Keeping up with the latest releases</h1>
+									</div>
+									</div>
+
+									<p><strong>February 27, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-release-tails-60/">New Release: Tails 6.0</a></p>
+
+									<p><strong>February 20, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-13010/">New Release: Tor Browser 13.0.10</a></p>
+
+									<p><strong>February 5, 2024</strong><br />
+									<a href="https://blog.torproject.org/arti_1_1_13_released">Arti 1.1.13 is released: onion services development</a><br />
+									<br />
+									<strong>February 1, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-alpha-release-tor-browser-135a4/">New Alpha Release: Tor Browser 13.5a4</a></p>
+
+									<hr />
+									<h1 class="title">Upcoming events</h1>
+
+									<p><strong>March 2nd, 2024</strong><br />
+									<a href="https://forum.torproject.org/t/tor-relays-next-tor-relay-operator-meetup-march-2nd-2024-19-00-utc/11568"><strong>Tor Relay Operator Meetup</strong></a><br />
+									Connect with other Tor relay operators, share, exchange, and discuss ideas on how we can make the Tor network stronger.</p>
+
+									<p><strong>April 15, 2024 - April 19, 2024</strong><br />
+									<a href="http://www.sinfo.org/"><strong>SINFO</strong></a><br />
+									Biggest free tech conference in Portugal: It&#39;s an annual conference that takes place at the Alameda Campus of T&eacute;cnico Lisboa, in the capital city of Portugal, Lisbon. Roger Dingledine, Tor Project Co-founder and Research Director will be in attendance.</p>
+
+									<p><strong>March 25, 2024 -- March 27, 2024</strong><br />
+									<a href="https://canberra2024.cyberconference.com.au/speakers"><strong>AISA CANBERRA CyberCon</strong></a><br />
+									The Australian Cyber Conference - Canberra will provide business leaders with insights and best practices taught by the industry&#39;s top experts through keynotes, panel sessions and live demonstrations -- in person. Roger Dingledine, Co-founder &amp; Research Director of The Tor Project, will deliver a keynote address on March 27th.</p>
+
+									<p><strong>April 8, 2024 - April 10, 2024</strong><br />
+									<a href="https://summit.fossasia.org"><strong>FOSSASIA Summit 2024</strong></a><br />
+									Taking place in Ha Noi, Viet Nam, the FOSSASIA Summit has become a platform for developers, enthusiasts, and industry leaders to foster collaboration and knowledge exchange. Roger Dingledine, Co-founder &amp; Research Director of The Tor Project, will speak at the event.</p>
+
+									<hr />
+									<h1>ICYMI: Replay of recent events</h1>
+
+									<p><a href="https://blog.torproject.org/37c3-talk/"><strong>Tor censorship attempts in Russia, Iran, Turkmenistan</strong></a><br />
+									Watch Tor President &amp; Co-founder Roger Dingledine&#39;s presentation from #37C3</p>
+
+									<p><strong><a href="https://www.youtube.com/watch?v=-K8ki7zBArs">Launch of Tor&#39;s Postbox, a testimony hub featuring stories from Tor users worldwide</a></strong><br />Hear from digital rights advocates, journalists and other online privacy experts who shared insights about the challenges to encryption, online privacy, and digital freedom in 2024.</p>
+
+									<hr />
+									<h1>Ways to contribute</h1>
+
+									<ul>
+										<li>
+										<p><strong>Can you make a recurring donation?</strong> <a href="https://torproject.org/donate/donate-tn1-2023">Set up a monthly donation</a>. This is the best, most impactful way to help the Tor Project budget during uncertain times.</p>
+										</li>
+										<li>
+										<p><strong>Can you make a one-time gift?</strong> Make a <a href="https://torproject.org/donate/donate-tn1-2023">donation through our website by credit card or PayPal</a>; through the mail by cash, check, or money order; through a stock donation or bank transfer; and <a href="https://donate.torproject.org/donor-faq/">many more options listed in our FAQ</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have a company or organization that uses Tor or believes in Tor?</strong> <a href="https://torproject.org/about/membership">Become a member</a>.</p>
+										</li>
+										<li>
+										<p><strong>Does your company match donations made by employees?</strong> Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!</p>
+										</li>
+										<li>
+										<p><strong>Do you have cryptocurrency to give?</strong> <a href="https://donate.torproject.org/cryptocurrency">We can accept donations in ten different coins</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have 7 minutes to participate in our survey?</strong> This is a priceless contribution to supporting our critical advocacy and outreach efforts. The <a href="https://survey.torproject.org/index.php/615919">survey is anonymous</a> and also <a href="http://eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919">available as a .onion</a> for an added layer of security.</p>
+										</li>
+									</ul>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>

@@ -1,0 +1,107 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-02-28
+---
+title: February 2024 Tor News
+---
+body:
+
+# Latest blog posts
+
+## Defending access to information during the Year of Democracy
+
+2024 has been dubbed the "Year of Democracy" with over 65 elections taking place globally and roughly 2 billion people casting their votes this year. We have seen spikes of censorship events around elections. In this context, Tor and Tor-powered apps can protect and defend our right to freely access information.
+
+We [put together a guide on how at-risk users can prepare themselves](https://blog.torproject.org/2024-defend-internet-freedom-during-elections/) for upcoming elections by downloading Tor-powered applications like [Tor Browser](https://www.torproject.org/download/), [Orbot](http://orbot.app), [Tails](https://tails.net/), and [OnionShare](https://onionshare.org/) before election censorship happens.
+
+For these tools to work effectively, we all need to work together. Please consider volunteering by [running a Snowflake proxy](https://snowflake.torproject.org/) or [Tor bridge](https://community.torproject.org/relay/setup/bridge/). But there are many more ways to get involved and expand global access to Tor: from organizing [Tor trainings](https://community.torproject.org/training/resources/) to [providing translations](https://community.torproject.org/localization/), documenting online censorship or [advocating against internet shutdowns](https://www.accessnow.org/campaign/keepiton/#coalition). Find out more here:  <https://blog.torproject.org/2024-defend-internet-freedom-during-elections>.
+
+## 2023 year-end fundraising results 🎉
+
+Another great way to support the Tor Project's efforts is by donating--and that's what so many of you have done. From October through December 2023, you answered the call for support by contributing $427,558 to power the Tor network, Tor Browser, onion services, Snowflake, and the ecosystem of tools and services built and maintained by the Tor Project.
+
+Everyone in our community deserves a big THANK YOU for supporting the Tor Project during the campaign. Whether you made a donation, shared the campaign on social media, or spread the world about the importance of using Tor, your contributions are vital to achieving our mission. Your impact was then amplified by [the Friends of Tor](https://blog.torproject.org/friends-of-tor-match-2023/) who provided the generous match during the campaign.
+
+Learn more about what your contributions will make possible in 2024: <https://blog.torproject.org/2023-fundraising-results-thank-you>
+
+## Empowering young minds
+
+Earlier this month, we sat down with [Matthias Kirschner, President of the FSFE (Free Software Foundation Europe)](https://fsfe.org/index.en.html) to talk about a children's book he has authored exploring the themes of the internet, free and open source technology, and its vital role for democracy.\
+In [Ada & Zangemann](https://fsfe.org/activities/ada-zangemann/), the young hardware enthusiast, Ada, takes on Zangeman, an inventor who begins controlling all of the world's computerized devices to do exactly what he wants. As part of our conversation, we gained some valuable insights for parents, caretakers, and educators seeking ways to talk about technology in accessible and child-friendly ways. You can read the full interview here: <https://blog.torproject.org/i-love-free-software-day-interview-fsfe/>
+
+----
+
+# Job Openings
+
+We're always looking for great people to join our team. Be sure to check out our latest [open positions](https://www.torproject.org/about/jobs/). Work remotely from wherever you are to help us achieve our mission of making free, open-source, and privacy-preserving technology available to everyone.
+
+🦀 [Rust Developer](https://www.torproject.org/about/jobs/rust-developer-network-team/) (Network Team)
+
+💻 [Browser Software Engineer](https://www.torproject.org/about/jobs/browser-software-engineer/) (Applications Team)
+
+----
+
+# Keeping up with the latest releases
+
+**February 27, 2024**
+[New Release: Tails 6.0](https://blog.torproject.org/new-release-tails-60/)
+
+**February 20, 2024**
+[New Release: Tor Browser 13.0.10](https://blog.torproject.org/new-release-tor-browser-13010/)
+
+**February 5, 2024**
+[Arti 1.1.13 is released: onion services development](https://blog.torproject.org/arti_1_1_13_released)
+
+**February 1, 2024**
+[New Alpha Release: Tor Browser 13.5a4](https://blog.torproject.org/new-alpha-release-tor-browser-135a4/)
+
+----
+
+# Upcoming events
+
+**March 2nd, 2024**
+[Tor Relay Operator Meetup](https://forum.torproject.org/t/tor-relays-next-tor-relay-operator-meetup-march-2nd-2024-19-00-utc/11568)
+Connect with other Tor relay operators, share, exchange, and discuss ideas on how we can make the Tor network stronger.
+
+**April 15, 2024 - April 19, 2024**
+[SINFO](http://www.sinfo.org/)
+Biggest free tech conference in Portugal: It's an annual conference that takes place at the Alameda Campus of Técnico Lisboa, in the capital city of Portugal, Lisbon. Roger Dingledine, Tor Project Co-founder and Research Director will be in attendance.
+
+**March 25, 2024 -- March 27, 2024**
+[AISA CANBERRA CyberCon](https://canberra2024.cyberconference.com.au/speakers)
+The Australian Cyber Conference - Canberra will provide business leaders with insights and best practices taught by the industry's top experts through keynotes, panel sessions and live demonstrations -- in person. Roger Dingledine, Co-founder & Research Director of The Tor Project, will deliver a keynote address on March 27th.
+
+**April 8, 2024 - April 10, 2024**
+[FOSSASIA Summit 2024](https://summit.fossasia.org)
+Taking place in Ha Noi, Viet Nam, the FOSSASIA Summit has become a platform for developers, enthusiasts, and industry leaders to foster collaboration and knowledge exchange. Roger Dingledine, Co-founder & Research Director of The Tor Project, will speak at the event.
+
+----
+
+# ICYMI: Replay of recent events
+
+[**Tor censorship attempts in Russia, Iran, Turkmenistan**](https://blog.torproject.org/37c3-talk/)
+Watch Tor President & Co-founder Roger Dingledine's presentation from #37C3
+
+**[Launch of Tor's Postbox, a testimony hub featuring stories from Tor users worldwide](https://www.youtube.com/watch?v=-K8ki7zBArs)** Hear from digital rights advocates, journalists and other online privacy experts who shared insights about the challenges to encryption, online privacy, and digital freedom in 2024.
+
+----
+
+# Ways to contribute
+
+- **Can you make a recurring donation?** [Set up a monthly donation](https://torproject.org/donate/donate-tn1-2023). This is the best, most impactful way to help the Tor Project budget during uncertain times.
+
+- **Can you make a one-time gift?** Make a [donation through our website by credit card or PayPal](https://torproject.org/donate/donate-tn1-2023); through the mail by cash, check, or money order; through a stock donation or bank transfer; and [many more options listed in our FAQ](https://donate.torproject.org/donor-faq/).
+
+- **Do you have a company or organization that uses Tor or believes in Tor?** [Become a member](https://torproject.org/about/membership).
+
+- **Does your company match donations made by employees?** Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!
+
+- **Do you have cryptocurrency to give?** [We can accept donations in ten different coins](https://donate.torproject.org/cryptocurrency).
+
+- **Do you have 7 minutes to participate in our survey?** This is a priceless contribution to supporting our critical advocacy and outreach efforts. The [survey is anonymous](https://survey.torproject.org/index.php/615919) and also [available as a .onion](eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919) for an added layer of security.
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-tn3-2023
