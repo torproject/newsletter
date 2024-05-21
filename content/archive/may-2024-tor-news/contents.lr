@@ -1,0 +1,145 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-05-20
+---
+title: May 2024 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="3315" width="711">
+							<tbody>
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Latest updates</h1>
+
+									<h2><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="White street sign with black lettering saying &quot;exit&quot;" src="https://blog.torproject.org/gitolite-gitlab-migration/lead.webp" style="width: 675px; height: 449px;" /></a></h2>
+
+									<h2><strong>Tor migrates from Gitolite/GitWeb to GitLab</strong><strong> </strong></h2>
+
+									<p>Attention all Tor contributors: We have migrated to a self-hosted GitLab server.</p>
+
+									<p>Despite initial security concerns<span style="color: rgb(55, 65, 81); font-family: ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">, <a href="https://gitlab.torproject.org/tpo/tpa/team/-/issues/40472">the community adopted GitLab</a> resulting in the migration being largely a formality acknowledging the existing situation. Some critical repositories like Puppet were moved to dedicated servers, with GitLab serving as a mirror. </span></p>
+
+									<p><a href="http://blog.torproject.org/gitolite-gitlab-migration/"><strong>Learn more about how to update your Git config in our blog post.</strong></a></p>
+
+									<p><img alt="Purple gradient background with illustration of a desktop computer. the screen reads: &lt;/&gt;" src="https://blog.torproject.org/code-audit-censorship-circumvention-tools/lead.webp" style="width: 675px; height: 380px;" /></p>
+
+									<h2><strong>Code audit for censorship circumvention tools completed by Cure53</strong></h2>
+
+									<p>From 2021 to present, the Tor Project has worked on the &quot;Rapid Expansion of Access to the Uncensored Internet through Tor in China, Hong Kong, &amp; Tibet&quot; initiative, aiming to enhance Tor usage in the China region. The results included the releases of <a href="https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/">WebTunnel</a>, Lox, RDSys, and Connection Assist, updating Open Source Circumvention Applications, and increasing adoption via regional localization and user engagement.</p>
+
+									<p>To ensure software reliability, the Tor Project engaged <a href="https://cure53.de/">Cure53</a> for a comprehensive security audit in January 2024. As a result, all identified vulnerabilities stemming from recent modifications were successfully addressed.</p>
+
+									<p><a href="https://blog.torproject.org/code-audit-censorship-circumvention-tools/"><strong>To explore all audit results, you can download the full on our blog.</strong></a></p>
+
+									<p><a href="https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/"><strong>And learn more about Webtunnel in our announcement.</strong></a></p>
+
+									<h2><img alt="https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/lead.webp" src="https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/lead.webp" style="width: 675px; height: 380px;" /></h2>
+
+									<h2><strong>Surveillance as a Service: The Global Impact of Israeli &quot;Defense&quot; Technologies on Privacy and Human Rights</strong></h2>
+
+									<p>Highlighting, exposing, and actively working against the proliferation and normalization of surveillance technology is crucial in protecting human rights worldwide.</p>
+
+									<p>At the Tor Project, we know that it is through collective awareness and action that we can all build and contribute to privacy-preserving technologies that aim to protect people everywhere from the prevalence of surveillance and oppression. It is equally important to hold companies accountable and recognize the source and enablers of surveillance tech, especially now as we see these technologies being aggressively utilized in the ongoing genocide in Gaza.</p>
+
+									<p>This post delves <a href="https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/">into the impact of Israeli surveillance technologies in Palestine</a>, illustrating how localized instances of its use can have extensive repercussions that pave the way for the widespread acceptance and global adoption of such oppressive practices.</p>
+
+									<hr />
+									<h1 class="title">Upcoming events</h1>
+
+									<p><strong>May 25th, 2024<br />
+									<a href="https://blog.torproject.org/tor-community-day-2024/">Join us for the Tor Community Day 2024 in Lisbon, Portugal</a></strong></p>
+
+									<p>The Tor Project is happy to announce that we are hosting the Tor Community Day 2024 on May 25th in Lisbon, Portugal! The Community Day is a great opportunity for Tor Core Contributors, Tor Community Members, and other interested folks to come together, connect and discuss all things Tor. The Tor Community Day is free and open to the public. Anyone who wishes to join is welcome without any prior need to sign up. If you&#39;re in the area and curious about Tor, stop by!</p>
+
+									<p><strong>June 4, 2024 - June 5, 2024<br />
+									<a href="https://blog.torproject.org/event/palestine-digital-activism-forum-2024/">PDAF - Palestine Digital Activism Forum 2024</a></strong><br />
+									Members of the Tor Project will host a panel &quot;Regulation &amp; Legislation: Reigning in AI for Human Rights.&quot; Virtual attendance registration:<a href="https://pdaf.net"> https://pdaf.net</a></p>
+
+									<p><strong>July 12, 2024 - July 14, 2024</strong><br />
+									<strong><a href="https://blog.torproject.org/event/hope-xv/">HOPE XV</a></strong></p>
+
+									<p><strong>July 15, 2024 - July 20, 2024<br />
+									<a href="https://blog.torproject.org/event/PETS-2024/">24th Privacy Enhancing Technologies Symposium (PETS)</a></strong></p>
+
+									<hr />
+									<h1>Keeping up with the latest releases</h1>
+									</div>
+									</div>
+
+									<p><strong>May 15, 2024</strong><br />
+									<a href="https://blog.torproject.org/arti_1_2_3_released/">Security release: Arti 1.2.3. (Please upgrade.)</a></p>
+
+									<p><strong>May 14, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-13015/">New Release: Tor Browser 13.0.15</a></p>
+
+									<p><strong>April 30, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-alpha-release-tor-browser-135a7/">New Alpha Release: Tor Browser 13.5a7</a><br />
+									&nbsp;</p>
+
+									<hr />
+									<h1>Ways to contribute</h1>
+
+									<ul>
+										<li>
+										<p><strong>Can you make a recurring donation?</strong> <a href="https://torproject.org/donate/donate-tn1-2023">Set up a monthly donation</a>. This is the best, most impactful way to help the Tor Project budget during uncertain times.</p>
+										</li>
+										<li>
+										<p><strong>Can you make a one-time gift?</strong> Make a <a href="https://torproject.org/donate/donate-tn1-2023">donation through our website by credit card or PayPal</a>; through the mail by cash, check, or money order; through a stock donation or bank transfer; and <a href="https://donate.torproject.org/donor-faq/">many more options listed in our FAQ</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have a company or organization that uses Tor or believes in Tor?</strong> <a href="https://torproject.org/about/membership">Become a member</a>.</p>
+										</li>
+										<li>
+										<p><strong>Does your company match donations made by employees?</strong> Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!</p>
+										</li>
+										<li>
+										<p><strong>Do you have cryptocurrency to give?</strong> <a href="https://donate.torproject.org/cryptocurrency">We can accept donations in ten different coins</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have 7 minutes to participate in our survey?</strong> This is a priceless contribution to supporting our critical advocacy and outreach efforts. The <a href="https://survey.torproject.org/index.php/615919">survey is anonymous</a> and also <a href="http://eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919">available as a .onion</a> for an added layer of security.</p>
+										</li>
+									</ul>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									<p><small><a href="{action.unsubscribeUrl}">Unsubscribe from Tor News</a><br />
+									{domain.address}<br />
+									<a href="https://torproject.org">torproject.org</a></small></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>

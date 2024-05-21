@@ -1,0 +1,89 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-05-20
+---
+title: May 2024 Tor News
+---
+body:
+
+# Latest updates
+
+## Tor migrates from Gitolite/GitWeb to GitLab
+
+Attention all Tor contributors: We have migrated to a self-hosted GitLab server. 
+
+Despite initial security concerns, [the community adopted GitLab](https://gitlab.torproject.org/tpo/tpa/team/-/issues/40472) resulting in the migration being largely a formality acknowledging the existing situation. Some critical repositories like Puppet were moved to dedicated servers, with GitLab serving as a mirror.
+
+**Learn more about how to update your Git config in our blog post**: <http://blog.torproject.org/gitolite-gitlab-migration/>
+
+## Code audit for censorship circumvention tools completed by Cure53
+
+From 2021 to present, the Tor Project has worked on the "Rapid Expansion of Access to the Uncensored Internet through Tor in China, Hong Kong, & Tibet" initiative, aiming to enhance Tor usage in the China region. The results included the releases of WebTunnel, Lox, RDSys, and Connection Assist, updating Open Source Circumvention Applications, and increasing adoption via regional localization and user engagement.
+
+To ensure software reliability, the Tor Project engaged Cure53 for a comprehensive security audit in January 2024. As a result, all identified vulnerabilities stemming from recent modifications were successfully addressed.
+
+To explore all audit results, you can download the full report here: <https://blog.torproject.org/code-audit-censorship-circumvention-tools/>
+
+And learn more about Webtunnel in our announcement: <https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/>
+
+## Surveillance as a Service: The Global Impact of Israeli "Defense" Technologies on Privacy and Human Rights
+
+Highlighting, exposing, and actively working against the proliferation and normalization of surveillance technology is crucial in protecting human rights worldwide.
+
+At the Tor Project, we know that it is through collective awareness and action that we can all build and contribute to privacy-preserving technologies that aim to protect people everywhere from the prevalence of surveillance and oppression. It is equally important to hold companies accountable and recognize the source and enablers of surveillance tech, especially now as we see these technologies being aggressively utilized in the ongoing genocide in Gaza.
+
+This post delves into the impact of Israeli surveillance technologies in Palestine, illustrating how localized instances of its use can have extensive repercussions that pave the way for the widespread acceptance and global adoption of such oppressive practices: <https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/>
+
+----
+
+# Upcoming events
+
+**May 25th, 2024**
+[Join us for the Tor Community Day 2024 in Lisbon, Portugal](https://blog.torproject.org/tor-community-day-2024/)
+
+The Tor Project is happy to announce that we are hosting the Tor Community Day 2024 on May 25th in Lisbon, Portugal! The Community Day is a great opportunity for Tor Core Contributors, Tor Community Members, and other interested folks to come together, connect and discuss all things Tor. The Tor Community Day is free and open to the public. Anyone who wishes to join is welcome without any prior need to sign up. If you're in the area and curious about Tor, stop by!
+
+**June 4, 2024 - June 5, 2024**
+[PDAF - Palestine Digital Activism Forum 2024](https://blog.torproject.org/event/palestine-digital-activism-forum-2024/)
+Members of the Tor Project will host a panel "Regulation & Legislation: Reigning in AI for Human Rights." Virtual attendance registration: <https://pdaf.net>
+
+**July 12, 2024 - July 14, 2024**
+[HOPE XV](https://blog.torproject.org/event/hope-xv/)
+
+**July 15, 2024 - July 20, 2024**
+[24th Privacy Enhancing Technologies Symposium (PETS)](https://blog.torproject.org/event/PETS-2024/)
+
+----
+
+# Keeping up with the latest releases
+
+**May 15, 2024**
+[Security release: Arti 1.2.3. (Please upgrade.)](https://blog.torproject.org/arti_1_2_3_released/)
+
+**May 14, 2024**
+[New Release: Tor Browser 13.0.15](https://blog.torproject.org/new-release-tor-browser-13015/)[](https://blog.torproject.org/new-release-tor-browser-13010/)
+
+**April 30, 2024**
+[New Alpha Release: Tor Browser 13.5a7](https://blog.torproject.org/new-alpha-release-tor-browser-135a7/)
+
+----
+
+# Ways to contribute
+
+- **Can you make a recurring donation?** [Set up a monthly donation](https://torproject.org/donate/donate-tn1-2023). This is the best, most impactful way to help the Tor Project budget during uncertain times.
+
+- **Can you make a one-time gift?** Make a [donation through our website by credit card or PayPal](https://torproject.org/donate/donate-tn1-2023); through the mail by cash, check, or money order; through a stock donation or bank transfer; and [many more options listed in our FAQ](https://donate.torproject.org/donor-faq/).
+
+- **Do you have a company or organization that uses Tor or believes in Tor?** [Become a member](https://torproject.org/about/membership).
+
+- **Does your company match donations made by employees?** Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!
+
+- **Do you have cryptocurrency to give?** [We can accept donations in ten different coins](https://donate.torproject.org/cryptocurrency).
+
+- **Do you have 7 minutes to participate in our survey?** This is a priceless contribution to supporting our critical advocacy and outreach efforts. The [survey is anonymous](https://survey.torproject.org/index.php/615919) and also [available as a .onion](eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919) for an added layer of security.
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-tn3-2023
