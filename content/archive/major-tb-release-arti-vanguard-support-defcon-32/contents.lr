@@ -1,0 +1,143 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-08-01
+---
+title: A major release for Tor Browser, Vanguard support for Arti, and a Tor talk & new merch at DEF CON 32
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="650">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="680">
+				<tbody><!-- Spacing -->
+					<tr>
+						<td height="20" width="100%"><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="3315" width="711">
+							<tbody>
+								<tr>
+									<td style="padding:0 15px 15px 15px;">
+									<div class="css-1dbjc4n">
+									<div class="css-1dbjc4n r-1s2bzr4">
+									<hr />
+									<h1>Latest updates</h1>
+
+									<h2><a href="https://blog.torproject.org/tor-network-ddos-attack/"><img alt="13.5 as white lettering on purple-green gradient background" src="https://blog.torproject.org/new-release-tor-browser-135/lead.webp" style="width: 675px; height: 380px;" /></a></h2>
+
+									<h2><strong>🚀</strong> <strong>New major release: Tor Browser 13.5 </strong></h2>
+
+									<p>Tor Browser 13.5 is here bringing some major updates for Android and Desktop: from a revamped connection experience and a permanent home for Tor logs to improved bridge settings and a letterboxing redesign. Below are some of the highlights, and for more information, <a href="https://blog.torproject.org/new-release-tor-browser-135/"><strong>check out the official announcement on the Tor blog</strong></a>.</p>
+
+									<h3><strong>What&#39;s new for Android? 📱</strong></h3>
+
+									<ul>
+										<li><strong>New connection experience:</strong> While we await Connection Assist&#39;s arrival, we&#39;ve completely overhauled Tor Browser for Android&#39;s connection screens with a new, &quot;native&quot; implementation, making it consistent with the desktop counterpart and its censorship circumvention experience.</li>
+										<li><strong>A permanent home for Tor logs:</strong> Tor logs help us troubleshoot issues when they occur. We&#39;ve now made it easier to share them with us: You can now easily find and copy Tor logs in the new &ldquo;Connection Settings&rdquo; section regardless of the connection status. We&#39;ve also implemented a handy button you can use to copy all logs without needing to manually select text.</li>
+									</ul>
+
+									<h3><strong>What&#39;s new for Desktop? 💻</strong></h3>
+
+									<ul>
+										<li><strong>&quot;Betterboxing&quot;:</strong> We&#39;ve polished letterbox to improve the UX of Tor Browser&#39;s fingerprinting protections. Find a letterboxing section in General Settings with options to remember window size and adjust alignment.<br />
+										&nbsp;</li>
+										<li><strong>Improved bridge settings: </strong>13.5 comes with redesigned bridge cards, easier bridge sharing, and a new section to find or request more bridges&ndash;allowing users to retrieve bridges without needing to connect to Tor first.<br />
+										&nbsp;</li>
+										<li><strong>Simplified onion site errors: </strong>For the last few years onion site errors have appeared different from other types of network errors in Tor Browser. We&#39;ve now implemented a consistent design with other network errors to avoid confusion and create a smoother browsing experience when you encounter issues in the onionverse.</li>
+									</ul>
+
+									<p>&nbsp;</p>
+
+									<p><img alt="Arti logo on a black background" src="https://blog.torproject.org/announcing-vanguards-for-arti/lead.webp" style="width: 675px; height: 380px;" /></p>
+
+									<h2><strong>🔒 Vanguard support for Arti</strong></h2>
+
+									<p>We&#39;ve <a href="https://blog.torproject.org/announcing-vanguards-for-arti/">recently announced that Arti now supports Vanguards</a> as of version 1.2.2. This is an exciting step for Arti that gets us another step closer to bringing onion services on Arti into parity with the C tor implementation.</p>
+
+									<ul>
+										<li><strong>Why Vanguards?</strong> Guard discovery attacks can expose your guard relays, making traffic analysis easier and potentially leading to de-anonymization. First introduced in 2018 as an add-on to v3 onion services, Vanguards add an extra layer of defense by selecting specific relays for second and third hops, significantly increasing the cost for attackers.<br />
+										&nbsp;</li>
+										<li><strong>Who is this for? </strong>If you&#39;re using Arti to connect to onion services or running an Arti onion service, this update is for you! Especially useful for long-running services. Vanguards are enabled by default in Arti 1.2.2 and later. Ensure you&#39;re running version 1.2.5 or newer for the best security.</li>
+									</ul>
+									&nbsp;
+
+									<hr />
+									<h1 class="title">Upcoming events</h1>
+
+									<p><strong>August 8-11, 2024<br />
+									<a href="https://blog.torproject.org/tor-community-day-2024/">Tor @</a><a href="https://blog.torproject.org/event/defcon-2024"> DEF CON 32</a></strong><br />
+									Join us at DEF CON 32&ndash;come by our booth, check out new Tor merch, and listen to our talk <a href="https://defcon.org/html/defcon-32/dc-32-speakers.html">&quot;Measuring the Tor network&quot;</a> on Saturday, August 10th at 3.00pm. Silvia Puglisi (Tor Project Network Health Lead) and Roger Dingledine (Tor Project Co-Founder and Original Developer) will discuss how Tor maintains a healthy network and community, detects and mitigates attacks&ndash;all with the help of metrics and usage patterns.</p>
+
+									<p><strong>August 16-18, 2024<br />
+									<a href="https://blog.torproject.org/event/usenix-security-2024">33rd Usenix Security Symposium</a></strong><br />
+									We&#39;ve curated a list of papers we are especially excited about, including <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/bocovich">&quot;Snowflake, a censorship circumvention system using temporary WebRTC proxies&quot;</a> by Cecylia Bocovich, Tor Project; Arlo Breault, Wikimedia Foundation; David Fifield and Serene, unaffiliated; Xiaokang Wang, Tor Project.</p>
+
+									<p>For the full list, visit: <a href="http://blog.torproject.org/event/usenix-security-2024">blog.torproject.org/event/usenix-security-2024</a></p>
+
+									<p><strong>August 21-23, 2024</strong><br />
+									<a href="http://blog.torproject.org/event/open-source-summit-hong-kong"><strong>Open Source Summit Hong Kong</strong></a></p>
+									&nbsp;
+
+									<hr />
+									<h1>Keeping up with the latest releases</h1>
+									</div>
+									</div>
+
+									<p><strong>July 10, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-release-tor-browser-1351/">New Release Tor Browser 13.5.1 </a></p>
+
+									<p><strong>June 11, 2024</strong><br />
+									<a href="https://blog.torproject.org/new-alpha-release-tor-browser-135a9/">New Alpha Release: Tor Browser 13.5a9</a></p>
+
+									<hr />
+									<h1>Ways to contribute</h1>
+
+									<ul>
+										<li>
+										<p><strong>Can you make a recurring donation?</strong> <a href="https://torproject.org/donate/donate-tn1-2023">Set up a monthly donation</a>. This is the best, most impactful way to help the Tor Project budget during uncertain times.</p>
+										</li>
+										<li>
+										<p><strong>Can you make a one-time gift?</strong> Make a <a href="https://torproject.org/donate/donate-tn1-2023">donation through our website by credit card or PayPal</a>; through the mail by cash, check, or money order; through a stock donation or bank transfer; and <a href="https://donate.torproject.org/donor-faq/">many more options listed in our FAQ</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have a company or organization that uses Tor or believes in Tor?</strong> <a href="https://torproject.org/about/membership">Become a member</a>.</p>
+										</li>
+										<li>
+										<p><strong>Does your company match donations made by employees?</strong> Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!</p>
+										</li>
+										<li>
+										<p><strong>Do you have cryptocurrency to give?</strong> <a href="https://donate.torproject.org/cryptocurrency">We can accept donations in ten different coins</a>.</p>
+										</li>
+										<li>
+										<p><strong>Do you have 7 minutes to participate in our survey?</strong> This is a priceless contribution to supporting our critical advocacy and outreach efforts. The <a href="https://survey.torproject.org/index.php/615919">survey is anonymous</a> and also <a href="http://eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919">available as a .onion</a> for an added layer of security.</p>
+										</li>
+									</ul>
+
+									<div style="background-color: #7d4698; padding: 6px 8px 6px 8px;
+-webkit-border-radius:3px; border-radius:3px; margin: 0 auto; width:200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></div>
+
+									<hr />
+									<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+									<hr />
+									<p><a href="https://facebook.com/torproject"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://twitter.com/torproject">&nbsp;<img alt="tor-twitter" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" /></a><a href="https://instagram.com/torproject">&nbsp;<img alt="tor-insta" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a><a href="https://forum.torproject.net/"><img alt="" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px 6px; width: 22px; height: 25px;" /></a></p>
+
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
