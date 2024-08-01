@@ -1,0 +1,85 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-08-01
+---
+title: A major release for Tor Browser, Vanguard support for Arti, and a Tor talk & new merch at Defcon 32
+---
+body:
+
+# Latest updates
+
+## New major release: Tor Browser 13.5
+
+Tor Browser 13.5 is here bringing some major updates for Android and Desktop: from a revamped connection experience and a permanent home for Tor logs to improved bridge settings and a letterboxing redesign. Below are some of the highlights, and for more information, check out the official announcement on the Tor blog: https://blog.torproject.org/new-release-tor-browser-135/
+
+**What's new for Android?**
+
+- New connection experience: While we await Connection Assist's arrival, we've completely overhauled Tor Browser for Android's connection screens with a new, "native" implementation, making it consistent with the desktop counterpart and its censorship circumvention experience.
+
+- A permanent home for Tor logs: Tor logs help us troubleshoot issues when they occur. We've now made it easier to share them with us: You can now easily find and copy Tor logs in the new “Connection Settings” section regardless of the connection status. We've also implemented a handy button you can use to copy all logs without needing to manually select text.
+
+**What's new for Desktop?**
+
+- "Betterboxing": We've polished letterbox to improve the UX of Tor Browser's fingerprinting protections. Find a letterboxing section in General Settings with options to remember window size and adjust alignment.
+
+- Improved bridge settings: 13.5 comes with redesigned bridge cards, easier bridge sharing, and a new section to find or request more bridges–allowing users to retrieve bridges without needing to connect to Tor first.
+
+- Simplified onion site errors: For the last few years onion site errors have appeared different from other types of network errors in Tor Browser. We've now implemented a consistent design with other network errors to avoid confusion and create a smoother browsing experience when you encounter issues in the onionverse.
+
+
+## Vanguard support for Arti
+
+We've recently announced that Arti now supports Vanguards as of version 1.2.2. This is an exciting step for Arti that gets us another step closer to bringing onion services on Arti into parity with the C tor implementation.
+
+**Why Vanguards?** Guard discovery attacks can expose your guard relays, making traffic analysis easier and potentially leading to de-anonymization. First introduced in 2018 as an add-on to v3 onion services, Vanguards add an extra layer of defense by selecting specific relays for second and third hops, significantly increasing the cost for attackers.
+
+**Who is this for?** If you're using Arti to connect to onion services or running an Arti onion service, this update is for you! Especially useful for long-running services. Vanguards are enabled by default in Arti 1.2.2 and later. Ensure you're running version 1.2.5 or newer for the best security.
+
+Find out more in the release notes: https://blog.torproject.org/announcing-vanguards-for-arti/
+
+----
+
+# Upcoming events
+
+**August 8-11, 2024: Tor @ DEF CON 32**
+Join us at DEF CON 32 – come by our booth, check out new Tor merch, and listen to our talk "Measuring the Tor network" on Saturday, August 10th at 3.00pm. Silvia Puglisi (Tor Project Network Health Lead) and Roger Dingledine (Tor Project Co-Founder and Original Developer) will discuss how Tor maintains a healthy network and community, detects and mitigates attacks–all with the help of metrics and usage patterns. For more info, visit: https://defcon.org/html/defcon-32/dc-32-speakers.html
+
+**August 16-18, 2024: 33rd Usenix Security Symposium**
+We've curated a list of papers we are especially excited about, including "Snowflake, a censorship circumvention system using temporary WebRTC proxies" by Cecylia Bocovich, Tor Project; Arlo Breault, Wikimedia Foundation; David Fifield and Serene, unaffiliated; Xiaokang Wang, Tor Project.
+
+For the full list visit: blog.torproject.org/event/usenix-security-2024
+
+**August 21-23, 2024: Open Source Summit Hong Kong**
+https://blog.torproject.org/event/Open-Source-Summit-Hong-Kong/
+
+----
+
+# Keeping up with the latest releases
+
+**July 10, 2024**
+[New Release Tor Browser 13.5.1](blog.torproject.org/new-release-tor-browser-1351/)
+
+**June 11, 2024**
+[New Alpha Release: Tor Browser 13.5a9](blog.torproject.org/new-alpha-release-tor-browser-135a9/)
+
+----
+
+# Ways to contribute
+
+- **Can you make a recurring donation?** [Set up a monthly donation](https://torproject.org/donate/donate-tn1-2023). This is the best, most impactful way to help the Tor Project budget during uncertain times.
+
+- **Can you make a one-time gift?** Make a [donation through our website by credit card or PayPal](https://torproject.org/donate/donate-tn1-2023); through the mail by cash, check, or money order; through a stock donation or bank transfer; and [many more options listed in our FAQ](https://donate.torproject.org/donor-faq/).
+
+- **Do you have a company or organization that uses Tor or believes in Tor?** [Become a member](https://torproject.org/about/membership).
+
+- **Does your company match donations made by employees?** Make a donation and file the paperwork with your organization so they match your gift. Let us know if you need help!
+
+- **Do you have cryptocurrency to give?** [We can accept donations in ten different coins](https://donate.torproject.org/cryptocurrency).
+
+- **Do you have 7 minutes to participate in our survey?** This is a priceless contribution to supporting our critical advocacy and outreach efforts. The [survey is anonymous](https://survey.torproject.org/index.php/615919) and also [available as a .onion](eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion/index.php/615919) for an added layer of security.
+
+Donate to help keep Tor fast, strong, and secure. https://torproject.org/donate/donate-tn3-2023
