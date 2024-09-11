@@ -12,7 +12,7 @@
   <div class="page bg-light">
     <div class="container-fluid">
       <div class="row flex-xl-nowrap">
-        <main role="main" class="col-sm-12 col-xs-12 ml-sm-auto col-md-9 col-lg-9 mx-auto m-5">
+        <main role="main" class="col-sm-12 col-xs-12 ml-sm-auto col-md-9 col-lg-9 mx-auto m-5 {{ 'pb-0' if this._template == 'intro.html' }}">
           {% block body %}{% endblock %}
         </main>
       </div>
