@@ -1,0 +1,70 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-10-28
+---
+title: A new browser, donations up to 300k matched 1:1 and State of the Onion 2024
+---
+body:
+
+# All donations to the Tor Project matched 1:1, now through Dec 31
+
+Each year, the Tor Project holds a fundraiser during which we ask for financial support. Donations make it possible for the Tor Project to build tools powered by people---not profit. Now is a great time to give and spread the word about the Tor Project [because through the end of the year, all donations will be matched](https://donate.torproject.org/) by our supporters at [Power Up Privacy.](https://powerupprivacy.com/)
+
+**That means when you donate $25, you're making a $50 impact. Plus, we've introduced a brand-new item to our list of gifts you can receive in return for making a donation. 👀**
+
+# New Release: Tor Browser 14.0
+
+[Tor Browser 14.0 is now available](https://blog.torproject.org/new-release-tor-browser-140/) from the Tor Browser download page and our distribution directory. The new release features a new 'New Circuit' option for Android, designed, to refresh your connection and legacy platforms support until March 2025.
+
+This is our first stable release based on Firefox ESR 128, incorporating a year's worth of changes shipped upstream in Firefox. As part of this process we've also completed our annual ESR transition audit, where we [reviewed and addressed over 200 Bugzilla issues](https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/?sort=updated_desc&state=all&search=Review%20Mozilla&label_name%5B%5D=14.0%20stable&first_page_size=20) for changes in Firefox that may negatively affect the privacy and security of Tor Browser users. Our final reports from this audit are now available in the [tor-browser-spec repository](https://gitlab.torproject.org/tpo/applications/tor-browser-spec/-/tree/main/audits) on our Gitlab instance.
+
+----
+
+# Upcoming events
+
+## State of the Onion 2024, November 2024
+
+The State of the Onion is the Tor Project's annual virtual event from the Tor Project and the Tor community where we share updates about what have been working on. 📺 Stream live on [our YouTube channel](https://www.youtube.com/@TheTorProject)
+
+- **November 13 will focus on the Tor Project and the organization's work.**
+- **November 20 will focus on organizations in the Tor community and their work.**
+
+## Devcon 2024, November 12, 2024 -- November 15, 2024
+
+Devcon is the Ethereum conference for developers, thinkers, and makers. Devcon's mission is to bring decentralized protocols, tools, and culture to the people and make Ethereum more accessible around the world.
+
+**Roger Dingledine (Co-founder of the Tor Project) is a featured speaker at the event: ["Discussing lessons from the Tor community and privacy-by-design."](https://devcon.org/en/programming/)**
+
+## No cON Name 2024 -- November 18, 2024
+
+No cON Name is the oldest active hacking and IT security conference in Spain. Established in 1999, the first edition took place in Mallorca, and the event now continues in Barcelona. We are a non-profit association. Our events are open to anyone eager to share knowledge and engage with our vision of Hacking and IT Security (aka Cybersecurity).
+
+**meskio from Tor'S Anti-censorship Team will be attending and [speaking at the event.](http://https://www.noconname.org/)**
+
+## Human Rights Day, December 10, 2024
+
+Every year on December 10, we celebrate the UN's adoption and proclamation of the Universal Declaration of Human Rights (UDHR) in 1948. The UDHR outlines privacy as one of the human rights everyone should be free to exercise.
+
+📎 Keep an eye on the [blog](https://blog.torproject.org/) and newsletter for event updates.
+
+# Event replay
+
+## Distribute(d) Trust -- The key to global encryption access
+
+For many vulnerable Internet users, the Tor network is the only way to gain access to encrypted services. It's made possible by relay operators, the thousands of volunteers who donate their time, technical expertise, and hardware.
+
+For a deeper look at the motivations and challenges of this community, we spoke with two researchers, Ana Custura and Victoria Neumann, who shared findings from their recent study on the [Relay Operator Community Health.](https://www.sr2.uk/reports/2024-TorRelayOperatorCommunityHealth.pdf) And Gus, Tor's Community Team lead, hosted a roundtable discussion with individual and institutional relay operators to learn more about the ins and outs of powering a safer, more equitable internet.
+
+The virtual live event was part of Tor's contributions to Global Encryption Day. 📺 Watch the event replay on [YouTube](https://www.youtube.com/live/r-wgsjyQlLs)
+
+----
+
+# Keeping up with the latest releases
+
+- **[New Release: Tails 6.8.1](https://blog.torproject.org/new-release-tails-6-8-1/) -- October 10, 2024**
+
+- **[Arti 1.2.8 is released: onion services, RPC, and more](https://blog.torproject.org/arti_1_2_8_released/) -- September 30, 2024**

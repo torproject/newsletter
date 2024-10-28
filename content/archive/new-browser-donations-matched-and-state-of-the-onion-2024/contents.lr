@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-10-28
+---
+title: A new browser, donations up to 300k matched 1:1 and State of the Onion 2024
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<hr />
+						<h1>All donations to the Tor Project matched 1:1, now through Dec 31</h1>
+
+						<p><img alt="Light grey background with black text reading &quot;All donations will be matched, up to $300,000.&quot;" src="https://newsletter.torproject.org/gallery/2024-10/donations-match.png" style="width: 675px; height: 380px;" /></p>
+
+						<p>Each year, the Tor Project holds a fundraiser during which we ask for financial support. Donations make it possible for the Tor Project to build tools powered by people&mdash;not profit. Now is a great time to give and spread the word about the Tor Project <a href="https://torproject.org/donate/donate-tn1-2023">because through the end of the year, all donations will be matched</a> by our supporters at <a href="https://powerupprivacy.com/">Power Up Privacy.</a></p>
+
+						<p><strong>That means when you donate $25, you&rsquo;re making a $50 impact. Plus, we&rsquo;ve introduced a brand-new item to our list of gifts you can receive in return for making a donation. 👀</strong></p>
+
+						<p><img alt="Purple gradient background with illustration of a desktop computer. the screen reads: &lt;/&gt;" src="https://newsletter.torproject.org/gallery/2024-10/hat.png" style="width: 675px; height: 380px;" /></p>
+
+						<h1>New Release: Tor Browser 14.0</h1>
+
+						<p><img alt="White lettering 14.0 on purple background with darker purple abstract shapes" src="https://newsletter.torproject.org/gallery/2024-10/tor-browser-14.png" style="width: 675px; height: 380px;" /></p>
+
+						<p><a href="https://blog.torproject.org/new-release-tor-browser-140/">Tor Browser 14.0 is now available</a> from the Tor Browser download page and our distribution directory. The new release features a new &#39;New Circuit&#39; option for Android, designed to refresh your connection, and legacy platform support until March 2025.</p>
+
+						<p>This is our first stable release based on Firefox ESR 128, incorporating a year&#39;s worth of changes shipped upstream in Firefox. As part of this process we&#39;ve also completed our annual ESR transition audit, where we <a href="https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/?sort=updated_desc&amp;state=all&amp;search=Review%20Mozilla&amp;label_name%5B%5D=14.0%20stable&amp;first_page_size=20">reviewed and addressed over 200 Bugzilla issues</a> for changes in Firefox that may negatively affect the privacy and security of Tor Browser users. Our final reports from this audit are now available in the <a href="https://gitlab.torproject.org/tpo/applications/tor-browser-spec/-/tree/main/audits">tor-browser-spec repository</a> on our Gitlab instance.</p>
+
+						<hr />
+						<h1 class="title">Upcoming events</h1>
+
+						<h2>State of the Onion 2024, November 2024</h2>
+
+						<p>The State of the Onion is the Tor Project&#39;s annual virtual event from the Tor Project and the Tor community where we share what we&#39;ve been working on all year. 📺 Stream live on <a href="https://www.youtube.com/@TheTorProject">our YouTube channel</a></p>
+
+						<ul>
+							<li><strong>November 13 will focus on the Tor Project and the organization&rsquo;s work.</strong></li>
+							<li><strong>November 20 will focus on organizations in the Tor community and their work.</strong></li>
+						</ul>
+
+						<h2>Devcon 2024, November 12, 2024 &ndash; November 15, 2024</h2>
+
+						<p>Devcon is the Ethereum conference for developers, thinkers, and makers. Devcon&#39;s mission is to bring decentralized protocols, tools, and culture to the people and make Ethereum more accessible around the world.</p>
+
+						<p><strong>Roger Dingledine (Co-founder of the Tor Project) is a featured speaker at the event: <a href="https://devcon.org/en/programming/">&quot;Discussing lessons from the Tor community and privacy-by-design.&quot;</a></strong></p>
+
+						<h2>No cON Name 2024 &ndash; November 18, 2024</h2>
+
+						<p>No cON Name is the oldest active hacking and IT security conference in Spain. Established in 1999, the first edition took place in Mallorca, and the event now continues in Barcelona. We are a non-profit association. Our events are open to anyone eager to share knowledge and engage with our vision of Hacking and IT Security (aka Cybersecurity).</p>
+
+						<p><strong>meskio from Tor&#39;S Anti-censorship Team will be attending and <a href="http://https://www.noconname.org/">speaking at the event.</a></strong></p>
+
+						<h2>Human Rights Day, December 10, 2024</h2>
+
+						<p>Every year on December 10, we celebrate the UN&rsquo;s adoption and proclamation of the Universal Declaration of Human Rights (UDHR) in 1948. The UDHR outlines privacy as one of the human rights everyone should be free to exercise.</p>
+
+						<p><strong>📎 Keep an eye on the <a href="https://blog.torproject.org/">blog</a> and newsletter for event updates.</strong></p>
+
+						<h1>Event replay</h1>
+
+						<h2>Distribute(d) Trust &ndash; The key to global encryption access</h2>
+
+						<p>For many vulnerable Internet users, the Tor network is the only way to gain access to encrypted services. It&#39;s made possible by relay operators, the thousands of volunteers who donate their time, technical expertise, and hardware.</p>
+
+						<p>For a deeper look at the motivations and challenges of this community, we spoke with two researchers, Ana Custura and Victoria Neumann, who shared findings from their recent study on the <a href="https://www.sr2.uk/reports/2024-TorRelayOperatorCommunityHealth.pdf">Relay Operator Community Health.</a> And Gus, Tor&#39;s Community Team lead, hosted a roundtable discussion with individual and institutional relay operators to learn more about the ins and outs of powering a safer, more equitable internet.</p>
+
+						<p>The virtual live event was part of Tor&#39;s contributions to <a href="https://www.globalencryption.org/2024/07/global-encryption-day-2024/">Global Encryption Day</a>. 📺 Watch the event replay on <a href="https://www.youtube.com/live/r-wgsjyQlLs">YouTube</a></p>
+
+						<hr />
+						<h1>Keeping up with the latest releases</h1>
+
+						<p><strong><a href="https://blog.torproject.org/new-release-tails-6-8-1/">New Release: Tails 6.8.1</a> &ndash; October 10, 2024</strong><br />
+						<br />
+						<strong><a href="https://blog.torproject.org/arti_1_2_8_released/">Arti 1.2.8 is released: onion services, RPC, and more</a> &ndash; September 30, 2024</strong></p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1>Ways to contribute</h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://donate.torproject.org/">website</a> (or any other method listed on our <a href="https://donate.torproject.org/faq/">FAQ</a>) and your donation will be matched, 1:1, up to $300,000.</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/@torproject">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org">Bluesky</a>, <a href="https://x.com/torproject">X</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://newsletter.torproject.org/">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://facebook.com/torproject"><img alt="" class="social-icon social-icon--facebook" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" width="22" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://twitter.com/torproject"><img alt="tor-twitter" class="social-icon social-icon--twitter" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" width="25" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://instagram.com/torproject"><img alt="tor-insta" class="social-icon social-icon--instagram" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" width="22" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://forum.torproject.net/"><img alt="" class="social-icon social-icon--discourse" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" width="22" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table height="15" style="height: 15px;">
+				<tbody>
+					<tr>
+						<td height="15" style="height: 15px;">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
