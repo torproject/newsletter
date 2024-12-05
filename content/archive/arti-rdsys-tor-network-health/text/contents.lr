@@ -1,0 +1,85 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-12-05
+---
+title: Arti, Rdsys, Tor network health
+---
+body:
+
+# Tackling abuse complaints, defending the Tor network
+
+At the end of October, the Tor Project and relay operators received abuse complaints regarding alleged port scanning activity from their servers. Thanks to a collaborative effort, the source of the spoofed packets has been identified and shut down. While the attack had a limited impact on the Tor network - taking a few relays offline temporarily - it caused unnecessary stress and inconvenience for many relay operators who had to address these complaints. We want to acknowledge the effect this had on operators, and express our gratitude for their resilience, ability to troubleshoot, collaborate, and continue to support Tor's response to this issue.
+
+https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/
+
+# Making new connections: from BridgeDB to Rdsys
+
+Meanwhile, we were excited to fully transition Tor's bridge distribution to Rdsys, replacing BridgeDB. Unlike its predecessor, Rdsys is built as a modular system, dividing responsibilities into separate components--such as distribution logic and communication methods (e.g., email, Telegram)--that work together seamlessly. This architecture lets us experiment with new anti-censorship tools, different distribution channels, and mechanisms to more easily adapt to emerging threats without overhauling the entire system. The best part: it allowed us to get rid of pesky captchas.
+
+Find out more about the benefits of Rdsys and the lessons learned from over 15 years of anti-censorship work.
+https://blog.torproject.org/making-connections-from-bridgedb-to-rdsys/
+
+# Calling all bridge operators--and those aspiring to be!
+
+As the Russian government intensifies its grip on the internet, Tor's censorship circumvention tools are more critical than ever. This latest wave includes attempts to block Tor bridges and pluggable transports developed by the Tor Project, removal of other circumvention apps from stores, and targeting popular hosting providers, shrinking the space for bypassing censorship.
+
+Thankfully, Tor's new bridge type, Webtunnel, is particularly effective at evading these kinds of attacks. Its design blends itself into other web traffic, allowing a user to hide in plain sight. Since its launch in March of 2024, we've prioritized small download sizes for more convenient distribution. We've also simplified support of uTLS integration, further mimicking the characteristics of widespread browsers.
+
+Our goal is to deploy 200 new WebTunnel bridges by the end of this December to open secure access for Internet users.
+If you've ever thought about running a Tor bridge, now is the time! Learn more about how to run WebTunnel bridges here: https://blog.torproject.org/call-for-webtunnel-bridges/
+
+But there are other ways to...
+
+# Get involved
+
+When you support Tor, you support folks like Singh, a woman living in the UK who values her privacy and uses Tor Browser to control her online identity. Singh is not a tech expert, but she understands the importance of protecting her personal data in today's digital world. Using Tor Browser allows her to browse the web without leaving a trail for her Internet Service Provider (ISP) or advertisers to follow. Singh relies on Tor to avoid mass surveillance, giving her peace of mind and control over who has access to her online activity.
+
+If you're anything like Singh, and you understand the importance of privacy without getting into the minutiae of setting up your own operating system or writing code, you can support folks like her with a donation of as little as $2.00 USD.
+
+**If everyone in our community gave $2.00, we would hit our goal in a few hours.** https://blog.torproject.org/freedom-to-browse/
+
+----
+
+# Keeping up with the latest releases
+
+Arti now has a built-in safeguard to control how much memory it uses. This matters to folks running an Onion Service. The feature gives you better control and protection for your system while also reducing the chances of your service being used in deanonymization attacks. It's also an important milestone as we are working on improving the mobile experience of Tor. Learn all about it here: https://blog.torproject.org/arti_1_3_0_memquota/
+
+**[Arti 1.3.1 is released: onion services, RPC, relay development, and more](https://blog.torproject.org/arti_1_3_1_released/)** -- **December 3, 2024**
+
+**[New Release: Tails 6.10](https://blog.torproject.org/new-release-tails-6-10/) -- November 28, 2024**
+
+**[New Alpha Release: Tor Browser 14.5a1](https://blog.torproject.org/new-alpha-release-tor-browser-145a1/) -- November 26, 2024**
+
+**[New Release: Tor Browser 14.0.3](https://blog.torproject.org/new-release-tor-browser-1403/) -- November 26, 2024**
+
+----
+
+# Upcoming events
+
+## December 7, 2024 - Tor relay operator meetup
+
+Our next online meetup is happening on Saturday, December 7th, 2024 at 1900 UTC
+
+We're happy to announce that we'll have a special guest, Ben Collier, joining us to discuss his new book: ["Tor: From the Dark Web to the Future of Privacy" 8 (2024).](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy)
+
+For details on the agenda and how to join the meeting, please visit our forum: https://forum.torproject.org/t/tor-relays-next-tor-relay-operator-meetup-december-7th-2024-1900-utc/16043.
+
+## December 9, 2024 -- December 11, 2024 -- SplinterCon
+
+Join us in Berlin on December 9-11, as we partner with the German Council on Foreign Relations to bring together a global network of innovators ready to challenge the increasing fragmentation of our digital society. We invite participants from around the world to contribute their knowledge, experience and skill to counter the growing trend of digital isolation, where national boundaries and corporate platforms restrict open communication.
+
+The thematic focus of SplinterCon is on decentralized protocols and technologies, wireless connectivity solutions and innovative approaches to bypassing censorship systems.
+
+Members of the Tor Project's Anti-censorship team will be in attendance: https://splintercon.net/berlin/
+
+## December 27, 2024 -- December 30, 2024 -- 38c3 (The 38th Chaos Communication Congress)
+
+The 38th Chaos Communication Congress (38C3) takes place in Hamburg on 27--30 Dec 2024, and is the 2024 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers.
+
+Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society.
+
+Members of the Tor Project's Network, Network Health and Anti-censorship teams will be in attendance and speaking at the event: https://events.ccc.de/en/category/38c3/

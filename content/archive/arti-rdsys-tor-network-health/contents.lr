@@ -1,0 +1,175 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2024-12-05
+---
+title: Arti, Rdsys, Tor network health
+---
+html_body:
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+		<tr>
+		<td align="center" valign="top" width="711">
+		<![endif]-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://torproject.org"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<hr />
+						<p>December is a time of reflection, a time to remember that everyone, everywhere has the right to speak, browse and search with freedom and with privacy. In this month&rsquo;s newsletter, we&rsquo;re applauding the resilience of Tor&#39;s relay operators, celebrating the transition to a new bridge distribution system named Rdsys, and calling on existing and aspiring bridge operators to help counter censorship efforts. You&rsquo;ll also find out more about Arti&rsquo;s new safeguards that set up Tor for the future.</p>
+
+						<p><a href="https://torproject.org/donate/donate-tn2-yec2024">This is your reminder of how small acts of support can make a big impact for privacy-focused individuals worldwide!</a></p>
+
+						<p><img alt="Text: You have a right to browse with a an illustration of a snooping eye that's covered by the rings of the Tor Browser" src="https://newsletter.torproject.org/gallery/2024-yec/yec-browse-social_2x.png" style="width: 676px; height: 380px;" /></p>
+
+						<h1>Tackling abuse complaints, defending the Tor network</h1>
+
+						<p>At the end of October, <a href="https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/">the Tor Project and relay operators received abuse complaints regarding alleged port scanning activity from their servers.</a> Thanks to a collaborative effort, the source of the spoofed packets has been identified and shut down. While the attack had a limited impact on the Tor network - taking a few relays offline temporarily - it caused unnecessary stress and inconvenience for many relay operators who had to address these complaints. We want to acknowledge the effect this had on operators, and express our gratitude for their resilience, ability to troubleshoot, collaborate, and continue to support Tor&#39;s response to this issue.</p>
+
+						<h1>Making new connections: from BridgeDB to Rdsys</h1>
+
+						<p>Meanwhile, we were excited to fully transition Tor&#39;s bridge distribution to Rdsys, replacing BridgeDB. Unlike its predecessor, Rdsys is built as a modular system, dividing responsibilities into separate components&ndash;such as distribution logic and communication methods (e.g., email, Telegram)&ndash;that work together seamlessly. This architecture lets us experiment with new anti-censorship tools, different distribution channels, and mechanisms to more easily adapt to emerging threats without overhauling the entire system. The best part: it allowed us to get rid of pesky captchas.</p>
+
+						<p><a href="https://blog.torproject.org/making-connections-from-bridgedb-to-rdsys/">Find out more about the benefits of Rdsys and the lessons learned from over 15 years of anti-censorship work.</a></p>
+
+						<h1>Calling all bridge operators&ndash;and those aspiring to be!</h1>
+
+						<p>As the Russian government intensifies its grip on the internet, Tor&#39;s censorship circumvention tools are more critical than ever. This latest wave includes attempts to block Tor bridges and pluggable transports developed by the Tor Project, removal of other circumvention apps from stores, and targeting popular hosting providers, shrinking the space for bypassing censorship.</p>
+
+						<p>Thankfully, Tor&#39;s new bridge type, <a href="https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/">Webtunnel</a>, is particularly effective at evading these kinds of attacks. Its design blends itself into other web traffic, allowing a user to hide in plain sight. Since its launch in March of 2024, we&#39;ve prioritized small download sizes for more convenient distribution. We&#39;ve also simplified support of uTLS integration, further mimicking the characteristics of widespread browsers.</p>
+
+						<p>If you&#39;ve ever thought about running a Tor bridge, now is the time! <a href="https://blog.torproject.org/call-for-webtunnel-bridges/">Learn more about how to run WebTunnel bridges here. </a><strong>Our goal is to deploy 200 new WebTunnel bridges by the end of this December to open secure access for Internet users.</strong></p>
+
+						<p>But there are other ways to&hellip;</p>
+
+						<h1>Get involved</h1>
+
+						<p><img alt="A progress bar indicating the goal of 300k USD headlined by the word &quot;loading.&quot; The progress is stopped just shy of the middle." src="https://newsletter.torproject.org/gallery/2024-yec/yec-loading-match.png" style="width: 676px; height: 380px;" /></p>
+
+						<p><a href="https://torproject.org/donate/donate-tn2-yec2024">When you support Tor</a>, you support folks like Singh, a woman living in the UK who values her privacy and uses Tor Browser to control her online identity. <a href="https://blog.torproject.org/freedom-to-browse/">Singh is not a tech expert, but she understands the importance of protecting her personal data in today&#39;s digital world. </a>Using Tor Browser allows her to browse the web without leaving a trail for her Internet Service Provider (ISP) or advertisers to follow. Singh relies on Tor to avoid mass surveillance, giving her peace of mind and control over who has access to her online activity.</p>
+
+						<p>If you&#39;re anything like Singh, and you understand the importance of privacy without getting into the minutiae of setting up your own operating system or writing code, <a href="http://torproject.org/donate/donate-tn2-yec2024">you can support folks like her with a donation of as little as $2.00 USD.</a> <strong>If everyone in our community gave $2.00, we would hit our goal in a few hours.</strong></p>
+
+						<hr />
+						<h1>Keeping up with the latest releases</h1>
+
+						<p>Arti now has a built-in safeguard to control how much memory it uses. This matters to folks running an Onion Service. The feature gives you better control and protection for your system while also reducing the chances of your service being used in deanonymization attacks. It&rsquo;s also an important milestone as we are working on improving the mobile experience of Tor. <a href="https://blog.torproject.org/arti_1_3_0_memquota/">Learn all about it here.</a></p>
+
+						<p><strong><a href="https://blog.torproject.org/arti_1_3_1_released/">Arti 1.3.1 is released: onion services, RPC, relay development, and more</a></strong> &ndash; <strong>December 3, 2024</strong></p>
+
+						<p><strong><a href="https://blog.torproject.org/new-release-tails-6-10/">New Release: Tails 6.10</a> &ndash; November 28, 2024</strong></p>
+
+						<p><strong><a href="https://blog.torproject.org/new-alpha-release-tor-browser-145a1/">New Alpha Release: Tor Browser 14.5a1</a> &ndash; November 26, 2024</strong></p>
+
+						<p><strong><a href="https://blog.torproject.org/new-release-tor-browser-1403/">New Release: Tor Browser 14.0.3</a> &ndash; November 26, 2024</strong></p>
+
+						<hr />
+						<h1 class="title">Upcoming events</h1>
+
+						<h2>December 7, 2024 - Tor relay operator meetup</h2>
+
+						<p>Our next online meetup is happening on Saturday, December 7th, 2024 at 1900 UTC</p>
+
+						<p>We&#39;re happy to announce that we&#39;ll have a special guest, Ben Collier, joining us to discuss his new book: <a href="https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy">&ldquo;Tor: From the Dark Web to the Future of Privacy&rdquo; 8 (2024).</a></p>
+
+						<p>For details on the agenda and how to join the meeting, <a href="https://forum.torproject.org/t/tor-relays-next-tor-relay-operator-meetup-december-7th-2024-1900-utc/16043">please visit our forum</a>.</p>
+
+						<h2>December 9, 2024 &ndash; December 11, 2024 &ndash; SplinterCon</h2>
+
+						<p>Join us in Berlin on December 9-11, as we partner with the German Council on Foreign Relations to bring together a global network of innovators ready to challenge the increasing fragmentation of our digital society. We invite participants from around the world to contribute their knowledge, experience and skill to counter the growing trend of digital isolation, where national boundaries and corporate platforms restrict open communication.</p>
+
+						<p>Our thematic focus is on decentralized protocols and technologies, wireless connectivity solutions and innovative approaches to bypassing censorship systems.</p>
+
+						<p><a href="https://splintercon.net/berlin/">Members of the Tor Project&#39;s Anti-censorship team will be in attendance.</a></p>
+
+						<h2>December 27, 2024 &ndash; December 30, 2024 &ndash; 38c3 (The 38th Chaos Communication Congress)</h2>
+
+						<p>The 38th Chaos Communication Congress (38C3) takes place in Hamburg on 27&ndash;30 Dec 2024, and is the 2024 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers.</p>
+
+						<p>Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society.</p>
+
+						<p><a href="https://events.ccc.de/en/category/38c3/">Members of the Tor Project&#39;s Network, Network Health and Anti-censorship teams will be in attendance and speaking at the event.</a></p>
+
+						<hr />
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://donate.torproject.org" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1>Ways to contribute</h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://donate.torproject.org/">website</a> (or any other method listed on our <a href="https://donate.torproject.org/faq/">FAQ</a>) and your donation will be matched, 1:1, up to $300,000.</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/@torproject">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org">Bluesky</a>, <a href="https://x.com/torproject">X</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://newsletter.torproject.org/">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://facebook.com/torproject"><img alt="" class="social-icon social-icon--facebook" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/facebook.png" style="width: 22px; height: 25px; margin: 3px;" width="22" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://twitter.com/torproject"><img alt="tor-twitter" class="social-icon social-icon--twitter" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/twitter.png" style="width: 25px; height: 25px; margin: 3px;" width="25" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://instagram.com/torproject"><img alt="tor-insta" class="social-icon social-icon--instagram" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" width="22" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://forum.torproject.net/"><img alt="" class="social-icon social-icon--discourse" height="25" src="https://blog.torproject.org/sites/default/files/inline-images/discourse.png" style="margin: 3px; width: 22px; height: 25px;" width="22" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table height="15" style="height: 15px;">
+				<tbody>
+					<tr>
+						<td height="15" style="height: 15px;">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
