@@ -1,0 +1,187 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-03-03
+---
+title: March 2025 newsletter
+---
+html_body:
+<table bgcolor="#7d4698" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+	<tbody>
+		<tr>
+			<td><!--[if mso]>
+						<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+						<tr>
+						<td align="center" valign="top" width="711">
+						<![endif]-->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" height="18" style="max-width: 711px;" width="100%">
+				<tbody>
+					<tr>
+						<td width="100%">
+						<div><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">Results of the year-end fundraiser, Rsdys 1.0, Snowflake website refresh and more</span><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">|</span><a href="https://newsletter.torproject.org/archive/2024-12-05-arti-rdsys-tor-network-health/" rel="nofollow"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">View this email in your browser</span></a></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!--[if mso]>
+						</td>
+						</tr>
+						</table>
+						<![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+<!-- End of main-banner--><!-- Start of body --><!--[if mso]>
+		<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+		<tr>
+		<td align="center" valign="top" width="711">
+		<![endif]-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=761&amp;qid=13483092" rel="nofollow"><img alt="tor-news-logo" height="75px" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" width="250px" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<hr />
+						<h1>We met our match</h1>
+
+						<p><span style="white-space: pre-wrap;">T</span><img alt="Thank you text on black background with a purple rainbow" src="https://newsletter.torproject.org/gallery/2025-03/yec-campaign-match-unlocked.png" style="width: 178px; height: 100px; margin-left: 10px; margin-right: 10px; float: left;" /><span style="white-space: pre-wrap;">he results of the 2024 year-end fundraising campaign are in, and you did it, Tor community! You have successfully met and exceeded the 2024 year-end fundraising goal, raising $816,141.70 with the support of </span><a class="Lexical__link" href="https://powerupprivacy.com/" rel="noreferrer"><span style="white-space: pre-wrap;">Power Up Privacy</span></a><span style="white-space: pre-wrap;">&rsquo;s $300,000 matching challenge. We want to extend a heartfelt thank you to everyone who contributed to the campaign in one way or another. </span></p>
+
+						<p><span style="white-space: pre-wrap;">This strengthens the Tor Project&rsquo;s financial stability, ensuring the continued development of privacy-preserving tools like the Tor network, Tor Browser, Tails, and Snowflake. </span><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">In 2025, the Tor Project will continue to focus on improving user experience, expanding integrations, supporting relay operators and digital security trainers, </strong></b><a class="Lexical__link" href="https://blog.torproject.org/celebrating-2024-yec/" rel="noreferrer"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">and advancing internet freedom in our commitment to defending Human Rights worldwide.</strong></b></a></p>
+
+						<h1>A new coat for Snowflake</h1>
+
+						<p><img alt="A screenshot of the revamped Snowflake website on a purple-blue gradient background" src="https://newsletter.torproject.org/gallery/2025-03/snowflake-revamp.png" style="width: 675px; height: 378px; margin-top: 10px; margin-bottom: 10px;" /><span style="white-space: pre-wrap;">Extending a lifeline to blocked internet users can be as simple as opening another browser tab&ndash;with Snowflake. To match the straightforward usability of one of Tor&#39;s most successful anti-censorship tools, we&#39;ve given the&nbsp;</span><a class="Lexical__link" href="https://snowflake.torproject.org/"><span style="white-space: pre-wrap;">Snowflake website</span></a><span style="white-space: pre-wrap;">&nbsp;a much-needed refresh to make it clearer, more accessible, and easier to navigate. The revamp was supported by the </span><a class="Lexical__link" href="https://community.torproject.org/gsoc/" rel="noreferrer"><span style="white-space: pre-wrap;">Google Summer of Code (GSoC)</span></a><span style="white-space: pre-wrap;"> mentorship program. </span><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Read our </strong></b><a class="Lexical__link" href="https://blog.torproject.org/snowflake-refresh-to-help-more-people-get-online/" rel="noreferrer"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">interview with mentee Ashish Soni</strong></b></a><b><strong class="Lexical__textBold" style="white-space: pre-wrap;"> and </strong></b><a class="Lexical__link" href="https://gitlab.torproject.org/tpo/team/-/wikis/GSoC" rel="noreferrer"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">check out Tor&#39;s projects for GSoC 2025.</strong></b></a><b><strong class="Lexical__textBold" style="white-space: pre-wrap;"> Interested contributors will be </strong></b><a class="Lexical__link" href="https://opensource.googleblog.com/2025/02/meet-mentoring-organizations-of-gsoc.html" rel="noreferrer"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">able to apply to GSoC from March 24th to April 8th.</strong></b></a></p>
+
+						<p>&nbsp;</p>
+
+						<hr />
+						<h1>Keeping up with the latest releases</h1>
+
+						<h3><img alt="illustration of onions dancing on a bridge" src="https://newsletter.torproject.org/gallery/2025-03/rdsys-1.0.png" style="width: 675px; height: 225px;" /></h3>
+
+						<h2><strong><span style="white-space: pre-wrap;">New release: Rdsys 1.0</span></strong></h2>
+
+						<p><span style="white-space: pre-wrap;">After years of development, we are officially releasing Rdsys 1.0. Although Rdsys has already been the sole mechanism for distributing bridges since it replaced BridgeDB last October, this version 1.0 milestone officially marks its new status. We now consider Rdsys stable, but our work is far from finished. We are committed to improving Rdsys and fixing issues as they arise, and to adapting quickly to censors&#39; evolving tactics. </span><a href="https://blog.torproject.org/new-release-rdsys-1-0/"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Access the full changelog here.</strong></b></a></p>
+
+						<p class="Lexical__listItem"><strong><a class="Lexical__link" href="https://blog.torproject.org/new-alpha-release-tor-browser-145a3/" rel="noreferrer"><span style="white-space: pre-wrap;">New Alpha Release: Tor Browser 14.5a3</span></a></strong><span style="white-space: pre-wrap;"><strong>,</strong> February 11, 2025</span></p>
+
+						<p class="Lexical__listItem"><strong><a class="Lexical__link" href="https://blog.torproject.org/arti_1_4_0_released/" rel="noreferrer"><span style="white-space: pre-wrap;">Arti 1.4.0 is released: onion services</span></a></strong><span style="white-space: pre-wrap;"><strong>,</strong> RPC, relay development, and more, February 7, 2025</span></p>
+
+						<p class="Lexical__listItem"><strong><a class="Lexical__link" href="https://blog.torproject.org/new-release-tor-browser-1406/" rel="noreferrer"><span style="white-space: pre-wrap;">New Release: Tor Browser 14.0.6</span></a></strong><span style="white-space: pre-wrap;"><strong>, </strong>February 7, 2025</span></p>
+
+						<p class="Lexical__listItem"><strong><a class="Lexical__link" href="https://blog.torproject.org/new-release-tails-6-12/" rel="noreferrer"><span style="white-space: pre-wrap;">New Release: Tails 6.12</span></a></strong><span style="white-space: pre-wrap;"><strong>, </strong>February 6, 2025</span></p>
+
+						<hr />
+						<h1 class="title">Upcoming events</h1>
+
+						<h3 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">FOSSASIA Summit 2025, </strong></b><span style="white-space: pre-wrap;">March 13, 2025 &ndash; March 15, 2025</span></h3>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">The FOSSASIA Summit brings together a global community of developers, innovators, enterprises, and educators. The 2025 edition, set to take place in Bangkok, will be a 3-day hybrid event offering both in-person and online experiences.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">Roger Dingledine, Co-Founder of The Tor Project, will speak at the event and host an AMA session.</span></p>
+
+						<ul>
+							<li class="Lexical__paragraph"><span style="white-space: pre-wrap;">Talk: </span><a class="Lexical__link" href="https://eventyay.com/e/4c0e0c27/session/9549" rel="noreferrer"><span style="white-space: pre-wrap;">Tor: privacy for everyone</span></a></li>
+							<li class="Lexical__paragraph"><span style="white-space: pre-wrap;">AMA: </span><a class="Lexical__link" href="https://eventyay.com/e/4c0e0c27/session/9550" rel="noreferrer"><span style="white-space: pre-wrap;">Insights from the Tor Project</span></a></li>
+						</ul>
+
+						<h3 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Cloudfest, </strong></b><span style="white-space: pre-wrap;">March 17, 2025 &ndash; March 20, 2025</span></h3>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">Connect with the largest community of internet infrastructure service providers in the world! Over 8,700 technology leaders will be waiting for you at Europa-Park in Rust, Germany!</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">Roger Dingledine, Co-Founder of The Tor Project, </span><a class="Lexical__link" href="https://www.cloudfest.com/agenda" rel="noreferrer"><span style="white-space: pre-wrap;">will deliver a keynote address.</span></a></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">In the meantime, if you want to hear from Roger virtually, check out his interview during last week&#39;s RightsCon on the </strong></b><a class="Lexical__link" href="https://open.spotify.com/episode/0TXIWIvSPtvYRlVlJ10tAV?si=4t-M8v1GQAiEgtuOhQD-hA" rel="noreferrer"><i><b><strong class="Lexical__textBold Lexical__textItalic" style="white-space: pre-wrap;">This Week in Cyberspace </strong></b></i><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">podcast.</strong></b></a><b><strong class="Lexical__textBold" style="white-space: pre-wrap;"> And while you&#39;re at it, listen to our interview with <a href="https://www.youtube.com/watch?v=GSL0J0QTh_s&amp;list=PLmHsDjKV-GjgsZCfCW-3EKIQPI4HFVZZf"><em>Progress Reimagined.</em></a></strong></b></p>
+
+						<p>&nbsp;</p>
+
+						<hr />
+						<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+						<p class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><span style="white-space: pre-wrap;">Earlier this year, Tor&#39;s X (Twitter) account got compromised. This has rightfully sparked larger debates about our future on that platform and how we want to continue to engage with folks on social. We have decided to focus more of our attention on other platforms. If you don&#39;t already</span><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;"> </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a><span style="white-space: pre-wrap;">, please do so. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. And the Tor Blog and newsletter are still the most reliable source of Tor news. So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=775&amp;qid=13483092" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1>Ways to contribute</h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=762&amp;qid=13483092" rel="nofollow">website</a> (or any other method listed on our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=776&amp;qid=13483092" rel="nofollow">FAQ</a>).</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=777&amp;qid=13483092" rel="nofollow">Mastodon</a>, <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=778&amp;qid=13483092" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=780&amp;qid=13483092" rel="nofollow">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0" height="70" width="139">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table height="15" style="height: 15px;">
+				<tbody>
+					<tr>
+						<td height="15" style="height: 15px;">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
