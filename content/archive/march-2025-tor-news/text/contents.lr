@@ -9,8 +9,6 @@ pub_date: 2025-03-03
 title: March 2025 Tor News
 ---
 body:
-View this email in your browser: https://newsletter.torproject.org/archive/2025-03-03-march-2025-tor-news/
-----
 # We met our match
 
 The results of the 2024 year-end fundraising campaign are in, and you did it, Tor community! You have successfully met and exceeded the 2024 year-end fundraising goal, raising $816,141.70 with the support of Power Up Privacy's [1] $300,000 matching challenge. We want to extend a heartfelt thank you to everyone who contributed to the campaign in one way or another. This strengthens the Tor Project's financial stability, ensuring the continued development of privacy-preserving tools like the Tor network, Tor Browser, Tails, and Snowflake. 
@@ -28,6 +26,7 @@ Read our interview with mentee Ashish Soni and check out Tor's projects for GSoC
 Interested contributors will be able to apply to GSoC from March 24th to April 8th: https://opensource.googleblog.com/2025/02/meet-mentoring-organizations-of-gsoc.html
 
 [2] https://snowflake.torproject.org/
+
 ----
 
 # Keeping up with the latest releases
@@ -37,10 +36,10 @@ Interested contributors will be able to apply to GSoC from March 24th to April 8
 After years of development, we are officially releasing Rdsys 1.0. Although Rdsys has already been the sole mechanism for distributing bridges since it replaced BridgeDB last October, this version 1.0 milestone officially marks its new status. We now consider Rdsys stable, but our work is far from finished. We are committed to improving Rdsys and fixing issues as they arise, and to adapting quickly to censors' evolving tactics.    
 Access the full changelog here: https://blog.torproject.org/new-release-rdsys-1-0/
 
--      [New Alpha Release: Tor Browser 14.5a3](https://blog.torproject.org/new-alpha-release-tor-browser-145a3/), February 11, 2025
--      [Arti 1.4.0 is released: onion services](https://blog.torproject.org/arti_1_4_0_released/), RPC, relay development, and more, February 7, 2025
--      [New Release: Tor Browser 14.0.6](https://blog.torproject.org/new-release-tor-browser-1406/), February 7, 2025
--      [New Release: Tails 6.12](https://blog.torproject.org/new-release-tails-6-12/), February 6, 2025
+- [New Alpha Release: Tor Browser 14.5a3](https://blog.torproject.org/new-alpha-release-tor-browser-145a3/), February 11, 2025
+- [Arti 1.4.0 is released: onion services](https://blog.torproject.org/arti_1_4_0_released/), RPC, relay development, and more, February 7, 2025
+- [New Release: Tor Browser 14.0.6](https://blog.torproject.org/new-release-tor-browser-1406/), February 7, 2025
+- [New Release: Tails 6.12](https://blog.torproject.org/new-release-tails-6-12/), February 6, 2025
 
 ----
 
