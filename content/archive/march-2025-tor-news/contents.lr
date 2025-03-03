@@ -21,7 +21,7 @@ html_body:
 				<tbody>
 					<tr>
 						<td width="100%">
-						<div><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">Results of the year-end fundraiser, Rsdys 1.0, Snowflake website refresh and more</span><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">|</span><a href="https://newsletter.torproject.org/archive/2024-12-05-arti-rdsys-tor-network-health/" rel="nofollow"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">View this email in your browser</span></a></div>
+						<div><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">Results of the year-end fundraiser, Rsdys 1.0, Snowflake website refresh and more</span><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">|</span><a href="https://newsletter.torproject.org/archive/2025-03-03-march-2025-tor-news/" rel="nofollow"><span style="font-family: Source sans pro, Helvetica, arial, sans-serif; font-size: 12px; text-align:left; line-height: 16px; padding:5px; color: #ffffff;">View this email in your browser</span></a></div>
 						</td>
 					</tr>
 				</tbody>
@@ -48,7 +48,7 @@ html_body:
 				<tbody>
 					<tr>
 						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
-						<td><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=761&amp;qid=13483092" rel="nofollow"><img alt="tor-news-logo" height="75px" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" width="250px" /></a></td>
+						<td><a href="https://blog.torproject.org" rel="nofollow"><img alt="tor-news-logo" height="75px" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" width="250px" /></a></td>
 						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
 					</tr>
 				</tbody>
@@ -126,15 +126,15 @@ html_body:
 						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
 
 						<hr />
-						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=775&amp;qid=13483092" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://donate.torproject.org/" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
 
 						<h1>Ways to contribute</h1>
 
 						<ul>
-							<li><strong>Make a donation: </strong>Donate through our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=762&amp;qid=13483092" rel="nofollow">website</a> (or any other method listed on our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=776&amp;qid=13483092" rel="nofollow">FAQ</a>).</li>
+						    <li><strong>Make a donation: </strong>Donate through our <a href="https://donate.torproject.org/" rel="nofollow">website</a> (or any other method listed on our <a href="https://donate.torproject.org/faq/" rel="nofollow">FAQ</a>).</li>
 							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
-							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=777&amp;qid=13483092" rel="nofollow">Mastodon</a>, <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=778&amp;qid=13483092" rel="nofollow">Bluesky</a>, and more.</li>
-							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=780&amp;qid=13483092" rel="nofollow">Tor updates via email.</a></li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/deck/@torproject" rel="nofollow">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://donate.torproject.org/subscribe/" rel="nofollow">Tor updates via email.</a></li>
 						</ul>
 
 						<hr />
