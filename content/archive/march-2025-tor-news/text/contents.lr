@@ -1,0 +1,88 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-03-03
+---
+title: March 2025 Tor News
+---
+body:
+# We met our match
+
+The results of the 2024 year-end fundraising campaign are in, and you did it, Tor community! You have successfully met and exceeded the 2024 year-end fundraising goal, raising $816,141.70 with the support of Power Up Privacy's [1] $300,000 matching challenge. We want to extend a heartfelt thank you to everyone who contributed to the campaign in one way or another. This strengthens the Tor Project's financial stability, ensuring the continued development of privacy-preserving tools like the Tor network, Tor Browser, Tails, and Snowflake. 
+
+In 2025, Tor will focus on improving user experience, expanding integrations, supporting relay operators and digital security trainers, and advancing internet freedom in our commitment to defending Human Rights worldwide: https://blog.torproject.org/celebrating-2024-yec/
+
+[1] https://powerupprivacy.com/
+
+# A new coat for Snowflake
+
+Extending a lifeline to blocked internet users can be as simple as opening another browser tab--with Snowflake. To match the straightforward usability of one of Tor's most successful anti-censorship tools, we've given the Snowflake website a much-needed refresh to make it clearer, more accessible, and easier to navigate. The revamp was supported by the Google Summer of Code (GSoC) mentorship program. 
+
+Read our interview with mentee Ashish Soni and check out Tor's projects for GSoC 2025: https://blog.torproject.org/snowflake-refresh-to-help-more-people-get-online/
+
+Interested contributors will be able to apply to GSoC from March 24th to April 8th: https://opensource.googleblog.com/2025/02/meet-mentoring-organizations-of-gsoc.html
+
+[2] https://snowflake.torproject.org/
+
+----
+
+# Keeping up with the latest releases
+
+## New release: Rdsys 1.0
+
+After years of development, we are officially releasing Rdsys 1.0. Although Rdsys has already been the sole mechanism for distributing bridges since it replaced BridgeDB last October, this version 1.0 milestone officially marks its new status. We now consider Rdsys stable, but our work is far from finished. We are committed to improving Rdsys and fixing issues as they arise, and to adapting quickly to censors' evolving tactics.    
+Access the full changelog here: https://blog.torproject.org/new-release-rdsys-1-0/
+
+- [New Alpha Release: Tor Browser 14.5a3](https://blog.torproject.org/new-alpha-release-tor-browser-145a3/), February 11, 2025
+- [Arti 1.4.0 is released: onion services](https://blog.torproject.org/arti_1_4_0_released/), RPC, relay development, and more, February 7, 2025
+- [New Release: Tor Browser 14.0.6](https://blog.torproject.org/new-release-tor-browser-1406/), February 7, 2025
+- [New Release: Tails 6.12](https://blog.torproject.org/new-release-tails-6-12/), February 6, 2025
+
+----
+
+# Upcoming events
+
+## FOSSASIA Summit 2025, March 13, 2025 -- March 15, 2025
+
+The FOSSASIA Summit brings together a global community of developers, innovators, enterprises, and educators. The 2025 edition, set to take place in Bangkok, will be a 3-day hybrid event offering both in-person and online experiences.
+
+Roger Dingledine, Co-Founder of The Tor Project, will speak at the event and host an AMA session.
+
+Talk: [Tor: privacy for everyone](https://eventyay.com/e/4c0e0c27/session/9549)
+
+AMA: [Insights from the Tor Project](https://eventyay.com/e/4c0e0c27/session/9550)
+
+## Cloudfest, March 17, 2025 -- March 20, 2025
+
+Connect with the largest community of internet infrastructure service providers in the world! Over 8,700 technology leaders will be waiting for you at Europa-Park in Rust, Germany!
+
+Roger Dingledine, Co-Founder of The Tor Project, [will deliver a keynote address.](https://www.cloudfest.com/agenda)
+
+In the meantime, if you want to hear from Roger virtually, check out his interview during last week's RightsCon on the "This Week in Cyberspace" podcast: https://open.spotify.com/episode/0TXIWIvSPtvYRlVlJ10tAV?si=4t-M8v1GQAiEgtuOhQD-hA
+
+----
+
+# Keep in touch
+
+Earlier this year, Tor's X (Twitter) account got compromised. This has rightfully sparked larger debates about our future on that platform and how we want to continue to engage with folks on social. We have decided to focus more of our attention on other platforms. If you don't already follow us on Bluesky, please do so:
+https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place to be](https://forum.torproject.org/). And the Tor Blog and newsletter are still the most reliable source of Tor news. So, [please encourage others to join our mailing list](https://donate.torproject.org/subscribe/) by sharing this email.
+
+----
+The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
+
+Bluesky: https://bsky.app/profile/torproject.org
+Twitter: https://twitter.com/torproject
+Mastodon: http://mastodon.social/@torproject
+Telegram: https://t.me/torproject 
+Tor Forum: https://forum.torproject.net/
+Facebook: https://facebook.com/torproject
+Instagram: https://instagram.com/torproject
+
+Unsubscribe from Tor News: {action.unsubscribeUrl}
+
+{domain.address}
