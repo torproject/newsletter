@@ -1,0 +1,67 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-04-25
+---
+title: An onion for reproductive freedom, a stable release, and 207 new bridges
+---
+body:
+
+# An Onion for Repro Uncensored
+
+When digital surveillance threatens reproductive freedom, privacy and anonymity are the last line of defense. That's why Repro Uncensored and the Tor Project [teamed up to launch a censorship-resistant .onion site](https://www.repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion/)---ensuring access to reproductive health information and protecting bodily autonomy in the digital age without fear of criminalization.
+
+"At Repro Uncensored, we receive reports every day from organizations and individuals who run into barriers trying to access or share reproductive health information. It can come with serious risks - especially for people in hostile legal environments. [We partnered with Tor ](https://www.reprouncensored.org/research/digital-security)because we trust its long-standing commitment to privacy and resistance to censorship. Tor allows us to keep information available for those who need it most, without exposing them to surveillance and risk of criminalization. I think of Repro Uncensored as both a shield and a space to experiment - a place where we can test censorship-resistant infrastructure and privacy-preserving practices that can be adapted by other organizations and movements navigating similar threats."
+
+- Martha Dimitratou, Co-Founder and Digital Director, Repro Uncensored
+
+Read the full story to learn more about this partnership here: https://www.reprouncensored.org/research/onion
+
+# Tor User Support Now Available in Farsi
+
+We're excited to announce that Farsi-speaking users can now get direct support from the Tor Project! Whether you're trying to access Tor in a region where it's blocked or need help troubleshooting a connection, our team is here to assist---now in Farsi.
+
+This is part of our commitment to meeting users where they are and breaking down language barriers to digital freedom. Support is provided via text on Telegram, WhatsApp, Signal, and email---Monday through Thursday, from 19:30 to 01:30 Iran time.
+
+Learn how to get support and stay safe online: http://torproject.org/user-support-farsi
+
+# WebTunnel Celebrates One Year of Combating Cyber Censorship
+
+On World Day Against Cyber Censorship, we were proud to celebrate [WebTunnel's first anniversary with the conclusion of our recent community campaign.](https://blog.torproject.org/fighting-censorship-with-webtunnel/) The Tor community came together and successfully deployed 207 new WebTunnel bridges---exceeding our goal---and bringing our total from 60 to over 300 bridges. We're incredibly grateful to all our volunteers and supporters who made this campaign successful. Your feedback, bug fixes, and documentation improvements have been invaluable.
+
+WebTunnel has proven especially effective in heavily censored regions like China, Iran, and Russia, often outperforming other methods in reliability and speed.
+
+Join our fight against internet censorship: run a [WebTunnel bridge](https://community.torproject.org/relay/setup/webtunnel/), use [Snowflake](https://snowflake.torproject.org/) in your browser, or help test Tor tools [by becoming an alpha tester](https://community.torproject.org/user-research/become-tester/). Tor's community-driven model is one of the remaining strongholds against increasing online censorship and surveillance.
+
+# Keeping up with the latest releases
+
+## Tor Browser 14.5: Connection Assist Comes to Android
+
+Tor Browser 14.5 is now available for download with exciting new features to help more users access the free and open internet.
+
+- After years of development, Connection Assist has finally arrived on Android! This anti-censorship feature automatically finds and tests bridges for you when Tor is blocked, simplifying the connection process with just a single tap.
+- We've also expanded language support to include Belarusian, Bulgarian, and Portuguese (Portugal) across all platforms, making our privacy tools accessible to millions more users in their native languages.
+- Behind the scenes, this release marks a significant technical milestone with a refactored shared backend between desktop and mobile, bringing improved stability and laying groundwork for future enhancements.
+
+Read the full blog post to learn more about these features and how they're helping users worldwide: https://blog.torproject.org/new-release-tor-browser-145/
+
+- [New Release: Tails 6.14.2](https://blog.torproject.org/new-release-tails-6_14_2/), April 15, 2025
+
+- [Arti 1.4.2 is released: RPC is stable, Conflux development continues,](https://blog.torproject.org/arti_1_4_2_released/) April 1, 2025
+
+# Upcoming Events
+
+## PDAF 2025 -- May 20--21, 2025
+
+[7amleh -- The Arab Center for the Advancement of Social Media](https://7amleh.org/en2019/) announced the launch of the official agenda for the ninth edition of the Palestine Digital Activism Forum 2025 (PDAF). The event will explore how we can rebuild digital infrastructure and resist digital repression. Learn how to combat disinformation, protect privacy, and support education in warzones. Isabela Fernandes, Executive Director of the Tor Project, will moderate the panel The Right to Know: Access to Information in Times of Crises.
+
+Be part of the conversation. Register now: www.pdaf.net
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so: https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place to be](https://forum.torproject.org/). And the Tor Blog and newsletter are still the most reliable source of Tor news. So, [please encourage others to join our mailing list](https://donate.torproject.org/subscribe/) by sharing this email.

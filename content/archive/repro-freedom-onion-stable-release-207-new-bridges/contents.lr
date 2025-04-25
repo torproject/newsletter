@@ -1,0 +1,178 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-04-25
+---
+title: April Newsletter 2025
+---
+html_body:
+
+		<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+		<tr>
+		<td align="center" valign="top" width="711">
+		<![endif]-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://blog.torproject.org/" rel="nofollow"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;">An Onion for Repro Uncensored</h1>
+
+						<p style="line-height:1.38"><img alt="&quot;repro uncensored joins the onionverse&quot; in white lettering on purple background with illustration of people sitting at a small table" src="https://newsletter.torproject.org/gallery/2025-04/ReproUncensoredxTorProject.png" style="margin-left: 10px; margin-right: 10px; width: 675px; height: 675px;" /></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">When digital surveillance threatens reproductive freedom, privacy and anonymity are the last line of defense. That&rsquo;s why Repro Uncensored and the Tor Project </span></span></span></span></span></span><a href="https://www.repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">teamed up to launch a censorship-resistant .onion site</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&mdash;ensuring access to reproductive health information and protecting bodily autonomy in the digital age without fear of criminalization.</span></span></span></span></span></span></p>
+
+						<blockquote>
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:none">&ldquo;At Repro Uncensored, we receive reports every day from organizations and individuals who run into barriers trying to access or share reproductive health information. It can come with serious risks - especially for people in hostile legal environments. </span></span></span></span></span></span><a href="https://www.reprouncensored.org/research/digital-security" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">We partnered with Tor </span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:none">because we trust its long-standing commitment to privacy and resistance to censorship. Tor allows us to keep information available for those who need it most, without exposing them to surveillance and risk of criminalization. I think of Repro Uncensored as both a shield and a space to experiment - a place where we can test censorship-resistant infrastructure and privacy-preserving practices that can be adapted by other organizations and movements navigating similar threats.&rdquo;&nbsp;</span></span></span></span></span></span></p>
+						</blockquote>
+
+						<p style="line-height:1.38; text-indent:36pt"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">- <strong>Martha Dimitratou</strong>, Co-Founder and Digital Director, Repro Uncensored</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><a href="https://www.reprouncensored.org/research/onion" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">R</span></span></span></span></span></span></span></span></a><a href="https://www.reprouncensored.org/research/onion" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">ead the full story</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> to learn more about this partnership here.&nbsp;</span></span></span></span></span></span></p>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;">Tor User Support Now Available in Farsi</h1>
+
+						<p style="line-height:1.38"><img alt="Screenshots of Tor bots with Farsi lettering" src="https://newsletter.torproject.org/gallery/2025-04/farsi-support-cards.png" style="width: 676px; height: 380px; margin-left: 10px; margin-right: 10px;" /></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">We&rsquo;re excited to announce that Farsi-speaking users can now get direct support from the Tor Project! Whether you&#39;re trying to access Tor in a region where it&rsquo;s blocked or need help troubleshooting a connection, our team is here to assist&mdash;now in Farsi.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">This is part of our commitment to meeting users where they are and breaking down language barriers to digital freedom. Support is provided via text on Telegram, WhatsApp, Signal, and email&mdash;Monday through Thursday, from 19:30 to 01:30 Iran time.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><a href="http://blog.torproject.org/user-support-farsi" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">Learn how to get support</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> and stay safe online.</span></span></span></span></span></span></p>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;">WebTunnel Celebrates One Year of Comabting Cyber Censorship</h1>
+
+						<p><img alt="&quot;world day against cyber censorship&quot; white lettering on purple background with a black and white photo of a desktop computer" src="https://newsletter.torproject.org/gallery/2025-04/WDACC.png" style="width: 675px; height: 380px;" /></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">On World Day Against Cyber Censorship, we were proud to celebrate </span></span></span></span></span></span><a href="https://blog.torproject.org/fighting-censorship-with-webtunnel/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">WebTunnel&#39;s first anniversary with the conclusion of our recent community campaign.</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> The Tor community came together and successfully deployed 207 new WebTunnel bridges&mdash;exceeding our goal&mdash;and bringing our total from 60 to over 300 bridges. <strong>We&#39;re incredibly grateful to all our volunteers and supporters who made this campaign successful. Your feedback, bug fixes, and documentation improvements have been invaluable.</strong></span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">WebTunnel has proven especially effective in heavily censored regions like China, Iran, and Russia, often outperforming other methods in reliability and speed.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Join our fight against internet censorship: run a </span></span></span></span></span></span><a href="https://community.torproject.org/relay/setup/webtunnel/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">WebTunnel bridge</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">, use </span></span></span></span></span></span><a href="https://snowflake.torproject.org/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">Snowflake</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> in your browser, or help test Tor tools </span></span></span></span></span></span><a href="https://community.torproject.org/user-research/become-tester/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">by becoming an alpha tester</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">. Tor&#39;s community-driven model is one of the remaining strongholds against increasing online censorship and surveillance.</span></span></span></span></span></span></p>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;">Keeping up with the Latest Releases</h1>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Tor Browser 14.5: Connection Assist Comes to Android</h2>
+
+						<p><img alt="Screenshot of connection assist on Android" src="https://newsletter.torproject.org/gallery/2025-04/TB145-connection-assist.png" style="margin-left: 10px; margin-right: 10px; width: 675px; height: 675px;" /></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Tor Browser 14.5 is now available for download with new features to help more users access the free and open internet. </span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Behind the scenes, this release marks a significant technical milestone with a refactored shared backend between desktop and mobile, bringing improved stability and laying groundwork for future enhancements.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">After years of development, <strong>Connection Assist has finally arrived on Android!</strong> This anti-censorship feature automatically finds and tests bridges for you when Tor is blocked, simplifying the connection process with just a single tap.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">We&#39;ve also <strong>expanded language support to include Belarusian, Bulgarian, and Portuguese (Portugal) across all platforms</strong>, making our privacy tools accessible to millions more users in their native languages.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><a href="https://blog.torproject.org/new-release-tor-browser-145/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">Read the full blog post to learn more about these features and how they&#39;re helping users worldwide.</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> Here are the highlights:&nbsp;</span></span></span></span></span></span></p>
+
+						<hr />
+						<p style="line-height:1.38">&nbsp;</p>
+
+						<h2 style="line-height: 1.38;">Other releases</h2>
+
+						<ul>
+							<li><a href="http://blog.torproject.org/new-release-tails-6_14_2/">New Release: Tails 6.14.2</a>, April 15, 2025</li>
+							<li><a href="http://blog.torproject.org/arti_1_4_2_released/">Arti 1.4.2 is released: RPC is stable, Conflux development continues</a>, April 1, 2025</li>
+						</ul>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Upcoming Events</h1>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">PDAF 2025, May 20-21, 2025</h2>
+
+						<p style="line-height:1.38; text-align:justify"><a href="https://7amleh.org/en2019/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">7amleh &ndash; The Arab Center for the Advancement of Social Media</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> announced the launch of the official agenda for the ninth edition of the Palestine Digital Activism Forum 2025 (PDAF). The event will explore how we can rebuild digital infrastructure and resist digital repression. Learn how to combat disinformation, protect privacy, and support education in warzones. Isabela Fernandes, Executive Director of the Tor Project, will moderate the panel </span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:none">The Right to Know: Access to Information in Times of Crises.</span></span></span></span></span></span></p>
+						<span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Be part of the conversation. Register now: </span></span></span></span></span></span><a href="http://www.pdaf.net" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">www.pdaf.net</span></span></span></span></span></span></span></span></a><br />
+						&nbsp;
+						<hr />
+						<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+						<p class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><span style="white-space: pre-wrap;">If you don&#39;t already</span><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;"> </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a><span style="white-space: pre-wrap;">, please do so. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=775&amp;qid=13483092" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1><strong>Ways to Contribute</strong></h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=762&amp;qid=13483092" rel="nofollow">website</a> (or any other method listed on our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=776&amp;qid=13483092" rel="nofollow">FAQ</a>).</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=777&amp;qid=13483092" rel="nofollow">Mastodon</a>, <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=778&amp;qid=13483092" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=780&amp;qid=13483092" rel="nofollow">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0" height="70" width="139">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table height="15" style="height: 15px;">
+				<tbody>
+					<tr>
+						<td height="15" style="height: 15px;">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
