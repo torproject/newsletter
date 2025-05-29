@@ -1,0 +1,172 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-05-29
+---
+title: May 2025 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+		<tr>
+		<td align="center" valign="top" width="711">
+		<![endif]-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://blog.torproject.org/" rel="nofollow"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<p><img alt="Myth busting: A chat exchange between two entities texting each other. Sender says &quot;Privacy is impossible&quot;, Receiver counters &quot;That there are not perfect solitions, but if we invest some time and effort, we can build a better internet.&quot;" src="https://newsletter.torproject.org/gallery/2025-05/myth-busting-privacy-is-possible.png" style="width: 676px; height: 380px;" /></p>
+
+						<p>Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic <em>Family Certificates</em>, read all about how our latest releases and your contributions make privacy the default.</p>
+
+						<h2>Privacy is possible &ndash; even when it feels out of reach</h2>
+
+						<p><img alt="A sticker on the back of a laptop reading &quot;Privacy is possible&quot;" src="https://newsletter.torproject.org/gallery/2025-05/new-tor-merch.png" style="width: 675px; height: 380px;" /></p>
+
+						<p>Opting out of Big Tech means investing in better alternatives. That&#39;s where Tor, Tor Browser, and Tails come in. Help fuel the development of truly private tools and <a href="https://blog.torproject.org/sc25/">learn how to get involved in our spring fundraising campaign.</a></p>
+
+						<h2>Introducing oniux: Kernel-level Tor isolation for any Linux app</h2>
+
+						<p><img alt="Text &quot;introducing oniux&quot; with a red onion on light green background" src="https://newsletter.torproject.org/gallery/2025-05/oniux-the-command-line-to-rule-them-all.png" style="width: 676px; height: 380px;" /></p>
+
+						<p>Learn more about Kernel-level Tor isolation for any Linux app. This torsocks alternative uses namespaces to isolate Linux applications over the Tor network and eliminate data leaks. But how does it work exactly? <a href="https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/">Find out here!</a></p>
+
+						<h2>Happy Families: new certificates for faster and easier relay management</h2>
+
+						<p>Relay Families are Tor&rsquo;s way of grouping together relays run by the same operator, providing security and operational transparency. But the current 20-year-old design bloats directory info and becomes a maintenance headache as families grow. Tor 0.4.9 (currently in alpha) introduces cryptographic family certificates to help save up to 50% of the bandwidth cost for initial connections to the Tor network. <a href="https://blog.torproject.org/happy-families/">Here&#39;s how it works, and what you can do to speed up the transition.</a></p>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;"><strong>Keeping up with the latest releases</strong></h1>
+
+						<h2>Quo vadis OS Spoofing?</h2>
+
+						<p>Don&#39;t worry, it&#39;s here to stay! There&#39;s been some online speculation and confusion around <a href="https://blog.torproject.org/new-release-tor-browser-145/">OS Spoofing in Tor Browser as a result of Tor Browser&#39;s latest stable release</a>. Let&#39;s be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across Desktop and Mobile.</p>
+
+						<p>To support informed discussion, here&#39;s what actually changed, and what hasn&#39;t changed: We are still protecting user agents. Tor Browser has always limited user agents to general categories&ndash;Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript&ndash;now it&#39;s consistent in HTTP headers too.</p>
+
+						<h2>Sliding into your...security settings</h2>
+
+						<p>On a related note, we&#39;d like to thank <a href="https://www.privacyguides.org/en/">Privacy Guides</a> for spearheading a productive discussion around <a href="https://www.privacyguides.org/articles/2025/05/02/tor-security-slider-flaw/">a flaw in Tor Browser&#39;s security slider.</a> The Tor Project is aware of this issue, and it is being tracked and actively<br />
+						addressed&ndash;those interested can follow the<a href="https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/42572."> discussion and progress here</a>.</p>
+
+						<p>Many ideas are on the table: In addition to a restart prompt, we&rsquo;re also exploring broader improvements to the security level system, including <a href="http://https://gitlab.torproject.org/tpo/applications/wiki/-/wikis/ Design-Documents/Tor-Browser-Design-Doc">aligning it more closely with Tor Browser&#39;s updated threat model</a> and possibly delegating even more of its back-end to NoScript for additional flexibility. These improvements may be part of the upcoming 15.0 release cycle.</p>
+
+						<h2>Other releases</h2>
+
+						<ul>
+							<li><strong><a href="https://blog.torproject.org/new-release-tor-browser-1453/">New Release: Tor Browser 14.5.3</a></strong>, May 27, 2025</li>
+							<li><strong><a href="https://blog.torproject.org/new-release-tails-6_15_1/">New Release: Tails 6.15.</a></strong>, May 20, 2025</li>
+							<li><a href="https://blog.torproject.org/arti_1_4_3_released/"><strong>Arti 1.4.3 is released:</strong> </a>Prometheus metrics support, inital work on Counter Galois Onion and congestion control., May 1, 2025</li>
+						</ul>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><strong>Upcoming Events</strong></h1>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Applications for the 2025 Global Gathering are still open...until May 31st!</h2>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">The Global Gathering will take place on September 8&ndash;10 in Estoril, Portugal, bringing together over 1,000 defenders from around the world to collaborate on the most pressing tech-related issues impacting human rights, civil society, and journalism.</p>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Participants come from a wide range of disciplines, including technologists, researchers, frontline defenders, and civil society actors. Topics include online privacy and security, disinformation, artificial intelligence, online surveillance and censorship, open-source circumvention tools, and much more. <a href="https://www.digitalrights.community/blog/2025-global-gathering-application">The deadline to apply is May 31, 2025.</a></p>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><a href="https://blog.torproject.org/event/money-20-20/">Money 20/20, Amsterdam</a> &ndash; June 3-5, 2025</h2>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Tor&#39;s ED, Isabela Fernandes, will give a keynote address: <a href="https://europe.money2020.com/agenda/schedule#/agenda/event/publicly-funded-infrastructure-why-it-matters-more-than-ever-e102-66127">&quot;Publicly Funded Infrastructure: Why it Matters More than Ever&quot;</a></p>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><a href="https://blog.torproject.org/event/gpn-gulaschprogrammiernacht/">Gulaschprogrammiernacht, Karlsruhe</a> &ndash; June 19-22, 2025</h2>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><a href="https://blog.torproject.org/event/igf-2025/">Internet Governance Forum (IGF) 2025, Oslo</a> &ndash; June 23-27, 2025</h2>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">We&#39;ll host a workshop entitled <a href="https://www.igf2025.no/">&quot;Truth Under Siege: Tools to Counter Digital Censorship&quot;</a> featuring case-studies and insights from leading journalists who work at the front lines of digital censorship. This is a hybrid event, be sure to register: <a href="https://www.intgovforum.org/">https://www.intgovforum.org/</a></p>
+
+						<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><a href="https://blog.torproject.org/event/global-media-forum-2025/">DW Global Media Forum 2025, Bonn</a> &ndash; July 7-8, 2025</h2>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">The Global Media Forum is an annual gathering of journalists and media experts from around the world. The Tor Project will host a workshop <a href="https://gmf-event.com/event/program-details/199">&quot;Crowdsourcing Censorship Resistance with Snowflake&quot;</a></p>
+						&nbsp;
+
+						<hr />
+						<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+						<h2 class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><span style="white-space: pre-wrap;">If you don&#39;t already</span><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;"> </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a><span style="white-space: pre-wrap;">, please do so. </span></h2>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=775&amp;qid=13483092" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1><strong>Ways to Contribute</strong></h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=762&amp;qid=13483092" rel="nofollow">website</a> (or any other method listed on our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=776&amp;qid=13483092" rel="nofollow">FAQ</a>).</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=777&amp;qid=13483092" rel="nofollow">Mastodon</a>, <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=778&amp;qid=13483092" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=780&amp;qid=13483092" rel="nofollow">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0" height="70" width="139">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
