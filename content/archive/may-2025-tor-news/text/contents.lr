@@ -1,0 +1,79 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-05-29
+---
+title: May 2025 Tor News
+---
+body:
+
+Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic *Family Certificates*, read all about how our latest releases and your support help make privacy the default.
+
+## Privacy is possible -- even when it feels out of reach
+
+Opting out of Big Tech means investing in better alternatives. That's where Tor, Tor Browser, and Tails come in. Help fuel the development of truly private tools and learn how to get involved in our spring fundraising campaign: https://blog.torproject.org/sc25/.
+
+## Introducing oniux: Kernel-level Tor isolation for any Linux app
+
+Learn more about Kernel-level Tor isolation for any Linux app. This torsocks alternative uses namespaces to isolate Linux applications over the Tor network and eliminate data leaks. But how does it work exactly? Find out here: https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/.
+
+## Happy Families: new certificates for faster and easier relay management
+
+Relay Families are Tor's way of grouping together relays run by the same operator, providing security and operational transparency. But the current 20-year-old design bloats directory info and becomes a maintenance headache as families grow. Tor 0.4.9 (currently in alpha) introduces cryptographic family certificates to help save up to 50% of the bandwidth cost for initial connections to the Tor network. Here's how it works, and what you can do to speed up the transition: https://blog.torproject.org/happy-families/.
+
+# Keeping up with the latest releases
+
+## Quo vadis OS Spoofing?
+
+Don't worry, it's here to stay! There's been some online speculation and confusion around OS Spoofing in Tor Browser as a result of Tor Browser's latest stable release. Let's be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across JavaScript and HTTP headers.
+
+Tor Browser has always limited user agents to general categories–Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript–now it's consistent in HTTP headers too.
+
+## Sliding into your...security settings
+
+On a related note, we'd like to thank Privacy Guides for spearheading a productive discussion around a flaw in Tor Browser's security slider [1]. The Tor Project is aware of this issue, and it is being tracked and actively addressed--those interested can follow the discussion and progress here: https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/42572.
+
+Many ideas are on the table: In addition to a restart prompt, we're also exploring broader improvements to the security level system, including aligning it more closely with Tor Browser's updated threat model (check out our design doc: http://https://gitlab.torproject.org/tpo/applications/wiki/-/wikis/ Design-Documents/Tor-Browser-Design-Doc) and possibly delegating even more of its back-end to NoScript for additional flexibility. These improvements may be part of the upcoming 15.0 release cycle.
+
+[1] https://www.privacyguides.org/articles/2025/05/02/tor-security-slider-flaw/
+
+## Other releases
+
+- **[New Release: Tor Browser 14.5.3](https://blog.torproject.org/new-release-tor-browser-1453/)**, May 27, 2025
+
+- **[New Release: Tails 6.15.](https://blog.torproject.org/new-release-tails-6_15_1/)**, May 20, 2025
+
+- [**Arti 1.4.3 is released:**](https://blog.torproject.org/arti_1_4_3_released/) Prometheus metrics support, inital work on Counter Galois Onion and congestion control., May 1, 2025
+
+# Upcoming Events
+
+## Applications for the 2025 Global Gathering are still open...until May 31st!
+
+The Global Gathering will take place on September 8--10 in Estoril, Portugal, bringing together over 1,000 defenders from around the world to collaborate on the most pressing tech-related issues impacting human rights, civil society, and journalism.
+
+Participants come from a wide range of disciplines, including technologists, researchers, frontline defenders, and civil society actors. Topics include online privacy and security, disinformation, artificial intelligence, online surveillance and censorship, open-source circumvention tools, and much more. [The deadline to apply is May 31, 2025.](https://www.digitalrights.community/blog/2025-global-gathering-application)
+
+## Money 20/20, Amsterdam -- June 3-5, 2025
+
+Tor's ED, Isabela Fernandes, will give a keynote address: "Publicly Funded Infrastructure: Why it Matters More than Ever": https://europe.money2020.com/agenda/schedule#/agenda/event/publicly-funded-infrastructure-why-it-matters-more-than-ever-e102-66127
+
+## Gulaschprogrammiernacht, Karlsruhe: https://blog.torproject.org/event/gpn-gulaschprogrammiernacht/ -- June 19-22, 2025
+
+## Internet Governance Forum (IGF) 2025, Oslo -- June 23-27, 2025
+
+We'll host a workshop entitled ["Truth Under Siege: Tools to Counter Digital Censorship" featuring case-studies and insights from leading journalists who work at the front lines of digital censorship. This is a hybrid event, be sure to register: <https://www.intgovforum.org/>
+
+## DW Global Media Forum 2025, Bonn -- July 7-8, 2025
+
+The Global Media Forum is an annual gathering of journalists and media experts from around the world. The Tor Project will host a workshop "Crowdsourcing Censorship Resistance with Snowflake": https://gmf-event.com/event/program-details/199
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so: https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place to be](https://forum.torproject.org/). And the Tor Blog and newsletter are still the most reliable source of Tor news. So, [please encourage others to join our mailing list](https://donate.torproject.org/subscribe/) by sharing this email.
