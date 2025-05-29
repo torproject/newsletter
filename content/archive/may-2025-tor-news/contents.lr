@@ -39,7 +39,7 @@ html_body:
 						<td>
 						<p><img alt="Myth busting: A chat exchange between two entities texting each other. Sender says &quot;Privacy is impossible&quot;, Receiver counters &quot;That there are not perfect solitions, but if we invest some time and effort, we can build a better internet.&quot;" src="https://newsletter.torproject.org/gallery/2025-05/myth-busting-privacy-is-possible.png" style="width: 676px; height: 380px;" /></p>
 
-						<p>Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic <em>Family Certificates</em>, read all about how our latest releases and your contributions make privacy the default.</p>
+						<p>Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic Family Certificates, read all about how our latest releases and your support help make privacy the default.</p>
 
 						<h2>Privacy is possible &ndash; even when it feels out of reach</h2>
 
@@ -62,9 +62,9 @@ html_body:
 
 						<h2>Quo vadis OS Spoofing?</h2>
 
-						<p>Don&#39;t worry, it&#39;s here to stay! There&#39;s been some online speculation and confusion around <a href="https://blog.torproject.org/new-release-tor-browser-145/">OS Spoofing in Tor Browser as a result of Tor Browser&#39;s latest stable release</a>. Let&#39;s be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across Desktop and Mobile.</p>
+						<p>Don&#39;t worry, it&#39;s here to stay! There&#39;s been some online speculation and confusion around <a href="https://blog.torproject.org/new-release-tor-browser-145/">OS Spoofing in Tor Browser as a result of Tor Browser&#39;s latest stable release</a>. Let&#39;s be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across JavaScript and HTTP headers.</p>
 
-						<p>To support informed discussion, here&#39;s what actually changed, and what hasn&#39;t changed: We are still protecting user agents. Tor Browser has always limited user agents to general categories&ndash;Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript&ndash;now it&#39;s consistent in HTTP headers too.</p>
+						<p>Tor Browser has always limited user agents to general categories&ndash;Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript&ndash;now it&#39;s consistent in HTTP headers too.</p>
 
 						<h2>Sliding into your...security settings</h2>
 
