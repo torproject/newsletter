@@ -10,7 +10,7 @@ title: May 2025 Tor News
 ---
 body:
 
-Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic *Family Certificates*, read all about how our latest releases and your contributions make privacy the default.
+Not only is privacy possible, it is being built right now if our latest updates are any indication: From a new command-line utility isolating Tor network information on Linux to creating smaller network footprints and infrastructure with cryptographic *Family Certificates*, read all about how our latest releases and your support help make privacy the default.
 
 ## Privacy is possible -- even when it feels out of reach
 
@@ -28,9 +28,9 @@ Relay Families are Tor's way of grouping together relays run by the same operato
 
 ## Quo vadis OS Spoofing?
 
-Don't worry, it's here to stay! There's been some online speculation and confusion around OS Spoofing in Tor Browser as a result of Tor Browser's latest stable release. Let's be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across Desktop and Mobile.
+Don't worry, it's here to stay! There's been some online speculation and confusion around OS Spoofing in Tor Browser as a result of Tor Browser's latest stable release. Let's be clear, OS spoofing has never gone anywhere and is here to stay! In fact, Tor has harmonized the experience across JavaScript and HTTP headers.
 
-To support informed discussion, here's what actually changed, and what hasn't changed: We are still protecting user agents. Tor Browser has always limited user agents to general categories--Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript--now it's consistent in HTTP headers too.
+Tor Browser has always limited user agents to general categories–Windows, macOS, Linux, or Android in JavaScript, and Windows or Android in HTTP Headers. That means we spoof the OS version and architecture, which was always the approach in JavaScript–now it's consistent in HTTP headers too.
 
 ## Sliding into your...security settings
 
