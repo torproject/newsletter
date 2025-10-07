@@ -1,0 +1,76 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-10-08
+---
+title: October 2025 Tor News
+---
+body:
+
+Discover how Turkmenistan's regime profits from the censorship it enforces—blocking internet access while secretly selling it back to citizens. Learn about Tor Project's commitment to donor privacy through CiviCRM. And get early access to the new Tor VPN Beta for Android, which routes each app through its own Tor circuit. Plus, updates on Arti 1.5.0's latest features and critical bug fixes.
+
+## Corruption and Control: How Turkmenistan turned internet censorship into a business
+
+In July 2021, a sudden drop in Tor usage in Turkmenistan called our attention. Tor would come to understand that this marked the beginning of a new era of censorship and restriction in this post-Soviet country.
+
+Find out more about how one of the world's most isolated regimes has pushed internet censorship beyond surveillance and control. In an Orwellian twist, the people blocking access to the internet are the same ones secretly selling it back, at a price most Turkmens can't afford: https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/
+
+## Our commitment to donor privacy at Tor
+
+Tor is committed to securely managing donor data and communications. In this post, we share a little bit about the Customer Relationship Management (CRM) software, CiviCRM, that we use to store donation records and donor information. We hope this offers you confidence in how your personal data is handled and secured whenever you make a donation: https://blog.torproject.org/our-commitment-to-donor-privacy-at-tor/
+
+# Keeping up with the latest releases
+
+## Tor VPN Beta: now testing
+
+Last month, we've opened early access testing for Tor VPN–a new VPN app for Android developed by the Tor Project. Tor VPN Beta routes your app traffic through Tor, giving each app its own Tor circuit and exit IP, preventing network observers from connecting all of your online activity.
+
+### Important limitations:
+
+- **Early beta:** not for high-risk users or sensitive use cases
+- **Limited anti-censorship features:** connection issues likely in heavily censored regions
+- **Expect bugs:** and help report them: support.torproject.org/misc/bug-or-feedback/
+
+This release is for testers who can safely participate and want to help shape mobile privacy. Join the beta: https://play.google.com/store/apps/details?id=org.torproject.vpn&hl=en_US
+
+## Tails 7.0
+
+We are very excited to present you Tails 7.0, the first version of Tails based on Debian 13 (Trixie) and GNOME 48 (Bengaluru). Tails 7.0 brings new versions of many applications included in Tails.
+
+## Arti 1.5.0
+
+Arti 1.5.0 continues development on important client features, including Counter Galois Onion encryption, Conflux, flow control and congestion control, and onion service proof of work. It also includes significant backend work for Arti relay support. Additionally, this release mitigates a longstanding bug that could prevent Arti clients from bootstrapping: https://blog.torproject.org/arti_1_5_0_released/
+
+## Other releases
+
+- **[New Alpha Release: Tor Browser 15.0a3](https://blog.torproject.org/new-alpha-release-tor-browser-150a3/)**, September 22, 2025
+- **[New Release: Tor Browser 14.5.7](https://blog.torproject.org/new-release-tor-browser-1457/)**, September 16, 2025
+
+# Upcoming Events
+
+## RealFi Hack (Online) -- September 23 - October 16, 2025
+
+If you care about making technology usable in the real world, this is for you. Funding the Commons is introducing RealFi Hack: A global virtual hackathon bringing together builders creating practical solutions to real problems. Members of the Tor Project will be sharing updates about Arti, OnionMasq and more, and also be available as mentors. Will you join us? Register now via Devspot: https://t.co/E5OQXMAige
+
+## Media Fest 2025, Washington DC -- October 15-18, 2025
+
+The nation's largest media convention for pros and college students sponsored by the Associated Collegiate Press, College Media Association, and Society of Professional Journalists, is hosting a session on *"Using Tor to protect you and your sources"*: https://mediafest25.com/
+
+## Funding the Commons (Conference), Buenos Aires -- Nov 19, 2025
+
+A one-day summit on financial access, coordination, and crypto systems that actually work, featuring expert talks and panels, demo and workshop sessions. The Tor Project is co-hosting the event, and Roger Dingledine will give a talk. Register and learn more here: https://www.fundingthecommons.io/ba2025
+
+## Save the date: State of the Onion 2025 -- November 12 & December 10, 2025
+
+Mark your calendars for this year's ***State of the Onion**--*Tor's annual virtual event that showcases and celebrates the achievements of the Tor Project and Tor community. More details to follow soon!
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so: https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place to be](https://forum.torproject.org/). And the Tor Blog and newsletter are still the most reliable source of Tor news. So, [please encourage others to join our mailing list](https://donate.torproject.org/subscribe/) by sharing this email.

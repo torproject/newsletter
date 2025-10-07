@@ -1,0 +1,175 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-10-08
+---
+title: October 2025 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="711">
+	<tr>
+		<td align="center" valign="top" width="711">
+
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+				<tbody>
+					<tr>
+						<td width="100%">
+							<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+								<tbody>
+									<tr>
+										<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+										<td><a href="https://blog.torproject.org/" rel="nofollow"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+										<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+								<tbody>
+									<tr>
+										<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+										<td>
+											<p>Discover how Turkmenistan&#39;s regime profits from the censorship it enforces&mdash;blocking internet access while secretly selling it back to citizens. Learn about Tor Project&#39;s commitment to donor privacy through CiviCRM. And get early access to the new Tor VPN Beta for Android, which routes each app through its own Tor circuit. Plus, updates on Arti 1.5.0&#39;s latest features and critical bug fixes.</p>
+
+											<h2>Corruption and Control: How Turkmenistan turned internet censorship into a business</h2>
+
+											<p><img alt="A thumbnail with text reading &quot;Censorship or business model? $2,000/month for Free Internet next&quot; next to an illustration of a person raising their hand in protest of censorship" src="https://newsletter.torproject.org/gallery/2025-10/censorship-as-a-business-model.png" style="width: 675px; height: 380px;" /></p>
+
+											<p>In July 2021, a sudden drop in Tor usage in Turkmenistan called our attention. Tor would come to understand that this marked the beginning of a new era of censorship and restriction in this post-Soviet country.</p>
+
+											<p>Find out more about how one of the world&#39;s most isolated regimes has pushed internet censorship beyond surveillance and control. In an Orwellian twist, the people blocking access to the internet are the same ones secretly selling it back, <a href="https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/">at a price most Turkmens can&#39;t afford.</a></p>
+
+											<h2>Our commitment to donor privacy at Tor</h2>
+
+											<p><img alt="The Tor and CiviCRM logos on a purple background" src="https://newsletter.torproject.org/gallery/2025-10/donor-privacy-CiviCRM.png" style="width: 675px; height: 378px;" /></p>
+
+											<p>Tor is committed to securely managing&nbsp;donor data and communications.&nbsp;<a href="https://blog.torproject.org/our-commitment-to-donor-privacy-at-tor/">In this post</a>, we share a little bit about the Customer Relationship Management (CRM) software, CiviCRM, that we use to store donation records and donor information. We hope this offers you confidence in how your personal data is handled and secured whenever you make a donation.</p>
+
+											<hr />
+											<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;"><strong>Keeping up with the latest releases</strong></h1>
+
+											<h2><img alt="The Tor VPN logo with a beta button on a purple blue gradient background with sparkly stars" src="https://newsletter.torproject.org/gallery/2025-10/tor-vpn-beta.png" style="width: 675px; height: 380px;" /></h2>
+
+											<h2>Tor VPN Beta: now testing</h2>
+
+											<p>Last&nbsp;month, we&#39;ve opened early access testing for Tor&nbsp;VPN&ndash;a new&nbsp;VPN app for Android developed by the Tor Project. Tor VPN Beta routes your app traffic through Tor, giving each app&nbsp;its own Tor circuit and exit IP, preventing network observers from connecting all of your online activity.</p>
+
+											<h3>Important limitations:</h3>
+
+											<ul>
+												<li><strong>Early beta: </strong>not for high-risk users or sensitive use cases</li>
+												<li><strong>Limited anti-censorship features:&nbsp;</strong>connection issues likely in heavily censored regions</li>
+												<li><strong>Expect bugs</strong>: and help <a href="https://support.torproject.org/misc/bug-or-feedback/">report them</a>.</li>
+											</ul>
+
+											<p>This release is for testers who can safely participate and want to help shape mobile privacy. <a href="https://play.google.com/store/apps/details?id=org.torproject.vpn&amp;hl=en_US">Join the beta</a>.</p>
+
+											<h2>Tails 7.0</h2>
+
+											<p>We are very excited to present you Tails 7.0, the first version of Tails based on Debian 13 (Trixie) and GNOME 48 (Bengaluru). <a href="https://blog.torproject.org/new-release-tails-7_0/">Tails 7.0</a> brings new versions of many applications included in Tails.</p>
+
+											<h2>Arti 1.5.0</h2>
+
+											<p>Arti 1.5.0 continues development on important client features, including&nbsp;<a href="https://eprint.iacr.org/2025/583">Counter Galois Onion</a>&nbsp;encryption,&nbsp;<a href="https://spec.torproject.org/proposals/329-traffic-splitting.html">Conflux</a>,&nbsp;flow control and <a href="https://spec.torproject.org/proposals/324-rtt-congestion-control.txt">congestion control</a>, and onion service <a href="https://spec.torproject.org/proposals/362-update-pow-control-loop.html">proof of work</a>. It also includes significant backend work for Arti relay support. Additionally, <a href="https://blog.torproject.org/arti_1_5_0_released/">this release </a>mitigates a longstanding bug that could prevent Arti clients from bootstrapping.</p>
+
+											<h2>Other releases</h2>
+
+											<ul>
+												<li><strong><a href="https://blog.torproject.org/new-alpha-release-tor-browser-150a3/">New Alpha Release: Tor Browser 15.0a3</a></strong>, September 22, 2025</li>
+												<li><strong><a href="https://blog.torproject.org/new-release-tor-browser-1457/">New Release: Tor Browser 14.5.7</a></strong>, September&nbsp;16, 2025</li>
+											</ul>
+
+											<hr />
+											<h1 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;"><strong>Upcoming Events</strong></h1>
+
+											<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">RealFi Hack (Online) &ndash; September 23 - October 16, 2025</h2>
+
+											<p>If you care about making technology usable in the real world, this is for you. Funding the Commons is introducing RealFi Hack: A global virtual hackathon bringing together builders creating practical solutions to real problems. Members of the Tor Project will be sharing updates about Arti, OnionMasq and more, and also be available as mentors. Will you join us? Register now via Devspot: <a dir="ltr" href="https://t.co/E5OQXMAige" rel="noopener noreferrer nofollow" role="link" target="_blank">https://realfi-hack.devspot.app</a></p>
+
+											<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Media Fest 2025,&nbsp;Washington DC &ndash;&nbsp;October 15-18, 2025</h2>
+
+											<p>The nation&rsquo;s largest media convention for pros and college students sponsored by the Associated Collegiate Press, College Media Association, and Society of Professional Journalists, is hosting a session on <em>&quot;Using Tor to protect you and your sources&quot;</em>:<em>&nbsp;</em><a href="https://mediafest25.com/">https://mediafest25.com/</a></p>
+
+											<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Funding the Commons (Conference), Buenos Aires &ndash; Nov&nbsp;19, 2025</h2>
+
+											<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">A one-day summit on financial access, coordination, and crypto systems that actually work, featuring expert talks and panels, demo and workshop sessions. The Tor Project is co-hosting the event, and Roger Dingledine will give a talk. Register and learn more here:<a href="https://www.fundingthecommons.io/ba2025">&nbsp;https://www.fundingthecommons.io/ba2025</a></p>
+
+											<h2 style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Save the date: State of the Onion 2025 &ndash;&nbsp;November 12 &amp; December 10, 2025</h2>
+
+											<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">Mark your calendars for this year&#39;s&nbsp;<em><strong>State of the Onion</strong>&ndash;</em>Tor&#39;s annual virtual event that showcases and celebrates the achievements of the Tor Project&nbsp;and Tor community. More details to follow soon!<br />
+											&nbsp;</p>
+
+											<hr />
+											<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+											<h2 class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><span style="white-space: pre-wrap;">If you don&#39;t already</span><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;"> </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a><span style="white-space: pre-wrap;">, please do so. </span></h2>
+
+											<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. </span></p>
+
+											<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news. </span></p>
+
+											<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+											<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+											<hr />
+											<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=775&amp;qid=13483092" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+											<h1><strong>Ways to Contribute</strong></h1>
+
+											<ul>
+												<li><strong>Make a donation: </strong>Donate through our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=762&amp;qid=13483092" rel="nofollow">website</a> (or any other method listed on our <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=776&amp;qid=13483092" rel="nofollow">FAQ</a>).</li>
+												<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees&rsquo; donations to charitable organizations. Ask at work if your company will match your gift.</li>
+												<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=777&amp;qid=13483092" rel="nofollow">Mastodon</a>, <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=778&amp;qid=13483092" rel="nofollow">Bluesky</a>, and more.</li>
+												<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://staging.crm.torproject.org/civicrm/mailing/url?u=780&amp;qid=13483092" rel="nofollow">Tor updates via email.</a></li>
+											</ul>
+
+											<hr />
+											<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+											<hr />
+											<table cellpadding="0" cellspacing="0" height="70" width="139">
+												<tbody>
+													<tr>
+														<td style="width: 28px;" valign="top" width="28">
+															<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+														</td>
+														<td>
+															<p>&nbsp;</p>
+														</td>
+														<td style="width: 31px;" valign="top" width="31">
+															<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+														</td>
+														<td>
+															<p>&nbsp;</p>
+														</td>
+														<td style="width: 28px;" valign="top" width="28">
+															<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+														</td>
+														<td>
+															<p>&nbsp;</p>
+														</td>
+														<td style="width: 28px;" valign="top" width="28">
+															<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+														</td>
+													</tr>
+												</tbody>
+										</td>
+										<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+									</tr>
+								</tbody>
+											</table>
+											<table height="15" style="height: 15px;">
+												<tbody>
+													<tr>
+														<td height="15" style="height: 15px;">&nbsp;</td>
+													</tr>
+												</tbody>
+											</table>
