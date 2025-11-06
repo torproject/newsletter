@@ -1,0 +1,135 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-11-06
+---
+title: November 2025 Tor News
+---
+body:
+
+We've launched our annual fundraiser, given the Tor user Support portal a
+refresh, launched Tor Browser 15, and updated Tor's privacy policy to include
+Tor VPN. Join us for our upcoming State of the Onion 2025 on November 12, 2025,
+to learn how Tor keeps the lifeline alive that is powering privacy, access to
+information, and rewriting the rules of the internet.
+
+# Free the Internet: The Tor Project's annual fundraiser
+
+Is the internet today the internet you want for future generations? What if
+instead of for-profit greed, rampant privacy violations, and pervasive
+government spying, we could have a different relationship with the internet?
+
+**What if we could FREE THE INTERNET from the chains of surveillance and
+censorship?**
+
+Tor is a building block for a free internet, and it takes our collective
+efforts to improve and amplify it. That's why during the next three months, the
+Tor Project will be holding a fundraising campaign during which we ask for your
+support to advance digital freedom. During this period, your donation will be
+matched by our supporters at Power Up Privacy: https://powerupprivacy.com/.
+This means a $25 donation will have a $50 impact--and all donations over $25
+will qualify you for fun Tor merchandise. Learn more here:
+https://blog.torproject.org/2025-fundraiser-donations-matched/
+
+# A new home for Tor user documentation
+
+Finding support shouldn't be hard. That's why we've launched the new Tor user
+Support portal: a single, unified home that brings together the Tor Browser
+User Manual and the Support portal, making it easier for everyone to access the
+documentation they need to use Tor safely and confidently. Find out more about
+the community of contributors who have made this redesign possible, and how you
+can get involved making Tor more accessible to users worldwide:
+https://blog.torproject.org/new-user-support-portal-tor-tails/
+
+# Keeping up with the latest releases
+
+## Tor Browser 15.0
+
+**What's new? Tabs, tabs, and more tabs!** Perfect for privacy-conscious power
+users, researchers, and anyone who accumulates tabs frighteningly quickly!
+
+On desktop, we've introduced vertical tabs in your sidebar, tab groups to
+organize, name, and color-code, and a unified search button in the address bar.
+Android tabs get a screen lock for an extra layer of security for your browsing
+sessions. Your tabs lock automatically when you switch away, protecting your
+privacy even if someone gains temporary access to your unlocked phone. 
+Information on all the updates can be found here:
+https://blog.torproject.org/new-release-tor-browser-150/
+
+Tor Browser 15.0 is now available! Our first stable release based on Firefox
+ESR 140, incorporating a year's worth of changes. Download now from the Tor
+Browser download page: https://www.torproject.org/download/
+
+
+## Tails 7.1
+
+This Tails release updates core components including Tor Browser 14.5.8, Tor
+client 0.4.8.19, and Thunderbird 140.3.0. Tor Browser now opens to an offline
+homepage for better privacy, and the confusing "connection not managed by Tor
+Browser" message in new tabs has been removed. The release also improves admin
+password prompts and removes the legacy `ifupdown` package. **All the details
+can be found in the release notes:
+https://blog.torproject.org/new-release-tails-7_1/
+
+## Arti 1.7.0
+
+Arti is our ongoing project to create a next-generation Tor implementation in
+Rust. Arti 1.7.0 stabilizes the onion service restricted discovery feature,
+previously known as "client authorization". In addition to Arti's existing
+SOCKS proxy, Arti now has experimental support for running an HTTP CONNECT
+proxy. This release of Arti continues behind-the-scenes development of
+functionality required to support relays and directory authorities. This
+development has focused on the routing architecture and protocol implementation
+(circuits and channels), parsing and generating Tor network documents,
+directory cache support, and the relay main-loop/front-end code. Find out
+everything that's new in the release notes:
+https://blog.torproject.org/arti_1_7_0_released/
+
+## Privacy Policy update: Tor VPN added
+
+We've updated our Privacy Policy to include Tor VPN--Tor's early access VPN
+release for Android.
+
+Tor VPN follows the same privacy-first principles you expect from us: no
+sign-ins, no tracking, no logging of personal information. All user settings
+and session data are stored locally on your device only and are never
+transmitted to The Tor Project, and are **not** linked to user identity or
+device information.
+
+The policy update provides full details on what permissions Tor VPN requires,
+and how your device-only settings are handled. The changes are effective
+October 30th, 2025, and you can review the Tor Project's updated Privacy Policy
+at https://www.torproject.org/about/privacy_policy/
+
+# Upcoming Events
+
+## Save the date: State of the Onion 2025 -- November 12 & December 10, 2025
+
+When censorship strikes, Tor provides a lifeline to access information--a
+lifeline to a FREE INTERNET. Tune in to this year's State of the Onion event to
+hear about how our teams and community work tirelessly behind the scenes to
+keep it alive. Find more information here:
+https://blog.torproject.org/state-of-the-onion-2025/ and be sure to set a
+notification here: https://www.youtube.com/watch?v=fTDtUoauU74
+
+## Funding the Commons (Conference), Buenos Aires -- Nov 19, 2025
+
+A one-day summit on financial access, coordination, and crypto systems that
+actually work, featuring expert talks and panels, demo and workshop sessions.
+The Tor Project is co-hosting the event, and Roger Dingledine will give a talk.
+Register and learn more here: https://www.fundingthecommons.io/ba2025
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so: https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place
+to be](https://forum.torproject.org/). And the Tor Blog and newsletter are
+still the most reliable source of Tor news. So, [please encourage others to
+join our mailing list](https://donate.torproject.org/subscribe/) by sharing
+this email.
