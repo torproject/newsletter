@@ -32,7 +32,7 @@ support to advance digital freedom. During this period, your donation will be
 matched by our supporters at Power Up Privacy: https://powerupprivacy.com/.
 This means a $25 donation will have a $50 impact--and all donations over $25
 will qualify you for fun Tor merchandise. Learn more here:
-https://blog.torproject.org/2025-fundraiser-donations-matched/
+https://https://blog.torproject.org/2025-fundraiser-donations-matched/
 
 # Mexican government partially unblocks secure internet
 
@@ -45,7 +45,7 @@ citizens. 
 Learn more in this guest post you can find on our blog. If you have a relevant
 story you want to share with the Tor community, please get in touch via
 press[at]torproject.org:
-blog.torproject.org/mexican-government-partially-unblocks-tor/
+https://blog.torproject.org/mexican-government-partially-unblocks-tor/
 
 # Counter Galois Onion: Improved encryption for Tor circuit traffic
 
@@ -54,7 +54,7 @@ upcoming releases, Arti and Tor will both support a new encryption algorithm
 called Counter Galois Onion (CGO). CGO prevents attackers from tampering with
 encrypted traffic, adds forward secrecy, and brings Tor's encryption up to
 modern standards. Find more details and detailed schematics here:
-blog.torproject.org/introducing-cgo/
+https://blog.torproject.org/introducing-cgo/
 
 # Staying ahead of censors in 2025: What we've learned from fighting censorship
 in Iran and Russia
@@ -66,7 +66,7 @@ the new Conjure pluggable transport, and made WebTunnel more wide available.
 Thanks to real-time monitoring, community feedback, and faster bridge
 distribution, Tor keeps people connected when it matters most. Want to help?
 You can support our mission by running a Snowflake proxy or hosting a WebTunnel
-bridge. Learn more here: blog.torproject.org/staying-ahead-of-censors-2025/
+bridge. Learn more here: https://blog.torproject.org/staying-ahead-of-censors-2025/
 
 # Keeping up with the latest releases
 
@@ -77,20 +77,20 @@ based on Firefox Rapid Release rather than Firefox Extended Support Release.
 Among other factors, this means we are basically moving to one major feature
 release per year. You can find a full overview of the expected changes and our
 rationale behind making them here:
-blog.torproject.org/future-of-tor-browser-alpha/
+https://blog.torproject.org/future-of-tor-browser-alpha/
 
 ## Arti 1.8.0
 
 Arti is our ongoing project to create a next-generation Tor
 implementation in Rust. Arti 1.8.0 introduces a new, usage-based, timeout for
 strongly isolated circuits. Find out everything that's new in the release
-notes: blog.torproject.org/arti_1_8_0_released/
+notes: https://blog.torproject.org/arti_1_8_0_released/
 
 ### Other releases
 
-New Release: Tor Browser 15.0.2, November 19, 2025: blog.torproject.org/new-release-tor-browser-1502/
+New Release: [Tor Browser 15.0.2, November 19, 2025](https://blog.torproject.org/new-release-tor-browser-1502/)
 
-New Release: Tails 7.2, November 13, 2025: blog.torproject.org/new-release-tails-7_2/
+New Release: [Tails 7.2, November 13, 2025](https://blog.torproject.org/new-release-tails-7_2/)
 
 # Upcoming Events
 
@@ -100,7 +100,7 @@ Join us for part 2 of State of the Onion: Community Day. Building on this
 year's theme, we've invited other members of the Tor community to share
 insights from their work and how they are supporting the fight to FREE THE
 INTERNET. Find more information about how to join live via X, YouTube, or using
-an Onion Service: blog.torproject.org/community-day-state-of-the-onion-2025/.
+an Onion Service: https://blog.torproject.org/community-day-state-of-the-onion-2025/.
 
 ----
 
