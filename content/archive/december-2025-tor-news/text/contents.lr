@@ -1,0 +1,116 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2025-12-04
+---
+title: December 2025 Tor News
+---
+body:
+
+This month's newsletter looks at Mexico lifting Tor restrictions on government
+sites, Tor's deployment of a new encryption mechanism for relays, and the
+anti-censorship team's lessons from combating blocks in Iran and Russia. Plus
+updates on Tor Browser Alpha's shift to a new release cycle and the latest Arti
+1.8.0 features.
+
+# Free the Internet: The Tor Project's annual fundraiser
+
+Is the internet today the internet you want for future generations? What if
+instead of for-profit greed, rampant privacy violations, and pervasive
+government spying, we could have a different relationship with the internet?
+
+**What if we could FREE THE INTERNET from the chains of surveillance and
+censorship?**
+
+Tor is a building block for a free internet, and it takes our collective
+efforts to improve and amplify it. That's why during the next three months, the
+Tor Project will be holding a fundraising campaign during which we ask for your
+support to advance digital freedom. During this period, your donation will be
+matched by our supporters at Power Up Privacy: https://powerupprivacy.com/.
+This means a $25 donation will have a $50 impact--and all donations over $25
+will qualify you for fun Tor merchandise. Learn more here:
+https://blog.torproject.org/2025-fundraiser-donations-matched/
+
+# Mexican government partially unblocks secure internet
+
+Mexico blocked Tor access to government websites citing security concerns. The
+current administration lifted the main block earlier this year, though some
+sites appear to remain restricted. Ironically, the government had previously
+used Tor for its own anti-corruption whistleblower system while blocking
+citizens. 
+
+Learn more in this guest post you can find on our blog. If you have a relevant
+story you want to share with the Tor community, please get in touch via
+press[at]torproject.org:
+blog.torproject.org/mexican-government-partially-unblocks-tor/
+
+# Counter Galois Onion: Improved encryption for Tor circuit traffic
+
+Tor is upgrading its relay encryption algorithm for improved security. In
+upcoming releases, Arti and Tor will both support a new encryption algorithm
+called Counter Galois Onion (CGO). CGO prevents attackers from tampering with
+encrypted traffic, adds forward secrecy, and brings Tor's encryption up to
+modern standards. Find more details and detailed schematics here:
+blog.torproject.org/introducing-cgo/
+
+# Staying ahead of censors in 2025: What we've learned from fighting censorship
+in Iran and Russia
+
+In 2025, Tor faced some of the toughest censorship yet. From Iran’s wartime
+internet blackouts to Russia’s rapidly evolving blocking tactics. Tor’s
+anti-censorship team sprung into action and strengthened Snowflake, deployed
+the new Conjure pluggable transport, and made WebTunnel more wide available.
+Thanks to real-time monitoring, community feedback, and faster bridge
+distribution, Tor keeps people connected when it matters most. Want to help?
+You can support our mission by running a Snowflake proxy or hosting a WebTunnel
+bridge. Learn more here: blog.torproject.org/staying-ahead-of-censors-2025/
+
+# Keeping up with the latest releases
+
+## The Future of Tor Browser Alpha
+
+Starting with Tor Browser 16.0a1, the Tor Browser Alpha release channel will be
+based on Firefox Rapid Release rather than Firefox Extended Support Release.
+Among other factors, this means we are basically moving to one major feature
+release per year. You can find a full overview of the expected changes and our
+rationale behind making them here:
+blog.torproject.org/future-of-tor-browser-alpha/
+
+## Arti 1.8.0
+
+Arti is our ongoing project to create a next-generation Tor
+implementation in Rust. Arti 1.8.0 introduces a new, usage-based, timeout for
+strongly isolated circuits. Find out everything that's new in the release
+notes: blog.torproject.org/arti_1_8_0_released/
+
+### Other releases
+
+New Release: Tor Browser 15.0.2, November 19, 2025: blog.torproject.org/new-release-tor-browser-1502/
+
+New Release: Tails 7.2, November 13, 2025: blog.torproject.org/new-release-tails-7_2/
+
+# Upcoming Events
+
+## State of the Onion 2025 – Community Day, December 10, 2025 - 17:00 UTC
+
+Join us for part 2 of State of the Onion: Community Day. Building on this
+year's theme, we've invited other members of the Tor community to share
+insights from their work and how they are supporting the fight to FREE THE
+INTERNET. Find more information about how to join live via X, YouTube, or using
+an Onion Service: blog.torproject.org/community-day-state-of-the-onion-2025/.
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so:
+https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place
+to be](https://forum.torproject.org/). And the Tor Blog and newsletter are
+still the most reliable source of Tor news. So, [please encourage others to
+join our mailing list](https://donate.torproject.org/subscribe/) by sharing
+this email.
