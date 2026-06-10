@@ -1,0 +1,160 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2026-06-11
+---
+title: June 2026 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://blog.torproject.org/" rel="nofollow"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<p><em>In this month's newsletter&nbsp;we’re highlighting the people, projects, and practical experiments helping keep the internet open, private, and resilient. You’ll find stories from the Tor community, including a student’s experience setting up a relay on a university network in Taiwan, reflections from a recent community gathering in Denmark, and&nbsp;a new participatory funding campaign designed to support the broader Tor ecosystem at a moment of systemic funding instability.</em></p>
+
+						<h1><strong>Setting up a Tor relay at National Taiwan Normal University: a&nbsp;practical experience</strong></h1>
+
+						<p>A computer science student at National Taiwan Normal University successfully set up a Tor relay on campus by working within institutional processes—communicating with administrators, completing paperwork, and explaining the difference between relays and exit nodes. <a href="https://blog.torproject.org/setting-up-tor-university-relay-taiwan/">This guest post from anoni.net</a> shares practical advice for deploying Tor relays on university networks.&nbsp;</p>
+
+						<p><img alt="an orange tinged monochromatic onion logo on a light grey background that features a sketch outline of a university campus" src="https://newsletter.torproject.org/gallery/2026-06/Taiwanese-university-relay.png" style="width: 676px; height: 380px;" /></p>
+
+						<h1><strong>3 days of fun with Tor</strong></h1>
+
+						<p><a href="https://blog.torproject.org/tor-community-gathering-2026/">The Tor community organized a second gathering</a> at Hylkedam, Denmark, building on lessons from the first event with minimal planning and a mix of structured and unstructured sessions. Despite a smaller group, new contributors and ongoing projects led to productive collaboration, and we hope to expand future meetings with broader participation and new venues. Let us know if you'd like to participate!</p>
+
+						<p><img alt="Group photo of community members standing in front of a wood cabin holding up a purple Tor banner" src="https://newsletter.torproject.org/gallery/2026-06/Community-Gathering-the-sequel.png" style="width: 676px; height: 380px;" /></p>
+
+						<h1><strong>A new way to fund internet freedom</strong></h1>
+
+						<p>Tor is strongest when the broader internet freedom ecosystem is healthy. A coalition of privacy, internet freedom, cryptocurrency and open-source ecosystems, led by the Tor Project and&nbsp;<a href="https://www.fundingthecommons.io/">Funding the Commons</a>, is supporting critical digital infrastructure with&nbsp;<a href="https://internetfreedom.torproject.org/">a new participatory funding campaign</a>.</p>
+
+						<p><img alt="A collage of the logos from all participating projects on a dark grey background" src="https://newsletter.torproject.org/gallery/2026-06/Crowdfunding-campaign-announcement.png" style="width: 676px; height: 380px;" /></p>
+
+						<h2><strong>Meet some of the participating projects,&nbsp;learn more about how they are making an impact in internet users' lives, and why community support is so vital for sustaining them.</strong></h2>
+
+						<h3><strong>A Server That Forgets: Exploring Stateless Relays (Osservatorio Nessuno)</strong></h3>
+
+						<p>Diskless operating systems can improve relay security with a focus on software integrity and physical attack resistance. <a href="https://blog.torproject.org/exploring-stateless-relays/">This work and guest post is by Osservatorio Nessuno </a>who run exit relays in Italy.</p>
+
+						<h3><strong>OONI: Defending the public's right to know</strong></h3>
+
+						<p>Fighting internet censorship requires more than noticing when it happens. It requires documenting it, sharing evidence, and building the collective capacity to respond.&nbsp;<a href="https://ooni.org/">OONI</a><a href="https://blog.torproject.org/Defending-the-right-to-know/">&nbsp;makes that possible.</a></p>
+
+						<h3><strong>Preserving evidence: How OpenArchive fosters accountability and media sovereignty</strong></h3>
+
+						<p>Handling mobile media that documents human rights violations can put those brave enough to capture a record -- and those very records -- at risk. OpenArchive's free open source&nbsp;<a href="https://www.open-archive.org/save">Save app</a>&nbsp;and&nbsp;<a href="https://www.open-archive.org/news/oa-hypha-white-paper">DWeb Storage</a>&nbsp;help communities securely archive, verify, and encrypt this documentation without depending on centralized platforms that can remove, lose, or expose sensitive data at a moment's notice. <a href="https://blog.torproject.org/preserving-evidence-openarchive-fosters-accountability-media-sovereignty/">Find out how.</a></p>
+
+						<h3><strong>Supporting those who speak out (Ricochet Refresh)</strong></h3>
+
+						<p><a href="https://blog.torproject.org/supporting-those-who-speak-out/">The digital threats faced by defenders of truth and democracy are multiplying.</a> So should the capacity to respond to them. Through<a href="https://www.ricochetrefresh.net/"> tools like Ricochet Refresh</a> and cybersecurity training across lower- and middle-income countries, <a href="https://www.blueprintforfreespeech.net/">Blueprint for Free Speech</a> helps people communicate anonymously, protect sensitive information, and continue public-interest work more safely.</p>
+
+						<h3><strong>Paskoocheh: When you need a tool to reach the tool</strong></h3>
+
+						<p>Access alone is not enough. Technology is only useful if people trust it, understand how to use it safely, and can rely on support networks when digital spaces become unstable or dangerous.&nbsp;<a href="https://asl19.org/en">ASL19</a>'s&nbsp;<a href="http://paskoocheh.com/">Paskoocheh</a>&nbsp;<a href="https://blog.torproject.org/when-you-need-a-tool-to-reach-the-tool-Paskoocheh/">helps people in Iran access trusted privacy and circumvention tools </a>when websites and apps, VPNs, and app stores themselves are blocked.</p>
+
+						<h3><strong>Keeping the doors open (Unredacted)</strong></h3>
+
+						<p>Anti-censorship tools are only as powerful as their ability to keep running. When the door to the open internet gets slammed shut, <a href="https://unredacted.org/">Unredacted</a> builds another one. <a href="https://blog.torproject.org/keeping-the-doors-open-unredacted/">Here's how!</a></p>
+
+						<h2>&nbsp;</h2>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;"><strong>Keeping up with the latest releases</strong></h1>
+
+						<p><a href="https://blog.torproject.org/new-release-tor-browser-15015/"><strong>New Release: Tor Browser 15.0.15</strong></a>, June 3, 2026</p>
+
+						<p><strong><a href="https://blog.torproject.org/new-release-tails-7_8_1/">New Release: Tails 7.8.1</a></strong>, June 4, 2026</p>
+
+						<p><a href="https://blog.torproject.org/new-alpha-release-tor-browser-160a7/"><strong>New Alpha Release: Tor Browser 16.0a7</strong></a>, June 3, 2026</p>
+
+						<p><a href="https://blog.torproject.org/arti_2_4_0_released/"><strong>Arti 2.4.0 released: Relay and directory authority development; flowctl-cc stable</strong></a>, June 1, 2026</p>
+
+						<p style="line-height: 1.38; margin-top: 19px; margin-bottom: 5px;">&nbsp;</p>
+
+						<hr />
+						<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+						<h2 class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><strong><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a></strong></h2>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://donate.torproject.org/" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1><strong>Ways to Contribute</strong></h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://donate.torproject.org/" rel="nofollow">website</a> (or any other method listed on our <a href="https://donate.torproject.org/faq/" rel="nofollow">FAQ</a>).</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees’ donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/@torproject" rel="nofollow">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://donate.torproject.org/subscribe/" rel="nofollow">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0" height="70" width="139">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
