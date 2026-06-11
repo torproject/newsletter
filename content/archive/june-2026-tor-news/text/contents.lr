@@ -1,0 +1,123 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2026-06-11
+---
+title: June 2026 Tor News
+---
+body:
+
+In this month's newsletter we're highlighting the people, projects, and
+practical experiments helping keep the internet open, private, and resilient.
+You'll find stories from the Tor community, including a student's experience
+setting up a relay on a university network in Taiwan, reflections from a recent
+community gathering in Denmark, and a new participatory funding campaign
+designed to support the broader Tor ecosystem at a moment of systemic funding
+instability.
+
+## Setting up a Tor relay at National Taiwan Normal University: a practical experience
+
+A computer science student at National Taiwan Normal University successfully
+set up a Tor relay on campus by working within institutional
+processes—communicating with administrators, completing paperwork, and
+explaining the difference between relays and exit nodes. This guest post from
+anoni.net shares practical advice for deploying Tor relays on university
+networks.  Here's how he did it:
+https://blog.torproject.org/setting-up-tor-university-relay-taiwan/
+
+## 3 days of fun with Tor
+
+The Tor community organized a second gathering at Hylkedam, Denmark, building
+on lessons from the first event with minimal planning and a mix of structured
+and unstructured sessions. Despite a smaller group, new contributors and
+ongoing projects led to productive collaboration, and we hope to expand future
+meetings with broader participation and new venues. Let us know if you'd like
+to participate!  Read the recap here:
+https://blog.torproject.org/tor-community-gathering-2026/
+
+## A new way to fund internet freedom
+
+Tor is strongest when the broader internet freedom ecosystem is healthy. A
+coalition of privacy, internet freedom, cryptocurrency and open-source
+ecosystems, led by the Tor Project and Funding the Commons, is supporting
+critical digital infrastructure with a new participatory funding campaign.
+Find out more here: https://blog.torproject.org/fund-internet-freedom/
+
+### A Server That Forgets: Exploring Stateless Relays (Osservatorio Nessuno)
+
+Diskless operating systems can improve relay security with a focus on software
+integrity and physical attack resistance. [This work and guest post is by
+Osservatorio Nessuno](https://blog.torproject.org/exploring-stateless-relays/)
+who run exit relays in Italy.
+
+### OONI: Defending the public's right to know
+
+Fighting internet censorship requires more than noticing when it happens. It
+requires documenting it, sharing evidence, and building the collective capacity
+to respond. [OONI](https://ooni.org/) [makes that
+possible.](https://blog.torproject.org/Defending-the-right-to-know/)
+
+### Preserving evidence: How OpenArchive fosters accountability and media sovereignty
+
+Handling mobile media that documents human rights violations can put those
+brave enough to capture a record -- and those very records -- at risk.
+OpenArchive's free open source [Save app](https://www.open-archive.org/save)
+and [DWeb Storage](https://www.open-archive.org/news/oa-hypha-white-paper) help
+communities securely archive, verify, and encrypt this documentation without
+depending on centralized platforms that can remove, lose, or expose sensitive
+data at a moment's notice. [Find out
+how.](https://blog.torproject.org/preserving-evidence-openarchive-fosters-accountability-media-sovereignty/)
+
+### Supporting those who speak out (Ricochet Refresh)
+
+[The digital threats faced by defenders of truth and democracy are
+multiplying.](https://blog.torproject.org/supporting-those-who-speak-out/) So
+should the capacity to respond to them. Through [tools like Ricochet
+Refresh](https://www.ricochetrefresh.net/) and cybersecurity training across
+lower- and middle-income countries, [Blueprint for Free
+Speech](https://www.blueprintforfreespeech.net/) helps people communicate
+anonymously, protect sensitive information, and continue public-interest work
+more safely.
+
+### Paskoocheh: When you need a tool to reach the tool
+
+Access alone is not enough. Technology is only useful if people trust it,
+understand how to use it safely, and can rely on support networks when digital
+spaces become unstable or dangerous. [ASL19](https://asl19.org/en)'s
+[Paskoocheh](http://paskoocheh.com/) [helps people in Iran access trusted
+privacy and circumvention
+tools](https://blog.torproject.org/when-you-need-a-tool-to-reach-the-tool-Paskoocheh/)
+when websites and apps, VPNs, and app stores themselves are blocked.
+
+### Keeping the doors open (Unredacted)
+
+Anti-censorship tools are only as powerful as their ability to keep running.
+When the door to the open internet gets slammed shut,
+[Unredacted](https://unredacted.org/) builds another one. [Here's
+how!](https://blog.torproject.org/keeping-the-doors-open-unredacted/)
+
+# Keeping up with the latest releases
+
+New Release: [Tor Browser 15.0.15](https://blog.torproject.org/new-release-tor-browser-15015/), June 3, 2026
+
+New Release: [Tails 7.8.1](https://blog.torproject.org/new-release-tails-7_8_1/), June 4, 2026
+
+New Alpha Release: [Tor Browser 16.0a7](https://blog.torproject.org/new-alpha-release-tor-browser-160a7/), June 3, 2026
+
+Arti 2.4.0 released: [Relay and directory authority development; flowctl-cc stable](https://blog.torproject.org/arti_2_4_0_released/), June 1, 2026
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so:
+https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place
+to be](https://forum.torproject.org/). And the Tor Blog and newsletter are
+still the most reliable source of Tor news. So, [please encourage others to
+join our mailing list](https://donate.torproject.org/subscribe/) by sharing
+this email.
