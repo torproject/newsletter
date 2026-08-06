@@ -1,0 +1,147 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2026-08-05
+---
+title: August 2026 Tor News
+---
+html_body:
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="max-width: 771px;" width="100%">
+	<tbody>
+		<tr>
+			<td width="100%">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+						<td><a href="https://blog.torproject.org/" rel="nofollow"><img alt="tor-news-logo" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" style="width: 250px; height: 75px;" /></a></td>
+						<td class="gutter" style="width: 15px;" width="15">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+				<tbody>
+					<tr>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+						<td>
+						<p><em>This month, we're making it even easier to help people access the open internet with Snowflake Volunteer, a new Android app that lets anyone contribute to fighting censorship from their mobile device. We're also highlighting opportunities to help translate Tor into more languages, sharing important software updates and releases, and looking ahead to DEF CON 34, where we'll be showcasing new merch, hosting a talk on the future of the Tor network, and celebrating community projects that directly support the Tor Project.</em></p>
+
+						<h1><strong>A dedicated app for Snowflake volunteers</strong></h1>
+
+						<p>There are many ways to help people bypass censorship with Snowflake–using a browser extension, Orbot or Tor Browser, website embedding, and more. With an average of approximately 146,000 unique volunteer proxy IP addresses checking into the Tor network each day, the goal was to experiment with a new mechanism and test a standalone, single-purpose app. The result is <a href="https://f-droid.org/en/packages/io.bloco.snowflake/"><em>Snowflake Volunteer</em></a>, and appeals to those wanting to help people reach the Tor network and circumvent censorship from their mobile devices. It was built as an open-source app by Bloco, an Android app studio from Portugal, who were inspired to contribute their skills to Tor's mission after discovering how easy it was to volunteer a Snowflake proxy. Check out all the app's features and see how easy it is to <a href="https://blog.torproject.org/snowflake-volunteer-standalone-app-to-help-people-bypass-censorship/">become a Snowflake volunteer with Snowflake Volunteer</a>.</p>
+
+						<p><img alt="Screenshot of the Snowflake Volunteer app against a tan background showcasing the app's main features prominently: proxy and traffic statistics, setting toggles for operational modes, and the gamified homepage with a user's personal metrics front and center." src="https://newsletter.torproject.org/gallery/2026-08/Snowflake-volunteer.png" style="width: 675px; height: 380px;" /></p>
+
+						<h2><strong>Help shape how we talk about privacy and anonymity</strong></h2>
+
+						<p>Speaking of volunteering, it is thanks to the tireless efforts of our volunteer localizers that apps like Snowflake Volunteer are already available in 8 languages (Chinese, English, French, German, Japanese, Portuguese, Turkish, and Vietnamese). If you want to expand access to all Tor apps and services, consider contributing translations into more languages. Localization is how we can help more people connect to Tor. <a href="https://community.torproject.org/localization/">Learn more about the process</a> and <a href="https://hosted.weblate.org/projects/snowflake-volunteers/">get started</a>.</p>
+
+						<hr />
+						<h1 style="line-height: 1.38; margin-top: 21px; margin-bottom: 5px;"><strong>Keeping up with the latest releases</strong></h1>
+
+						<h2>Sunsetting Tor 0.4.8 – Please update to 0.4.9 by September</h2>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Tor 0.4.8 has reached end of life, and relays, Onion Services, and apps that bundle C Tor should update to Tor 0.4.9 or later by September 1, 2026. <a href="https://blog.torproject.org/sunsetting-tor-048/">This update</a> is not just about staying on a supported release. Tor 0.4.9 allows us to remove obsolete directory data, which will reduce client bandwidth use and help Tor bootstrap faster, especially on slower connections. Upgrading also helps prepare the network for future Arti relay work and keeps older deployments from breaking once compatibility support is removed.</span></span></span></span></span></span></p>
+
+						<h2>New Alpha Release: <a href="https://blog.torproject.org/new-alpha-release-tor-browser-160a9/">Tor Browser 16.0a9</a></h2>
+
+						<p><span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt; white-space: pre-wrap;">To help keep Tor Browser available on Windows, Linux, MacOS and Android, we rely on a community of volunteer Alpha testers to try out early versions of Tor Browser before its general release. This process is particularly important for gathering feedback on new and experimental features before they reach Tor Browser stable. </span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">If you enjoy testing new builds and helping us catch bugs before stable, </span></span></span></span></span></span><a href="https://community.torproject.org/user-research/become-tester/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">we'd love your help.</span></span></span></span></span></span></span></span></a></p>
+
+						<p>&nbsp;</p>
+
+						<h2>Other releases</h2>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">Arti 2.5.1 released</span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">, August 4, 2026, </span></span></span></span></span></span><a href="https://blog.torproject.org/arti_2_5_1_released/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">https://blog.torproject.org/arti_2_5_1_released/</span></span></span></span></span></span></span></span></a></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">New Release: Tails 7.10, </span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">July 23, 2026, </span></span></span></span></span></span><a href="https://blog.torproject.org/new-release-tails-7_10/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">https://blog.torproject.org/new-release-tails-7_10/</span></span></span></span></span></span></span></span></a></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">New Release: Tor Browser 15.0.19</span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">, July 21, 2026, </span></span></span></span></span></span><a href="https://blog.torproject.org/new-release-tor-browser-15019/" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">https://blog.torproject.org/new-release-tor-browser-15019/</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;</span></span></span></span></span></span></p>
+
+						<hr />
+						<h1 style="line-height: 1.38;"><strong>Upcoming events</strong></h1>
+
+						<h2 style="line-height: 1.38;"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">DEF CON 34, Las Vegas, August 6, 2026 – August 9, 2026</span></span></span></span></span></span></h2>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">If you're braving the Vegas heat this week and are around for DEF CON 34, stop by our booth, say 'hi!', and explore the new Tor merch. We're back with never-before-seen items such as the Mini-Plushie keychain, handcuff key earrings, privacy poker chips, a custom Tor T-shirt design for 2026 along with many other staple items.</span></span></span></span></span></span></p>
+						<img alt="Collage of Tor's DEF CON merch on a light blue background including a black T-shirt with white onion and floral print, two onion plushies, one large, one small, a sticker pack, two poker chips with Tor onion and DEF CON branding, and a set of handcuff key earrings." src="https://newsletter.torproject.org/gallery/2026-08/all.png" style="width: 675px; height: 675px;" />
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Roger Dingledine will give a Tor talk on Sunday, August 9, at 10am, entitled "Shepherding the Tor network," examining the lessons learned from operating the network for close to 25 years: from relays to directory authorities -- on finding and removing bad relays, and generally looking at the safety of users, relay operators, and the Tor community.</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">We'd also like to give a special shout-out to Laura Scherling who is debuting her short graphic book, </span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:none">The ABCs of Privacy Preserving Technologies.&nbsp;</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#222222"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">You can download <a href="http://(https://academiccommons.columbia.edu/doi/10.7916/hr4p-rj76)">the free digital version from Columbia University Academic Commons</a></span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#222222"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">, but for DEF CON attendees, the 63-page perfect bound book will be </span></span></span></span></span></span><a href="https://info.defcon.org/defcon34/content/66558" style="text-decoration:none"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#1155cc"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">available for purchase on Friday, Aug 7, from 2-4 p.m.</span></span></span></span></span></span></span></span></a><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> </span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">A portion of every printed book sale is donated to the Tor Project.&nbsp;</span></span></span></span></span></span></p>
+
+						<p style="line-height:1.38">&nbsp;</p>
+
+						<hr />
+						<h1 class="Lexical__h3" dir="ltr"><b><strong class="Lexical__textBold" style="white-space: pre-wrap;">Keep in touch</strong></b></h1>
+
+						<h2 class="Lexical__paragraph" dir="ltr"><img alt="Tor wordmark on pixelated purple background" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" style="float: left; width: 150px; height: 150px; margin: 0px 10px;" /><strong><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Follow us on </span></a><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space: pre-wrap;">Bluesky</span></a></strong></h2>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">For support and exchange with our community, </span><a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space: pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space: pre-wrap;">. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news. </span></p>
+
+						<p class="Lexical__paragraph" dir="ltr"><span style="white-space: pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space: pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space: pre-wrap;"> by sharing this email.</span></p>
+
+						<p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+
+						<hr />
+						<p style="background-color: rgb(125, 70, 152); padding: 6px 8px; border-radius: 3px; margin: 0px auto; width: 200px; text-align: center;"><em><a href="https://donate.torproject.org/" rel="nofollow" style="font-size: 24px; font-family: Source sans pro, Helvetica, Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; display:inline-block;" target="_blank">DONATE</a></em></p>
+
+						<h1><strong>Ways to Contribute</strong></h1>
+
+						<ul>
+							<li><strong>Make a donation: </strong>Donate through our <a href="https://donate.torproject.org/" rel="nofollow">website</a> (or any other method listed on our <a href="https://support.torproject.org/donation/" rel="nofollow">FAQ</a>).</li>
+							<li><strong>Ask the company you work for if they will match your donation:</strong> Many corporations will match their employees’ donations to charitable organizations. Ask at work if your company will match your gift.</li>
+							<li><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/deck/@torproject" rel="nofollow">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org" rel="nofollow">Bluesky</a>, and more.</li>
+							<li><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://donate.torproject.org/subscribe/" rel="nofollow">Tor updates via email.</a></li>
+						</ul>
+
+						<hr />
+						<p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+
+						<hr />
+						<table cellpadding="0" cellspacing="0" height="70" width="139">
+							<tbody>
+								<tr>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://mastodon.social/deck/@torproject" rel="nofollow"><img alt="tor-mastodon-social-logo" class="social-icon social-icon--facebook" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 31px;" valign="top" width="31">
+									<p><a href="https://bsky.app/profile/torproject.org" rel="nofollow"><img alt="tor-bluesky" class="social-icon social-icon--twitter" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" style="width: 25px; height: 22px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.instagram.com/torproject/" rel="nofollow"><img alt="tor-insta" class="social-icon social-icon--instagram" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" style="width: 22px; height: 25px; margin: 3px;" /></a></p>
+									</td>
+									<td>
+									<p>&nbsp;</p>
+									</td>
+									<td style="width: 28px;" valign="top" width="28">
+									<p><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><img alt="" class="social-icon social-icon--discourse" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" style="margin: 3px; width: 25px; height: 25px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="gutter" style="width: 30px;" width="30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
