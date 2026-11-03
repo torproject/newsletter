@@ -9,3 +9,10 @@ You can simply subscribe to the newsletter by providing your email and completin
 # Archive
 
 If you're looking for past newsletters, you can browse the archive [here](https://newsletter.torproject.org/) (see under 'Archive').
+
+## License
+
+The code in this repository is licensed under the [MIT license](LICENSE). The
+content (text, images and other non-code material) is licensed under the
+[Creative Commons Attribution 4.0 International
+license](LICENSE-CC-BY-4.0).
