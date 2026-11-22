@@ -1,0 +1,152 @@
+_model: post
+---
+_template: newsletter.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2026-11-23
+---
+title: November 2026 Tor News
+---
+html_body:
+
+
+<table class="table content-table devicewidth civi-email-align-center" style="border-width:0px;margin-left:auto;margin-right:auto;max-width:771px;width:100%;" cellspacing="0">
+    <tbody>
+        <tr>
+            <td style="border-width:0px;padding:0px;width:100%;">
+
+                <table class="table content-table civi-email-align-center" style="background-color:rgb(255, 255, 255);border-width:0px;margin-left:auto;margin-right:auto;width:100%;" bgcolor="#FFFFFF" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td class="gutter" style="border-width:0px;padding:0px;width:15px;" width="15">&nbsp;</td>
+                            <td style="border-width:0px;padding:0px;">
+                                <a href="https://blog.torproject.org/" rel="nofollow"><span style="display:inline-block;"><img class="image_resized" style="aspect-ratio:250/75;height:auto;max-width:100%;width:250px;" src="https://blog.torproject.org/sites/default/files/inline-images/tor-news-logo-560.png" alt="tor-news-logo" width="250" height="75" border="0"></span></a>
+                            </td>
+                            <td class="gutter" style="border-width:0px;padding:0px;width:15px;" width="15">&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-width:0px;padding:0px;">
+
+                <table class="table content-table civi-email-align-center" style="background-color:rgb(255, 255, 255);border-width:0px;margin-left:auto;margin-right:auto;width:100%;" bgcolor="#FFFFFF" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td class="gutter" style="border-width:0px;padding:0px;width:30px;" width="30">&nbsp;</td>
+                            <td style="border-width:0px;padding:0px;">
+
+                                <h2><strong>People want privacy. The web keeps getting in their way.</strong></h2>
+                                <p><img class="image_resized" style="aspect-ratio:600/338;height:auto;max-width:100%;width:600px;" src="https://newsletter.torproject.org/gallery/2026-11/the-future-of-private-browsing-according-to-Tor.png" alt="illustration of a purple hand holding up a phone displaying the Tor Browser encryption lock on the screen, framed by a stylized browser window on a light pink background." width="600" height="338" border="0"></p>
+                                <p>As the web is actively trying to penalize users for seeking out privacy, more people than ever are pushing back…50k+ Tor Browser users reveal what they really need from the ‘world wide web'. 53% use Tor to avoid ISP surveillance, while more than one in five say their online activity could expose them to violence. That corresponds to the number of Tor's Android users, making Tor Browser for mobile the gateway to Tor's future growth–AND a critical chokepoint. With 47% reporting website breakage and annoying CAPTCHAs as a drawback, it's clear that private browsing should not come with a penalty.</p>
+                                <p>Can Tor meet those challenges? Find out more in our recent blog post about <a href="blog.torproject.org/the-future-of-private-browsing" target="_blank" rel="noopener noreferrer"><i>The future of private browsing</i></a>.</p>
+                                <h2><strong>Lessons learned from building our own VPN for Android from scratch</strong></h2>
+                                <p>Last fall, we soft-launched Tor VPN Beta as a way to extend Tor's privacy protections beyond the browser to an entire Android device. Since then, we've been able to learn from how people are actually using it in real-world scenarios. Early adoption was driven by users in high-risk environments like Iran, Turkmenistan and across the Global South where people are facing severe network restrictions. One thing we noticed, because of the way commercial VPN providers advertise their censorship circumvention capabilities, Tor VPN beta users were trying to pick exit locations before connecting. But Tor's design is different and what users really needed were bridges instead. So we designed around that.</p>
+                                <p>Learn more about these and other learnings, and <a href="https://blog.torproject.org/tor-vpn-beta/" target="_blank" rel="noopener noreferrer"> how we've improved the app since launch</a>.<br>
+                                &nbsp;</p>
+                                <p><img class="image_resized" style="aspect-ratio:600/338;height:auto;max-width:100%;width:600px;" src="https://newsletter.torproject.org/gallery/2026-11/Tor-VPN-beta.png" alt="screenshot of Tor VPN (beta) connection screen against a dark grey to dark blue and purple gradient backdrop. Copy that reads: available now at download.torproject.org with app store icons for Android and F-Droid below the copy block." width="600" height="338" border="0"></p>
+                                <h2><strong>New download pages to better navigate the Tor ecosystem, and be sure you're getting what you bargained for</strong></h2>
+                                <p>To make it easier to browse and identify which Tor app is right for a user's needs, we have refreshed our download pages, now featuring a comprehensive comparison table that reveals each app's privacy and anonymity properties at a single glance. And to further combat look-alike and spoofing apps, and ensure that high-risk users access authentic Tor apps, we made the page's URL consistent with the syntax we use across other official Tor websites.</p>
+                                <p>Can't quite picture it? No problem, navigate to <a href="http://download.torproject.org" target="_blank" rel="noopener noreferrer">download.torproject.org</a>, give it a spin, and let us know what you think.&nbsp;</p>
+                                <h2><strong>Become a Tor community fellow in 2027</strong></h2>
+                                <p><img class="image_resized" style="aspect-ratio:600/338;height:auto;max-width:100%;width:600px;" src="https://newsletter.torproject.org/gallery/2026-11/tor-community-fellowship.png" alt="illustration of two hands reaching for each other with two lines of text above and below the illustration reading: Call for applications and Tor Community Fellowship" width="600" height="338" border="0"></p>
+                                <p>The Tor Project is happy to announce the launch of the Tor Community Fellowship. For its first year, we are accepting 4 human rights defenders, journalists, technologists, and researchers.</p>
+                                <p>Fellows will get the chance to learn from the Tor Project team, build a deep understanding of how internet censorship works, how tools like Tor work to support circumvention at the network level, and develop skills in technical investigations in relation to Tor. Fellows will conclude with a small project on a related subject of their choice.</p>
+                                <p>This is a part-time fellowship which will span 6 months, from February to July 2027. Fellows will be offered a stipend of 500 USD per month for the duration of the fellowship.</p>
+                                <p><a href="https://nc.torproject.net/apps/forms/s/Dtk65kWacFaq8ejwsXYSsZmr." target="_blank" rel="noopener noreferrer">Applications are open until December 17, 2026.</a></p>
+                                <h2><br>
+                                    <strong>People like you help millions of people stay private and anonymous online</strong></h2>
+                                <p><img class="image_resized" style="aspect-ratio:600/338;height:auto;max-width:100%;width:600px;" src="https://newsletter.torproject.org/gallery/2026-11/tor-powered-by-you-donate-now.png" alt="Tor's year-end campaign key visual (illustration of a purple hand pulling on a chord to turn on a light bulb that's stylized to look similar to the Tor icon) on a light green background with copy reading: Tor: powered by you." width="600" height="338" border="0"></p>
+                                <p>At any given moment, 4M+ people are using the Tor network... but only less than 7,000 people donate every year. Can you help us bring that number up and chip in?</p>
+                                <p><a href="https://blog.torproject.org/tor-is-powered-by-you/" target="_blank" rel="noopener noreferrer">Find out what your donation enables</a>.</p>
+                                <hr>
+
+                                <h2><strong>Keeping up with the latest releases</strong></h2>
+                                <h2>Tor Browser 16.0</h2>
+                                <p>With this new release, we've introduced cleaner navigation, clearer descriptions and warnings for settings that could compromise user privacy. The redesigned settings page makes adjusting security levels, bridge selection and other circumvention settings easier. On Android, large parts of the interface have received a facelift as well with an update to Material Design 3, bringing a more modern look and feel that's consistent with Android's latest design language. To help keep your browsing experience even more private, we've introduced an optional setting that replaces specific page titles with a generic “Tor Browser” label.<br>
+                                &nbsp;<br>
+                                <a href="https://blog.torproject.org/new-release-tor-browser-160/" target="_blank" rel="noopener noreferrer">Find out how to activate this feature and browse through all of the changes</a> we've made to this first stable release based on Firefox ESR 153.<br>
+                                &nbsp;</p>
+                                <h2><a href="https://blog.torproject.org/arti_2_8_0_released/" target="_blank" rel="noopener noreferrer">Arti 2.8.0 released</a>, 3 November 2026</h2>
+                                <p>This release continues our ongoing development towards using Arti as a relay and as a directory authority, with much of the work focusing on computing the consensus from votes, bootstrapping router descriptors and micro-descriptors, as well as relay bandwidth rate-limiting, descriptor encoding, and the relay DNS cache implementation. Additionally, we have made a number of cleanups and clarifications to the Tor specification.</p>
+                                <hr>
+
+                                <h2><strong>Upcoming events</strong></h2>
+                                <h2><strong>State of the Onion 2026</strong></h2>
+                                <p><strong>The State of the Onion is the Tor Project's annual virtual fundraiser where we share updates from Tor Project's teams and community, highlighting Tor's work and the impact it has made across the globe during the year.</strong></p>
+                                <p><img class="image_resized" style="aspect-ratio:600/338;height:auto;max-width:100%;width:600px;" src="https://newsletter.torproject.org/gallery/2026-11/SOTO-2026_announcement.png" alt="Tor's year-end campaign key visual (illustration of a purple hand pulling on a chord to turn on a light bulb that's stylized to look similar to the Tor icon) on a light grey background with a table listing the state of the onion dates next to it" width="600" height="338" border="0"></p>
+                                <h3>December 2nd, 2026 – News & updates from the Tor Project</h3>
+                                <p>Join us as we celebrate 20 years of the Tor Project. Get a first look at our work to bring Signal to Tails, hear what we've learned from internet shutdowns in Iran, and see how we're gearing up to get Arti, our implementation of Tor in Rust that powers Tor VPN among others, production ready. <a href="https://www.youtube.com/live/fx8oN5D5biU" target="_blank" rel="noopener noreferrer"><strong>Save the date to get notified.</strong></a></p>
+                                <h3>December 9th, 2026 - Updates from the Tor Community</h3>
+                                <p>Meet the people building on Tor and advancing privacy through free and open-source software. At State of the Onion 2026 Community Day, learn more about OONI's new censorship measurement tools, the Guardian Project's efforts to improve the Tor experience on iOS, and the many ways you can volunteer to help others get online with Bloco's Snowflake Volunteer app. The program also features speakers from Women on Web, Hush Line, Cake Wallet, and many more sharing highlights from their work in 2026. Join Tor's Community Team as they guide you through the program. <a href="https://www.youtube.com/live/1CNyyfIlPnQ" target="_blank" rel="noopener noreferrer"><strong>Save the date to get notified.</strong></a></p>
+                                <p>Streams are available on <a href="https://www.youtube.com/live/fx8oN5D5biU" target="_blank" rel="noopener noreferrer">YouTube</a>, X, as an <a href="http://xgsobitduxv7gcc5qlveigwiku7qcjn5exf4ayusw4mwq7kfrapmrjyd.onion/" target="_blank" rel="noopener noreferrer">Onion Service</a> at 17:00 UTC on both days, and as a replay on the Tor Project's <a href="https://www.youtube.com/@TheTorProject" target="_blank" rel="noopener noreferrer">YouTube Channel</a>.</p>
+                                <p>&nbsp;</p>
+                                <h2><strong>Chaos Computer Congress – C40C3</strong></h2>
+                                <p>Chaos Computer Congress 2026 (40C3) is the largest European hacker party, conference and platform for technology, society and civil rights.</p>
+                                <p>Meet members of the Tor Project's network, anticensorship, and outreach teams who'll be participating, presenting, and selling exclusive merchandise.<br>
+                                &nbsp;</p>
+                                <hr>
+
+                                <h1 class="Lexical__h3" dir="ltr"><strong class="Lexical__textBold" style="white-space:pre-wrap;">Keep in touch</strong></h1>
+                                <h2 class="Lexical__paragraph" dir="ltr"><img class="image_resized image-style-align-left" style="aspect-ratio:150/150;height:auto;margin:0px 10px;max-width:100%;width:150px;" src="https://newsletter.torproject.org/gallery/2025-03/onion97-tile.png" alt="Tor wordmark on pixelated purple background" width="150" height="150" border="0"><a class="Lexical__link" href="https://bsky.app/profile/torproject.org" rel="noreferrer"><span style="white-space:pre-wrap;"><strong>Follow us on Bluesky</strong></span></a></h2>
+                                <p class="Lexical__paragraph" dir="ltr"><span style="white-space:pre-wrap;">For support and exchange with our community,</span> <a class="Lexical__link" href="https://forum.torproject.org/" rel="noreferrer"><span style="white-space:pre-wrap;">the Tor Forum is the best place to be</span></a><span style="white-space:pre-wrap;">.</span></p>
+                                <p class="Lexical__paragraph" dir="ltr"><span style="white-space:pre-wrap;">And the Tor Blog and newsletter are still the most reliable source of Tor news.</span></p>
+                                <p class="Lexical__paragraph" dir="ltr"><span style="white-space:pre-wrap;">So, </span><a class="Lexical__link" href="https://donate.torproject.org/subscribe/" rel="noreferrer"><span style="white-space:pre-wrap;">please encourage others to join our mailing list</span></a><span style="white-space:pre-wrap;">by sharing this email.</span></p>
+                                <p class="Lexical__paragraph" dir="ltr">&nbsp;</p>
+                                <hr>
+
+                                <p style="background-color:rgb(125, 70, 152);border-radius:3px;margin:0px auto;padding:6px 8px;text-align:center;width:200px;"><a style="color:#ffffff;display:inline-block;font-family:Source sans pro, Helvetica, Arial, sans-serif;font-size:24px;text-decoration:none;" href="https://donate.torproject.org/" target="_blank" rel="nofollow"><i><strong>DONATE</strong></i></a></p>
+                                <h1><strong>Ways to Contribute</strong></h1>
+                                <ul>
+
+                                    <li data-list-item-id="e87526c589bf65724192237b91b45243f"><strong>Make a donation:</strong> Donate through our <a href="https://donate.torproject.org/" rel="nofollow">website</a>(or any other method listed on our <a href="https://support.torproject.org/donation/" rel="nofollow">FAQ</a>).
+                                    </li>
+                                    <li data-list-item-id="e3fe4161b9fc7f74812ff0ca699bef438"><strong>Ask the company you work for if they will match your donation:</strong>Many corporations will match their employees' donations to charitable organizations. Ask at work if your company will match your gift.</li>
+                                    <li data-list-item-id="eaabb9a49364ce3fd0e59d46a3a76e3f0"><strong>Share on social media:</strong> Let the people in your networks know that all donations to the Tor Project are currently being matched. You can easily share a post from our social channels: <a href="https://mastodon.social/deck/@torproject" rel="nofollow">Mastodon</a>, <a href="https://bsky.app/profile/torproject.org" rel="nofollow">Bluesky</a>, and more.
+                                    </li>
+                                    <li data-list-item-id="ecc8cc6dc0eba3cb220df940e0a08eb2d"><strong>Subscribe to Tor News:</strong> No ads. No tracking. Just low-traffic <a href="https://donate.torproject.org/subscribe/" rel="nofollow">Tor updates via email.</a>
+                                    </li>
+                                </ul>
+                                <hr>
+
+                                <p>The Tor Project is a US 501(c)(3) non-profit organization advancing human rights and freedoms by creating and deploying free and open-source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.</p>
+                                <hr>
+
+                                <table class="table content-table" style="height:70px;width:139px;" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td style="padding:0px;vertical-align:top;width:28px;" width="28">
+                                                <a href="https://mastodon.social/deck/@torproject" rel="nofollow"><span style="display:inline-block;"><img class="image_resized social-icon social-icon--facebook" style="aspect-ratio:22/25;height:auto;margin:3px;max-width:100%;width:22px;" src="https://newsletter.torproject.org/gallery/mastodon-logo_purple.png" alt="tor-mastodon-social-logo" width="22" height="25" border="0"></span></a>
+                                            </td>
+                                            <td style="padding:0px;">&nbsp;</td>
+                                            <td style="padding:0px;vertical-align:top;width:31px;" width="31">
+                                                <a href="https://bsky.app/profile/torproject.org" rel="nofollow"><span style="display:inline-block;"><img class="image_resized social-icon social-icon--twitter" style="aspect-ratio:25/22;height:auto;margin:3px;max-width:100%;width:25px;" src="https://newsletter.torproject.org/gallery/Bluesky_Logo_purple.png" alt="tor-bluesky" width="25" height="22" border="0"></span></a>
+                                            </td>
+                                            <td style="padding:0px;">&nbsp;</td>
+                                            <td style="padding:0px;vertical-align:top;width:28px;" width="28">
+                                                <a href="https://www.instagram.com/torproject/" rel="nofollow"><span style="display:inline-block;"><img class="image_resized social-icon social-icon--instagram" style="aspect-ratio:22/25;height:auto;margin:3px;max-width:100%;width:22px;" src="https://blog.torproject.org/sites/default/files/inline-images/instagram.png" alt="tor-insta" width="22" height="25" border="0"></span></a>
+                                            </td>
+                                            <td style="padding:0px;">&nbsp;</td>
+                                            <td style="padding:0px;vertical-align:top;width:28px;" width="28"><a href="https://www.linkedin.com/company/tor-project/" rel="nofollow"><span style="display:inline-block;"><img class="image_resized social-icon social-icon--discourse" style="aspect-ratio:25/25;height:auto;margin:3px;max-width:100%;width:25px;" src="https://newsletter.torproject.org/gallery/linkedin-icon-purple.png" alt="" width="25" height="25" border="0"></span></a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td class="gutter" style="border-width:0px;padding:0px;width:30px;" width="30">&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table class="table content-table" style="height:15px;" height="15">
+                    <tbody>
+                        <tr>
+                            <td style="height:15px;" height="15">&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
