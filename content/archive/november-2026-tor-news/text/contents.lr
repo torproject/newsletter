@@ -1,0 +1,171 @@
+_model: post
+---
+_template: post.html
+---
+author: pavel@torproject.org
+---
+pub_date: 2026-11-23
+---
+title: November 2026 Tor News
+---
+body:
+
+# Tor Updates
+
+## People want privacy. The web keeps getting in their way.
+
+As the web is actively trying to penalize users for seeking out privacy, more
+people than ever are pushing back... 50k+ Tor Browser users reveal what they
+really need from the ‘world wide web'. 53% use Tor to avoid ISP surveillance,
+while more than one in five say their online activity could expose them to
+violence. That corresponds to the number of Tor's Android users, making Tor
+Browser for mobile the gateway to Tor's future growth–AND a critical
+chokepoint. With 47% reporting website breakage and annoying CAPTCHAs as a
+drawback, it's clear that private browsing should not come with a penalty.
+
+Can Tor meet those challenges? Find out more in our recent blog post about The
+future of private browsing:
+https://blog.torproject.org/the-future-of-private-browsing
+
+## Tor VPN Beta: What we've learned building our own VPN for Android from scratch
+
+Last fall, we soft-launched Tor VPN Beta as a way to extend Tor's privacy
+protections beyond the browser to an entire Android device. Since then, we've
+been able to learn from how people are actually using it in real-world
+scenarios. Early adoption was driven by users in high-risk environments like
+Iran, Turkmenistan and across the Global South where people are facing severe
+network restrictions. One thing we noticed, because of the way commercial VPN
+providers advertise their censorship circumvention capabilities, Tor VPN beta
+users were trying to pick exit locations before connecting. But Tor's design is
+different and what users really needed were bridges instead. So we designed
+around that.
+
+Learn more about these and other learnings, and how we've improved the app
+since launch here: https://blog.torproject.org/tor-vpn-beta/
+
+## New download pages to better navigate the Tor ecosystem, and be sure you're getting what you bargained for
+
+To make it easier to browse and identify which Tor app is right for a user's
+needs, we have refreshed our download pages, now featuring a comprehensive
+comparison table that reveals each app's privacy and anonymity properties at a
+single glance. And to further combat look-alike and spoofing apps, and ensure
+that high-risk users access authentic Tor apps, we made the page's URL
+consistent with the syntax we use across other official Tor websites.
+
+Can't quite picture it? No problem, navigate to
+https://download.torproject.org, give it a spin, and let us know what you
+think.
+
+## Call for applications: Tor Community Fellowship
+
+The Tor Project is happy to announce the launch of the Tor Community
+Fellowship. For its first year, we are accepting 4 human rights defenders,
+journalists, technologists, and researchers.
+
+Fellows will get the chance to learn from the Tor Project team, build a deep
+understanding of how internet censorship works, how tools like Tor work to
+support circumvention at the network level, and develop skills in technical
+investigations in relation to Tor. Fellows will conclude with a small project
+on a related subject of their choice.
+
+This is a part-time fellowship which will span 6 months, from February to July 2027.
+Fellows will be offered a stipend of 500 USD per month for the duration of the
+fellowship.
+
+Applications are open until December 17, 2026:
+https://nc.torproject.net/apps/forms/s/Dtk65kWacFaq8ejwsXYSsZmr
+
+## People like you help millions of people stay private and anonymous online
+
+At any given moment, 4M+ people are using the Tor network... but only less than
+7,000 people donate every year. Can you help us bring that number up and chip
+in?
+
+Find out what your donation enables here:
+https://blog.torproject.org/tor-is-powered-by-you/
+
+# New Releases
+
+## Tor Browser 16.0
+
+With this new release, we've introduced cleaner navigation, clearer
+descriptions and warnings for settings that could compromise user privacy. The
+redesigned settings page makes adjusting security levels, bridge selection and
+other circumvention settings easier. On Android, large parts of the interface
+have received a facelift as well with an update to Material Design 3, bringing
+a more modern look and feel that's consistent with Android's latest design
+language. To help keep your browsing experience even more private, we've
+introduced an optional setting that replaces specific page titles with a
+generic "Tor Browser" label.  Find out how to activate this feature and browse
+through all of the changes we've made to this first stable release based on
+Firefox ESR 153: https://blog.torproject.org/new-release-tor-browser-160/
+
+## Arti 2.8.0 released, 3 November 2026
+
+This release continues our ongoing development towards using Arti as a relay
+and as a directory authority, with much of the work focusing on computing the
+consensus from votes, bootstrapping router descriptors and microdescriptors, as
+well as relay bandwidth rate-limiting, descriptor encoding, and the relay DNS
+cache implementation. Additionally, we have made a number of cleanups and
+clarifications to the Tor specification.
+
+Release notes: https://blog.torproject.org/arti_2_8_0_released/
+
+## Tails 7.17.1, November 17, 2026
+
+This release is an emergency release to fix a critical security vulnerability
+in uBlock Origin , an ad blocking extension in Tor Browser.
+
+Release notes: https://blog.torproject.org/new-release-tails-7_17_1/
+
+# Upcoming events
+
+## State of the Onion 2026
+
+The State of the Onion is the Tor Project's annual virtual fundraiser where we
+share updates from Tor Project's teams and community, highlighting Tor's work
+and the impact it has made across the globe during the year.
+
+### December 2nd, 2026 – News & updates from the Tor Project
+
+Join us as we celebrate 20 years of the Tor Project. Get a first look at our
+work to bring Signal to Tails, hear what we've learned from internet shutdowns
+in Iran, and see how we're gearing up to get Arti, our implementation of Tor in
+Rust that powers Tor VPN among others, production ready. Save the date to get
+notified: https://www.youtube.com/live/fx8oN5D5biU.
+
+### December 9th, 2026 - Updates from the Tor Community
+
+Meet the people building on Tor and advancing privacy through free and
+open-source software. At State of the Onion 2026 Community Day, learn more
+about OONI's new censorship measurement tools, the Guardian Project's efforts
+to improve the Tor experience on iOS, and the many ways you can volunteer to
+help others get online with Bloco's Snowflake Volunteer app. The program also
+features speakers from Women on Web, Hush Line, Cake Wallet, and many more
+sharing highlights from their work in 2026. Join Tor's Community Team as they
+guide you through the program. Save the date to get notified:
+https://www.youtube.com/live/1CNyyfIlPnQ
+
+Streams are available on YouTube, X, as an Onion Service at 1700 UTC on both
+days, and as a replay on the Tor Project's YouTube Channel
+
+## Chaos Computer Congress – C40C3
+
+Chaos Computer Congress 2026 (40C3) is the largest European hacker party,
+conference and platform for technology, society and civil rights.
+
+Meet members of the Tor Project's network, anticensorship, and outreach teams
+who'll be participating, presenting, and selling exclusive merchandise.
+
+----
+
+# Keep in touch
+
+If you don't already follow us on Bluesky, please do so:
+https://bsky.app/profile/torproject.org.
+
+For support and exchange with our community, [the Tor Forum is the best place
+to be](https://forum.torproject.org/). And the Tor Blog and newsletter are
+still the most reliable source of Tor news. So, [please encourage others to
+join our mailing list](https://donate.torproject.org/subscribe/) by sharing
+this email.
